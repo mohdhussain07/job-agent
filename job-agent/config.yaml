@@ -1,0 +1,52 @@
+# =========================================
+# JOB AGENT CONFIG — edit this file with YOUR details
+# =========================================
+
+profile:
+  name: "Mohd Hussain"
+  role_target: "Software Engineer"          # what role you're hunting for
+  experience_level: "fresher"               # fresher | junior | mid | senior
+
+  # Your core skills — used for matching. Be specific.
+  skills:
+    - "Python"
+    - "JavaScript"
+    - "React"
+    - "SQL"
+
+  # Extra keywords that should boost a match (tools, frameworks, domains)
+  nice_to_have_keywords:
+    - "Agile"
+    - "SDLC"
+    - "STLC"
+    - "Azure"
+
+  # Words that should REDUCE a match score if found (roles you don't want)
+  exclude_keywords:
+    - "Senior"
+    - "10+ years"
+    - "Staff Engineer"
+    - "Experienced"
+    - "5+ years"
+    - "4+ years"
+    - "3+ years"
+    - "2+ years"
+    - "1+ years"
+
+  remote_ok: true
+  locations:
+    - "Remote"
+    - "India"
+    - "Delhi NCR"
+    - "Noida"
+    - "Gurugram"
+    - "Jaipur"
+    - "Jodhpur"
+
+matching:
+  min_score_threshold: 2      # minimum keyword hits to include a job
+  max_results_per_run: 10     # how many jobs to show/email per day
+
+output:
+  jobs_json: "docs/jobs.json"
+  dashboard_html: "docs/index.html"
