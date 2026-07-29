@@ -1,138 +1,97 @@
 [
   {
-    "title": "Data Scientist",
-    "company": "Lever Implementation Training Environment",
-    "location": "Berlin, Germany",
-    "description": "<div><span style=\"font-size: 11pt;\">Lever was founded eight years ago to tackle the most strategic challenge that companies face: how to recruit and hire top talent. We\u2019re building the next generation of hiring software that companies like Netflix, Yelp, Cirque du Soleil, Shopify, and Spotify rely on to grow their teams. We've rethought the talent acquisition paradigm and are the innovation leaders in our space and looking for the right people to join us as we scale.</span>&nbsp;<span style=\"font-size: 11pt;\">We\u2019re extraordinarily proud of the company we\u2019ve built so far (not to mention humbled to be recognized as the #1 place to work in San Francisco, as well as a top workplace in the entire United States). Our people are Lever\u2019s biggest competitive advantage and we\u2019ll continue investing in our \u201cLeveroos\u201d and people-first culture.&nbsp;&nbsp;</span>&nbsp;</div><div><br></div><div>We're hiring a data scientist!</div><br><strong>Requirements</strong><br><li>SQL</li><li>Python</li><li>C++</li><br><strong></strong><br><li><br></li><div>Benefits:</div><div>-</div><div>-</div><div>-</div><div>-</div><p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
-    "url": "https://www.arbeitnow.com/jobs/companies/lever-implementation-training-environment/data-scientist-berlin-germany-98700",
+    "title": "Communication Protocols Software Engineer (m/w/x)",
+    "company": "K-tronik GmbH",
+    "location": "Stuttgart",
+    "description": "<h2>Projektbeschreibung:</h2>\n<p>Technologie begeistert Sie? Uns auch! Zur Verst\u00e4rkung unseres Expertenteams bei unserem Kunden aus der Funk- und Kommunikationsbranche suchen wir einen Communication Protocols Software Engineer (m/w/x) in Festanstellung bei K-tronik. Wir freuen uns darauf, Sie pers\u00f6nlich kennen zu lernen - und gemeinsam mit Leidenschaft und Teamgeist an spannenden Projekten und zukunftsweisenden Technologien zu arbeiten.</p>\n<h2>Aufgaben:</h2>\n<ul>\n<li>Du designst Kommunikationsprotokolle der ISO/OSI-Schichten 2 und 3 f\u00fcr moderne Secure-Communications-Systeme</li>\n<li>Du implementierst, integrierst und testest die entwickelten Protokolle in realen Systemumgebungen</li>\n<li>Du arbeitest in Kompetenz- und crossfunktionalen Teams an der Produktentwicklung moderner Kommunikationsverfahren mit und bringst deine Expertise in internationale Kooperations- und Konsortiumprojekte ein</li>\n<li>Du setzt Software-Engineering-Methoden und moderne Entwicklungsans\u00e4tze wie agile Prozesse und kontinuierliche Integration konsequent ein</li>\n<li>Du analysierst komplexe Anforderungen und bewertest technische L\u00f6sungskonzepte f\u00fcr sicherheitskritische Kommunikationssysteme</li>\n<li>Du treibst die Weiterentwicklung von Protokollarchitekturen f\u00fcr verschl\u00fcsselte Daten\u00fcbertragung voran</li>\n</ul>\n<h2>Qualifikationen:</h2>\n<ul>\n<li>Du hast ein abgeschlossenes Studium der Informatik oder Informationstechnik oder eine vergleichbare Qualifikation</li>\n<li>Du bringst Erfahrung in der Softwareentwicklung von Protokollen mit, idealerweise im Bereich der ISO/OSI-Schichten 2 und 3</li>\n<li>Du beherrschst C++ und Python oder eine vergleichbare Sprache</li>\n<li>Du bist vertraut mit modernen Software-Engineering-Werkzeugen in den Bereichen Implementierung, Integration und Test</li>\n<li>Du \u00fcberzeugst durch eine strukturierte Arbeitsweise, ausgepr\u00e4gte Probleml\u00f6sungsf\u00e4higkeit und kritisches Denken. Teamgeist, Kommunikationsst\u00e4rke und eine hohe Lernbereitschaft sind f\u00fcr dich selbstverst\u00e4ndlich",
+    "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/communication-protocols-software-engineer-stuttgart-12843",
     "source": "Arbeitnow",
-    "posted_at": "2026-07-28T05:04:11+00:00",
+    "posted_at": "2026-07-29T07:30:33+00:00",
     "tags": [
-      "Data & Analytics"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Full-Stack Developer | React/Nextjs, Tailwind, PostgreSQL/Supabase! (all genders)",
-    "company": "ECENT GmbH",
-    "location": "Munich",
-    "description": "<ul>\n<li>Sei dabei, ERADIANT von 75k ARR auf 300k ARR zu bringen und baue eine Architektur, die mit unseren Kunden mitw\u00e4chst</li>\n<li>Komplexe Systeme vereinen: Entwickle Features, die so intuitiv sind, dass unsere Nutzer keine anderen Tools mehr brauchen \u2013 egal ob es um Echtzeit-Synchronisation von Eventprogrammen, White-Label-Integrationen oder komplexe Datenstrukturen im CRM geht</li>\n<li>KI-Integration: Integriere moderne KI-Funktionen und Automatisierungen in unsere React/Next.js und Supabase-Umgebung, um Eventmanagern die Arbeit zu erleichtern.</li>\n<li>Sicherheit auf h\u00f6chstem Niveau: Gew\u00e4hrleiste, dass unsere Plattform (Hosted in Germany) hohe Datensicherheit und DSGVO-Konformit\u00e4t bietet</li>\n</ul>\n<h2>Aufgaben</h2>\n<ul>\n<li>Konzeption, Entwicklung und Optimierung neuer Features im Front- und Backend, inklusive der Integration von AI-Funktionen und Automatisierung</li>\n<li>Mitgestaltung technischer Entscheidungen und aktives Einbringen eigener Ideen zur Weiterentwicklung unserer Plattform</li>\n<li>Sicherstellung von Code-Qualit\u00e4t und Performance durch Testing und Reviews</li>\n<li>Umsetzung von einer verbesserten UI / UX sowie weiterer Design-Templates</li>\n</ul>\n<h2>Qualifikation</h2>\n<p>\u2714 Fundierte Kenntnisse in mehreren Bereichen unseres oder eines vergleichbaren Tech-Stacks (TypeScript, React/Next.js, Tailwind, (Postgre)SQL, Supabase)<br>\n\u2714 Erfahrung im modernen Webdesign und ein gutes Gesp\u00fcr f\u00fcr ansprechende, benutzerfreundliche Oberfl\u00e4chen (UI/UX)<br>\n\u2714 Strukturierte, selbstst\u00e4ndige und l\u00f6sungsorientierte Arbeitsweise \u2013 du bringst deine Ideen gerne proaktiv ein<br>\n\u2714 Zuverl\u00e4ssigkeit und Eigeninitiative<br>\n\u2714 Erfahrung mit Konzeption von Datenstrukturen<br>\n\u2714 Erfahrung mit Deployment von Webanwendungen (Docker, Traefik) sowie sicherer Umgang mit Linux-Servern<br>\n\u2714 Idealerweise Erfahrung im Bereich Testing und Code-Qualit\u00e4t<br>\n\u2714 Erste Erfahrungen im Bereich Serveradministration<br>\n\u2714 Sprachkenntnisse: Deutsch C1 sowie Englisch B1<br>\n\u2714 Regelm\u00e4\u00dfiges Arbei",
-    "url": "https://www.arbeitnow.com/jobs/companies/ecent-gmbh/full-stack-developer-react-nextjs-tailwind-postgresql-supabase-all-genders-munich-459347",
-    "source": "Arbeitnow",
-    "posted_at": "2026-07-28T00:00:37+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "React",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Fullstack-Entwickler Java (m/w/d)",
-    "company": "IT42morrow IFT GmbH",
-    "location": "Brandenburg",
-    "description": "<p>IT42morrow steht f\u00fcr Innovation und Dynamik in der IT-Welt. Mit einer Palette von spannenden Projekten und einer Kultur, die Wachstum und Diversit\u00e4t f\u00f6rdert, sind wir auf der Suche nach einem neuen Star in unserem Entwickler-Team. Egal, ob Du ein erfahrener Profi oder ein begeisterter Neuling mit einer Leidenschaft f\u00fcr Technologie bist \u2013 wenn Du bereit bist, in die Welt der gro\u00dfen IT-Umgebungen einzutauchen, sollten wir uns unterhalten!</p>\n<h2>Aufgaben</h2>\n<ul>\n<li><strong>\u00dcbernimm die Kontrolle</strong> bei der Entwicklung und Wartung von Fullstack-Java-Anwendungen.</li>\n<li><strong>Zeige deine F\u00e4higkeiten</strong> in der Frontend- und Backend-Entwicklung und der Integration von Datenbanken.</li>\n<li><strong>Werde zum Probleml\u00f6ser</strong>, wenn es um die Behebung von Bugs und die Optimierung der Performance geht.</li>\n<li><strong>Du baust Br\u00fccken zwischen Benutzeroberfl\u00e4che und Serverlogik?</strong> Das ist dein Ding!</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li><strong>Fullstack-Profi</strong>: Du bist versiert in Java und haben Erfahrung mit Frontend-Technologien wie React oder Angular und Backend-Frameworks wie Spring und Spring Boot.</li>\n<li><strong>Datenbanken</strong>: Ob relationale Datenbanken wie MySQL oder NoSQL-Datenbanken wie MongoDB \u2013 du kennst dich bestens aus und wissen, wie man effiziente Datenmodelle gestaltet und abfragt.</li>\n<li><strong>CI/CD</strong>: Mit Maven, Gradle, ArgoCD, Jenkins, Git o.\u00e4. und \u00e4hnlichen Build-Management-Tools automatisierst du den Build-Prozess und sorgen f\u00fcr reibungslose Deployments. CI/CD-Pipelines sind f\u00fcr dich kein Fremdwort.</li>\n<li><strong>Container</strong>: Docker, Kubernetes oder OpenShift sind f\u00fcr dich ein unverzichtbare Werkzeuge in der Entwicklungsumgebung, um Konsistenz und Effizienz zu gew\u00e4hrleisten.</li>\n<li><strong>Cloud-Themen:</strong> du hast bereits Erfahrung mit der Entwicklung in Cloud-Umgebungen auf Basis von MS Azure, Amazon WebServices oder der Google Cloud Plattform</li>\n<li><strong>Monitor",
-    "url": "https://www.arbeitnow.com/jobs/companies/it42morrow-ift-gmbh/fullstack-entwickler-java-brandenburg-44893",
-    "source": "Arbeitnow",
-    "posted_at": "2026-07-27T16:30:30+00:00",
-    "tags": [
-      "Remote",
-      "Software Development"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "React",
-      "Azure"
-    ]
-  },
-  {
-    "title": "DevOps-Engineer (m/w/d)",
-    "company": "IT42morrow IFT GmbH",
-    "location": "Brandenburg",
-    "description": "<p>IT42morrow steht f\u00fcr Innovation und Dynamik in der IT-Welt. Mit einer Palette von spannenden Projekten und einer Kultur, die Wachstum und Diversit\u00e4t f\u00f6rdert, sind wir auf der Suche nach einem neuen Star in unserem DevOps-Team. Egal, ob du ein erfahrener Profi oder ein begeisterter Neuling mit einer Leidenschaft f\u00fcr Technologie bist \u2013 wenn du bereit bist, in die Welt der gro\u00dfen IT-Umgebungen einzutauchen, sollten wir uns unterhalten!</p>\n<h2>Aufgaben</h2>\n<p><strong>Dein neues Spielfeld:</strong></p>\n<ul>\n<li><strong>Nimm das Ruder in die Hand</strong> bei der Betreuung von Cloud-Umgebungen und der Steuerung von CI/CD-Pipelines.</li>\n<li>Zeige deine Skills in der <strong>Automatisierung</strong> und Optimierung von Prozessen.</li>\n<li>Werde zum Detektiv, wenn es darum geht, <strong>Schwachstellen</strong> aufzusp\u00fcren.</li>\n<li><strong>Du baust Br\u00fccken</strong> zwischen Entwicklung und Infrastruktur? Das ist dein Ding!</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>M\u00f6gliche Techstacks unserer Kundenprojekte:</strong></p>\n<ul>\n<li><strong>Tech-Enthusiast</strong>: Neue Technologien ziehen Sie magisch an. Du bist immer up-to-date und brennen darauf, Innovationen praktisch anzuwenden.</li>\n<li><strong>CI/CD:</strong> Jenkins, Gitlab, Azure DevOps, Bitbucket</li>\n<li><strong>Cloud:</strong> Amazon Webservices, Microsoft Azure, Google Cloud Platform</li>\n<li><strong>Automatisierung:</strong> Ansible, Puppet, Chef, SaltStack</li>\n<li><strong>Container(-Orchestrierung):</strong> Docker, Kubernetes, OpenShift, Rancher</li>\n<li><strong>Monitoring/Observability:</strong> Prometheus, Nagios, ELK-Stack, Grafana</li>\n<li><strong>Entwicklung:</strong> Java, Python, Go, Golang</li>\n</ul>\n<p><strong>Was Du sonst noch mitbringen solltest:</strong></p>\n<ul>\n<li><strong>Sicherheitsbewusst:</strong> F\u00fcr dich steht die Sicherheit der Systeme immer an erster Stelle. Du kennst die Best Practices und sorgen daf\u00fcr, dass Sicherheitsl\u00fccken keine Chance haben.</li>\n<li><strong>Kommunikationssta",
-    "url": "https://www.arbeitnow.com/jobs/companies/it42morrow-ift-gmbh/devops-engineer-brandenburg-93695",
-    "source": "Arbeitnow",
-    "posted_at": "2026-07-27T16:30:30+00:00",
-    "tags": [
-      "Remote",
       "Software Development"
     ],
     "match_score": 3,
     "matched_skills": [
       "Python",
-      "Azure"
+      "Agile"
     ]
   },
   {
-    "title": "Hawg Ops",
-    "company": "Airmen Coders",
-    "location": "Ops, ",
-    "description": "MQF - Built by AirmenPermalink<br><br>An app to help USAF Aircrew study their Master Question File tests. Currently has data for C-17s with plans for several more MAF aircraft. Check out our FAQs here: MQF FAQs. View the Source Code .<br><br>Want to help add more aircraft? Contact us at AirmenCoders [at] us.af.mil<br><br>Mission ToolsPermalink<br><br>React Native base app to help crews manage their missions and crew rests. Join the team by contacting us or checking out the in-progress Source Code<br><br>Bussin\u00e2\u0080\u0099 AroundPermalink<br><br>The bus schedule for the Deid. Currently working on open sourceing the source code, Download it on the App Store.<br><br>DSN EuropePermalink<br><br>DSN phone numbers are part of our everyday life as military members. Sometimes not having access to the right conversion outside of the office can be very frustrating. With DSN Europe you can dial a DSN number right from your cell phone and our algorithm will make the necessary conversion to a commercial phone number. Download it on the App Store.<br/><br/>Please mention the word **EASES** and tag RNzQuMjM1LjEyNy4xNjU= when applying to show you read the job post completely (#RNzQuMjM1LjEyNy4xNjU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-hawg-ops-airmen-coders-1135428",
+    "title": "Fullstack Engineer-  AWS, Typescript, Java, Spring Boot, React, Next.js (m/f/d)",
+    "company": "Trusted Shops SE (DE)",
+    "location": "Cologne, Nordrhein-Westfalen, Germany",
+    "description": "<p style=\"text-align:start;\"><strong>About Trusted Shops</strong>&nbsp;</p><p style=\"text-align:start;\">Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust, strengthen customer relationships, and grow sustainably.&nbsp;</p><p style=\"text-align:start;\">With around 700 colleagues across Europe, more than 25,000 online shops, and over 40 million consumers in our Community of Trust, we are helping shape a safer and more transparent digital world. But trust is not only at the heart of our products \u2013 it also shapes how we work together. We believe in collaboration, ownership, and the freedom to do your best work through a flexible hybrid work culture.&nbsp;</p><p style=\"text-align:start;\">Join us and help create a digital world where trust, transparency, and meaningful connections drive every interaction.&nbsp;</p><p style=\"min-height: 1.7em;\"></p><p style=\"text-align:start;\">To strengthen our Engineering Team, we are looking for a&nbsp;</p><p style=\"text-align:start;\"><strong>Fullstack Engineer-  AWS, TypeScript, Java, Spring Boot, React, </strong>Next.js<strong> (m/f/d)&nbsp;</strong></p><p style=\"text-align:start;\"><em>(Hybrid in Cologne or remote in Berlin / Full-time / Permanent contract)</em>&nbsp;</p><p style=\"min-height: 1.7em;\"></p><p style=\"text-align:start;\"><em>A</em>s a Fullstack Engineer in our Consumer Domain, you will help shape the experience of millions of consumers using Trusted Shops products. Working within the Consumer Membership Team, you will focus on expanding existing backend services and building new ones within our AWS landscape while contributing to frontend applications where needed. You will be part of a cross-functional product team that includes Software Engineers, QA, Product Manager, Agile Coach, and Growth experts, all working together to improve the consumer experience th",
+    "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/fullstack-engineer-aws-typescript-java-spring-boot-react-nextjs-cologne-496519",
+    "source": "Arbeitnow",
+    "posted_at": "2026-07-28T23:50:53+00:00",
+    "tags": [
+      "Tech"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "React",
+      "Agile"
+    ]
+  },
+  {
+    "title": "AI Intern",
+    "company": "CertifyOS",
+    "location": "Pune",
+    "description": "<p style=\"min-height:1.5em\"><strong>About CertifyOS</strong></p><p style=\"min-height:1.5em\">CertifyOS is building the data infrastructure that powers modern healthcare.</p><p style=\"min-height:1.5em\">Today, healthcare organizations rely on fragmented and outdated provider data. This creates unnecessary administrative work, regulatory risk, and higher costs across the system. We\u00e2\u0080\u0099re solving that problem.</p><p style=\"min-height:1.5em\">Our API-first platform automates provider licensing, enrollment, credentialing, and network monitoring by connecting directly to hundreds of primary data sources. We help healthcare organizations maintain accurate, compliant, and reliable provider networks at scale.</p><p style=\"min-height:1.5em\">Our vision is simple: <strong>One API. One provider ID. Frictionless provider data.</strong></p><p style=\"min-height:1.5em\">We\u00e2\u0080\u0099re backed by leading investors and built by a team with deep experience in provider data systems. At CertifyOS, we value authenticity, accountability, collaboration, results, and openness to feedback. We\u00e2\u0080\u0099re building a high-ownership team focused on solving real infrastructure problems that impact millions of patients.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role:</strong></p><p style=\"min-height:1.5em\">As an Intern Machine Learning Engineer on a 6-month contract, you will help build, test, and deploy ML-powered services on our provider data platform. This is not a pure research role; the focus is on strong software engineering, testing, and robust evaluation rather than novel model architectures.</p><p style=\"min-height:1.5em\">You will own features end-to-end by collaborating with stakeholders, implementing production-ready code, designing evaluation pipelines, and deploying services on Google Cloud Platform (GCP). This is a fully remote position.</p><p style=\"min-height:1.5em\"><strong>What You\u00e2\u0080\u0099ll Do:</strong></p><p style=\"min-height:1.5em\">Design, implement, and maintain ",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
     "source": "RemoteOK",
-    "posted_at": "2026-07-25T23:55:24+00:00",
+    "posted_at": "2026-07-28T08:00:03+00:00",
     "tags": [
+      "design",
       "sys admin",
-      "marketing",
-      "medical",
-      "non tech",
-      "education",
-      "golang",
-      "react",
+      "python",
+      "technical",
       "dev",
-      "c",
+      "testing",
+      "java",
+      "cloud",
+      "git",
+      "api",
+      "ops",
+      "medical",
+      "recruiter",
+      "engineer",
       "digital nomad"
     ],
     "match_score": 2,
     "matched_skills": [
-      "React"
+      "Python"
     ]
   },
   {
-    "title": "Working Student AI Enablement (d/f/m)",
-    "company": "limehome",
-    "location": "Remote job",
-    "description": "<p><strong><span style=\"color:#000000\">How you\u2019ll help us host with heart:</span></strong><span style=\"color:#000000\"> You will contribute to building internal AI tooling and processes used by in-house teams, with the opportunity to also contribute directly to the guest experience.</span></p><p><span style=\"color:#000000\">Our teams are organised along the customer journey, with each team owning its area end-to-end. We work cross-functionally and use pragmatic, lightweight agile (stand-ups, planning, retros), plus best practices like RFCs and regular knowledge sharing.</span></p><p><br></p><p><strong><span style=\"color:#000000\">As a candidate, you must be:</span></strong></p><ul><li><p><span style=\"color:#000000\">currently enrolled in a </span><strong><span style=\"color:#000000\">Computer Science or related technical Master\u2019s degree</span></strong></p></li></ul><ul><li><p><span style=\"color:#000000\">able to work </span><strong><span style=\"color:#000000\">15-20 hours per week during the semester</span></strong><br></p></li></ul><p><strong><span style=\"color:#000000\">And you are a great fit if you:</span></strong></p><ul><li><p><strong><span style=\"color:#000000\">Care about the impact of your work. </span></strong><span style=\"color:#000000\">You are an outcome oriented thinker that wants to own problem solving from </span><strong><span style=\"color:#000000\">start to finish</span></strong><span style=\"color:#000000\"> and you are curious to learn more about the \u201cwhy\u201d behind a task.</span></p></li><li><p><span style=\"color:#000000\">Have</span><strong><span style=\"color:#000000\"> experience with setting up and using AI tooling,</span></strong><span style=\"color:#000000\"> including Agentic Workflows, MCPs, Eval/Spec Driven Development, and similar techniques and technologies</span></p></li><li><p><span style=\"color:#000000\">Have solid </span><strong><span style=\"color:#000000\">programming fundamentals </span></strong><span style=\"color:#000000\">(</span><strong><span style=\"c",
-    "url": "https://www.arbeitnow.com/jobs/companies/limehome/remote-working-student-ai-enablement-munchen-74429",
+    "title": "Werkstudent (m/w/d) IT Solution Management",
+    "company": "OXG Glasfaser GmbH",
+    "location": "D\u00fcsseldorf und Remote",
+    "description": "<br><strong>Was diesen Job so besonders macht?</strong><p>Du m\u00f6chtest neben dem Studium praktische Erfahrung in der Weiterentwicklung digitaler L\u00f6sungen sammeln und Einblicke in agile Arbeitsweisen, fachliche Prozesse sowie unterst\u00fctzende T\u00e4tigkeiten rund um Salesforce und angrenzende Systeme gewinnen? Dann werde Teil unseres Teams!<br><br><strong>Dein Schwerpunkt: Mitarbeit im Salesforce-Team</strong><br><ul><li>Unterst\u00fctzung des Teams bei agilen Routinen im Arbeitsalltag (z. B. Daily Stand-ups, Reviews)</li><li>Mitarbeit bei Feedback-, Kl\u00e4rungs- und Abstimmungsrunden rund um User Stories</li><li>Pflege, Aktualisierung und Weiterentwicklung unserer User-Guide-Dokumentation</li><li>Mitarbeit an Dokumentationen im Rahmen von Releases, insbesondere bei iterativen \u00c4nderungen</li><li>Unterst\u00fctzung im Testing von User Stories und kleineren Anforderungen</li><li>Mitwirkung bei Supportaktivit\u00e4ten, fachlichen R\u00fcckfragen und organisatorischen Aufgaben im L\u00f6sungsumfeld</li></ul><strong>Weitere spannende Themenfelder</strong><br><ul><li>Unterst\u00fctzung im Bereich Marketing Cloud, z. B. bei Tool-Support und kleineren Anpassungen</li><li>Unterst\u00fctzung der Web Agentur bei TYPO3 Aufgaben \u201ewww.oxg.de\u201c (OXG Website)</li><li>Unterst\u00fctzung im Projekt \u201eIntranet 2.0\u201c (OXG Intranet; TYPO3)</li><li>Mitarbeit beim Redesign von \u201emitmachen.oxg.de\u201c, insbesondere bei UX-Flows und Testing (OXG Digitale Bestellstrecke)</li></ul><br><br><br></p><br><strong>Wann passt Du zu uns?</strong><p><ul><li>Du bist aktuell in einem Bachelor- oder Masterstudium immatrikuliert, idealerweise in Wirtschaftsinformatik, Informatik, BWL mit IT-Bezug oder einem vergleichbaren Studiengang.</li><li>Du hast Lust auf digitale Prozesse und Systeme und besch\u00e4ftigst dich gerne mit fachlich-technischen Fragestellungen.</li><li>Strukturierte, sorgf\u00e4ltige und zuverl\u00e4ssige Arbeitsweise ist f\u00fcr dich selbstverst\u00e4ndlich.</li><li>Du hast ein gutes Verst\u00e4ndnis daf\u00fcr, wie man Informationen klar dokumentiert, sich abstimmt und analyti",
+    "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-werkstudent-it-solution-management-335916",
     "source": "Arbeitnow",
-    "posted_at": "2026-07-28T02:31:05+00:00",
-    "tags": [
-      "Tech & Engineering",
-      "Remote"
-    ],
+    "posted_at": "2026-07-29T02:09:10+00:00",
+    "tags": [],
     "match_score": 2,
     "matched_skills": [
       "Agile"
     ]
   },
   {
-    "title": "Werkstudent*in im Projektmanagement",
-    "company": "Doo",
-    "location": "M\u00fcnchen",
-    "description": "<br><strong>Werde Teil unseres Teams!</strong><p>Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du m\u00f6chtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begr\u00fc\u00dfen zu d\u00fcrfen!</p><br><strong>Deine Aufgaben</strong><p><ul style=\"margin:4px 0 4px 24px;padding:0;\"><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du unterst\u00fctzt unser Product Consulting Team bei der t\u00e4glichen Arbeit und \u00fcbernimmst gelegentlich Aufgaben im Rahmen von Kundenprojekten, beispielsweise das Erstellen von Websites sowie Landingpages</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Im Rahmen von Kundenanfragen nimmst du Anpassungen in CSS, HTML, JavaScript oder unserer Automatisierungssoftware vor\u00a0</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du k\u00fcmmerst dich um die Dokumentation des Projektverlaufs im Hinblick auf relevante Milestones im Projektmanagement-Tool</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du unterst\u00fctzt unser Onsite-Team bei der Datenintegration zwischen der Online-Registrierung und vor-Ort-L\u00f6sungen</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du k\u00fcmmerst dich um die Konfiguration, Pr\u00fcfung und den Versand von Hardware (z.B. Scannern)</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du unterst\u00fctzt unsere Kunden beim Einlassmanagement vor Ort (inkl. Auf- und Abbau) sowie remote</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du arbeitest aktiv an Projekten zur Prozessoptimierung mit und bringst eigene Ideen und Vorschl\u00e4ge ein</li></ul></p><br><strong>Dein Profil</strong><p><ul style=\"margin:4px 0 4px 24px;padding:0;\"><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du bist noch mindestens 3 Semester an einer Hochschule immatrikuliert und studierst idealerweise (Wirtschafts-)Informatik oder ein \u00e4hnliches/vergleichbares Fach</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du m\u00f6chtest 1",
-    "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-221124",
+    "title": "Werkstudent IT (m/w/d)",
+    "company": "catkin GmbH",
+    "location": "Dortmund",
+    "description": "<p>Die catkin GmbH ist ein Software-Unternehmen mit Sitz am Phoenix-See in Dortmund, das Innovation in die Logistikbranche bringt. Wir betreiben und entwickeln die patentierte catkin Plattform zur Vernetzung von Prozessen sowie weitere moderne Planungsl\u00f6sungen f\u00fcr die Logistik und Supply Chain. Zu unseren Kunden geh\u00f6ren namhafte Unternehmen der Transportbranche. Wir arbeiten mit den modernsten Technologien und Arbeitsplatzausstattungen und sind stets auf der Suche nach Menschen, die Lust haben, die digitale Zukunft mit uns zu gestalten und unser Team zu bereichern.</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Aktive Mitarbeit an der Weiterentwicklung unserer Produktlandschaft</li>\n<li>Entwicklung neuer Features f\u00fcr Web- und App-Anwendungen</li>\n<li>Unterst\u00fctzung bei Architektur-, Design- und Implementierungsaufgaben</li>\n<li>Aufbau und Weiterentwicklung automatisierter Tests mit Playwright</li>\n<li>Analyse und Behebung von Softwarefehlern</li>\n<li>Mitarbeit im gesamten Softwareentwicklungsprozess \u2013 von der Anforderung bis zum Release</li>\n<li>Kennenlernen unseres Technologie-Stacks und unserer Produkte</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Laufendes Studium der Informatik oder einer vergleichbaren Fachrichtung</li>\n<li>Sehr gute praktische Programmierkenntnisse und Leidenschaft f\u00fcr Softwareentwicklung</li>\n<li>Idealerweise bereits Berufserfahrung durch Werkstudentent\u00e4tigkeiten, Praktika oder freiberufliche Projekte</li>\n<li>Nachweisbare eigene Softwareprojekte (z. B. GitHub, Apps, Webanwendungen oder Open-Source-Beitr\u00e4ge)</li>\n<li>Erfahrung mit Webentwicklung und modernen Anwendungsarchitekturen</li>\n<li>Von Vorteil: Kenntnisse in C#, .NET, <a href=\"http://asp.net/\">ASP.NET</a>, SQL sowie MAUI, Android oder iOS-Entwicklung</li>\n<li>Interesse an Testautomatisierung, Continuous Integration und Softwarequalit\u00e4t</li>\n<li>Selbstst\u00e4ndige Arbeitsweise, hohe Lernbereitschaft und Freude an technischen Herausforderungen</li>\n<li>Erste Ber\u00fchrungspunkte mit KI-Anwendungen (Claude, Copil",
+    "url": "https://www.arbeitnow.com/jobs/companies/catkin-gmbh/werkstudent-it-dortmund-470545",
     "source": "Arbeitnow",
-    "posted_at": "2026-07-27T17:09:18+00:00",
+    "posted_at": "2026-07-28T16:00:29+00:00",
     "tags": [
-      "Projektmanagement",
-      "CSS",
-      "HTML",
-      "Werkstudent",
-      "Product Consulting",
-      "JavaScript",
-      "Engineering",
-      "Make",
-      "Webentwicklung"
+      "Remote",
+      "Development"
     ],
     "match_score": 2,
     "matched_skills": [
-      "JavaScript"
+      "SQL"
     ]
   }
 ]
