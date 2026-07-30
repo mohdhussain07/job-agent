@@ -1,36 +1,101 @@
 [
   {
-    "title": "Communication Protocols Software Engineer (m/w/x)",
-    "company": "K-tronik GmbH",
-    "location": "Stuttgart",
-    "description": "<h2>Projektbeschreibung:</h2>\n<p>Technologie begeistert Sie? Uns auch! Zur Verst\u00e4rkung unseres Expertenteams bei unserem Kunden aus der Funk- und Kommunikationsbranche suchen wir einen Communication Protocols Software Engineer (m/w/x) in Festanstellung bei K-tronik. Wir freuen uns darauf, Sie pers\u00f6nlich kennen zu lernen - und gemeinsam mit Leidenschaft und Teamgeist an spannenden Projekten und zukunftsweisenden Technologien zu arbeiten.</p>\n<h2>Aufgaben:</h2>\n<ul>\n<li>Du designst Kommunikationsprotokolle der ISO/OSI-Schichten 2 und 3 f\u00fcr moderne Secure-Communications-Systeme</li>\n<li>Du implementierst, integrierst und testest die entwickelten Protokolle in realen Systemumgebungen</li>\n<li>Du arbeitest in Kompetenz- und crossfunktionalen Teams an der Produktentwicklung moderner Kommunikationsverfahren mit und bringst deine Expertise in internationale Kooperations- und Konsortiumprojekte ein</li>\n<li>Du setzt Software-Engineering-Methoden und moderne Entwicklungsans\u00e4tze wie agile Prozesse und kontinuierliche Integration konsequent ein</li>\n<li>Du analysierst komplexe Anforderungen und bewertest technische L\u00f6sungskonzepte f\u00fcr sicherheitskritische Kommunikationssysteme</li>\n<li>Du treibst die Weiterentwicklung von Protokollarchitekturen f\u00fcr verschl\u00fcsselte Daten\u00fcbertragung voran</li>\n</ul>\n<h2>Qualifikationen:</h2>\n<ul>\n<li>Du hast ein abgeschlossenes Studium der Informatik oder Informationstechnik oder eine vergleichbare Qualifikation</li>\n<li>Du bringst Erfahrung in der Softwareentwicklung von Protokollen mit, idealerweise im Bereich der ISO/OSI-Schichten 2 und 3</li>\n<li>Du beherrschst C++ und Python oder eine vergleichbare Sprache</li>\n<li>Du bist vertraut mit modernen Software-Engineering-Werkzeugen in den Bereichen Implementierung, Integration und Test</li>\n<li>Du \u00fcberzeugst durch eine strukturierte Arbeitsweise, ausgepr\u00e4gte Probleml\u00f6sungsf\u00e4higkeit und kritisches Denken. Teamgeist, Kommunikationsst\u00e4rke und eine hohe Lernbereitschaft sind f\u00fcr dich selbstverst\u00e4ndlich",
-    "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/communication-protocols-software-engineer-stuttgart-12843",
-    "source": "Arbeitnow",
-    "posted_at": "2026-07-29T07:30:33+00:00",
+    "title": "LLM Engineer Freelancer",
+    "company": "Monterail",
+    "location": "Krak\u00c3\u00b3w, Krak\u00c3\u00b3w, Woj. Ma\u00c5\u0082opolskie, Polska",
+    "description": "We're building a network of <strong>LLM Engineers</strong> who can design, build, and integrate practical AI features into existing products. We're looking for people to collaborate with on a freelance basis - part-time or full-time, depending on project needs.<br><br>This role is focused on delivery, not ML research. What matters most is your engineering foundation and your ability to integrate AI into real production systems using Python, Node.js, or Ruby codebases.<br><br><strong>Requirements<br><br></strong><strong><strong>What we're looking for<br><br></strong></strong><ul><li>Strong software engineering background - Python, Node.js, or Ruby</li><li>Hands-on experience integrating LLM APIs into production systems (OpenAI, Anthropic, or similar)</li><li>Ability to design pragmatic AI solutions within existing architectures</li><li>Experience building RAG pipelines, embeddings, and vector search</li><li>Understanding of cost, latency, and reliability constraints of AI systems</li><li>Ability to work independently with clients and set realistic expectations</li><li>Background in big data or data pipelines is a big plus</li><li>English B2/C1</li><li>Availability part-time or full-time (B2B contract)<br><br></li></ul><strong>What You'll Do<br><br></strong><ul><li>Add AI functionality into existing Python, Node.js, and Ruby codebases</li><li>Build LLM-powered features: chat, summaries, classification, smart search, document Q&amp;A</li><li>Design lightweight RAG pipelines using embeddings and vector search</li><li>Work with vector DBs (pgvector, Pinecone, Qdrant)</li><li>Implement safe, reliable LLM endpoints (OpenAI, Anthropic, Azure)</li><li>Work directly with clients to shape AI features and reduce manual effort</li><li>Advise clients when NOT to use AI and navigate trade-offs around latency, accuracy, and cost<br><br></li></ul><strong><strong>What do we mean by freelance? <br><br></strong></strong><ul><li>Read more at Monterail Tech Network</li></ul><br/><br/>Ple",
+    "url": "https://remoteOK.com/remote-jobs/remote-llm-engineer-freelancer-monterail-1135638",
+    "source": "RemoteOK",
+    "posted_at": "2026-07-28T13:19:20+00:00",
     "tags": [
-      "Software Development"
+      "design",
+      "python",
+      "dev",
+      "javascript",
+      "node",
+      "node.js",
+      "ruby",
+      "sys admin",
+      "engineer",
+      "full time",
+      "part time",
+      "digital nomad"
     ],
-    "match_score": 3,
+    "match_score": 5,
     "matched_skills": [
       "Python",
-      "Agile"
+      "JavaScript",
+      "Azure"
     ]
   },
   {
-    "title": "Fullstack Engineer-  AWS, Typescript, Java, Spring Boot, React, Next.js (m/f/d)",
-    "company": "Trusted Shops SE (DE)",
-    "location": "Cologne, Nordrhein-Westfalen, Germany",
-    "description": "<p style=\"text-align:start;\"><strong>About Trusted Shops</strong>&nbsp;</p><p style=\"text-align:start;\">Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust, strengthen customer relationships, and grow sustainably.&nbsp;</p><p style=\"text-align:start;\">With around 700 colleagues across Europe, more than 25,000 online shops, and over 40 million consumers in our Community of Trust, we are helping shape a safer and more transparent digital world. But trust is not only at the heart of our products \u2013 it also shapes how we work together. We believe in collaboration, ownership, and the freedom to do your best work through a flexible hybrid work culture.&nbsp;</p><p style=\"text-align:start;\">Join us and help create a digital world where trust, transparency, and meaningful connections drive every interaction.&nbsp;</p><p style=\"min-height: 1.7em;\"></p><p style=\"text-align:start;\">To strengthen our Engineering Team, we are looking for a&nbsp;</p><p style=\"text-align:start;\"><strong>Fullstack Engineer-  AWS, TypeScript, Java, Spring Boot, React, </strong>Next.js<strong> (m/f/d)&nbsp;</strong></p><p style=\"text-align:start;\"><em>(Hybrid in Cologne or remote in Berlin / Full-time / Permanent contract)</em>&nbsp;</p><p style=\"min-height: 1.7em;\"></p><p style=\"text-align:start;\"><em>A</em>s a Fullstack Engineer in our Consumer Domain, you will help shape the experience of millions of consumers using Trusted Shops products. Working within the Consumer Membership Team, you will focus on expanding existing backend services and building new ones within our AWS landscape while contributing to frontend applications where needed. You will be part of a cross-functional product team that includes Software Engineers, QA, Product Manager, Agile Coach, and Growth experts, all working together to improve the consumer experience th",
-    "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/fullstack-engineer-aws-typescript-java-spring-boot-react-nextjs-cologne-496519",
+    "title": "Analytics Engineer - Finance",
+    "company": "mewssystems",
+    "location": "Remote",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Help make the world more hospitable &lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;The hospitality industry is uniquely human, and it deserves technology that\u2019s just as inspiring as the people behind it. At Mews, we\u2019re transforming the industry with a platform that helps hotels run smarter, move faster and create better guest experiences.&lt;/p&gt;\n&lt;p&gt;You\u2019ll work with smart, curious people who care deeply about what they do. You\u2019ll have autonomy and the trust to make good decisions and move quickly. And you\u2019ll enjoy a real sense of purpose as you see the impact of what we\u2019re building.&lt;/p&gt;\n&lt;p&gt;If you\u2019re motivated by ownership, curiosity and meaningful impact, and are driven to deliver consistent high performance, you\u2019ll feel at home here.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Let&#39;s get into the specifics. It\u2019s impossible to capture every nuance of a role \u2013 especially at a rapidly growing company like Mews \u2013 but if we had to distil it into a job description (which we do because this is a job description), it would be this:&lt;/p&gt;&lt;/div&gt;&lt;p&gt;You&#39;ll be the founding analytics engineer in Finance, shaping our data infrastructure and analytical capabilities during a critical transformation. Your expertise in Python, &lt;span data-highlighted=&quot;true&quot; data-vc=&quot;highlighted-text&quot;&gt;&lt;span class=&quot;_kqswh2mm&quot;&gt;&lt;span class=&quot;_5pioz8co _189e1dm9 _1il9buyh _19lc184f _d0altlke&quot; data-testid=&quot;definition-highlighter&quot;&gt;DBT&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, SQL, and Databricks will drive operational efficiency, accelerate our month-end close, and deliver strategic insights that inform capital allocation and IPO readiness. This is a greenfield opportunity to own the analytics roadmap, work directly with Finance leadership, and build infrastructure that powers both scaling and compliance, al",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/analytics-engineer-finance-460067",
     "source": "Arbeitnow",
-    "posted_at": "2026-07-28T23:50:53+00:00",
+    "posted_at": "2026-07-29T20:55:50+00:00",
     "tags": [
-      "Tech"
+      "Operations"
     ],
-    "match_score": 3,
+    "match_score": 5,
     "matched_skills": [
-      "React",
-      "Agile"
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Founding Engineer-AI Native Investment Bank",
+    "company": "MaTrx.ai",
+    "location": "Berlin",
+    "description": "<p>A New York-based boutique advisory firm helping family businesses navigate growth, capital, and strategic transitions.</p>\n<p>We combine Wall Street expertise with proprietary AI-driven technology to deliver clarity and execution across a range of services - from M&#x26;A advisory and capital raising to strategic planning and working capital optimization.</p>\n<p>Our philosophy is built on three principles: integrity, innovation, and excellence. We invest in long-term client relationships and tailor our approach to the unique needs of each business - whether you're looking to exit, acquire, or simply optimize your cap structure.</p>\n<p>We deliver results at the intersection of technology, trust, and strategic acumen.</p>\n<h2>Tasks</h2>\n<p>You\u2019re the first engineer. You own the technical foundation. You\u2019ll build a multilayer agent system that powers business development, deal execution, and orchestration across the full deal lifecycle.</p>\n<h2>Requirements</h2>\n<p>Built and shipped products in fintech, financial services, or B2B SaaS\u2022 Comfortable with LLMs and agentic workflows as tools, not buzzwords \u2022 Built several side projects (please provide links / GitHub) and ideally first professional experience in a startup \u2022 Strong communication skills \u2014 you\u2019ll work under high pressure alongside a team of Wall Street bankers day to day. You don\u2019t build in a silo. You enjoy building in a crossfunctional team. \u2022 Start remote, transition to New York or San Francisco</p>\n<p>Stack: Python or Node, React/Next.js, PostgreSQL, langchain, Claude, other models and APIs.</p>\n<p>Three interviews and a short case study.</p>\n<p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
+    "url": "https://www.arbeitnow.com/jobs/companies/matrxai/founding-engineer-ai-native-investment-bank-berlin-333272",
+    "source": "Arbeitnow",
+    "posted_at": "2026-07-30T02:30:28+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "title": "Analista de Dados Junior Exclusiva S\u00c3\u00a3o Paulo",
+    "company": "Confitec",
+    "location": "S\u00c3\u00a3o Paulo, ",
+    "description": "Descri\u00c3\u00a7\u00c3\u00a3o da vaga<br><br>Na Confitec, desenvolvemos solu\u00c3\u00a7\u00c3\u00b5es especializadas para o mercado segurador, apoiando seguradoras em seus processos regulat\u00c3\u00b3rios, cont\u00c3\u00a1beis e operacionais.<br><br>Buscamos um(a) Analista de Sistemas J\u00c3\u00banior para integrar nossa equipe do Gepro, sistema utilizado por diversas seguradoras brasileiras para atendimento \u00c3\u00a0s exig\u00c3\u00aancias da SUSEP.<br><br>Voc\u00c3\u00aa far\u00c3\u00a1 parte de uma equipe colaborativa e ter\u00c3\u00a1 a oportunidade de evoluir sua experi\u00c3\u00aancia em tecnologia, banco de dados, integra\u00c3\u00a7\u00c3\u00b5es e regras de neg\u00c3\u00b3cio do mercado de seguros, participando de projetos de implanta\u00c3\u00a7\u00c3\u00a3o, atendimento a clientes e evolu\u00c3\u00a7\u00c3\u00a3o cont\u00c3\u00adnua do produto.<br><br>Valorizamos pessoas curiosas, organizadas, com vontade de aprender e que gostem de investigar problemas e construir solu\u00c3\u00a7\u00c3\u00b5es em conjunto.<br><br>Responsabilidades e atribui\u00c3\u00a7\u00c3\u00b5es<br><br><ul><li>Apoiar a equipe de implanta\u00c3\u00a7\u00c3\u00a3o e sustenta\u00c3\u00a7\u00c3\u00a3o do Gepro.</li><li>Auxiliar na an\u00c3\u00a1lise de demandas dos clientes.</li><li>Realizar consultas em banco de dados SQL Server para investiga\u00c3\u00a7\u00c3\u00a3o de informa\u00c3\u00a7\u00c3\u00b5es.</li><li>Apoiar a homologa\u00c3\u00a7\u00c3\u00a3o de novas funcionalidades.</li><li>Documentar processos e especifica\u00c3\u00a7\u00c3\u00b5es funcionais.</li><li>Auxiliar na an\u00c3\u00a1lise de integra\u00c3\u00a7\u00c3\u00b5es via APIs.</li><li>Apoiar usu\u00c3\u00a1rios na identifica\u00c3\u00a7\u00c3\u00a3o e resolu\u00c3\u00a7\u00c3\u00a3o de problemas.</li><li>Trabalhar em conjunto com analistas e desenvolvedores na evolu\u00c3\u00a7\u00c3\u00a3o do sistema.<br><br></li></ul><strong>Experi\u00c3\u00aancia desej\u00c3\u00a1vel<br><br></strong><ul><li>Viv\u00c3\u00aancia em atendimento a clientes internos ou externos.</li><li>Experi\u00c3\u00aancia com SQL.</li><li>Participa\u00c3\u00a7\u00c3\u00a3o em projetos de sistemas ou implanta\u00c3\u00a7\u00c3\u00b5es ser\u00c3\u00a1 considerada um diferencial.<br><br></li></ul>Requisitos e qualifica\u00c3\u00a7\u00c3\u00b5es<br><br><ul><li>Conhecimento pr\u00c3\u00a1tico em SQL.</li><li>Boa l\u00c3\u00b3gica de programa\u00c3\u00a7\u00c3\u00a3o.</li><li>Facilidade para aprender regras de neg\u00c3\u00b3cio.</li><li>Boa comunica\u00c3\u00a7\u00c3\u00a3o verbal e escrita.</li><li>Organiza\u00c3\u00a7\u00c3\u00a3o e capacidade anal\u00c3\u00adtica.<br><br></li></ul><strong>Diferenciais<br><br></strong><ul",
+    "url": "https://remoteOK.com/remote-jobs/remote-analista-de-dados-junior-exclusiva-sao-paulo-confitec-1135641",
+    "source": "RemoteOK",
+    "posted_at": "2026-07-28T15:14:23+00:00",
+    "tags": [
+      "exec",
+      "junior"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "SQL"
+    ]
+  },
+  {
+    "title": "AWESOME LIFE",
+    "company": "Awesome Entertainment",
+    "location": "Recruit, ",
+    "description": "Join us, and create something truly AWESOME!<br><br>\u00ec\u0096\u00b4\u00ec\u008d\u00b8\u00ec\u0097\u0094\u00ed\u0084\u00b0\u00ed\u0085\u008c\u00ec\u009d\u00b8\u00eb\u00a8\u00bc\u00ed\u008a\u00b8\u00eb\u008a\u0094 \u00ec\u0082\u00ac\u00eb\u009e\u008c\u00eb\u0093\u00a4\u00ec\u0097\u0090\u00ea\u00b2\u008c \u00ec\u00a7\u0080\u00ec\u008b\u009d, \u00ea\u00b0\u0090\u00eb\u008f\u0099, \u00ec\u00a6\u0090\u00ea\u00b1\u00b0\u00ec\u009b\u0080\u00ec\u009d\u0084 \u00ec\u00a0\u009c\u00ea\u00b3\u00b5\u00ed\u0095\u0098\u00eb\u00a9\u00b0, **\u00e2\u0080\u0098\u00ec\u0084\u00b8\u00ec\u0083\u0081\u00ec\u009d\u0084 \u00ec\u009d\u00b4\u00eb\u00a1\u00ad\u00ea\u00b2\u008c, \u00ec\u0082\u00ac\u00eb\u009e\u008c\u00ec\u009d\u0084 \u00ec\u00a6\u0090\u00ea\u00b2\u0081\u00ea\u00b2\u008c\u00e2\u0080\u0099**\u00eb\u009d\u00bc\u00eb\u008a\u0094 \u00eb\u00b9\u0084\u00ec\u00a0\u0084 \u00ec\u0095\u0084\u00eb\u009e\u0098, \u00ec\u00bd\u0098\u00ed\u0085\u0090\u00ec\u00b8\u00a0\u00eb\u00a1\u009c \u00ec\u0084\u00b8\u00ec\u0083\u0081\u00ec\u0097\u0090 \u00ea\u00b8\u008d\u00ec\u00a0\u0095\u00ec\u00a0\u0081\u00ec\u009d\u00b8 \u00eb\u00b3\u0080\u00ed\u0099\u0094\u00eb\u00a5\u00bc \u00ec\u009d\u00b4\u00eb\u0081\u008c\u00ec\u0096\u00b4 \u00ea\u00b0\u0091\u00eb\u008b\u0088\u00eb\u008b\u00a4.<br><br>\u00ec\u009a\u00b0\u00eb\u00a6\u00ac\u00eb\u008a\u0094 \u00ea\u00b0\u0080\u00eb\u008a\u00a5\u00ec\u0084\u00b1\u00ec\u009d\u0098 \u00ed\u0095\u009c\u00ea\u00b3\u0084\u00eb\u00a5\u00bc \u00eb\u009b\u00b0\u00ec\u0096\u00b4\u00eb\u0084\u0098\u00ec\u0096\u00b4 \u00eb\u008d\u0094 \u00eb\u0082\u0098\u00ec\u009d\u0080 \u00ec\u0095\u0084\u00ec\u009d\u00b4\u00eb\u0094\u0094\u00ec\u0096\u00b4\u00ec\u0099\u0080 \u00ec\u00bd\u0098\u00ed\u0085\u0090\u00ec\u00b8\u00a0\u00eb\u00a5\u00bc \u00eb\u0081\u008a\u00ec\u009e\u0084\u00ec\u0097\u0086\u00ec\u009d\u00b4 \u00ed\u0083\u0090\u00ea\u00b5\u00ac\u00ed\u0095\u0098\u00eb\u00a9\u00b0, \u00eb\u00aa\u00a8\u00eb\u0091\u0090\u00ea\u00b0\u0080 \u00ea\u00b3\u00b5\u00ea\u00b0\u0090\u00ed\u0095\u0098\u00ea\u00b3\u00a0 \u00ec\u00a6\u0090\u00ea\u00b8\u00b8 \u00ec\u0088\u0098 \u00ec\u009e\u0088\u00eb\u008a\u0094 \u00ec\u0084\u00b8\u00ec\u0083\u0081\u00ec\u009d\u0084 \u00eb\u00a7\u008c\u00eb\u0093\u00a4\u00ec\u0096\u00b4\u00ea\u00b0\u0080\u00ea\u00b3\u00a0\u00ec\u009e\u0090 \u00ed\u0095\u00a9\u00eb\u008b\u0088\u00eb\u008b\u00a4. <strong>\u00ec\u00a6\u0090\u00ea\u00b2\u0081\u00ea\u00b3\u00a0 \u00ec\u009d\u0098\u00eb\u00af\u00b8 \u00ec\u009e\u0088\u00eb\u008a\u0094 \u00ec\u00bd\u0098\u00ed\u0085\u0090\u00ec\u00b8\u00a0\u00ea\u00b0\u0080 \u00ec\u009d\u00bc\u00ec\u0083\u0081\u00ec\u009d\u00b4 \u00eb\u0090\u0098\u00eb\u008a\u0094 \u00ec\u0084\u00b8\u00ec\u0083\u0081, \u00ed\u0095\u00a8\u00ea\u00bb\u0098\u00ed\u0095\u0098\u00ec\u0084\u00b8\u00ec\u009a\u0094.<br><br></strong><strong>About Us<br><br></strong>ABOUT TEAM \u00ec\u0096\u00b4\u00ec\u008d\u00b8<br><br>CULTURE<br><br>BEHIND THE SCENES<br><br>HOW DO WE WORK?<br><br><strong>Benefits<br><br></strong>BENEFITS &amp; WORK ENVIRONMENT<br><br>DREAM<br><br>JOIN THE CREW<br><br>RECRUITMENT JOURNEY<br><br><strong>\u00ec\u0096\u00b4\u00ec\u008d\u00b8\u00ec\u0097\u0094\u00ed\u0084\u00b0\u00ed\u0085\u008c\u00ec\u009d\u00b8\u00eb\u00a8\u00bc\u00ed\u008a\u00b8\u00ec\u009d\u0098 \u00ec\u0086\u008c\u00ec\u008b\u009d\u00ec\u009d\u0084 \u00eb\u0086\u0093\u00ec\u00b9\u0098\u00ec\u00a7\u0080 \u00eb\u00a7\u0088\u00ec\u0084\u00b8\u00ec\u009a\u0094!<br><br></strong>\u00ec\u0096\u00b4\u00ec\u008d\u00b8\u00ec\u0097\u0094\u00ed\u0084\u00b0\u00ed\u0085\u008c\u00ec\u009d\u00b8\u00eb\u00a8\u00bc\u00ed\u008a\u00b8\u00ec\u009d\u0098 \u00ec\u0086\u008c\u00ec\u0085\u009c \u00eb\u00af\u00b8\u00eb\u0094\u0094\u00ec\u0096\u00b4\u00eb\u00a5\u00bc \u00ed\u008c\u0094\u00eb\u00a1\u009c\u00ec\u009a\u00b0\u00ed\u0095\u0098\u00eb\u00a9\u00b4 \u00ec\u00a0\u0080\u00ed\u009d\u00ac \u00ed\u008c\u0080\u00ec\u009d\u00b4 \u00ec\u009d\u00bc\u00ed\u0095\u0098\u00eb\u008a\u0094 \u00eb\u00aa\u00a8\u00ec\u008a\u00b5\u00ec\u009d\u0084 \u00ec\u0097\u00bf\u00eb\u00b3\u00b4\u00ea\u00b3\u00a0, \u00eb\u00b9\u0084\u00ed\u0095\u0098\u00ec\u009d\u00b8\u00eb\u0093\u009c \u00ec\u008a\u00a4\u00ed\u0086\u00a0\u00eb\u00a6\u00ac\u00eb\u00a5\u00bc \u00eb\u0093\u00a4\u00ec\u009d\u0084 \u00ec\u0088\u0098 \u00ec\u009e\u0088\u00ec\u008a\u00b5\u00eb\u008b\u0088\u00eb\u008b\u00a4. \u00ec\u00b5\u009c\u00ec\u008b\u00a0 \u00eb\u0089\u00b4\u00ec\u008a\u00a4\u00ec\u0099\u0080 \u00ec\u009d\u00b4\u00eb\u00b2\u00a4\u00ed\u008a\u00b8 \u00ec\u0086\u008c\u00ec\u008b\u009d\u00eb\u008f\u0084 \u00eb\u00b0\u009b\u00ec\u0095\u0084\u00eb\u00b3\u00b4\u00ec\u0084\u00b8\u00ec\u009a\u0094!<br><br><strong>\u00ed\u008c\u0094\u00eb\u00a1\u009c\u00ec\u009a\u00b0\u00ed\u0095\u0098\u00ea\u00b8\u00b0 \u00e2\u0086\u0092<br><br></strong>\u00ec\u00b1\u0084\u00ec\u009a\u00a9\u00ec\u0097\u0090 \u00ea\u00b4\u0080\u00eb\u00a0\u00a8\u00eb\u0090\u009c \u00eb\u00ac\u00b8\u00ec\u009d\u0098\u00ec\u0082\u00ac\u00ed\u0095\u00ad\u00ec\u009d\u00b4 \u00ec\u009e\u0088\u00eb\u008b\u00a4\u00eb\u00a9\u00b4 \u00ec\u0096\u00b8\u00ec\u00a0\u009c\u00eb\u0093\u00a0 \u00ec\u0095\u0084\u00eb\u009e\u0098 \u00ec\u009d\u00b4\u00eb\u00a9\u0094\u00ec\u009d\u00bc\u00eb\u00a1\u009c \u00ec\u0097\u00b0\u00eb\u009d\u00bd \u00ec\u00a3\u00bc\u00ec\u0084\u00b8\u00ec\u009a\u0094.<br><br>\u00ec\u009d\u00b4\u00eb\u00a9\u0094\u00ec\u009d\u00bc : <strong>recruit@awesomeent.kr</strong><br/><br/>Please mention the word **PRETTILY** and tag RNTcuMTUxLjEzNy4xNzY= when applying to show you read the job post completely (#RNTcuMTUxLjEzNy4xNzY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "url": "https://remoteOK.com/remote-jobs/remote-awesome-life-awesome-entertainment-1135631",
+    "source": "RemoteOK",
+    "posted_at": "2026-07-28T13:44:48+00:00",
+    "tags": [
+      "infosec",
+      "javascript",
+      "exec",
+      "recruiter"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "JavaScript"
     ]
   },
   {
@@ -61,37 +126,6 @@
     "match_score": 2,
     "matched_skills": [
       "Python"
-    ]
-  },
-  {
-    "title": "Werkstudent (m/w/d) IT Solution Management",
-    "company": "OXG Glasfaser GmbH",
-    "location": "D\u00fcsseldorf und Remote",
-    "description": "<br><strong>Was diesen Job so besonders macht?</strong><p>Du m\u00f6chtest neben dem Studium praktische Erfahrung in der Weiterentwicklung digitaler L\u00f6sungen sammeln und Einblicke in agile Arbeitsweisen, fachliche Prozesse sowie unterst\u00fctzende T\u00e4tigkeiten rund um Salesforce und angrenzende Systeme gewinnen? Dann werde Teil unseres Teams!<br><br><strong>Dein Schwerpunkt: Mitarbeit im Salesforce-Team</strong><br><ul><li>Unterst\u00fctzung des Teams bei agilen Routinen im Arbeitsalltag (z. B. Daily Stand-ups, Reviews)</li><li>Mitarbeit bei Feedback-, Kl\u00e4rungs- und Abstimmungsrunden rund um User Stories</li><li>Pflege, Aktualisierung und Weiterentwicklung unserer User-Guide-Dokumentation</li><li>Mitarbeit an Dokumentationen im Rahmen von Releases, insbesondere bei iterativen \u00c4nderungen</li><li>Unterst\u00fctzung im Testing von User Stories und kleineren Anforderungen</li><li>Mitwirkung bei Supportaktivit\u00e4ten, fachlichen R\u00fcckfragen und organisatorischen Aufgaben im L\u00f6sungsumfeld</li></ul><strong>Weitere spannende Themenfelder</strong><br><ul><li>Unterst\u00fctzung im Bereich Marketing Cloud, z. B. bei Tool-Support und kleineren Anpassungen</li><li>Unterst\u00fctzung der Web Agentur bei TYPO3 Aufgaben \u201ewww.oxg.de\u201c (OXG Website)</li><li>Unterst\u00fctzung im Projekt \u201eIntranet 2.0\u201c (OXG Intranet; TYPO3)</li><li>Mitarbeit beim Redesign von \u201emitmachen.oxg.de\u201c, insbesondere bei UX-Flows und Testing (OXG Digitale Bestellstrecke)</li></ul><br><br><br></p><br><strong>Wann passt Du zu uns?</strong><p><ul><li>Du bist aktuell in einem Bachelor- oder Masterstudium immatrikuliert, idealerweise in Wirtschaftsinformatik, Informatik, BWL mit IT-Bezug oder einem vergleichbaren Studiengang.</li><li>Du hast Lust auf digitale Prozesse und Systeme und besch\u00e4ftigst dich gerne mit fachlich-technischen Fragestellungen.</li><li>Strukturierte, sorgf\u00e4ltige und zuverl\u00e4ssige Arbeitsweise ist f\u00fcr dich selbstverst\u00e4ndlich.</li><li>Du hast ein gutes Verst\u00e4ndnis daf\u00fcr, wie man Informationen klar dokumentiert, sich abstimmt und analyti",
-    "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-werkstudent-it-solution-management-335916",
-    "source": "Arbeitnow",
-    "posted_at": "2026-07-29T02:09:10+00:00",
-    "tags": [],
-    "match_score": 2,
-    "matched_skills": [
-      "Agile"
-    ]
-  },
-  {
-    "title": "Werkstudent IT (m/w/d)",
-    "company": "catkin GmbH",
-    "location": "Dortmund",
-    "description": "<p>Die catkin GmbH ist ein Software-Unternehmen mit Sitz am Phoenix-See in Dortmund, das Innovation in die Logistikbranche bringt. Wir betreiben und entwickeln die patentierte catkin Plattform zur Vernetzung von Prozessen sowie weitere moderne Planungsl\u00f6sungen f\u00fcr die Logistik und Supply Chain. Zu unseren Kunden geh\u00f6ren namhafte Unternehmen der Transportbranche. Wir arbeiten mit den modernsten Technologien und Arbeitsplatzausstattungen und sind stets auf der Suche nach Menschen, die Lust haben, die digitale Zukunft mit uns zu gestalten und unser Team zu bereichern.</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Aktive Mitarbeit an der Weiterentwicklung unserer Produktlandschaft</li>\n<li>Entwicklung neuer Features f\u00fcr Web- und App-Anwendungen</li>\n<li>Unterst\u00fctzung bei Architektur-, Design- und Implementierungsaufgaben</li>\n<li>Aufbau und Weiterentwicklung automatisierter Tests mit Playwright</li>\n<li>Analyse und Behebung von Softwarefehlern</li>\n<li>Mitarbeit im gesamten Softwareentwicklungsprozess \u2013 von der Anforderung bis zum Release</li>\n<li>Kennenlernen unseres Technologie-Stacks und unserer Produkte</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Laufendes Studium der Informatik oder einer vergleichbaren Fachrichtung</li>\n<li>Sehr gute praktische Programmierkenntnisse und Leidenschaft f\u00fcr Softwareentwicklung</li>\n<li>Idealerweise bereits Berufserfahrung durch Werkstudentent\u00e4tigkeiten, Praktika oder freiberufliche Projekte</li>\n<li>Nachweisbare eigene Softwareprojekte (z. B. GitHub, Apps, Webanwendungen oder Open-Source-Beitr\u00e4ge)</li>\n<li>Erfahrung mit Webentwicklung und modernen Anwendungsarchitekturen</li>\n<li>Von Vorteil: Kenntnisse in C#, .NET, <a href=\"http://asp.net/\">ASP.NET</a>, SQL sowie MAUI, Android oder iOS-Entwicklung</li>\n<li>Interesse an Testautomatisierung, Continuous Integration und Softwarequalit\u00e4t</li>\n<li>Selbstst\u00e4ndige Arbeitsweise, hohe Lernbereitschaft und Freude an technischen Herausforderungen</li>\n<li>Erste Ber\u00fchrungspunkte mit KI-Anwendungen (Claude, Copil",
-    "url": "https://www.arbeitnow.com/jobs/companies/catkin-gmbh/werkstudent-it-dortmund-470545",
-    "source": "Arbeitnow",
-    "posted_at": "2026-07-28T16:00:29+00:00",
-    "tags": [
-      "Remote",
-      "Development"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "SQL"
     ]
   }
 ]
