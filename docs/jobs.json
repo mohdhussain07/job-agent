@@ -1,180 +1,118 @@
 [
   {
-    "title": "Web Developer (Volunteer / Portfolio Credit)",
-    "company": "David Hooper Home Limited",
-    "location": "Pontypridd",
-    "description": "<p>DH Home Networking &#x26; Websites is a new UK-based digital services startup building modern websites and systems for small businesses.</p>\n<p>We\u2019re looking for a motivated Web Developer to help us deliver real client projects while building your own portfolio, experience, and references. This role is fully remote, flexible, and ideal for students, career-changers, or self-taught developers looking for hands-on experience.</p>\n<p>This role is unpaid.</p>\n<h2>Tasks</h2>\n<p>Build and deploy websites based on real client needs</p>\n<p>\u2022 Work on small to medium web projects (business websites, landing pages, simple systems)</p>\n<p>\u2022 Choose appropriate technologies or frameworks to meet project requirements</p>\n<p>\u2022 Ensure sites are responsive, user-friendly, and functional</p>\n<p>\u2022 Deploy sites to live hosting (Cloudflare Pages, GitHub Pages, or other suitable platforms)</p>\n<p>\u2022 Make updates or improvements based on feedback</p>\n<p>\u2022 Collaborate remotely via chat or short calls when needed</p>\n<h2>Requirements</h2>\n<p>\u2022 Interest in web development and building real-world projects</p>\n<p>\u2022 Familiarity with any web technologies (HTML/CSS, JavaScript, React, Vue, PHP, Python, etc.)</p>\n<p>\u2022 Ability to work independently and manage your own time</p>\n<p>\u2022 Willingness to learn new tools and platforms if needed</p>\n<p>\u2022 Access to a computer and reliable internet connection</p>\n<p>No formal experience or qualifications required \u2014 portfolio work, personal projects, or coursework are absolutely fine.</p>\n<h2>Benefits</h2>\n<p>Fully remote role \u2013 work from anywhere</p>\n<p>\u2022 Flexible hours \u2013 no set schedule or minimum hours</p>\n<p>\u2022 Real client projects for your portfolio</p>\n<p>\u2022 Portfolio credit and references provided</p>\n<p>\u2022 Opportunity to grow with a new startup</p>\n<p>\u2022 Exposure to real-world client requirements and delivery</p>\n<p>\u2022 Potential for paid work as the business grows</p>\n<p>If you\u2019re interested in gaining hands-on experience and building real-world projects, w",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/david-hooper-home-limited/web-developer-volunteer-portfolio-credit-pontypridd-454167",
+    "title": "Automation Engineer (m/w/d)",
+    "company": "Vogel",
+    "location": "M\u00fcnchen",
+    "description": "<h3>Deine Rolle</h3><p style=\"min-height:1.5em\">Mittelstandsberatung ist ein operatives Gesch\u00e4ft. Jede Buchung, jede Lohnabrechnung, jede Steuererkl\u00e4rung folgt einem Prozess \u2014 und die Qualit\u00e4t dieser Prozesse bestimmt, ob ein Beratungsunternehmen mit f\u00fcnfzig Mitarbeitern tr\u00e4gt oder mit f\u00fcnfhundert. Die meisten Einheiten in unserer Branche haben diese Prozesse nie systematisch hinterfragt. Sie funktionieren, weil erfahrene Menschen Workarounds kennen \u2014 nicht weil die Abl\u00e4ufe durchdacht sind. Vogel ist eine der erfolgreichsten mittelst\u00e4ndischen Beratungsgesellschaften in Deutschland \u2014 mehrere Tausend mittelst\u00e4ndische Unternehmen vertrauen uns ihre Steuer-, kaufm\u00e4nnischen und strategischen Themen an. Etablierte Mandanten, lange Erfahrung, starke Wachstumsbasis \u2014 und gleichzeitig ein Setup, das jeden Tag nach vorne geht.</p><p style=\"min-height:1.5em\">Du baust seit zwei bis f\u00fcnf Jahren Workflows und Automatisierungen f\u00fcr interne Operatoren \u2014 in einer Workflow-Beratung, einer Automatisierungs-Agentur, als Internal Platform Engineer in einem Scaleup oder als Forward Deployed Engineer (intern). Du hast mindestens f\u00fcnf produktive Workflows live geschickt, die heute Stunden am Tag sparen \u2014 gemessen, dokumentiert, geowned. n8n, Make oder Claude Code sind dir hands-on vertraut, Python oder JavaScript auf Skript-Niveau geh\u00f6ren zu deinem Werkzeug, mindestens einen LLM-API hast du in Production verbaut. Du wechselst, weil dir die Phase, in der du Workflows f\u00fcr ein Tech-Produkt baust, zu eng geworden ist \u2014 du willst denselben Hebel jetzt in einer Branche anwenden, in der jede Stunde Automatisierung direkten Mandantennutzen tr\u00e4gt. Bei Vogel berichtest du direkt an die Gesch\u00e4ftsf\u00fchrung \u2014 Joachim und Moritz Vogel als sichtbare Personen, mit namentlicher Verantwortung \u2014 weil die Operations-Schicht hier neu aufgebaut wird. Strukturen, die tragen \u2014 etablierte Mandanten, lange Erfahrung, starke Wachstumsbasis \u2014 und gleichzeitig ein Setup, das jeden Tag nach vorne geht. Kein Konzern-Korse",
+    "url": "https://www.arbeitnow.com/jobs/companies/vogel/automation-engineer-munchen-454078",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-05T05:27:34+00:00",
+    "posted_at": "2026-08-06T02:40:24+00:00",
     "tags": [
-      "Remote",
-      "Web Development"
+      "Vogel"
     ],
-    "match_score": 6,
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "JavaScript"
+    ]
+  },
+  {
+    "title": "Founding Machine Learning Engineer",
+    "company": "Clera",
+    "location": "remote",
+    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a founding-level Machine Learning Engineer role at a well-funded Series A AI data and services startup based in Mountain View, CA. You will join a small, high-caliber team building and scaling core ML systems from the ground up \u2014 bridging research and engineering to design, train, and ship production-grade models for top AI frontier labs. This is a high-ownership position where your work directly shapes the company's technical culture, infrastructure, and long-term ML impact.</p><p style=\"min-height:1.5em\">The company specializes in high-quality training and post-training data, reinforcement learning environments, and intelligent agents \u2014 serving both frontier AI labs and enterprise customers. Visa sponsorship is <strong>not available</strong> for this role.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build and optimize end-to-end ML pipelines, from data ingestion through to deployment.</p></li><li><p style=\"min-height:1.5em\">Implement and fine-tune LLMs, embeddings, and generative models for real-world applications.</p></li><li><p style=\"min-height:1.5em\">Develop efficient training and inference systems leveraging distributed compute.</p></li><li><p style=\"min-height:1.5em\">Partner with data and product teams to translate ideas into measurable ML impact.</p></li><li><p style=\"min-height:1.5em\">Contribute to model monitoring, evaluation, and continual learning frameworks.</p></li><li><p style=\"min-height:1.5em\">Establish best practices in model versioning, reproducibility, and scalability.</p></li></ul><h3>What We're Looking For</h3><p style=\"min-height:1.5em\"><strong>Required:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">3\u201310 years of experience as an ML Engineer, Applied Scientist, or Research Engineer.</p></li><li><p style=\"min-height:1.5em\">Proficiency in Python and at least one major ML framework: PyTorch, TensorFlow, or JAX.</p></li",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-machine-learning-engineer-413326",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-06T05:40:26+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Founding Machine Learning Engineer",
+    "company": "Clera",
+    "location": "remote",
+    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a founding-level Machine Learning Engineer role at a well-funded Series A AI data and services startup based in Mountain View, CA. You will join a small, high-caliber team building and scaling core ML systems from the ground up \u2014 bridging research and engineering to design, train, and ship production-grade models for top AI frontier labs. This is a high-ownership position where your work directly shapes the company's technical culture, infrastructure, and long-term ML impact.</p><p style=\"min-height:1.5em\">The company specializes in high-quality training and post-training data, reinforcement learning environments, and intelligent agents \u2014 serving both frontier AI labs and enterprise customers. Visa sponsorship is <strong>not available</strong> for this role.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build and optimize end-to-end ML pipelines, from data ingestion through to deployment.</p></li><li><p style=\"min-height:1.5em\">Implement and fine-tune LLMs, embeddings, and generative models for real-world applications.</p></li><li><p style=\"min-height:1.5em\">Develop efficient training and inference systems leveraging distributed compute.</p></li><li><p style=\"min-height:1.5em\">Partner with data and product teams to translate ideas into measurable ML impact.</p></li><li><p style=\"min-height:1.5em\">Contribute to model monitoring, evaluation, and continual learning frameworks.</p></li><li><p style=\"min-height:1.5em\">Establish best practices in model versioning, reproducibility, and scalability.</p></li></ul><h3>What We're Looking For</h3><p style=\"min-height:1.5em\"><strong>Required:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">3\u201310 years of experience as an ML Engineer, Applied Scientist, or Research Engineer.</p></li><li><p style=\"min-height:1.5em\">Proficiency in Python and at least one major ML framework: PyTorch, TensorFlow, or JAX.</p></li",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-machine-learning-engineer-162967",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-06T03:40:10+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Security Engineer",
+    "company": "Qdrant.tech",
+    "location": "Germany",
+    "description": "<p style=\"min-height:1.5em\">Qdrant is an <strong>open-source vector</strong> search engine powering the next generation of AI applications, from semantic search and retrieval-augmented generation (RAG) to AI agents and real-time recommendations.</p><p style=\"min-height:1.5em\">Trusted by global leaders like <strong>Canva, HubSpot, Tripadvisor, Bosch, and Deutsche Telekom</strong>, we\u2019re building the retrieval infrastructure layer for modern AI. Recently raising <strong>$50M in Series B</strong> funding, we are growing rapidly and committed to transforming how AI understands and interacts with data.</p><p style=\"min-height:1.5em\">As a remote-first company, we believe diverse backgrounds, perspectives, and experiences fuel innovation. Here, you\u2019ll own meaningful work, tackle challenges, and grow alongside passionate individuals dedicated to shaping the future of AI.</p><p style=\"min-height:1.5em\">We are looking for a<strong> Mid-Level Security Engineer</strong> to own the hands-on engineering and operational work within our security program. You will be embedded in the Cloud Engineering team, report into the Security Officer, and work closely together to identify risks, set priorities, and drive security issues through remediation. You will act as a security enabler across all Product &amp; Engineering.</p><p style=\"min-height:1.5em\"></p><h1><strong>What you will own</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Run our public bug bounty program</strong>: triage reports, reproduce and validate findings, communicate clearly with security researchers, and drive remediation through to closure.</p></li><li><p style=\"min-height:1.5em\">Investigate reported vulnerabilities at the code level, including our Rust core, Go and Python tooling.</p></li><li><p style=\"min-height:1.5em\">Enable engineers to build secure systems: provide tooling, paved-road defaults, documentation, and practical guidance so security is the easy path, not a checkpoint.",
+    "url": "https://www.arbeitnow.com/jobs/companies/qdranttech/security-engineer-berlin-444740",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-06T05:40:32+00:00",
+    "tags": [
+      "Governance",
+      "Risk & Compliance"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Engineering Intern",
+    "company": "Clera",
+    "location": "Berlin",
+    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join a fast-growing, Series A/B-backed EdTech company building an AI-powered learning platform used by tens of millions of students across 30+ countries. As an <strong>Engineering Intern</strong>, you'll work alongside a talented and international engineering team to contribute to real product features that help students learn more effectively \u2014 from AI tutoring tools to study resources and beyond.</p><p style=\"min-height:1.5em\">This is a hands-on internship where you'll be embedded in the team and expected to ship meaningful work. The internship runs for <strong>3\u20136 months</strong> and is based in <strong>Berlin, Germany</strong>.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Contribute to the development and improvement of features across a mobile-first, AI-driven learning platform</p></li><li><p style=\"min-height:1.5em\">Write clean, well-tested code in one or more languages (e.g. Python, Java, or JavaScript)</p></li><li><p style=\"min-height:1.5em\">Collaborate with engineers and product managers in an agile environment</p></li><li><p style=\"min-height:1.5em\">Participate in code reviews and engineering discussions</p></li><li><p style=\"min-height:1.5em\">Take ownership of scoped tasks and deliver them end-to-end with guidance from senior engineers</p></li></ul><h3>What We're Looking For</h3><p style=\"min-height:1.5em\"><strong>Required:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Currently enrolled in a Bachelor's or Master's degree in Computer Science, Software Engineering, or a closely related field</p></li><li><p style=\"min-height:1.5em\">Proficiency in at least one programming language (e.g. Python, Java, or JavaScript), demonstrated through coursework, personal projects, or a prior internship</p></li><li><p style=\"min-height:1.5em\">Ability to commit to the full internship duration (3\u20136 months) with a flexible schedule to accommodate project nee",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/engineering-intern-berlin-343097",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-06T05:40:26+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 2,
     "matched_skills": [
       "Python",
       "JavaScript",
+      "Agile"
+    ]
+  },
+  {
+    "title": "Product Engineer",
+    "company": "Clera",
+    "location": "Berlin",
+    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a foundational product engineering role at a small, high-caliber founding team building an <strong>AI-native automation platform for private market operations</strong>. You will lead the design and build of the core interface where operations teams interact with AI agents \u2014 shaping the design system, review workflows, and human-in-the-loop UX that make agent output trustworthy and easy to act on. Your work will have outsized impact on how users experience AI at work, from day one.</p><p style=\"min-height:1.5em\">The company is based in <strong>Berlin, Germany</strong> and operates on-site. Visa sponsorship is available.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Develop and maintain the company's design system and UX patterns for complex, workflow-driven applications.</p></li><li><p style=\"min-height:1.5em\">Create product interfaces that connect users to AI agents and data sources (ERPs, banking systems, email, file storage, and more).</p></li><li><p style=\"min-height:1.5em\">Build human-in-the-loop flows for reviewing, approving, and acting on agent-generated outputs \u2014 including journal entries, reconciliations, and reporting packages.</p></li><li><p style=\"min-height:1.5em\">Conduct user research with operations stakeholders to identify pain points and iteratively refine product features.</p></li></ul><h3>What We're Looking For</h3><p style=\"min-height:1.5em\"><strong>Required:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">1\u20137 years of professional frontend development experience.</p></li><li><p style=\"min-height:1.5em\">Strong proficiency in <strong>TypeScript</strong> and <strong>React</strong>.</p></li><li><p style=\"min-height:1.5em\">Hands-on experience with <strong>Tailwind CSS</strong> for UI styling.</p></li><li><p style=\"min-height:1.5em\">Experience developing, documenting, or evolving design systems for complex applications.</p></li>",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-berlin-80146",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-06T05:40:26+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 2,
+    "matched_skills": [
       "React"
     ]
   },
   {
-    "title": "Data Analytics, Data Science & AI Weiterbildung mit IHK-Abschluss | 100 % Remote",
-    "company": "DataSmart Point GmbH",
-    "location": "Berlin",
-    "description": "<p><strong>Werde Teil der digitalen Zukunft mit der DataSmart Point Academy</strong></p>\n<p>Die DataSmart Point Academy (DSP Academy) ist ein AZAV-zertifizierter Bildungstr\u00e4ger, spezialisiert auf praxisnahe IT- und Data-Weiterbildungen mit klarer Zukunftsperspektive.</p>\n<p>Unsere Programme richten sich an motivierte Quereinsteiger:innen, die den Einstieg in datengetriebene Berufe suchen sowie an Fachkr\u00e4fte mit IT-Erfahrung, die ihr Wissen vertiefen m\u00f6chten,</p>\n<p>Unser erfahrenes Dozent:innen-Team aus Professor:innen, Fachexpert:innen und Praktiker:innen begleitet jede Teilnehmerin und jeden Teilnehmer pers\u00f6nlich und praxisorientiert.</p>\n<p>Wir haben bereits viele erfolgreiche Karrieren unterst\u00fctzt und freuen uns, dich auf deinem Weg zum Data Analyst zu begleiten.</p>\n<p><strong>Inhalte der Weiterbildung</strong></p>\n<p>In unserer zw\u00f6lfmonatigen Weiterbildung lernst du praxisnah und anwendungsorientiert in folgenden Themenfeldern:</p>\n<h2>Aufgaben</h2>\n<p>Das erwartet dich bei uns:</p>\n<ul>\n<li><strong>Praxisnahe Inhalte:</strong> Datenanalyse mit SQL, Python und Power BI, Erstellung interaktiver Dashboards, Grundlagen der KI und agiles Projektmanagement.</li>\n<li><strong>Live-Unterricht:</strong> Online-Training im virtuellen Klassenzimmer mit erfahrenen Professor:innen, Data Analysts und KI-Expert:innen.</li>\n<li><strong>Zertifizierte Abschl\u00fcsse:</strong> IHK-Zertifikat und offizielle Power BI-Zertifizierung nach erfolgreichem Abschluss.</li>\n<li><strong>Individuelle Unterst\u00fctzung:</strong> Pers\u00f6nliches Karriere-Coaching, Bewerbungstraining und aktive Jobvermittlung.</li>\n</ul>\n<h2>Qualifikation</h2>\n<p>Was bringst du mit?</p>\n<ul>\n<li>Begeisterung f\u00fcr datengetriebenes Arbeiten und innovative Technologien</li>\n<li>Motivation und Lernbereitschaft \u2013 kein IT-Abschluss notwendig!</li>\n<li>Deutschkenntnisse mindestens auf B2-Niveau</li>\n<li>\u00d6ffentliche F\u00f6rderung m\u00f6glich</li>\n</ul>\n<h2>Benefits</h2>\n<p>\ud83d\udcca **Werde Experte f\u00fcr Data &#x26; AI \u2013 Jetzt durchstarten!<br>\n**",
-    "url": "https://www.arbeitnow.com/jobs/companies/datasmart-point-gmbh/data-analytics-data-science-ai-weiterbildung-mit-ihk-abschluss-100-remote-berlin-452130",
+    "title": "Specialist Account Executive - ZT Branch",
+    "company": "zscaler",
+    "location": "Remote",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;About &lt;strong&gt;Zscaler&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Zscaler accelerates digital transformation to ensure our customers can be more agile, efficient, resilient, and secure. As an &lt;strong&gt;AI-forward enterprise&lt;/strong&gt;, we are constantly pushing the envelope, leveraging the world\u2019s largest security data lake to power our cloud-native Zero Trust Exchange platform. This innovation protects our customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location.&lt;/p&gt;\n&lt;p&gt;Here, &lt;strong&gt;impact in your role matters more than title&lt;/strong&gt; and trust is built on results. We say, impact over activity. We seek innovators who actively use AI to amplify their impact and who thrive in an environment where we leverage intelligent systems to stay ahead of evolving threats. We believe in transparency and value &lt;strong&gt;constructive, honest debate&lt;/strong&gt;\u2014we\u2019re focused on getting to the best ideas, faster. We build high-performing teams that can make an impact quickly and with high quality. To do this, we are building a culture of execution centered on &lt;strong&gt;customer obsession&lt;/strong&gt;, collaboration, ownership, and accountability.&lt;/p&gt;\n&lt;p&gt;We value high-impact, high-accountability with a sense of urgency where you\u2019re enabled to do your best work and embrace your potential. If you\u2019re driven by purpose, thrive on solving complex challenges, and want to be part of the team that\u2019s helping to secure the AI age, we invite you to bring your talents to Zscaler and help shape the future of cybersecurity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a Specialist Account Executive to join our team. This is a Remote (Germany, with a preference for Frankfurt or Munich) role, reporting to the Regional Director - Zero Trust Branch in the Sales and Go-to-Market depart",
+    "url": "https://www.arbeitnow.com/jobs/companies/zscaler/specialist-account-executive-zt-branch-141241",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-05T03:04:03+00:00",
+    "posted_at": "2026-08-06T02:55:11+00:00",
     "tags": [
-      "Remote",
-      "Data Scientist"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Python Developer - Remote in Germany",
-    "company": "Anyone Ai",
-    "location": "Germany",
-    "description": "<p style=\"min-height:1.5em\">Anyone AI is recruiting skilled Python Developers to work on a project with a leading AI lab. </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Qualifications:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Advanced professional written proficiency in English</p></li><li><p style=\"min-height:1.5em\">3\u20137 years of professional software engineering experience</p></li><li><p style=\"min-height:1.5em\">Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go</p></li><li><p style=\"min-height:1.5em\">Backend or full\u2011stack development experience in production systems</p></li><li><p style=\"min-height:1.5em\">Experience with testing frameworks (e.g., pytest, Jest, JUnit, xUnit, Go testing)</p></li><li><p style=\"min-height:1.5em\">Proven ability to debug and navigate large, multi\u2011file codebases</p></li><li><p style=\"min-height:1.5em\">Experience with code reviews, refactoring, and production migrations</p><p style=\"min-height:1.5em\"></p></li></ul><p style=\"min-height:1.5em\"><strong>Engagement:</strong> Part-time, project-based expert evaluation work</p><p style=\"min-height:1.5em\"><strong>Work Type:</strong> Remote</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Contributors will design and evaluate realistic software engineering tasks, including bug resolution, feature implementation, refactoring/migration, and test generation. Work includes both creating complex coding scenarios and reviewing peer submissions for quality and accuracy.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">This is a project-based consultant role. Consultants will be paid on a per-project basis; hourly rates are estimates based on anticipated completion time. Consultants control their own schedule, provide their own tools, and may simultaneously provide services to other vendors/employers (subject to those vendors\u2019 allowances).</p><p style=\"min-height:1.5em\"></p><p sty",
-    "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/python-developer-remote-in-germany-berlin-319060",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-05T00:00:59+00:00",
-    "tags": [
-      "Software Engineering"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Full-Stack Developer - AI Trainer (Germany)",
-    "company": "Anyone Ai",
-    "location": "Germany",
-    "description": "<p style=\"min-height:1.5em\">Anyone AI is recruiting skilled Full-Stack Developers to work on a project with a leading AI lab. </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Qualifications:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Advanced professional written proficiency in English</p></li><li><p style=\"min-height:1.5em\">3\u20137 years of professional software engineering experience</p></li><li><p style=\"min-height:1.5em\">Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go</p></li><li><p style=\"min-height:1.5em\">Backend or full\u2011stack development experience in production systems</p></li><li><p style=\"min-height:1.5em\">Experience with testing frameworks (e.g., pytest, Jest, JUnit, xUnit, Go testing)</p></li><li><p style=\"min-height:1.5em\">Proven ability to debug and navigate large, multi\u2011file codebases</p></li><li><p style=\"min-height:1.5em\">Experience with code reviews, refactoring, and production migrations</p><p style=\"min-height:1.5em\"></p></li></ul><p style=\"min-height:1.5em\"><strong>Engagement:</strong> Part-time, project-based expert evaluation work</p><p style=\"min-height:1.5em\"><strong>Work Type:</strong> Remote</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Contributors will design and evaluate realistic software engineering tasks, including bug resolution, feature implementation, refactoring/migration, and test generation. Work includes both creating complex coding scenarios and reviewing peer submissions for quality and accuracy.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">This is a project-based consultant role. Consultants will be paid on a per-project basis; hourly rates are estimates based on anticipated completion time. Consultants control their own schedule, provide their own tools, and may simultaneously provide services to other vendors/employers (subject to those vendors\u2019 allowances).</p><p style=\"min-height:1.5em\"></p><p",
-    "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-germany-berlin-278001",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-05T00:00:59+00:00",
-    "tags": [
-      "Software Engineering"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Backend Developer - AI Trainer (Germany)",
-    "company": "Anyone Ai",
-    "location": "Germany",
-    "description": "<p style=\"min-height:1.5em\">Anyone AI is recruiting skilled Backend Developers to work on a project with a leading AI lab. </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Qualifications:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Advanced professional written proficiency in English</p></li><li><p style=\"min-height:1.5em\">3\u20137 years of professional software engineering experience</p></li><li><p style=\"min-height:1.5em\">Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go</p></li><li><p style=\"min-height:1.5em\">Backend or full\u2011stack development experience in production systems</p></li><li><p style=\"min-height:1.5em\">Experience with testing frameworks (e.g., pytest, Jest, JUnit, xUnit, Go testing)</p></li><li><p style=\"min-height:1.5em\">Proven ability to debug and navigate large, multi\u2011file codebases</p></li><li><p style=\"min-height:1.5em\">Experience with code reviews, refactoring, and production migrations</p><p style=\"min-height:1.5em\"></p></li></ul><p style=\"min-height:1.5em\"><strong>Engagement:</strong> Part-time, project-based expert evaluation work</p><p style=\"min-height:1.5em\"><strong>Work Type:</strong> Remote</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Contributors will design and evaluate realistic software engineering tasks, including bug resolution, feature implementation, refactoring/migration, and test generation. Work includes both creating complex coding scenarios and reviewing peer submissions for quality and accuracy.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">This is a project-based consultant role. Consultants will be paid on a per-project basis; hourly rates are estimates based on anticipated completion time. Consultants control their own schedule, provide their own tools, and may simultaneously provide services to other vendors/employers (subject to those vendors\u2019 allowances).</p><p style=\"min-height:1.5em\"></p><p st",
-    "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/backend-developer-ai-trainer-germany-berlin-112597",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-05T00:00:59+00:00",
-    "tags": [
-      "Software Engineering"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Software Engineering AI Trainer (Germany)",
-    "company": "Anyone Ai",
-    "location": "Germany",
-    "description": "<p style=\"min-height:1.5em\">Anyone AI is recruiting skilled software engineers to work on a project with a leading AI lab. </p><p style=\"min-height:1.5em\"><strong>Qualifications:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Advanced professional written proficiency in English</p></li><li><p style=\"min-height:1.5em\">3\u20137 years of professional software engineering experience</p></li><li><p style=\"min-height:1.5em\">Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go</p></li><li><p style=\"min-height:1.5em\">Backend or full\u2011stack development experience in production systems</p></li><li><p style=\"min-height:1.5em\">Experience with testing frameworks (e.g., pytest, Jest, JUnit, xUnit, Go testing)</p></li><li><p style=\"min-height:1.5em\">Proven ability to debug and navigate large, multi\u2011file codebases</p></li><li><p style=\"min-height:1.5em\">Experience with code reviews, refactoring, and production migrations</p><p style=\"min-height:1.5em\"></p></li></ul><p style=\"min-height:1.5em\"><strong>Engagement:</strong> Part-time, project-based expert evaluation work</p><p style=\"min-height:1.5em\"><strong>Work Type:</strong> Remote</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Contributors will design and evaluate realistic software engineering tasks, including bug resolution, feature implementation, refactoring/migration, and test generation. Work includes both creating complex coding scenarios and reviewing peer submissions for quality and accuracy.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">This is a project-based consultant role. Consultants will be paid on a per-project basis; hourly rates are estimates based on anticipated completion time. Consultants control their own schedule, provide their own tools, and may simultaneously provide services to other vendors/employers (subject to those vendors\u2019 allowances).</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>R",
-    "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/software-engineering-ai-trainer-germany-berlin-428271",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-05T00:00:59+00:00",
-    "tags": [
-      "Software Engineering"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Full-Stack Developer (Germany)",
-    "company": "Anyone Ai",
-    "location": "Germany",
-    "description": "<p style=\"min-height:1.5em\">Anyone AI is recruiting skilled software engineers who also speak German, to work on a project with a leading AI Lab. </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Qualifications:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Advanced professional written proficiency in English</p></li><li><p style=\"min-height:1.5em\">3\u20137 years of professional software engineering experience</p></li><li><p style=\"min-height:1.5em\">Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go</p></li><li><p style=\"min-height:1.5em\">Backend or full\u2011stack development experience in production systems</p></li><li><p style=\"min-height:1.5em\">Experience with testing frameworks (e.g., pytest, Jest, JUnit, xUnit, Go testing)</p></li><li><p style=\"min-height:1.5em\">Proven ability to debug and navigate large, multi\u2011file codebases</p></li><li><p style=\"min-height:1.5em\">Experience with code reviews, refactoring, and production migrations</p><p style=\"min-height:1.5em\"></p></li></ul><p style=\"min-height:1.5em\"><strong>Engagement:</strong> Part-time, project-based expert evaluation work</p><p style=\"min-height:1.5em\"><strong>Work Type:</strong> Remote</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Contributors will design and evaluate realistic software engineering tasks, including bug resolution, feature implementation, refactoring/migration, and test generation. Work includes both creating complex coding scenarios and reviewing peer submissions for quality and accuracy.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">This is a project-based consultant role. Consultants will be paid on a per-project basis; hourly rates are estimates based on anticipated completion time. Consultants control their own schedule, provide their own tools, and may simultaneously provide services to other vendors/employers (subject to those vendors\u2019 allowances).</p><p style=\"min-",
-    "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-germany-berlin-455281",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-05T00:00:59+00:00",
-    "tags": [
-      "Software Engineering"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Forward Deployed Engineer - Germany",
-    "company": "Neuralconcept",
-    "location": "Munich",
-    "description": "<p style=\"min-height:1.5em\"><strong>About the Role</strong></p><p style=\"min-height:1.5em\">The mission of Neural Concept\u2019s Forward Deployed Engineering team is to help our customers solve their most complex engineering challenges. We collaborate closely with engineering and design teams within the automotive, aerospace and energy industries, understand their challenges and pains, and help them identify solutions to accelerate their conception processes. We leverage our platform to unlock the value of the most complex computer-aided engineering datasets and to create a direct impact on product design processes. Using 3D deep learning and engineering intelligence, we empower our customers to develop better products faster.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">As a key player in the Forward Deployed Engineering Team, your mission will be to help industry leaders to redefine their product design workflow with cutting-edge technologies. Your expertise should establish trust and admiration from our customers by delivering high-quality technical work. This is a chance to be at the intersection of engineering and AI, working with top-tier customers worldwide while shaping how the industry evolves<em>.</em> If you are interested in feeling firsthand the fast progress of engineering, this is the team for you.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What you will do </strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You will run projects together with our customer\u2019s engineering teams, analyze and process engineering data using our platform and python libraries, and develop tailored solutions and workflows</p></li></ul><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You will apply our machine- and deep-learning workflows to different engineering/physics problems, as well as deliver proofs-of-concept demonstrating how our technology creates value in CAD, CAE, and manufacturing.  </p></li",
-    "url": "https://www.arbeitnow.com/jobs/companies/neuralconcept/forward-deployed-engineer-germany-munich-224755",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-05T06:00:41+00:00",
-    "tags": [
-      "Forward Deployed Engineering"
+      "Global Specialty Sales"
     ],
     "match_score": 2,
     "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Junior Software Engineer (Flutter/Python)",
-    "company": "Bloom Future",
-    "location": "Heilbronn",
-    "description": "<p>Bloom Future is a startup building a digital career-orientation app for students, schools, and employers. Based at Campus Founders in Heilbronn, we help young people make more informed decisions about their professional future.<br>\nWe are hiring a product-minded engineer to help build the mobile experiences and technical systems behind it.</p>\n<h2>Tasks</h2>\n<p>You will work across our Flutter application and FastAPI backend, taking features from problem definition through implementation and release.</p>\n<p>We are looking for strong engineering fundamentals, evidence that you can ship working software, and the judgment to make sensible product and technical decisions. You should be effective in at least one area of the stack and capable of becoming productive across both.</p>\n<p>This is a hands-on role with meaningful responsibility. You will be expected to investigate problems independently, form clear opinions, and take responsibility for the quality of your work.</p>\n<p><strong>What you'll do</strong></p>\n<ul>\n<li>Build end-to-end product features across our Flutter app, APIs, and database.</li>\n<li>Improve interactive career-exploration, profile, and recommendation experiences.</li>\n<li>Design and maintain APIs, data models, and external integrations.</li>\n<li>Diagnose problems across mobile, backend, data, and infrastructure.</li>\n<li>Propose and implement improvements to UX, architecture, reliability, and performance.</li>\n<li>Write tests, review code, and support the release of production changes.</li>\n</ul>\n<h2>Requirements</h2>\n<p><strong>Our Stack:</strong></p>\n<p>Mobile: Flutter and Dart<br>\nBackend: Python and FastAPI<br>\nData: PostgreSQL and Supabase<br>\nInfrastructure: Docker and cloud services<br>\nInterfaces: REST APIs, WebSockets, and external integrations</p>\n<p><strong>What we\u2019re looking for</strong></p>\n<ul>\n<li>Strong fundamentals in at least one modern programming language.</li>\n<li>Evidence that you have built and completed a substantial app",
-    "url": "https://www.arbeitnow.com/jobs/companies/bloom-future/junior-software-engineer-flutter-python-heilbronn-349262",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-05T05:27:52+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Werkstudent*in im Projektmanagement",
-    "company": "Doo",
-    "location": "M\u00fcnchen",
-    "description": "<br><strong>Werde Teil unseres Teams!</strong><p>Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du m\u00f6chtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begr\u00fc\u00dfen zu d\u00fcrfen!</p><br><strong>Deine Aufgaben</strong><p><ul style=\"margin:4px 0 4px 24px;padding:0;\"><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du unterst\u00fctzt unser Product Consulting Team bei der t\u00e4glichen Arbeit und \u00fcbernimmst gelegentlich Aufgaben im Rahmen von Kundenprojekten, beispielsweise das Erstellen von Websites sowie Landingpages</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Im Rahmen von Kundenanfragen nimmst du Anpassungen in CSS, HTML, JavaScript oder unserer Automatisierungssoftware vor\u00a0</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du k\u00fcmmerst dich um die Dokumentation des Projektverlaufs im Hinblick auf relevante Milestones im Projektmanagement-Tool</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du unterst\u00fctzt unser Onsite-Team bei der Datenintegration zwischen der Online-Registrierung und vor-Ort-L\u00f6sungen</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du k\u00fcmmerst dich um die Konfiguration, Pr\u00fcfung und den Versand von Hardware (z.B. Scannern)</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du unterst\u00fctzt unsere Kunden beim Einlassmanagement vor Ort (inkl. Auf- und Abbau) sowie remote</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du arbeitest aktiv an Projekten zur Prozessoptimierung mit und bringst eigene Ideen und Vorschl\u00e4ge ein</li></ul></p><br><strong>Dein Profil</strong><p><ul style=\"margin:4px 0 4px 24px;padding:0;\"><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du bist noch mindestens 3 Semester an einer Hochschule immatrikuliert und studierst idealerweise (Wirtschafts-)Informatik oder ein \u00e4hnliches/vergleichbares Fach</li><li style=\"margin:2px 0;padding:0;color:#1d1c1d;\">Du m\u00f6chtest 1",
-    "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-8484",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-05T05:09:34+00:00",
-    "tags": [
-      "Projektmanagement",
-      "CSS",
-      "HTML",
-      "Werkstudent",
-      "Product Consulting",
-      "JavaScript",
-      "Engineering",
-      "Make",
-      "Webentwicklung"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "JavaScript"
+      "Agile"
     ]
   }
 ]
