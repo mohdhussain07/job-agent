@@ -1,114 +1,48 @@
 [
   {
-    "title": "Automation Engineer (m/w/d)",
-    "company": "Vogel",
-    "location": "M\u00fcnchen",
-    "description": "<h3>Deine Rolle</h3><p style=\"min-height:1.5em\">Mittelstandsberatung ist ein operatives Gesch\u00e4ft. Jede Buchung, jede Lohnabrechnung, jede Steuererkl\u00e4rung folgt einem Prozess \u2014 und die Qualit\u00e4t dieser Prozesse bestimmt, ob ein Beratungsunternehmen mit f\u00fcnfzig Mitarbeitern tr\u00e4gt oder mit f\u00fcnfhundert. Die meisten Einheiten in unserer Branche haben diese Prozesse nie systematisch hinterfragt. Sie funktionieren, weil erfahrene Menschen Workarounds kennen \u2014 nicht weil die Abl\u00e4ufe durchdacht sind. Vogel ist eine der erfolgreichsten mittelst\u00e4ndischen Beratungsgesellschaften in Deutschland \u2014 mehrere Tausend mittelst\u00e4ndische Unternehmen vertrauen uns ihre Steuer-, kaufm\u00e4nnischen und strategischen Themen an. Etablierte Mandanten, lange Erfahrung, starke Wachstumsbasis \u2014 und gleichzeitig ein Setup, das jeden Tag nach vorne geht.</p><p style=\"min-height:1.5em\">Du baust seit zwei bis f\u00fcnf Jahren Workflows und Automatisierungen f\u00fcr interne Operatoren \u2014 in einer Workflow-Beratung, einer Automatisierungs-Agentur, als Internal Platform Engineer in einem Scaleup oder als Forward Deployed Engineer (intern). Du hast mindestens f\u00fcnf produktive Workflows live geschickt, die heute Stunden am Tag sparen \u2014 gemessen, dokumentiert, geowned. n8n, Make oder Claude Code sind dir hands-on vertraut, Python oder JavaScript auf Skript-Niveau geh\u00f6ren zu deinem Werkzeug, mindestens einen LLM-API hast du in Production verbaut. Du wechselst, weil dir die Phase, in der du Workflows f\u00fcr ein Tech-Produkt baust, zu eng geworden ist \u2014 du willst denselben Hebel jetzt in einer Branche anwenden, in der jede Stunde Automatisierung direkten Mandantennutzen tr\u00e4gt. Bei Vogel berichtest du direkt an die Gesch\u00e4ftsf\u00fchrung \u2014 Joachim und Moritz Vogel als sichtbare Personen, mit namentlicher Verantwortung \u2014 weil die Operations-Schicht hier neu aufgebaut wird. Strukturen, die tragen \u2014 etablierte Mandanten, lange Erfahrung, starke Wachstumsbasis \u2014 und gleichzeitig ein Setup, das jeden Tag nach vorne geht. Kein Konzern-Korse",
-    "url": "https://www.arbeitnow.com/jobs/companies/vogel/automation-engineer-munchen-454078",
+    "title": "Full-Stack Engineer",
+    "company": "Clera",
+    "location": "Munich",
+    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We are a fast-growing, <strong>Y Combinator-backed SaaS startup</strong> operating at the intersection of AI and enterprise sales automation. Our platform helps distributors and manufacturers eliminate lost deals by automating quoting and order processing end-to-end \u2014 integrating directly with major ERP and CRM systems. We're a small, high-output team and we move fast.</p><p style=\"min-height:1.5em\">We're looking for a <strong>Full-Stack Engineer</strong> with a founder mindset to build AI-powered systems end-to-end. This is a hands-on, high-agency role for someone who loves owning architecture decisions, shipping production-grade software, and working across the entire stack.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Own the architecture and design of AI systems from concept to production.</p></li><li><p style=\"min-height:1.5em\">Collaborate with a talented cross-functional engineering team across the full stack.</p></li><li><p style=\"min-height:1.5em\">Build robust data pipelines to process large-scale unstructured data efficiently.</p></li><li><p style=\"min-height:1.5em\">Deploy and manage software in cloud environments (AWS, Azure, or GCP).</p></li><li><p style=\"min-height:1.5em\">Make the backend scalable, stable, and performant.</p></li><li><p style=\"min-height:1.5em\">Develop scalable, reusable frontend components and API structures.</p></li><li><p style=\"min-height:1.5em\">Write clean, maintainable code with well-considered testing strategies (unit and integration).</p></li></ul><h3>What We're Looking For</h3><p style=\"min-height:1.5em\"><strong>Required:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Proficiency building end-to-end AI-powered web applications using <strong>Next.js / React</strong> on the frontend and <strong>Python</strong> on the backend.</p></li><li><p style=\"min-height:1.5em\">Strong proficiency with <strong>TypeScript</stron",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-368853",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-06T02:40:24+00:00",
+    "posted_at": "2026-08-07T02:40:22+00:00",
     "tags": [
-      "Vogel"
+      "Engineering"
     ],
-    "match_score": 4,
+    "match_score": 5,
     "matched_skills": [
       "Python",
-      "JavaScript"
+      "React",
+      "Azure"
     ]
   },
   {
-    "title": "Founding Machine Learning Engineer",
-    "company": "Clera",
-    "location": "remote",
-    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a founding-level Machine Learning Engineer role at a well-funded Series A AI data and services startup based in Mountain View, CA. You will join a small, high-caliber team building and scaling core ML systems from the ground up \u2014 bridging research and engineering to design, train, and ship production-grade models for top AI frontier labs. This is a high-ownership position where your work directly shapes the company's technical culture, infrastructure, and long-term ML impact.</p><p style=\"min-height:1.5em\">The company specializes in high-quality training and post-training data, reinforcement learning environments, and intelligent agents \u2014 serving both frontier AI labs and enterprise customers. Visa sponsorship is <strong>not available</strong> for this role.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build and optimize end-to-end ML pipelines, from data ingestion through to deployment.</p></li><li><p style=\"min-height:1.5em\">Implement and fine-tune LLMs, embeddings, and generative models for real-world applications.</p></li><li><p style=\"min-height:1.5em\">Develop efficient training and inference systems leveraging distributed compute.</p></li><li><p style=\"min-height:1.5em\">Partner with data and product teams to translate ideas into measurable ML impact.</p></li><li><p style=\"min-height:1.5em\">Contribute to model monitoring, evaluation, and continual learning frameworks.</p></li><li><p style=\"min-height:1.5em\">Establish best practices in model versioning, reproducibility, and scalability.</p></li></ul><h3>What We're Looking For</h3><p style=\"min-height:1.5em\"><strong>Required:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">3\u201310 years of experience as an ML Engineer, Applied Scientist, or Research Engineer.</p></li><li><p style=\"min-height:1.5em\">Proficiency in Python and at least one major ML framework: PyTorch, TensorFlow, or JAX.</p></li",
-    "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-machine-learning-engineer-413326",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-06T05:40:26+00:00",
-    "tags": [
-      "Engineering"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Founding Machine Learning Engineer",
-    "company": "Clera",
-    "location": "remote",
-    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a founding-level Machine Learning Engineer role at a well-funded Series A AI data and services startup based in Mountain View, CA. You will join a small, high-caliber team building and scaling core ML systems from the ground up \u2014 bridging research and engineering to design, train, and ship production-grade models for top AI frontier labs. This is a high-ownership position where your work directly shapes the company's technical culture, infrastructure, and long-term ML impact.</p><p style=\"min-height:1.5em\">The company specializes in high-quality training and post-training data, reinforcement learning environments, and intelligent agents \u2014 serving both frontier AI labs and enterprise customers. Visa sponsorship is <strong>not available</strong> for this role.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build and optimize end-to-end ML pipelines, from data ingestion through to deployment.</p></li><li><p style=\"min-height:1.5em\">Implement and fine-tune LLMs, embeddings, and generative models for real-world applications.</p></li><li><p style=\"min-height:1.5em\">Develop efficient training and inference systems leveraging distributed compute.</p></li><li><p style=\"min-height:1.5em\">Partner with data and product teams to translate ideas into measurable ML impact.</p></li><li><p style=\"min-height:1.5em\">Contribute to model monitoring, evaluation, and continual learning frameworks.</p></li><li><p style=\"min-height:1.5em\">Establish best practices in model versioning, reproducibility, and scalability.</p></li></ul><h3>What We're Looking For</h3><p style=\"min-height:1.5em\"><strong>Required:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">3\u201310 years of experience as an ML Engineer, Applied Scientist, or Research Engineer.</p></li><li><p style=\"min-height:1.5em\">Proficiency in Python and at least one major ML framework: PyTorch, TensorFlow, or JAX.</p></li",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-machine-learning-engineer-162967",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-06T03:40:10+00:00",
-    "tags": [
-      "Engineering"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Security Engineer",
-    "company": "Qdrant.tech",
-    "location": "Germany",
-    "description": "<p style=\"min-height:1.5em\">Qdrant is an <strong>open-source vector</strong> search engine powering the next generation of AI applications, from semantic search and retrieval-augmented generation (RAG) to AI agents and real-time recommendations.</p><p style=\"min-height:1.5em\">Trusted by global leaders like <strong>Canva, HubSpot, Tripadvisor, Bosch, and Deutsche Telekom</strong>, we\u2019re building the retrieval infrastructure layer for modern AI. Recently raising <strong>$50M in Series B</strong> funding, we are growing rapidly and committed to transforming how AI understands and interacts with data.</p><p style=\"min-height:1.5em\">As a remote-first company, we believe diverse backgrounds, perspectives, and experiences fuel innovation. Here, you\u2019ll own meaningful work, tackle challenges, and grow alongside passionate individuals dedicated to shaping the future of AI.</p><p style=\"min-height:1.5em\">We are looking for a<strong> Mid-Level Security Engineer</strong> to own the hands-on engineering and operational work within our security program. You will be embedded in the Cloud Engineering team, report into the Security Officer, and work closely together to identify risks, set priorities, and drive security issues through remediation. You will act as a security enabler across all Product &amp; Engineering.</p><p style=\"min-height:1.5em\"></p><h1><strong>What you will own</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Run our public bug bounty program</strong>: triage reports, reproduce and validate findings, communicate clearly with security researchers, and drive remediation through to closure.</p></li><li><p style=\"min-height:1.5em\">Investigate reported vulnerabilities at the code level, including our Rust core, Go and Python tooling.</p></li><li><p style=\"min-height:1.5em\">Enable engineers to build secure systems: provide tooling, paved-road defaults, documentation, and practical guidance so security is the easy path, not a checkpoint.",
-    "url": "https://www.arbeitnow.com/jobs/companies/qdranttech/security-engineer-berlin-444740",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-06T05:40:32+00:00",
-    "tags": [
-      "Governance",
-      "Risk & Compliance"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Engineering Intern",
+    "title": "Software Engineer",
     "company": "Clera",
     "location": "Berlin",
-    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join a fast-growing, Series A/B-backed EdTech company building an AI-powered learning platform used by tens of millions of students across 30+ countries. As an <strong>Engineering Intern</strong>, you'll work alongside a talented and international engineering team to contribute to real product features that help students learn more effectively \u2014 from AI tutoring tools to study resources and beyond.</p><p style=\"min-height:1.5em\">This is a hands-on internship where you'll be embedded in the team and expected to ship meaningful work. The internship runs for <strong>3\u20136 months</strong> and is based in <strong>Berlin, Germany</strong>.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Contribute to the development and improvement of features across a mobile-first, AI-driven learning platform</p></li><li><p style=\"min-height:1.5em\">Write clean, well-tested code in one or more languages (e.g. Python, Java, or JavaScript)</p></li><li><p style=\"min-height:1.5em\">Collaborate with engineers and product managers in an agile environment</p></li><li><p style=\"min-height:1.5em\">Participate in code reviews and engineering discussions</p></li><li><p style=\"min-height:1.5em\">Take ownership of scoped tasks and deliver them end-to-end with guidance from senior engineers</p></li></ul><h3>What We're Looking For</h3><p style=\"min-height:1.5em\"><strong>Required:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Currently enrolled in a Bachelor's or Master's degree in Computer Science, Software Engineering, or a closely related field</p></li><li><p style=\"min-height:1.5em\">Proficiency in at least one programming language (e.g. Python, Java, or JavaScript), demonstrated through coursework, personal projects, or a prior internship</p></li><li><p style=\"min-height:1.5em\">Ability to commit to the full internship duration (3\u20136 months) with a flexible schedule to accommodate project nee",
-    "url": "https://www.arbeitnow.com/jobs/companies/clera/engineering-intern-berlin-343097",
+    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a rare opportunity to join a <strong>pre-seed AI-powered construction tech startup</strong> in Berlin as one of the founding engineers. You'll work on a browser-based platform that uses AI to automate complex building design workflows \u2014 including technical building equipment (TGA) planning and electrical schematic generation \u2014 reducing planning timelines from weeks to hours.</p><p style=\"min-height:1.5em\">As an early Software Engineer, you'll have real influence over architecture, tooling, and infrastructure decisions. You'll help shape the core backend and plugin architecture, deliver prototypes, and drive the MVP to production-readiness across multiple ecosystems.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Contribute to the design and delivery of prototypes for AI-powered building design features.</p></li><li><p style=\"min-height:1.5em\">Drive the MVP to production-readiness across multiple software ecosystems (including integrations with tools such as Revit).</p></li><li><p style=\"min-height:1.5em\">Process and handle large quantities of CAD data at scale.</p></li><li><p style=\"min-height:1.5em\">Help define backend and plugin architecture, as well as infrastructure setup.</p></li><li><p style=\"min-height:1.5em\">Write clean, maintainable, and well-structured code with strong CS fundamentals.</p></li><li><p style=\"min-height:1.5em\">Deliver solutions that span multiple platforms and ecosystems.</p></li></ul><h3>What We're Looking For</h3><p style=\"min-height:1.5em\"><strong>Required:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Proficiency in <strong>C# or Python</strong> for backend software development.</p></li></ul><p style=\"min-height:1.5em\"><strong>Strongly preferred:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience with <strong>CAD data processing</strong> and implementing data structures and algorit",
+    "url": "https://www.arbeitnow.com/jobs/companies/clera/software-engineer-berlin-318400",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-06T05:40:26+00:00",
+    "posted_at": "2026-08-07T02:40:22+00:00",
     "tags": [
       "Engineering"
     ],
     "match_score": 2,
     "matched_skills": [
-      "Python",
-      "JavaScript",
-      "Agile"
+      "Python"
     ]
   },
   {
-    "title": "Product Engineer",
-    "company": "Clera",
-    "location": "Berlin",
-    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a foundational product engineering role at a small, high-caliber founding team building an <strong>AI-native automation platform for private market operations</strong>. You will lead the design and build of the core interface where operations teams interact with AI agents \u2014 shaping the design system, review workflows, and human-in-the-loop UX that make agent output trustworthy and easy to act on. Your work will have outsized impact on how users experience AI at work, from day one.</p><p style=\"min-height:1.5em\">The company is based in <strong>Berlin, Germany</strong> and operates on-site. Visa sponsorship is available.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Develop and maintain the company's design system and UX patterns for complex, workflow-driven applications.</p></li><li><p style=\"min-height:1.5em\">Create product interfaces that connect users to AI agents and data sources (ERPs, banking systems, email, file storage, and more).</p></li><li><p style=\"min-height:1.5em\">Build human-in-the-loop flows for reviewing, approving, and acting on agent-generated outputs \u2014 including journal entries, reconciliations, and reporting packages.</p></li><li><p style=\"min-height:1.5em\">Conduct user research with operations stakeholders to identify pain points and iteratively refine product features.</p></li></ul><h3>What We're Looking For</h3><p style=\"min-height:1.5em\"><strong>Required:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">1\u20137 years of professional frontend development experience.</p></li><li><p style=\"min-height:1.5em\">Strong proficiency in <strong>TypeScript</strong> and <strong>React</strong>.</p></li><li><p style=\"min-height:1.5em\">Hands-on experience with <strong>Tailwind CSS</strong> for UI styling.</p></li><li><p style=\"min-height:1.5em\">Experience developing, documenting, or evolving design systems for complex applications.</p></li>",
-    "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-berlin-80146",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-06T05:40:26+00:00",
-    "tags": [
-      "Engineering"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "React"
-    ]
-  },
-  {
-    "title": "Specialist Account Executive - ZT Branch",
+    "title": "Principal Product Specialist",
     "company": "zscaler",
     "location": "Remote",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;About &lt;strong&gt;Zscaler&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Zscaler accelerates digital transformation to ensure our customers can be more agile, efficient, resilient, and secure. As an &lt;strong&gt;AI-forward enterprise&lt;/strong&gt;, we are constantly pushing the envelope, leveraging the world\u2019s largest security data lake to power our cloud-native Zero Trust Exchange platform. This innovation protects our customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location.&lt;/p&gt;\n&lt;p&gt;Here, &lt;strong&gt;impact in your role matters more than title&lt;/strong&gt; and trust is built on results. We say, impact over activity. We seek innovators who actively use AI to amplify their impact and who thrive in an environment where we leverage intelligent systems to stay ahead of evolving threats. We believe in transparency and value &lt;strong&gt;constructive, honest debate&lt;/strong&gt;\u2014we\u2019re focused on getting to the best ideas, faster. We build high-performing teams that can make an impact quickly and with high quality. To do this, we are building a culture of execution centered on &lt;strong&gt;customer obsession&lt;/strong&gt;, collaboration, ownership, and accountability.&lt;/p&gt;\n&lt;p&gt;We value high-impact, high-accountability with a sense of urgency where you\u2019re enabled to do your best work and embrace your potential. If you\u2019re driven by purpose, thrive on solving complex challenges, and want to be part of the team that\u2019s helping to secure the AI age, we invite you to bring your talents to Zscaler and help shape the future of cybersecurity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a Specialist Account Executive to join our team. This is a Remote (Germany, with a preference for Frankfurt or Munich) role, reporting to the Regional Director - Zero Trust Branch in the Sales and Go-to-Market depart",
-    "url": "https://www.arbeitnow.com/jobs/companies/zscaler/specialist-account-executive-zt-branch-141241",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;About &lt;strong&gt;Zscaler&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Zscaler accelerates digital transformation to ensure our customers can be more agile, efficient, resilient, and secure. As an &lt;strong&gt;AI-forward enterprise&lt;/strong&gt;, we are constantly pushing the envelope, leveraging the world\u2019s largest security data lake to power our cloud-native Zero Trust Exchange platform. This innovation protects our customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location.&lt;/p&gt;\n&lt;p&gt;Here, &lt;strong&gt;impact in your role matters more than title&lt;/strong&gt; and trust is built on results. We say, impact over activity. We seek innovators who actively use AI to amplify their impact and who thrive in an environment where we leverage intelligent systems to stay ahead of evolving threats. We believe in transparency and value &lt;strong&gt;constructive, honest debate&lt;/strong&gt;\u2014we\u2019re focused on getting to the best ideas, faster. We build high-performing teams that can make an impact quickly and with high quality. To do this, we are building a culture of execution centered on &lt;strong&gt;customer obsession&lt;/strong&gt;, collaboration, ownership, and accountability.&lt;/p&gt;\n&lt;p&gt;We value high-impact, high-accountability with a sense of urgency where you\u2019re enabled to do your best work and embrace your potential. If you\u2019re driven by purpose, thrive on solving complex challenges, and want to be part of the team that\u2019s helping to secure the AI age, we invite you to bring your talents to Zscaler and help shape the future of cybersecurity.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;br&gt;We are looking for a&amp;nbsp;&lt;strong&gt;Principal Product Specialist for the Zero Trust Browser team&lt;/strong&gt; to join our Product Management team. This is a remote role based in the UK, reporting to the Director, Product Management. ",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/principal-product-specialist-84108",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-06T02:55:11+00:00",
+    "posted_at": "2026-08-07T00:55:16+00:00",
     "tags": [
-      "Global Specialty Sales"
+      "Zero Trust Exchange"
     ],
     "match_score": 2,
     "matched_skills": [
