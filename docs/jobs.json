@@ -1,30 +1,61 @@
 [
   {
-    "title": "Full-Stack Engineer",
-    "company": "Clera",
-    "location": "Munich",
-    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">We are a fast-growing, <strong>Y Combinator-backed SaaS startup</strong> operating at the intersection of AI and enterprise sales automation. Our platform helps distributors and manufacturers eliminate lost deals by automating quoting and order processing end-to-end \u2014 integrating directly with major ERP and CRM systems. We're a small, high-output team and we move fast.</p><p style=\"min-height:1.5em\">We're looking for a <strong>Full-Stack Engineer</strong> with a founder mindset to build AI-powered systems end-to-end. This is a hands-on, high-agency role for someone who loves owning architecture decisions, shipping production-grade software, and working across the entire stack.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Own the architecture and design of AI systems from concept to production.</p></li><li><p style=\"min-height:1.5em\">Collaborate with a talented cross-functional engineering team across the full stack.</p></li><li><p style=\"min-height:1.5em\">Build robust data pipelines to process large-scale unstructured data efficiently.</p></li><li><p style=\"min-height:1.5em\">Deploy and manage software in cloud environments (AWS, Azure, or GCP).</p></li><li><p style=\"min-height:1.5em\">Make the backend scalable, stable, and performant.</p></li><li><p style=\"min-height:1.5em\">Develop scalable, reusable frontend components and API structures.</p></li><li><p style=\"min-height:1.5em\">Write clean, maintainable code with well-considered testing strategies (unit and integration).</p></li></ul><h3>What We're Looking For</h3><p style=\"min-height:1.5em\"><strong>Required:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Proficiency building end-to-end AI-powered web applications using <strong>Next.js / React</strong> on the frontend and <strong>Python</strong> on the backend.</p></li><li><p style=\"min-height:1.5em\">Strong proficiency with <strong>TypeScript</stron",
-    "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-368853",
+    "title": "Technical CRM Executive",
+    "company": "Quantum",
+    "location": "London (hybrid)",
+    "description": "<p style=\"min-height:1.5em\"><strong>Our Company<br /></strong>At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world\u2019s most used digital comparison service, delivering value and simplicity to millions.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We drive growth through data-driven affiliate marketing built for performance from day one. Every campaign is measurable, optimised in real time, and designed to scale.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">With in-house tech, full-stack analytics, and a compliance-first mindset, we give our partners an edge. We drive confident decisions and growth in regulated and high-growth sectors. We\u2019ve helped ambitious brands grow faster, smarter, and globally.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>The Role</strong></p><p style=\"min-height:1.5em\">Our CRM team is growing. We\u2019re looking for a Technical CRM Executive to join our affiliate marketing business in London.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">This is an opportunity for someone with some experience with either Adobe campaign or SFMC, as well as HTML, SQL queries, and JavaScript, to support the team in delivering a customer-centric, automated experience across email, SMS, and messaging channels.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">In this role, you\u2019ll be supporting the CRM Technical Manager as well as CRM team and its wider ecosystem, using tools such as SparkPost, Email on Acid, Adobe, Salesforce Marketing Cloud, SMS integrations, Adobe Campaign and Rebrandly.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">You\u2019ll work on the end-to-end delivery of CRM initiatives that rely on data and systems so you must have the tech",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/technical-crm-executive-london-400541",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-07T02:40:22+00:00",
+    "posted_at": "2026-08-08T03:40:24+00:00",
     "tags": [
-      "Engineering"
+      "CRM"
     ],
-    "match_score": 5,
+    "match_score": 4,
     "matched_skills": [
-      "Python",
-      "React",
-      "Azure"
+      "JavaScript",
+      "SQL"
     ]
   },
   {
-    "title": "Software Engineer",
-    "company": "Clera",
-    "location": "Berlin",
-    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">This is a rare opportunity to join a <strong>pre-seed AI-powered construction tech startup</strong> in Berlin as one of the founding engineers. You'll work on a browser-based platform that uses AI to automate complex building design workflows \u2014 including technical building equipment (TGA) planning and electrical schematic generation \u2014 reducing planning timelines from weeks to hours.</p><p style=\"min-height:1.5em\">As an early Software Engineer, you'll have real influence over architecture, tooling, and infrastructure decisions. You'll help shape the core backend and plugin architecture, deliver prototypes, and drive the MVP to production-readiness across multiple ecosystems.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Contribute to the design and delivery of prototypes for AI-powered building design features.</p></li><li><p style=\"min-height:1.5em\">Drive the MVP to production-readiness across multiple software ecosystems (including integrations with tools such as Revit).</p></li><li><p style=\"min-height:1.5em\">Process and handle large quantities of CAD data at scale.</p></li><li><p style=\"min-height:1.5em\">Help define backend and plugin architecture, as well as infrastructure setup.</p></li><li><p style=\"min-height:1.5em\">Write clean, maintainable, and well-structured code with strong CS fundamentals.</p></li><li><p style=\"min-height:1.5em\">Deliver solutions that span multiple platforms and ecosystems.</p></li></ul><h3>What We're Looking For</h3><p style=\"min-height:1.5em\"><strong>Required:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Proficiency in <strong>C# or Python</strong> for backend software development.</p></li></ul><p style=\"min-height:1.5em\"><strong>Strongly preferred:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience with <strong>CAD data processing</strong> and implementing data structures and algorit",
-    "url": "https://www.arbeitnow.com/jobs/companies/clera/software-engineer-berlin-318400",
+    "title": "Solutions Engineer - EMEA",
+    "company": "Redpanda Data",
+    "location": "UK - Remote",
+    "description": "<p style=\"min-height:1.5em\"><em>Redpanda is the first runtime and control plane for agent-data interaction \u2014 a unified platform that combines streaming, SQL analytics, and intelligent connectivity with the governance layer enterprise AI agents need in production.</em></p><p style=\"min-height:1.5em\"><em>Built on infrastructure already trusted by Fortune 500 companies and fast-growing startups, Redpanda enforces governance entirely outside the agent's data path, controlling what agents see, limiting what they do, and capturing a tamper-proof record of everything they touch, so organizations never have to choose between innovation and control.</em></p><p style=\"min-height:1.5em\"><strong>About the Role:</strong><em><strong>\u00a0</strong></em></p><p style=\"min-height:1.5em\">Come and join our rapidly growing Solutions Engineer team! As a Solutions Engineer, you will help qualify and close opportunities with customers and partners and provide technical expertise through sales presentations, product demonstrations, and supporting technical evaluations</p><p style=\"min-height:1.5em\"><strong>You Will:</strong><em><strong>\u00a0\u00a0</strong></em></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Work alongside the sales team to introduce Redpanda to our potential customers</p></li><li><p style=\"min-height:1.5em\">Lead product and solution briefings, build proof-of-concepts (POC), run live product demos, and prototype Redpanda integrations</p></li><li><p style=\"min-height:1.5em\">Partner with Redpanda product management, engineering and support teams to solve customer challenges and improve customer experience</p></li><li><p style=\"min-height:1.5em\">Identify and address customers' key technical objections and develop the strategies to address those blockers to adoption</p></li></ul><p style=\"min-height:1.5em\"><strong>You Have:</strong><em><strong>\u00a0</strong></em></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">3-8+ years of prior experience leading presentations,",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/redpanda-data/remote-solutions-engineer-emea-238236",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-07T02:40:22+00:00",
+    "posted_at": "2026-08-07T21:40:18+00:00",
+    "tags": [
+      "Sales"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "SQL"
+    ]
+  },
+  {
+    "title": "Development Engineer Production \u2013 Focus Software (f/m/d)",
+    "company": "Quantum-Systems GmbH",
+    "location": "Gilching, Bayern, Germany",
+    "description": "<p class=\"isSelectedEnd\">As a <strong>Development Engineer</strong>, you will play a key role within our <strong>Production Engineering Team</strong>, bringing your own ideas to life by developing new test systems and optimizing production processes. Together with our world-class team, currently consisting of 10 members, you will play a central role in pushing the boundaries of drone technology.</p><p style=\"min-height: 1.7em;\"></p><p>You will work closely with stakeholders across <strong>Production and Development</strong> to take our manufacturing capabilities to the next level and enable our rapid growth. By optimizing production processes and developing new testing solutions, you will support <strong>Quantum Systems</strong> in its mission to establish unmanned aerial systems (sUAVs) as the benchmark for aerial data collection solutions.</p><p style=\"text-align:justify;min-height: 1.7em;\"></p><h4><strong>What is your Day to Day Mission:</strong></h4><p style=\"min-height: 1.7em;\"></p><ul><li><p>Take ownership of the <strong>complete development cycle of test systems</strong> for drone components or complete systems \u2014 from initial concept and mechanical/electronic design through to implementation.</p></li><li><p>Develop and maintain <strong>automated test software in Python</strong> for production test systems.</p></li><li><p>Develop and optimize <strong>test strategies</strong> to ensure production quality and reliability.</p></li><li><p>Perform <strong>root-cause analyses</strong> of production issues.</p></li><li><p>Act as the <strong>interface between our development departments and production</strong>.</p></li></ul> <br> <h4><strong><br></strong></h4><h4><strong>What you bring to the team:</strong><br></h4><ul><li><p>You have a completed degree or vocational qualification in Mechanical Engineering, Aerospace Engineering, Electrical Engineering, Mechatronics, Robotics, or a comparable field.</p></li><li><p>You have experience in <strong>developing test systems",
+    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/development-engineer-production-focus-software-gilching-395919",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-08T05:30:11+00:00",
+    "tags": [
+      "Software"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Site Reliability Engineer (SRE) (m/w/d)",
+    "company": "Lio",
+    "location": "Munich Office",
+    "description": "<h2><strong>Build and scale the infrastructure behind enterprise AI.</strong></h2><p style=\"min-height:1.5em\">At Lio, we're building the AI workforce for procurement. As a <strong>Site Reliability Engineer</strong>, you'll work directly with our CTO to build the infrastructure that powers one of Europe's fastest-growing enterprise AI startups. From scaling our platform across regions to optimizing databases for agentic AI, you'll help shape the foundation that enables Lio to serve global enterprise customers with exceptional performance and reliability.</p><p style=\"min-height:1.5em\"></p><h2><strong>What you'll do</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Work directly with our CTO on the architecture and scaling of Lio's infrastructure</p></li><li><p style=\"min-height:1.5em\">Design and operate highly reliable cloud infrastructure for production AI workloads</p></li><li><p style=\"min-height:1.5em\">Scale our platform globally with multi-region deployments and high-availability architectures</p></li><li><p style=\"min-height:1.5em\">Optimize databases for agentic AI workloads, including <strong>Vector Search, Hybrid RAG, MCP</strong>, and high-performance query execution</p></li><li><p style=\"min-height:1.5em\">Improve backend performance, latency, throughput, and resource efficiency</p></li><li><p style=\"min-height:1.5em\">Build observability, SLOs, alerting, and incident response processes</p></li><li><p style=\"min-height:1.5em\">Automate deployments, infrastructure, and developer workflows</p></li><li><p style=\"min-height:1.5em\">Partner closely with product engineering teams to build systems that scale with rapid growth</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>What we're looking for</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience operating production workloads on a major cloud platform</p></li><li><p style=\"min-height:1.5em\">Strong Python skills and experience optimizing backend service",
+    "url": "https://www.arbeitnow.com/jobs/companies/lio/site-reliability-engineer-sre-munich-455998",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-07T23:40:10+00:00",
     "tags": [
       "Engineering"
     ],
@@ -34,15 +65,48 @@
     ]
   },
   {
-    "title": "Principal Product Specialist",
-    "company": "zscaler",
-    "location": "Remote",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;About &lt;strong&gt;Zscaler&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Zscaler accelerates digital transformation to ensure our customers can be more agile, efficient, resilient, and secure. As an &lt;strong&gt;AI-forward enterprise&lt;/strong&gt;, we are constantly pushing the envelope, leveraging the world\u2019s largest security data lake to power our cloud-native Zero Trust Exchange platform. This innovation protects our customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location.&lt;/p&gt;\n&lt;p&gt;Here, &lt;strong&gt;impact in your role matters more than title&lt;/strong&gt; and trust is built on results. We say, impact over activity. We seek innovators who actively use AI to amplify their impact and who thrive in an environment where we leverage intelligent systems to stay ahead of evolving threats. We believe in transparency and value &lt;strong&gt;constructive, honest debate&lt;/strong&gt;\u2014we\u2019re focused on getting to the best ideas, faster. We build high-performing teams that can make an impact quickly and with high quality. To do this, we are building a culture of execution centered on &lt;strong&gt;customer obsession&lt;/strong&gt;, collaboration, ownership, and accountability.&lt;/p&gt;\n&lt;p&gt;We value high-impact, high-accountability with a sense of urgency where you\u2019re enabled to do your best work and embrace your potential. If you\u2019re driven by purpose, thrive on solving complex challenges, and want to be part of the team that\u2019s helping to secure the AI age, we invite you to bring your talents to Zscaler and help shape the future of cybersecurity.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;br&gt;We are looking for a&amp;nbsp;&lt;strong&gt;Principal Product Specialist for the Zero Trust Browser team&lt;/strong&gt; to join our Product Management team. This is a remote role based in the UK, reporting to the Director, Product Management. ",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/principal-product-specialist-84108",
+    "title": "Werkstudent Elektronik / Elektrotechnik (m/w/d)",
+    "company": "Andres Industries AG",
+    "location": "Berlin",
+    "description": "<p>Die Andres Industries AG ist ein R\u00fcstungsunternehmen und Hersteller hochwertiger milit\u00e4rischer W\u00e4rmebildger\u00e4te mit Sitz in Berlin. Unsere Produkte kommen in sicherheitskritischen Anwendungen zum Einsatz und werden weltweit von Beh\u00f6rden und Streitkr\u00e4ften genutzt. Gleichzeitig entwickeln und produzieren wir auch Systeme f\u00fcr zivile Einsatzbereiche und arbeiten mit internationalen Partnerunternehmen zusammen.</p><p>An unserem Standort im Wei\u00dfenseer Weg betreiben wir einen modernen Campus mit Ruher\u00e4umen, Fitnessbereich inklusive Duschen sowie einer offenen Campusk\u00fcche.</p><p>Zur Unterst\u00fctzung unseres Teams suchen wir ab sofort einen Werkstudenten (m/w/d) im Bereich Elektronik / Elektrotechnik in Teilzeit. Sie arbeiten an elektronischen Baugruppen, unterst\u00fctzen die Entwicklung von Hardware- und Embedded-Systemen und wirken aktiv an der Umsetzung technischer L\u00f6sungen im Entwicklungsprozess mit.</p><p style=\";\"></p><p><strong><span style=\"font-size: 1.1em\">Aufgaben</span></strong></p><ul><li><p>Sie unterst\u00fctzen bei der Entwicklung und Programmierung von Mikrocontroller-Systemen (C)</p></li><li><p>Sie wirken bei der Schaltplanentwicklung und PCB-Layout-Erstellung mit</p></li><li><p>Sie f\u00fchren Messungen, Tests und Funktionspr\u00fcfungen elektronischer Baugruppen durch</p></li><li><p>Sie unterst\u00fctzen bei der Inbetriebnahme und Fehleranalyse von Hardware-Systemen</p></li><li><p>Sie arbeiten mit externen Dienstleistern und Forschungspartnern zusammen</p></li><li><p>Sie unterst\u00fctzen bei der technischen Dokumentation von Entwicklungsprojekten</p></li></ul><ul><li><p>Sie sind eingeschriebener Student (m/w/d) der Elektrotechnik, Elektronik oder eines vergleichbaren technischen Studiengangs</p></li><li><p>Sie verf\u00fcgen \u00fcber grundlegende Kenntnisse in Elektrotechnik, Elektronik oder Sensorik</p></li><li><p>Sie haben Interesse an der Entwicklung, dem Aufbau und der Pr\u00fcfung elektronischer Schaltungen</p></li><li><p>Sie besitzen idealerweise erste Programmiererfahrung (C, C++ oder Python)<",
+    "url": "https://www.arbeitnow.com/jobs/companies/andres-industries-ag/werkstudent-elektronik-elektrotechnik-berlin-198577",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-07T00:55:16+00:00",
+    "posted_at": "2026-08-07T17:20:11+00:00",
     "tags": [
-      "Zero Trust Exchange"
+      "Engineering",
+      "college coursework completed"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Software Consultant .NET (m/w/d)",
+    "company": "MY Humancapital GmbH",
+    "location": "Munich",
+    "description": "<p><strong>Software Consultant .NET (m/w/d) - Vollzeit | M\u00fcnchen | Festanstellung | Homeoffice-M\u00f6glichkeit</strong></p>\n<p>Im Auftrag unseres Partnerunternehmens in M\u00fcnchen suchen wir Sie zum n\u00e4chstm\u00f6glichen Zeitpunkt als <strong>\u201eSoftware Consultant .NET (m/w/d)\u201c.</strong></p>\n<h2><strong>Aufgaben</strong></h2>\n<ul>\n<li>Sie beraten Kunden bei der Einf\u00fchrung und Weiterentwicklung individueller Softwarel\u00f6sungen und stehen ihnen als technischer Ansprechpartner zur Seite</li>\n<li>Sie analysieren Anforderungen, entwickeln passende L\u00f6sungskonzepte und setzen diese eigenst\u00e4ndig oder im Team um</li>\n<li>Dar\u00fcber hinaus entwickeln Sie Anwendungen auf Basis von .NET, C# und MAUI f\u00fcr verschiedene Plattformen</li>\n<li>Sie arbeiten eng mit Entwicklung, Vertrieb und weiteren Fachbereichen zusammen und begleiten Projekte bis zur erfolgreichen Umsetzung</li>\n<li>Zus\u00e4tzlich unterst\u00fctzen Sie Kunden durch Schulungen und bringen Ihre Ideen in die Weiterentwicklung der Softwareprodukte ein</li>\n</ul>\n<h2><strong>Qualifikation</strong></h2>\n<ul>\n<li>Sie verf\u00fcgen \u00fcber mehrj\u00e4hrige Berufserfahrung als Softwareentwickler (m/w/d), .NET-Entwickler (m/w/d), IT-Consultant (m/w/d) oder Software Consultant (m/w/d)</li>\n<li>Idealerweise bringen Sie Erfahrung in den Bereichen Logistik, Produktion oder Instandhaltung mit</li>\n<li>Erforderlich sind sehr gute Kenntnisse in .NET, C#, MAUI oder vergleichbaren UI-Frameworks sowie Entity Framework und MS SQL Server</li>\n<li>Zus\u00e4tzlich sind Erfahrungen mit <a href=\"http://ASP.NET\">ASP.NET</a> Core, Blazor oder SAP von Vorteil</li>\n<li>Wichtig sind eine ausgepr\u00e4gte Kundenorientierung, Kommunikationsst\u00e4rke sowie verhandlungssichere Deutsch- und gute Englischkenntnisse</li>\n</ul>\n<h2><strong>Benefits</strong></h2>\n<ul>\n<li><strong>Work-Life-Balance</strong>: Flexible Arbeitszeiten, 30 Tage Urlaub sowie anteilige Homeoffice-M\u00f6glichkeit</li>\n<li><strong>Sicherheit</strong>: Unbefristete Festanstellung im Rahmen der Direktvermittlung</li>\n<li><strong>Weiterentwic",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/software-consultant-net-munich-107836",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-07T17:00:41+00:00",
+    "tags": [
+      "Software Development"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "SQL"
+    ]
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Pingidentity",
+    "location": "Remote",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Ping Identity:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it&#39;s not just something we provide our customers. It&#39;s something that inspires our company. People don&#39;t come here to join a culture that&#39;s built on digital freedom. They come to cultivate it.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our intelligent, cloud identity platform lets people shop, work, bank, and interact wherever and however they want. Without friction. Without fear.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;While protecting digital identities is at the core of our technology, protecting individual identities is at the core of our culture.&amp;nbsp;&lt;a href=&quot;https://www.pingidentity.com/en/company/championing-every-identity.html&quot;&gt;We champion every identity.&lt;/a&gt; One of our core values, Respect Individuality, reminds us to celebrate differences so you are empowered to bring your authentic self to work.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We&#39;re headquartered in Denver, Colorado and we have offices and employees around the globe. We serve the largest, most demanding enterprises worldwide, including more than half of the Fortune 100. At Ping Identity, we&#39;re changing the way people and businesses think about cybersecurity, digital experiences, and identity and access management.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;In this Software Engineer role, you will play an important part in the development of a market-leading, open standards first platform, providing flexible, modular and scalable identification, authentication, and authorization to a range of applications. You will be part of a team that prides itself on an open, flexible environment, embracing collaboration, agile methodologies, continuous improvement, and most of all, the love of a challenge.&amp;nbsp;&lt;",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/software-engineer-ii-184501",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-07T21:55:20+00:00",
+    "tags": [
+      "5103 PD - Software"
     ],
     "match_score": 2,
     "matched_skills": [
