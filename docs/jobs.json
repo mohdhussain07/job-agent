@@ -1,104 +1,183 @@
 [
   {
-    "title": "Team Lead Data Products & Analytics (gn)",
-    "company": "Bikeleasing",
-    "location": "Remote Deutschland",
-    "description": "<br><strong>Deine Aufgaben</strong><p><p style=\"text-align:justify;\">Mit der Bikeleasing Gruppe gestalten wir die Zukunft moderner Mobilit\u00e4t und Arbeitswelten. Als f\u00fchrende Unternehmensgruppe f\u00fcr Arbeitgeber-Benefits und Mobilit\u00e4tsl\u00f6sungen vereinen wir f\u00fcnf spezialisierte Unternehmen unter einem Dach \u2013 von Multi-Benefit-Anbietern \u00fcber Leasing- und Versicherungsdienstleister bis hin zu H\u00e4ndlern f\u00fcr refurbished Bikes. Wir wachsen profitabel und befinden uns auf einer spannenden technischen Transformationsreise. Als <strong>Team Lead Data Products &amp; Analytics (gn)\u00a0</strong>hast Du ma\u00dfgeblichen Einfluss darauf, wie wir Daten in echten Business-Mehrwert verwandeln. Du f\u00fchrst ein cross-funktionales Analytics-Team, baust die Team-Lead-Funktion von Grund auf auf und verbindest strategische Datenanforderungen mit operativer Exzellenz. Dich erwartet ein moderner Stack, direkte Linie zum Head of Data und gruppenweite Wirkung \u00fcber Bikeleasing-Service, Probonio und Bike2Future. Wenn Du Verantwortung \u00fcbernehmen m\u00f6chtest, Dinge pragmatisch voranbringst und in einem professionellen Umfeld mit kurzen Entscheidungswegen arbeiten willst \u2013 dann sollten wir uns kennenlernen.</p><ul><li style=\"text-align:justify;\">Du f\u00fchrst disziplinarisch und fachlich ein Team aus Analytics Engineers und Analysten und entwickelst jeden Einzelnen gezielt in seiner Karriere weiter</li><li style=\"text-align:justify;\">Du ownst den Team-Backlog: Du priorisierst Stakeholder-Anfragen, sch\u00fctzt Teamkapazit\u00e4t und kommunizierst Entscheidungen transparent nach au\u00dfen</li><li style=\"text-align:justify;\">Qualit\u00e4t und Weiterentwicklung unserer Datenprodukte treibst Du voran \u2013 von KPI-Definitionen und Self-Service-Dashboards \u00fcber semantische Schichten bis hin zu AI-Produkten</li><li style=\"text-align:justify;\">Du baust schlanke Prozesse f\u00fcr Refinement, Planung und Delivery auf und h\u00e4ltst Overhead konsequent klein</li><li style=\"text-align:justify;\">Du arbeitest eng mit dem Head of Data und technischen Peers zusammen",
-    "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-team-lead-data-products-analytics-gn-398648",
+    "title": "QA Automation Engineer (IDEA Ultimate QA)",
+    "company": "jetbrains",
+    "location": "Berlin; Munich; Remote",
+    "description": "&lt;p&gt;At JetBrains, code is our passion. Ever since we started, back in 2000, we have been striving to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers and businesses to grow, discover, and create.&lt;/p&gt;\n&lt;p&gt;IntelliJ IDEA revolutionized the Java development tool market back in 2001, becoming the first IDE to offer automated code refactoring. It continues to drive innovation in software development, making thousands of programmers more productive every day. In addition to Java, IntelliJ IDEA includes various development tools for other prominent languages such as Ruby, Groovy, Scala, Python, JavaScript, Objective-C, PHP, and Kotlin.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The IntelliJ IDEA Ultimate team is responsible for supporting a wide range of enterprise frameworks, data-access stacks, and application servers in IntelliJ IDEA Ultimate. This includes technologies such as Spring (including Spring Boot, Spring Data, Spring Security, and others), Jakarta EE, Quarkus, Micronaut, various reactive and data-access libraries, and popular application servers like Tomcat, WildFly, and Jetty. We ensure that developers can easily create, configure, run, debug, and observe their backend applications directly from the IDE. As part of the Ultimate QA group, you\u2019ll work across different areas of the product \u2013 frameworks, HTTP client, persistence tooling, and application servers \u2013 and collaborate closely with developers, product managers, and other QA teams to deliver a smooth end-to-end experience for JVM backend developers.&lt;/p&gt;\n&lt;p&gt;We\u2019re now looking for a QA Automation Engineer to join the IntelliJ IDEA Ultimate QA team and help ensure the quality of a product that our customers and software engineers around the world rely on daily. You\u2019ll work alongside QA engineers to design and set up our automation proce",
+    "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-qa-automation-engineer-idea-ultimate-qa-51359",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-10T23:09:35+00:00",
+    "posted_at": "2026-08-11T20:55:29+00:00",
     "tags": [
-      "Analytics Engineering",
-      "Business Intelligence",
-      "BI",
-      "Data Products",
-      "Data Analytics",
-      "Self-Service Analytics",
-      "KPI Definition",
-      "Dashboarding",
-      "Reporting",
+      "IDEA Ultimate QA"
+    ],
+    "match_score": 5,
+    "matched_skills": [
+      "Python",
+      "JavaScript"
+    ]
+  },
+  {
+    "title": "Product Manager (w/m/d)",
+    "company": "Remind Me",
+    "location": "Berlin",
+    "description": "<br><strong>Deine Aufgaben</strong><p><ul><li>End-to-End-Ownership: Prozesse verstehen, dokumentieren, kontinuierlich verbessern und Schritt f\u00fcr Schritt automatisieren. Du analysierst die komplette Provider User Journey, identifizierst Automatisierungspotenziale und priorisierst sie.</li><li>Automatisierte Klassifizierung eingehender Dokumente (z. B. Vertragsbest\u00e4tigungen, K\u00fcndigungen, Rechnungen) konzipieren und umsetzen.</li><li>Datenextraktion aus Anbieterdokumenten mit KI-Unterst\u00fctzung aufbauen und die Qualit\u00e4t laufend optimieren.</li><li>Browser-Automatisierungen mit Puppeteer entwickeln und betreiben, z. B. f\u00fcr Anbieterportale ohne Schnittstellen.</li><li>Datenanalysen und Auswertungen direkt in MySQL durchf\u00fchren, um Entscheidungen und Priorisierungen datenbasiert zu treffen.</li><li>Erfolgsmessung: Automatisierungsquote, Durchlaufzeiten und Fehlerraten definieren, tracken und verbessern.</li><li>Enge Zusammenarbeit im Produktteam, mit Engineering und Operations, um die manuelle Arbeit messbar zu reduzieren.</li></ul></p><br><strong>Dein Profil</strong><p><ul><li>Mindestens erste Berufserfahrung im digitalen Produktmanagement mit Fokus auf Prozessautomatisierung und Erfahrung in der Koordination von Entwicklungsprozessen mit agilen Methoden.</li><li>Praktische Erfahrung mit Puppeteer oder vergleichbaren Tools zur Browser-Automatisierung.</li><li>Sicherer Umgang mit MySQL \u2013 du schreibst deine Abfragen selbst.</li><li>Erfahrung im Einsatz von LLMs, idealerweise Claude.</li><li>Ausgepr\u00e4gtes Prozessdenken: du zerlegst komplexe Abl\u00e4ufe und findest den effizientesten Weg zur Automatisierung.</li><li>Ausgepr\u00e4gte Kommunikationskompetenz und Konfliktl\u00f6sungsf\u00e4higkeit.</li><li>Hands-on-Mentalit\u00e4t \u2013 du konzipierst nicht nur, du setzt auch selbst um.</li><li>Deutsch flie\u00dfend in Wort und Schrift (mind. C1), konversationssicheres Englisch.</li></ul></p><br><strong>Wir bieten Dir</strong><p><ul><li>eine verantwortungsvolle und herausfordernde Aufgabe in einem Team von erfahre",
+    "url": "https://www.arbeitnow.com/jobs/companies/remind-me/product-manager-berlin-169684",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-12T05:09:17+00:00",
+    "tags": [
+      "Produkt",
+      "Produktmanagement",
+      "Produktmanager",
+      "Produktmanagerin",
+      "Product Owner",
+      "Product Manager",
+      "Product Management",
+      "Agile",
+      "Scrum",
+      "Automatisierung",
+      "Automation",
       "SQL",
-      "dbt",
-      "Cube",
-      "Superset",
-      "Redshift",
-      "AWS",
-      "Data Stack",
-      "Data Governance",
-      "Teamlead",
-      "Lead",
-      "Lead Data Engineer",
-      "AI Products",
-      "Langdock"
+      "node.js",
+      "Puppeteer"
     ],
     "match_score": 3,
+    "matched_skills": [
+      "SQL",
+      "Agile"
+    ]
+  },
+  {
+    "title": "AI Solution Architect (w/m/d)",
+    "company": "Virtual Solution Ag",
+    "location": "Remote in Germany",
+    "description": "<br><strong>Deine Aufgaben</strong><p>Du gestaltest den Einsatz von K\u00fcnstlicher Intelligenz in unserem Unternehmen und unseren Softwareprodukten. Gemeinsam mit\u00a0Product\u00a0Management, Entwicklung und Fachbereichen identifizierst du Einsatzm\u00f6glichkeiten, bewertest Technologien und entwickelst skalierbare KI-L\u00f6sungen \u2013 von der Idee bis zum produktiven Betrieb. Dabei verantwortest\u00a0Du die technische KI-Strategie sowie den Aufbau einer zukunftsf\u00e4higen AI- und LLM-Plattform.\u00a0<br><ul><li><span><span>Du entwickelst und verantwortest die technische KI-Strategie sowie eine AI-Referenzarchitektur\u00a0</span></span></li><li><span><span>Du bewertest, w\u00e4hlst aus und integrierst geeignete KI-Technologien, LLMs und AI-Plattformen\u00a0</span></span></li><li><span><span>Du identifizierst und konzipierst KI-Anwendungsf\u00e4lle und AI-Features f\u00fcr bestehende und neue Softwareprodukte\u00a0</span></span></li><li><span><span>Du baust eine unternehmensweite AI-Plattform auf und entwickelst sie weiter, inklusive RAG-, Agenten- und Workflow-L\u00f6sungen\u00a0</span></span></li><li><span><span>Du definierst Standards f\u00fcr Prompt Engineering,</span><span>Testing</span><span>, Qualit\u00e4tssicherung und\u00a0</span><span>Governance</span></span></li><li><span><span>Du ber\u00e4tst und unterst\u00fctzt Management, Produktteams und Fachbereiche beim Einsatz von KI\u00a0</span></span></li><li><span><span>Du begleitest Pilotprojekte, Schulungen sowie die Einf\u00fchrung von Best Practices\u00a0</span></span></li><li><span><span>Du ber\u00fccksichtigst Datenschutz, Sicherheit, Compliance und regulatorische Anforderungen im KI-Einsatz</span></span></li></ul></p><br><strong>Dein Profil</strong><p><ul><li><span><span>Du hast mehrj\u00e4hrige Erfahrung in der Softwareentwicklung oder Softwarearchitektur sowie fundierte Kenntnisse moderner Softwarearchitekturen und Cloud-Technologien\u00a0</span></span></li><li><span><span>Du verf\u00fcgst \u00fcber praktische Erfahrung mit Generative AI, Large Language Models, APIs und Python oder einer vergleichbaren Programmiersprache\u00a0</span></span></li><",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual-solution-ag/remote-ai-solution-architect-300168",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-11T17:09:17+00:00",
+    "tags": [
+      "ai",
+      "artificial intelligence",
+      "ki",
+      "k\u00fcnstliche intelligenz",
+      "solution architect",
+      "l\u00f6sungsarchitekt"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Founding Product Engineer",
+    "company": "Pharmlogic",
+    "location": "London HQ",
+    "description": "<p style=\"min-height:1.5em\"><strong>We're on a mission</strong></p><p style=\"min-height:1.5em\">Every business grows through a CRM and a direct line to its customers. Healthcare, and pharmacy most of all, is the one place that never happened. It was too hard to build, too hard to distribute, and too hard to do compliantly. Customer data sits idle whilst running a community healthcare business continues to become structurally tighter.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We're on a mission to change that. We are the compliant data layer for community healthcare: the system that lets a pharmacy use the patient data it already holds to grow revenue and relationships, compliantly, on the clinical system it already runs.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">This is already working. Pharmlogic is NHS-assured, integrated and lives in hundreds of pharmacies nationwide, and we've powered millions of patient communications.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\"><strong>The role</strong></p><p style=\"min-height:1.5em\">You will work directly with the CEO and founding team every day: deciding what gets built, building it, and owning it as it grows. There is no layer between you and the product, the customers, or the decisions.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">Our stack is JS/TypeScript end to end: React on the frontend, Node on the backend, everything on Azure and we implement infrastructure as code throughout the process. We build fast and we use AI tools throughout the workflow, to move quicker, not to think less.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">What does not move is the bar: we are looking for someone who works at the pace and quality of the best product engineering teams in",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/pharmlogic/founding-product-engineer-london-118973",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-12T03:40:05+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "React",
+      "Azure"
+    ]
+  },
+  {
+    "title": "Site Reliability Engineer (m/f/d)",
+    "company": "gridscale GmbH",
+    "location": "K\u00f6ln, Nordrhein-Westfalen, Deutschland",
+    "description": "<p><span style=\"color:#333333\">At our company, it\u2019s all about #OneTeam! Join gridscale and help shape the future of the cloud together with OVH.</span></p><p><span style=\"color:#333333\">As a leading tech company, we\u2019ve been working for over two decades to reduce our environmental footprint - with innovative solutions and an open cloud designed to be sustainable from the ground up: #SustainableByDesign.</span></p><p><span style=\"color:#333333\">As the Cloud Store team, we provide the framework to automate an standardized deployment on top of the OnPrem Cloud Platform. Are you passionate about air-gapped cloud environments and edge technologies? Then you've come to the right place.</span></p><p style=\"min-height: 1.7em;\"></p><h4><strong>Our Tech Stack&nbsp;\ud83d\ude80</strong></h4><p>\u2022Kubernetes \u2022GitOps \u2022Ansible \u2022Terraform \u2022Prometheus</p><p>\u2022Grafana \u2022Linux&nbsp;\u2022OpenStack\u2022Python, Bash &amp; Go<br></p><h3><strong>Your Role\ud83d\udcbb</strong></h3><p><span style=\"color:#333333\">As a Site Reliability Engineer, you'll be part of a team responsible for building the framework to package and deploy software solutions on top of OPCP. You'll work on the conception, automation, and operation of our platform and drive continuous improvements. You'll help new teams onboard with the framework and OPCP. We're looking for someone who is comfortable in a security-oriented environment with a high degree of automation (GitOps). You are used to maintaining an overview of ambiguous situations, analyzing systems, and making well-founded decisions based on this analysis</span></p><p style=\"min-height: 1.7em;\"></p><h3><strong><span style=\"color:#000000\">Your Tasks</span></strong></h3><ul><li><p><span style=\"color:#333333\">Build the framework for building and deploying Cloud Store packages</span></p></li><li><p><span style=\"color:#333333\">Drive the ongoing development of our Kubernetes stack and implement GitOps workflows (e.g., with FluxCD)</span></p></li><li><p><span style=\"color:#333333\">Support other teams a",
+    "url": "https://www.arbeitnow.com/jobs/companies/gridscale-gmbh/site-reliability-engineer-koln-358327",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-11T17:30:05+00:00",
+    "tags": [
+      "Development"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Category Manager - Trading Cards",
+    "company": "Tilt",
+    "location": "London",
+    "description": "<h1><strong>About Tilt \ud83d\udef8</strong></h1><p style=\"min-height:1.5em\">Tilt\u2019s mission is simple: <strong>Make Commerce Alive</strong>.</p><p style=\"min-height:1.5em\"><br />From static store website builders to impersonal marketplaces, today's ecosystem is aging fast. It was built for transactional experiences, not for the new generation of merchants who grow through <strong>attention</strong>, <strong>community</strong> and <strong>personality</strong>. </p><p style=\"min-height:1.5em\"><br />In the UK alone, <strong>millions of shoppers</strong>, from sneakerheads and Y2K girlies to collectors and parents, have signed up to Tilt. Our platform has helped sellers go from zero to <strong>\u00a31M+ in earnings</strong>, and hundreds more earn above the UK median income.<br /><br /><strong>And we are just getting started. </strong></p><p style=\"min-height:1.5em\"></p><h1><strong>Your Mission \ud83e\udef5</strong></h1><p style=\"min-height:1.5em\">The <strong>Category Manager - Trading Cards</strong> will lead a set of categories on the Tilt platform, <strong>own the P&amp;L</strong> and be the <strong>go-to expert for your categories</strong> within the business. Your key goal will be to identify and execute on how to grow the Tilt platform.</p><p style=\"min-height:1.5em\"></p><h1><strong>What You'll Do \ud83d\udc77</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Be the internal and external leader </strong>for growing categories on Tilt</p></li><li><p style=\"min-height:1.5em\"><strong>Build and own the strategy </strong>for the categories you own to support their ongoing growth</p></li><li><p style=\"min-height:1.5em\"><strong>Be creative</strong> to identify new ways to enable growth for the business</p></li><li><p style=\"min-height:1.5em\"><strong>Use data analytics skills (SQL) </strong>to derive insights from projects and drive growth</p></li><li><p style=\"min-height:1.5em\"><strong>Dive into the numbers </strong>to assess category growth, success, and areas for improvement",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/tilt/category-manager-trading-cards-london-410154",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-12T06:40:27+00:00",
+    "tags": [
+      "Categories & Expansion"
+    ],
+    "match_score": 2,
     "matched_skills": [
       "SQL"
     ]
   },
   {
-    "title": "Forward Deployed Engineer - EMEA",
-    "company": "gitlab",
-    "location": "Remote",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;\n&lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt;\n&lt;p&gt;*&lt;em&gt;Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Staff Forward Deployed Engineer, Agentic SDLC - (EMEA Only)&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;An overview of this role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;GitLab\u2019s Forward Deployed Engineering team is a field-situated product engineering function focused on strategic customer outcomes, artificial intelligence (AI) adoption, a",
-    "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-309209",
+    "title": "Strategy & Operations Manager - Categories",
+    "company": "Tilt",
+    "location": "London",
+    "description": "<h1><strong>About Tilt \ud83d\udef8</strong></h1><p style=\"min-height:1.5em\">Tilt\u2019s mission is simple: <strong>Make Commerce Alive</strong>.</p><p style=\"min-height:1.5em\"><br />From static store website builders to impersonal marketplaces, today's ecosystem is aging fast. It was built for transactional experiences, not for the new generation of merchants who grow through <strong>attention</strong>, <strong>community</strong> and <strong>personality</strong>. </p><p style=\"min-height:1.5em\"><br />In the UK alone, <strong>millions of shoppers</strong>, from sneakerheads and Y2K girlies to collectors and parents, have signed up to Tilt. Our platform has helped sellers go from zero to <strong>\u00a31M+ in earnings</strong>, and hundreds more earn above the UK median income.<br /><br /><strong>And we are just getting started. </strong></p><p style=\"min-height:1.5em\"></p><h1><strong>Your Mission \ud83e\udef5</strong></h1><p style=\"min-height:1.5em\">The <strong>Strategy &amp; Operations Manager</strong> will lead a set of categories on the Tilt platform, <strong>own the P&amp;L</strong> and be the <strong>go-to expert for your categories</strong> within the business. Your key goal will be to identify and execute on how to grow the Tilt platform.</p><p style=\"min-height:1.5em\"></p><h1><strong>What You'll Do \ud83d\udc77</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Be the internal and external leader </strong>for growing categories on Tilt</p></li><li><p style=\"min-height:1.5em\"><strong>Build and own the strategy </strong>for the categories you own to support their ongoing growth</p></li><li><p style=\"min-height:1.5em\"><strong>Be creative</strong> to identify new ways to enable growth for the business</p></li><li><p style=\"min-height:1.5em\"><strong>Use data analytics skills (SQL) </strong>to derive insights from projects and drive growth</p></li><li><p style=\"min-height:1.5em\"><strong>Dive into the numbers </strong>to assess category growth, success, and areas for improvemen",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/tilt/strategy-operations-manager-categories-london-328707",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-11T05:55:10+00:00",
+    "posted_at": "2026-08-12T06:40:27+00:00",
+    "tags": [
+      "Categories & Expansion"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "SQL"
+    ]
+  },
+  {
+    "title": "Category Manager - UK",
+    "company": "Tilt",
+    "location": "London",
+    "description": "<h1>Tilt  \ud83d\udef8</h1><p style=\"min-height:1.5em\"><em><strong>Our mission is to make fashion accessible to all and inspire everyone to dress a little better. </strong></em>We believe e-commerce is in a rut, with brands lost in a decades-long void, lacking innovation, and mindlessly redesigning websites without fixing the real issue \u2014 making shopping fun and affordable. </p><p style=\"min-height:1.5em\">Today, we are the UK's biggest live shopping platform focused on making shopping a joyful, social experience that brings people together and helps everyone level up their style. We're growing fast and hiring innovative problem solvers to build the future of shopping.</p><p style=\"min-height:1.5em\"></p><h1>Your Mission \ud83e\udef5</h1><p style=\"min-height:1.5em\">The <strong>Category Manager</strong> will lead a category on the Tilt platform, owning the most<strong> important relationships</strong> with sellers and being the <strong>go-to expert for your category</strong> within the business. Your key goal will be to identify and execute on how to grow your category on the Tilt platform. We expect this role to be a combination in terms of time spent in-office and at partner sites/offices.</p><p style=\"min-height:1.5em\"></p><h1>What You'll Do \ud83d\udc77</h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Be the internal and external leader </strong>for growing a new fashion category on Tilt</p></li><li><p style=\"min-height:1.5em\"><strong>Build and own relationships </strong>with sellers and top strategic partners to support their ongoing growth</p></li><li><p style=\"min-height:1.5em\"><strong>Use data analytics skills (SQL) </strong>to derive insights from projects and enhance process efficiency</p></li><li><p style=\"min-height:1.5em\"><strong>Monitor KPIs </strong>to assess category growth, success, and areas for improvement, driving continuous iteration</p></li><li><p style=\"min-height:1.5em\"><strong>Lead marketing initiatives </strong>such as influencer partnerships/campaigns",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/tilt/category-manager-uk-london-464018",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-12T06:40:27+00:00",
+    "tags": [
+      "Categories & Expansion"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "SQL"
+    ]
+  },
+  {
+    "title": "Customer Success Lead (Hybrid, London)",
+    "company": "Dualentry",
+    "location": "London, UK (Hybrid)",
+    "description": "<h1><strong>About DualEntry</strong></h1><p style=\"min-height:1.5em\">DualEntry is building the OS for finance.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Every business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s. DualEntry's AI-native ERP automates accounting from data entry to close, so finance teams move faster, spend less and incur less risk.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">In just 2 years we've raised $100M+ from Lightspeed, Khosla Ventures, Contrary and Google Ventures and earned the trust of customers from $5M ARR to publicly traded companies.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We hire <em><strong>outliers</strong></em> - people who have achieved difficult things, in their careers or beyond. You'll find leaders, colleagues who've competed at the highest levels of sport, performed on Broadway, trained with UFC champions and founded the country\u2019s largest Python community.\t</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><div><div style=\"left:0;width:100%;height:0;position:relative;padding-bottom:56.338%\"><iframe src=\"https://embedded-media.ashbyhq.com/embed/90a003a5-39b1-4b2c-b1f7-cd8c1761ad1d/79ad1e94-f2f5-4da3-a3f3-870f2e5beef3\" style=\"top:0;left:0;width:100%;height:100%;position:absolute;border:0\" allowfullscreen scrolling=\"no\" allow=\"encrypted-media *; picture-in-picture *;\" sandbox=\"allow-scripts allow-same-origin allow-presentation\"></iframe></div></div><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><h1><strong>Where You'll Create Impact</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"> Own e2e account management outcomes: Manage key customer relationships, run success plans, and lead recurring check-ins, based on customer tiers you\u2019ve developed</p></li><li><p style=\"min-height:1.5em\">Own ERP adoption &amp; expansion: Deliver and systemi",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/customer-success-lead-hybrid-london-427905",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-12T06:40:14+00:00",
     "tags": [
       "Customer Experience"
     ],
     "match_score": 2,
     "matched_skills": [
-      "SDLC"
+      "Python"
     ]
   },
   {
-    "title": "Forward Deployed Engineer - EMEA",
-    "company": "gitlab",
-    "location": "Remote",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;\n&lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt;\n&lt;p&gt;*&lt;em&gt;Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Staff Forward Deployed Engineer, Agentic SDLC - (EMEA Only)&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;An overview of this role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;GitLab\u2019s Forward Deployed Engineering team is a field-situated product engineering function focused on strategic customer outcomes, artificial intelligence (AI) adoption, a",
-    "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-172623",
+    "title": "AI ERP Implementations Lead (Hybrid, London)",
+    "company": "Dualentry",
+    "location": "London, UK (Hybrid)",
+    "description": "<h1><strong>About DualEntry</strong></h1><p style=\"min-height:1.5em\">DualEntry is building the OS for finance.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Every business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s. DualEntry's AI-native ERP automates accounting from data entry to close, so finance teams move faster, spend less and incur less risk.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">In just 2 years we've raised $100M+ from Lightspeed, Khosla Ventures, Contrary and Google Ventures and earned the trust of customers from $5M ARR to publicly traded companies.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We hire <em><strong>outliers</strong></em> - people who have achieved difficult things, in their careers or beyond. You'll find leaders, colleagues who've competed at the highest levels of sport, performed on Broadway, trained with UFC champions and founded the country\u2019s largest Python community.\t</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><div><div style=\"left:0;width:100%;height:0;position:relative;padding-bottom:56.338%\"><iframe src=\"https://embedded-media.ashbyhq.com/embed/90a003a5-39b1-4b2c-b1f7-cd8c1761ad1d/79ad1e94-f2f5-4da3-a3f3-870f2e5beef3\" style=\"top:0;left:0;width:100%;height:100%;position:absolute;border:0\" allowfullscreen scrolling=\"no\" allow=\"encrypted-media *; picture-in-picture *;\" sandbox=\"allow-scripts allow-same-origin allow-presentation\"></iframe></div></div><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><h1><strong>Where You'll Create Impact</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"> You\u2019ll own end-to-end ERP implementations and long-term customer relationships</p></li><li><p style=\"min-height:1.5em\">You\u2019ll deliver best-in-class onboarding and go-live execution</p></li><li><p style=\"min-height:1.5em\">You\u2019ll collaborate with founders, ",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/ai-erp-implementations-lead-hybrid-london-456727",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-11T05:55:10+00:00",
+    "posted_at": "2026-08-12T06:40:14+00:00",
     "tags": [
       "Customer Experience"
     ],
     "match_score": 2,
     "matched_skills": [
-      "SDLC"
-    ]
-  },
-  {
-    "title": "Frontend-Entwickler (Drupal / Twig)",
-    "company": "brandmediale GmbH",
-    "location": "Erfurt",
-    "description": "<p>brandmediale ist eine inhabergef\u00fchrte Digitalagentur aus Erfurt. Seit \u00fcber 25 Jahren entwickeln und betreuen wir Websites, Markenauftritte und digitale Kommunikation f\u00fcr mittelst\u00e4ndische Unternehmen \u2014 vor allem aus Industrie, Energie und B2B. Wir sind ein kleines, erfahrenes Team mit kurzen Wegen. Bei uns gibt es keine Abteilungen, keine Zwischenebenen und keine Projekte, bei denen man nur ein R\u00e4dchen ist. Wer bei uns arbeitet, sieht das Ergebnis seiner Arbeit direkt beim Kunden. Unsere Kunden bleiben lange. Einige begleiten wir seit \u00fcber zehn Jahren.</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Du betreust unsere Kunden-Websites im laufenden Betrieb: Updates, Anpassungen, Erweiterungen und Fehlerbehebung.</li>\n<li>Du setzt \u00c4nderungen an Templates und Frontend um \u2014 Twig, HTML, SCSS, JavaScript.</li>\n<li>Du entwickelst bestehende Seiten weiter: neue Seitentypen, Funktionen, Formulare, Schnittstellen zu Drittsystemen.</li>\n<li>Du arbeitest eng mit unserem Design-Team zusammen und setzt Entw\u00fcrfe technisch sauber um.</li>\n<li>Du deployst eigenverantwortlich und bist Ansprechpartner, wenn auf einer Live-Seite etwas klemmt.</li>\n<li>Du bringst eigene Ideen ein, wie wir Betrieb und Wartung unserer Seiten besser und stabiler machen.</li>\n</ul>\n<p>Unsere Kundenseiten laufen \u00fcberwiegend auf Drupal 11 mit Bootstrap. Technisch sind das solide Standardprojekte ohne exotische Sonderlocken.</p>\n<h2>Qualifikation</h2>\n<ul>\n<li>Erfahrung in der Webentwicklung mit einem CMS \u2014 idealerweise Drupal, alternativ TYPO3, WordPress oder Vergleichbares.</li>\n<li>Sicher in HTML, CSS/SCSS und JavaScript; PHP liest und schreibst du auf dem Niveau, das f\u00fcr Templates und kleinere Anpassungen n\u00f6tig ist.</li>\n<li>Routine im Umgang mit Git, SSH und Deployments.</li>\n<li>Du arbeitest strukturiert und eigenst\u00e4ndig \u2014 bei uns l\u00e4uft niemand hinterher.</li>\n<li>Du \u00fcbernimmst Verantwortung f\u00fcr laufende Systeme und meldest dich, wenn etwas nicht passt.</li>\n<li>Du bist offen daf\u00fcr, dich in neue Werkzeuge und Arbeitswei",
-    "url": "https://www.arbeitnow.com/jobs/companies/brandmediale-gmbh/frontend-entwickler-drupal-twig-erfurt-363575",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-11T00:30:27+00:00",
-    "tags": [
-      "Remote",
-      "Web Development"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Sales Engineer - Public Sector",
-    "company": "zscaler",
-    "location": "Remote",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;About &lt;strong&gt;Zscaler&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Zscaler accelerates digital transformation to ensure our customers can be more agile, efficient, resilient, and secure. As an &lt;strong&gt;AI-forward enterprise&lt;/strong&gt;, we are constantly pushing the envelope, leveraging the world\u2019s largest security data lake to power our cloud-native Zero Trust Exchange platform. This innovation protects our customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location.&lt;/p&gt;\n&lt;p&gt;Here, &lt;strong&gt;impact in your role matters more than title&lt;/strong&gt; and trust is built on results. We say, impact over activity. We seek innovators who actively use AI to amplify their impact and who thrive in an environment where we leverage intelligent systems to stay ahead of evolving threats. We believe in transparency and value &lt;strong&gt;constructive, honest debate&lt;/strong&gt;\u2014we\u2019re focused on getting to the best ideas, faster. We build high-performing teams that can make an impact quickly and with high quality. To do this, we are building a culture of execution centered on &lt;strong&gt;customer obsession&lt;/strong&gt;, collaboration, ownership, and accountability.&lt;/p&gt;\n&lt;p&gt;We value high-impact, high-accountability with a sense of urgency where you\u2019re enabled to do your best work and embrace your potential. If you\u2019re driven by purpose, thrive on solving complex challenges, and want to be part of the team that\u2019s helping to secure the AI age, we invite you to bring your talents to Zscaler and help shape the future of cybersecurity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We are looking for a Sales Engineer to join our team. This is a remote role for candidates based within commuting distance of London, the South East, or the Midlands, reporting to the Sales Engineering Manager in the Solutions Consulting (Public Sector) department. You will lead the tech",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/zscaler/sales-engineer-public-sector-473697",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-10T21:55:40+00:00",
-    "tags": [
-      "EMEA Field Sales"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Agile"
+      "Python"
     ]
   }
 ]
