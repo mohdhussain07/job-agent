@@ -1,9 +1,87 @@
 [
   {
+    "title": "Engineering Manager",
+    "company": "Cosuno",
+    "location": "Berlin/Remote",
+    "description": "<h2>Your mission</h2><p style=\"min-height:1.5em\">As Engineering Manager at Cosuno, you will lead a team of full stack engineers while staying deeply hands-on: you'll spend 60\u201380% of your time coding, reviewing, and shaping the architecture alongside your team. You are the kind of leader who elevates a team by example \u2014 writing code that sets the bar, and building an environment where great engineers do their best work.</p><p style=\"min-height:1.5em\">Your mission might include:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Leading a team of full stack and AI/ML engineers: coaching, regular 1:1s, growth plans, and hiring \u2014 while shipping product yourself every week.</p></li><li><p style=\"min-height:1.5em\">Owning the delivery and technical quality of your team's roadmap, working closely with your Product Manager to plan, de-risk, and execute.</p></li><li><p style=\"min-height:1.5em\">Contributing hands-on across our TypeScript stack (React + Node), from designing features to reviewing pull requests and tackling the hard problems yourself.</p></li><li><p style=\"min-height:1.5em\">Raising the team's technical bar through code reviews, architectural guidance, and best practices \u2014 including driving the adoption of AI-assisted engineering workflows.</p></li><li><p style=\"min-height:1.5em\">Partnering with engineering leadership on team topology, processes, and the technical direction of our platform.</p></li></ul><p style=\"min-height:1.5em\"></p><h2>How We Build: Our Engineering Culture</h2><p style=\"min-height:1.5em\">We believe in a calm, collaborative, and productive engineering environment. We trust our engineers and give them the autonomy to do their best work. Our approach includes:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Agile &amp; Fast-Paced: We practice trunk-based development with daily releases to get value into our users' hands quickly.</p></li><li><p style=\"min-height:1.5em\">Quality by Default: We maintain a comprehensive Cy",
+    "url": "https://www.arbeitnow.com/jobs/companies/cosuno/engineering-manager-berlin-152530",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-20T05:40:16+00:00",
+    "tags": [
+      "Tech"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "React",
+      "Agile"
+    ]
+  },
+  {
+    "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
+    "company": "Liveeo Gmbh",
+    "location": "LiveEO GmbH Berlin Office (Hybrid)",
+    "description": "<br><strong>Baue mit LiveEO den Marktf\u00fchrer in der Satellitenanalyse auf</strong><p><p>LiveEO uses satellite data and AI to monitor critical infrastructure at scale. As a <strong>Geospatial Data Analyst (f/m/x)</strong>, you\u2019ll sit at the heart of our operations, working with geospatial and satellite data to make sure our analytics projects are delivered reliably, accurately, and on time.</p><p>You\u2019ll work closely with Project Managers, our Operations Support Studio, engineers, and product teams - investigating data, understanding our analytics pipelines, solving delivery issues, and helping us continuously improve how our technology performs in real-world use cases across energy and transportation infrastructure.</p><strong>This role is a maternity leave cover and is offered on a fixed-term contract for 1 year.</strong></p><br><strong>Deine Aufgaben</strong><p><ul><li>Analyze, validate, and interpret geospatial and satellite data across global customer projects</li><li>Take ownership of analytics deliveries and help ensure high technical quality and reliability</li><li>Understand and adapt to different analytics use cases across energy and transportation infrastructure</li><li>Investigate data and pipeline issues, identify root causes, and communicate findings clearly to engineering teams</li><li>Work closely with engineers, Project Managers, and the Operations Support Studio to resolve issues and keep deliveries moving</li><li>Develop a strong end-to-end understanding of our analytics pipelines and identify opportunities to improve efficiency and quality</li><li>Provide structured feedback to Product and Engineering teams when you identify recurring issues or opportunities for improvement</li><li>Use AI coding and analysis tools such as Claude or Cursor for data validation, pipeline debugging, and analysis - while critically validating their output before acting on it</li><li>Work with tools and technologies including QGIS, Python, SQL, AWS, remote sensing tools, ",
+    "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-257623",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-20T02:10:00+00:00",
+    "tags": [],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Technical Project Manager \u2013 Software Development (m/w/d)",
+    "company": "Athereon",
+    "location": "Saarbr\u00fccken",
+    "description": "<br><strong>Ihre Aufgaben</strong><p><ul><li><span><span>Du verantwortest die operative Steuerung unserer Softwareentwicklung und sorgst daf\u00fcr, dass unsere Backend- und Frontend-Teams zuverl\u00e4ssig und mit klarem Fokus liefern k\u00f6nnen. Du steuerst Planung, Kapazit\u00e4ten, Abh\u00e4ngigkeiten und Releases und beh\u00e4ltst den gesamten Entwicklungsprozess im Blick.</span></span></li><li><span><span>Du f\u00fchrst unsere Development Leads und Entwicklungsteams fachlich und disziplinarisch. Du schaffst klare Verantwortlichkeiten, entwickelst Mitarbeiter weiter und sorgst daf\u00fcr, dass Probleme und Blocker fr\u00fch erkannt und gel\u00f6st werden.</span></span></li><li><span><span>Du koordinierst Teams und Tickets entlang ihres gesamten Lifecycles, entwickelst unsere Entwicklungs- und Projektprozesse kontinuierlich weiter und sorgst f\u00fcr eine transparente und realistische Planung gegen\u00fcber allen relevanten Stakeholdern.</span></span></li><li><span><span>Du bist die zentrale Schnittstelle zwischen Entwicklung und</span><span>Product</span><span>Management.</span><span>Product</span><span>verantwortet Produktstrategie, Priorisierung und Anforderungen \u2013 du sorgst gemeinsam mit den Development Leads daf\u00fcr, dass daraus technisch sinnvolle, realistisch geplante und zuverl\u00e4ssig umgesetzte L\u00f6sungen entstehen.</span></span></li><li><span><span>Diese Rolle ist keine klassische IT-Projektmanagement-Position: Du bringst selbst einen starken technischen Hintergrund mit und kannst gemeinsam mit unseren Development Leads Architektur- und Designentscheidungen treffen, technische Risiken einsch\u00e4tzen und unterschiedliche L\u00f6sungswege bewerten.</span></span></li><li><span><span>Du beh\u00e4ltst neben kurzfristiger</span><span>Delivery</span><span>auch langfristige technische Themen im Blick \u2013 von Architektur und Wartbarkeit \u00fcber Security und technische Schulden bis hin zur Weiterentwicklung unserer Engineering-Standards.</span></span></li><li><span><span>Du treibst unsere AI First Development Culture aktiv voran. Dabei geht es ",
+    "url": "https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-373627",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-19T23:10:37+00:00",
+    "tags": [
+      "Lead Developer",
+      "Engineering Lead",
+      "Software Architecture",
+      "Team Leadership",
+      "Python",
+      "React",
+      "AI-Assisted Development"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "title": "(Senior) Software Developer Fullstack (m/w/d)",
+    "company": "Athereon",
+    "location": "Saarbr\u00fccken",
+    "description": "<br><strong>Ihre Aufgaben</strong><p><ul><li>Du entwickelst Features und Verbesserungen f\u00fcr beide Seiten unserer SaaS-Applikation \u2013 sowohl im Backend (Django / Django REST Framework, FastAPI) als auch im Frontend (React / TypeScript) \u2013 dabei setzt du konsequent auf AI-gest\u00fctzte Entwicklungstools wie GitHub Copilot oder Cursor, um schneller und effizienter zu liefern.</li><li>Als erfahrener Softwareentwickler arbeitest du eng mit beiden Entwicklungsteams zusammen und stimmst dich mit allen relevanten Stakeholdern (Produktmanagement, UX, Vertrieb etc.) ab.</li><li>Du treibst unsere AI First Development Culture aktiv mit voran: Du erforschst neue Tools, teilst Best Practices im Team und hilfst dabei, AI sinnvoll in unsere t\u00e4glichen Workflows zu integrieren.</li><li>Du unterst\u00fctzt bei der technischen Dokumentation des Produkts.</li><li>Du f\u00fchrst AI-unterst\u00fctzte Code Reviews durch, hilfst beim Einsatz von AI-Tools im Entwicklungsalltag und unterst\u00fctzt bei der Verteilung von Tickets und der Steuerung der Entwicklung.</li></ul></p><br><strong>Ihr Profil</strong><p><ul><li>Ein abgeschlossenes Studium der Informatik, eines verwandten Studiengangs mit IT-Fokus, oder eine abgeschlossene Ausbildung zum Fachinformatiker/-in Anwendungsentwicklung.</li><li>Du hast mindestens 3 Jahre relevante Berufserfahrung in Vollzeit gesammelt \u2013 idealerweise in Rollen, in denen du sowohl im Backend als auch im Frontend t\u00e4tig warst.</li><li>Du bringst Erfahrung mit Python und der Backend-Entwicklung in Django / Django REST Framework mit; Erfahrung mit FastAPI ist ein Plus.</li><li>Du bist sicher im Design und der Entwicklung von REST-APIs sowie im Umgang mit relationalen Datenbanken (z.B. PostgreSQL) und ORM-basiertem Datenmodellieren.</li><li>Du hast praktische Erfahrung mit React und der Entwicklung von Single-Page-Applikationen; du bist sicher im Umgang mit JavaScript / TypeScript und der ES6 Standardbibliothek. Erfahrung mit Frontend-Frameworks wie Ant Design oder Material UI ist ein Plus.</",
+    "url": "https://www.arbeitnow.com/jobs/companies/athereon/senior-software-developer-fullstack-saarbrucken-379329",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-19T23:10:37+00:00",
+    "tags": [
+      "fullstack",
+      "python",
+      "django",
+      "react",
+      "javascript",
+      "typescript"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
     "title": "Current openings",
     "company": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
     "location": "Wideopen, ",
-    "description": "403 / Security check<br><br>Before you continue, please verify your request.<br><br>We need to confirm that this request is coming from a real browser before we send you to Wellfound. Complete the security check below to continue.<br><br>Verification successful. Waiting for wellfound.com to respond<br><br>Enable JavaScript and cookies to continue<br><br>Cloudflare Ray ID a2b81e2c28c2ebe7<br><br>Back to Wellfound Contact Support<br/><br/>Please mention the word **COMPLEMENTS** and tag RNC4xNTQuNDAuOA== when applying to show you read the job post completely (#RNC4xNTQuNDAuOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "403 / Security check<br><br>Before you continue, please verify your request.<br><br>We need to confirm that this request is coming from a real browser before we send you to Wellfound. Complete the security check below to continue.<br><br>Verification successful. Waiting for wellfound.com to respond<br><br>Enable JavaScript and cookies to continue<br><br>Cloudflare Ray ID a2b81e2c28c2ebe7<br><br>Back to Wellfound Contact Support<br/><br/>Please mention the word **COMPLEMENTS** and tag RNTIuMTczLjE2NS4xNjU= when applying to show you read the job post completely (#RNTIuMTczLjE2NS4xNjU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-current-openings-mobiux-labs-uk-limited-formerly-vida-technologies-ltd-1136793",
     "source": "RemoteOK",
     "posted_at": "2026-08-15T00:12:49+00:00",
@@ -21,7 +99,7 @@
     "title": "Quality Checker",
     "company": "InTechNative",
     "location": "Nellore, ",
-    "description": "intechnative.com<br><br>Performing security verification<br><br>This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.<br><br>Verification successful. Waiting for intechnative.com to respond<br><br>Enable JavaScript and cookies to continue<br/><br/>Please mention the word **VALIANTLY** and tag RNC4xNTQuNDAuOA== when applying to show you read the job post completely (#RNC4xNTQuNDAuOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "intechnative.com<br><br>Performing security verification<br><br>This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.<br><br>Verification successful. Waiting for intechnative.com to respond<br><br>Enable JavaScript and cookies to continue<br/><br/>Please mention the word **VALIANTLY** and tag RNTIuMTczLjE2NS4xNjU= when applying to show you read the job post completely (#RNTIuMTczLjE2NS4xNjU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-quality-checker-intechnative-1136776",
     "source": "RemoteOK",
     "posted_at": "2026-08-14T07:58:11+00:00",
@@ -35,108 +113,98 @@
     ]
   },
   {
-    "title": "Test Req",
-    "company": "\u00e7\u0099\u00be\u00e4\u00ba\u008b",
-    "location": "\u00e6\u0088\u0090\u00e9\u0083\u00bd\u00e5\u00b8\u0082, ",
-    "description": "<strong>Responsibilities<br><br></strong>1<br><br><strong>Qualifications<br><br></strong>1<br/><br/>Please mention the word **APPLAUD** and tag RNC4xNTQuNDAuOA== when applying to show you read the job post completely (#RNC4xNTQuNDAuOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-test-req-1136783",
-    "source": "RemoteOK",
-    "posted_at": "2026-08-12T13:09:33+00:00",
-    "tags": [
-      "infosec",
-      "javascript",
-      "technical",
-      "exec",
-      "sys admin",
-      "customer support",
-      "web dev",
-      "virtual assistant",
-      "video",
-      "api",
-      "ops",
-      "marketing",
-      "engineer",
-      "ecommerce",
-      "education",
-      "consulting",
-      "testing"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Support Operations",
-    "company": "Aditya Birla Group",
-    "location": "Dadra &amp; Nagar Haveli, ",
-    "description": "<strong>Job Purpose<br><br></strong>Job Purpose Description<br><br><strong>Job Purpose Description<br><br></strong>To operate, set up, and maintain Horizontal Machining Centre (HMC) machines to manufacture dies, components, and precision parts as per drawings, quality standards, and production targets while ensuring safety and machine care.<br><br><li> Ensure Zero Fatal accidents in the work area.</li> Accident Frequency Rate &lt; 0.25, Accident Severity rate &lt;100<li> Near miss and abnormality identification and do corrective actions within 7 days.</li><li> Ensure 100% adherence to safety training to new employees before assigning responsibilities</li><li> Ensure 100% investigation of incidents / near miss within 48 hours in the unit</li><li> Ensure that identified risks are reviewed on a monthly basis.</li><br/><br/>Please mention the word **CLASSIC** and tag RNC4xNTQuNDAuOA== when applying to show you read the job post completely (#RNC4xNTQuNDAuOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-support-operations-aditya-birla-group-1136779",
-    "source": "RemoteOK",
-    "posted_at": "2026-08-12T09:33:42+00:00",
-    "tags": [
-      "infosec",
-      "javascript",
-      "technical",
-      "exec",
-      "sys admin",
-      "customer support",
-      "web dev",
-      "virtual assistant",
-      "video",
-      "api",
-      "ops",
-      "marketing",
-      "engineer",
-      "ecommerce",
-      "education"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Senior Data Engineer (m/w/d)",
-    "company": "celebrate company GmbH",
-    "location": "Homeoffice",
-    "description": "<h2 style=\"text-align:start;\"><strong>Wir verwandeln bedeutende Momente in wundersch\u00f6ne Erinnerungen.</strong></h2><p>Wir suchen eine:n <strong>Senior Data Engineer (m/w/d)</strong> f\u00fcr unser Data Intelligence Team, um unsere Datenplattform im gesamten Unternehmen weiterzuentwickeln und zu skalieren. Du verbindest fundiertes technisches Know-how mit Projektf\u00fchrungskompetenz und koordinierst bereichs\u00fcbergreifende Initiativen mit Stakeholdern aus Marketing, Product und Portfolio. Die Rolle ist in Deutschland angesiedelt, im hybriden Setup, mit Berichtslinie an unsere:n Head of DevOps, IT und Data Engineering.</p><p>Das j\u00e4hrliche Gehalt f\u00fcr diese Position liegt zwischen 67.500 \u20ac und 91.300 \u20ac (Senior).</p><h2 style=\"text-align:start;\"><strong>Deine Rolle</strong></h2><ul><li><p>Koordination und Umsetzung bereichs\u00fcbergreifender Datenprojekte mit Business- und Tech-Stakeholdern, von der Konzeption bis zur Auslieferung, mit messbarem Business Impact</p></li><li><p>Verantwortung f\u00fcr die Wartung und Weiterentwicklung der Datenplattform, einschlie\u00dflich der Einf\u00fchrung eines Datenkatalogs und der Evaluierung von dbt als Abl\u00f6sung bestehender Legacy-Pipelines</p></li><li><p>Entwurf und Implementierung komplexer, bereichs\u00fcbergreifender Datenarchitekturen und anspruchsvoller Datenmodelle, die Self-Service-Analytics und fundierte Entscheidungsfindung erm\u00f6glichen</p></li><li><p>Coaching und Mentoring von Junior- und Peer-Engineers zur St\u00e4rkung der Teamkompetenz und Etablierung gemeinsamer Standards im Data Engineering Team</p></li></ul><h2>Tech-Stack</h2><ul><li><p>SQL</p></li><li><p>Python</p></li><li><p>AWS (Redshift, Step Functions)</p></li><li><p>Langdock</p></li><li><p>Langfuse</p></li></ul><h2 style=\"text-align:start;\"><strong>Deine Benefits</strong></h2><ul><li><p>Wir sch\u00e4tzen Flexibilit\u00e4t: Flexible Remote-Arbeit, Teilzeitoptionen, moderne Hardware (Macbooks), kollaborative B\u00fcrofl\u00e4chen (Flex Desks)</p></li><li><p>Wir begr\u00fc\u00dfen New Work: Agile Arbeitsweise, Fair Pay, Kompetenz- ",
-    "url": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-data-engineer-gilching-244485",
+    "title": "Forward Deployed Engineer \u2013 AI (w/m/d) in Voll- oder Teilzeit",
+    "company": "Crozdach",
+    "location": "M\u00fcnchen",
+    "description": "<br><strong>Unser JobChat</strong><p>Als modernes Unternehmen verzichten wir auf Stino-Stellenanzeigen und m\u00f6chten dich mit einem neuen Format f\u00fcr die CROZ DACH begeistern. Vielen Dank f\u00fcr dein Interesse an uns und viel Spa\u00df beim Lesen des folgenden JobChats!<br>\u00a0<br><strong>Neulich in der Teamk\u00fcche:</strong><br>Linda: \u201cUnd wie war\u2019s beim Kundenmeeting letzte Woche?\u201d<br>Joachim: \u201eSehr gut und vor allem interessant. Bei den vielf\u00e4ltigen Anforderungen brauchen wir auf jeden Fall Unterst\u00fctzung im AI-Bereich.\u201c<br>Linda: \u201eOk. Also suchen wir noch jemanden f\u00fcr <strong>AI Consultant</strong>, richtig?\u201c<br>Joachim: \u201eEigentlich suchen wir einen <strong>Forward Deployed Engineer - AI\u00a0</strong><strong>(w/m/d)</strong>. Diese Rolle ist besonders, weil wir eine <strong>BizTech-Beratung\u00a0</strong>sind: Dieselben Leute, die das Gesch\u00e4ft des Kunden verstehen, bauen auch die Software. Du sitzt mit am Tisch, wenn das Problem definiert wird, und du bist auch die Person, die <strong>die L\u00f6sung baut, in Produktion bringt und die Verantwortung daf\u00fcr \u00fcbernimmt</strong>.\"<br>Linda: \u201eVerstehe. Es geht also darum, <strong>Deployments end-to-end\u00a0</strong>zu verantworten und nicht nur <strong>'Tickets abzuarbeiten'</strong>?\u201c<br>Joachim: \u201eGenau. Gute L\u00f6sungen entstehen nur aus einem <strong>gemeinsamen Verst\u00e4ndnis von Business und Technologie</strong>. Du verantwortest Deployments end-to-end, vom Discovery und Scoping \u00fcber die Architektur bis hin zum Build und dem <strong>produktiven Rollout</strong>. Wir arbeiten mit dem <strong>deutschen Mittelstand (KMU) und Gro\u00dfunternehmen\u00a0</strong>zusammen, oft in <strong>regulierten Umgebungen</strong> mit <strong>strenger Datensouver\u00e4nit\u00e4t</strong>. Das bedeutet auch, dass f\u00fcr diese Rolle eine <strong>EU-Staatsangeh\u00f6rigkeit\u00a0</strong>zwingend erforderlich ist, damit es uns erlaubt ist, AI-Systeme innerhalb der Realit\u00e4t von <strong>Legacy-Systemen\u00a0</strong>und <strong>komplexen Prozessen\u00a0</strong>zu bauen.\u201c<br>Linda: \u201eDas klingt herausfordernd. Welche tech",
+    "url": "https://www.arbeitnow.com/jobs/companies/crozdach/forward-deployed-engineer-ai-in-voll-oder-teilzeit-munchen-302332",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-19T05:30:29+00:00",
+    "posted_at": "2026-08-20T05:10:01+00:00",
     "tags": [
-      "Data Engineering",
+      "Kroatien",
+      "Zagreb",
+      "AI",
+      "KI",
+      "Berater",
+      "Consultant",
+      "Kenntnisse in ML",
+      "LLM",
+      "predictive models",
+      "modulare ML-Architektur",
+      "Red Hat",
+      "IBM WatsonX",
+      "IBM",
+      "WatsonX",
+      "Development",
+      "CROZ",
+      "CROZ DACH",
+      "ML",
+      "Engineer",
+      "Forward Deployed Engineer",
+      "BizTech",
+      "Probleme l\u00f6sen",
+      "Informatik",
+      "Reisebereitschaft",
+      "direkter Kundenkontakt",
+      "RAG Systeme",
+      "Agenten",
+      "Python",
+      "Legacy Systeme",
+      "komplexe Prozesse",
+      "regulierte Umgebungen",
+      "Datensouver\u00e4nit\u00e4t",
+      "Deployments",
+      "on prem",
+      "cloud"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Founding Design Engineer",
+    "company": "Bowatt",
+    "location": "Germany",
+    "description": "<h1>About BoWatt</h1><p style=\"min-height:1.5em\">BoWatt is building <strong>agentic requirements and systems engineering software for manufacturing</strong>. We believe AI will reach <strong>PhD-level engineering capability within the next 10 years</strong>. This will unlock massive value across complex manufacturing industries. Cars. Planes. Rockets. Factories. Chips. Medical devices. <strong>All will be engineered with agents.</strong></p><p style=\"min-height:1.5em\">We bootstrapped BoWatt to <strong>\u20ac500k+ ARR</strong> before raising our first round. BoWatt is backed by <strong>tier-1 investors</strong>, including Atlantic Foodlabs, Buildery (CDTM affiliates), and Prequel Ventures, along with angels from Cohere and Luminovo.</p><p style=\"min-height:1.5em\">You\u2019ll join a small team of startup builders focused on <strong>speed, ownership, and execution</strong>. <strong>Over half the team are former founders</strong>, with backgrounds across DeepTech AI, gaming, and other startups. We\u2019ve studied and worked at institutions and companies including <strong>Stanford, TUM, Google, EA</strong>, and <strong>YC-backed AI startups</strong>.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><h1><strong>The role</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You will define and implement our design system together with the product team and improve the overall UI/UX of our platform.</p></li><li><p style=\"min-height:1.5em\">You will work closely with product to design beautiful user experiences for upcoming features.</p></li><li><p style=\"min-height:1.5em\">You will build and ship features across our React / TypeScript / Tailwind frontend.</p></li><li><p style=\"min-height:1.5em\">You will own your work, collaborate closely with the team (product, engineering and customer success) and continuously improve our app.</p></li></ul><h1><strong>You</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Are an engineer turned ",
+    "url": "https://www.arbeitnow.com/jobs/companies/bowatt/founding-design-engineer-germany-432935",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-19T23:40:17+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "React"
+    ]
+  },
+  {
+    "title": "Full Stack Developer PHP / TypeScript in Hamburg oder Remote (m/w/d)",
+    "company": "DEMV Systems Gmbh",
+    "location": "Homeoffice",
+    "description": "<p>Innerhalb des Teams gibt es folgende spannende Aufgaben:</p><ul><li><p>Weiterentwicklung unserer bestehenden, komplexen PHP-Anwendungen auf Basis von Symfony und Laravel</p></li><li><p>Integration externer SOAP- und REST-Schnittstellen</p></li><li><p>Konzeption, Umsetzung und Dokumentation unserer eigenen REST-Schnittstellen via OpenAPI</p></li><li><p>Mitarbeit an einer agentengetriebenen Node.js-Anwendung in TypeScript</p></li><li><p>Integration von neuen Agentenl\u00f6sungen in unsere Anwendungen, z. B. f\u00fcr KI-getriebene Berechnungen und Prognosen</p></li><li><p>Arbeit mit KI im Anthropic-/Claude-\u00d6kosystem als Werkzeug in der Entwicklung: Planung, Implementierung, Code Reviews und Fehleranalysen</p></li><li><p>Konzeption neuer Anwendungen &amp; Integrationsl\u00f6sungen auf PHP- oder TypeScript-Basis</p></li><li><p>Zusammenarbeit mit unserem Product Owner: Anforderungen spezifizieren, Akzeptanzkriterien formulieren und Aufgaben sinnvoll schneiden</p></li><li><p>Team\u00fcbergreifende Kommunikation mit unseren anderen Dev-Teams</p></li></ul> <br> <ul><li><p>Fundierte praktische Erfahrung in der Entwicklung komplexer PHP-Anwendungen, idealerweise mit Symfony und/oder Laravel</p></li><li><p>Routine im Umgang mit externen APIs (REST, gerne auch SOAP) sowie im Design und der Implementierung eigener Schnittstellen</p></li><li><p>Solide JavaScript-/TypeScript-Kenntnisse, sowohl im Frontend als auch im Backend</p></li><li><p>Lust darauf, mit KI-Tools zu arbeiten und Agenten produktiv in Anwendungen zu integrieren \u2013 Vorerfahrung ist willkommen, aber nicht absolut notwendig</p></li><li><p>Hoher Qualit\u00e4tsanspruch: Code Reviews und Tests geh\u00f6ren f\u00fcr dich zum Alltag dazu</p></li><li><p>Eigenst\u00e4ndige, strukturierte und l\u00f6sungsorientierte Arbeitsweise</p></li><li><p>Gute Kommunikationsf\u00e4higkeit und sehr gute Deutschkenntnisse \u2013 du sprichst direkt mit PO und anderen Teams</p></li><li><p>Berufserfahrung, ein abgeschlossenes IT-Studium oder eine relevante Ausbildung</p></li></ul><p style=\"min-",
+    "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/full-stack-developer-php-typescript-in-hamburg-oder-remote-27770",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-19T23:30:07+00:00",
+    "tags": [
+      "IT",
       "Remote"
     ],
     "match_score": 2,
     "matched_skills": [
-      "Python",
-      "SQL",
-      "Agile"
+      "JavaScript"
     ]
   },
   {
-    "title": "Data Engineer",
-    "company": "Platoapp",
-    "location": "Berlin",
-    "description": "<br><strong>Your responsibilities</strong><p><span style=\"font-size:14px;font-family:Tahoma, Geneva, sans-serif;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">Joining our data team, you'll lead the build of Plato's real-time data platform, data warehouse, and the infrastructure behind our suite of data products. You'll work closely with data science, product, design, and engineering to build the data foundation that powers customer-facing analytics and ML models.</span><br><span style=\"font-size:14px;\"><br></span><span style=\"font-size:14px;font-family:Tahoma, Geneva, sans-serif;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">What you'll actually do:</span><br><br><ul style=\"margin-top:0;margin-bottom:0;\"><li style=\"list-style-type:disc;font-size:14px;font-family:Tahoma, Geneva, sans-serif;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\"><span style=\"color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">Carry out the data modeling that powers real-time, customer-facing analytics and the data products inside our app</span></li><li style=\"list-style-type:disc;font-size:14px;font-family:Tahoma, Geneva, sans-serif;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\"><span style=\"color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">Design flexible schemas that can absorb data from many different sources</span></li><li style=\"list-style-type:disc;font-size:14px;font-family:Tahoma, Geneva, sans-serif;color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\"><span style=\"color:rgb(0,0,0);background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">Partner with data consumers across Plato to unders",
-    "url": "https://www.arbeitnow.com/jobs/companies/platoapp/data-engineer-berlin-153233",
+    "title": "Software Engineer (Backend)",
+    "company": "Extrac.ai",
+    "location": "London",
+    "description": "<h2>About ExTrac</h2><p style=\"min-height:1.5em\">ExTrac is a decision intelligence company used by governments, defence organisations, financial institutions, and corporates operating in complex, fast-moving environments. Our capabilities fuse curated data sources, domain-specific AI, and deep human expertise to transform information overload into clear, actionable foresight.</p><p style=\"min-height:1.5em\">Our ambition is to become the analytical backbone that organisations rely on when geopolitical uncertainty becomes an opportunity or a strategic risk. More at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://extrac.ai\">extrac.ai</a>.</p><p style=\"min-height:1.5em\"></p><h2>The Role</h2><p style=\"min-height:1.5em\">We are looking for a Software Engineer to join ExTrac's engineering team to help build and operate the services and pipelines the platform runs on.</p><p style=\"min-height:1.5em\">ExTrac takes a continuously ingested, multi-source corpus and turns it into products analysts use to make decisions under time pressure. You will help build and run the backend microservices that make that possible: services and databases that expose curated data through APIs, run search and aggregation over large indices, hold application state, and keep the whole thing fast and correct as volume and customer count grow.</p><p style=\"min-height:1.5em\">The work is broad by design. In a single quarter it spans API and service design, search and database performance, long-running data pipelines, cloud infrastructure, and the deployment tooling underneath all of it. You will own well-defined features and components end to end within a single system across a Go and Python codebase, working alongside the AI team who build our analytical and agentic features, the frontend team who build the web and mobile interfaces, and the analysts and product managers who define what gets built.</p><p style=\"min-height:1.5em\"></p><h2><strong>What the job involves</strong></h2><p sty",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/extracai/software-engineer-backend-london-243596",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-19T02:30:15+00:00",
+    "posted_at": "2026-08-20T03:40:06+00:00",
     "tags": [
-      "startup",
-      "B2B",
-      "SaaS",
-      "Data Engineering",
-      "Databricks",
-      "Snowflake",
-      "dbt",
-      "Data Modeling",
-      "Starrocks",
-      "Python",
-      "Terraform",
-      "ETL",
-      "ELT"
+      "Product & Engineering"
     ],
     "match_score": 2,
     "matched_skills": [
