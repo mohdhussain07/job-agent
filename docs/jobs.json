@@ -1,58 +1,9 @@
 [
   {
-    "title": "Solutions Engineer - EMEA",
-    "company": "Redpanda Data",
-    "location": "UK - Remote",
-    "description": "<p style=\"min-height:1.5em\"><em>Redpanda is the first runtime and control plane for agent-data interaction \u2014 a unified platform that combines streaming, SQL analytics, and intelligent connectivity with the governance layer enterprise AI agents need in production.</em></p><p style=\"min-height:1.5em\"><em>Built on infrastructure already trusted by Fortune 500 companies and fast-growing startups, Redpanda enforces governance entirely outside the agent's data path, controlling what agents see, limiting what they do, and capturing a tamper-proof record of everything they touch, so organizations never have to choose between innovation and control.</em></p><p style=\"min-height:1.5em\"><strong>About the Role:</strong><em><strong>\u00a0</strong></em></p><p style=\"min-height:1.5em\">Come and join our rapidly growing Solutions Engineer team! As a Solutions Engineer, you will help qualify and close opportunities with customers and partners and provide technical expertise through sales presentations, product demonstrations, and supporting technical evaluations</p><p style=\"min-height:1.5em\"><strong>You Will:</strong><em><strong>\u00a0\u00a0</strong></em></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Work alongside the sales team to introduce Redpanda to our potential customers</p></li><li><p style=\"min-height:1.5em\">Lead product and solution briefings, build proof-of-concepts (POC), run live product demos, and prototype Redpanda integrations</p></li><li><p style=\"min-height:1.5em\">Partner with Redpanda product management, engineering and support teams to solve customer challenges and improve customer experience</p></li><li><p style=\"min-height:1.5em\">Identify and address customers' key technical objections and develop the strategies to address those blockers to adoption</p></li></ul><p style=\"min-height:1.5em\"><strong>You Have:</strong><em><strong>\u00a0</strong></em></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">3-8+ years of prior experience leading presentations,",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/redpanda-data/remote-solutions-engineer-emea-387821",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-20T18:40:31+00:00",
-    "tags": [
-      "Sales"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "SQL"
-    ]
-  },
-  {
-    "title": "Forward Deployed Engineer - EMEA",
-    "company": "Redpanda Data",
-    "location": "UK - Remote",
-    "description": "<p style=\"min-height:1.5em\"><em>Redpanda is the first runtime and control plane for agent-data interaction \u2014 a unified platform that combines streaming, SQL analytics, and intelligent connectivity with the governance layer enterprise AI agents need in production.</em></p><p style=\"min-height:1.5em\"><em>Built on infrastructure already trusted by Fortune 500 companies and fast-growing startups, Redpanda enforces governance entirely outside the agent's data path, controlling what agents see, limiting what they do, and capturing a tamper-proof record of everything they touch, so organizations never have to choose between innovation and control.</em></p><p style=\"min-height:1.5em\"><strong>About the Role:</strong><em><strong>\u00a0</strong></em></p><p style=\"min-height:1.5em\">Redpanda is building the Agentic Data Plane (ADP) \u2014 the streaming and data infrastructure the world\u2019s largest enterprises run mission-critical agents on. The enterprises winning right now are building agents that encode their own business logic, their own data, their own institutional knowledge into production-grade infrastructure. That\u2019s digital sovereignty, and Redpanda ADP is the infrastructure layer that makes it real.</p><p style=\"min-height:1.5em\">Forward Deployed Engineering (FDE) is the delivery arm. We embed engineers directly with strategic customers and build the agents and integrations that turn ADP into owned outcomes. As a Forward Deployed Engineer, you are the builder: embedded on-site, working inside the customer\u2019s environment, writing the code that ships.</p><p style=\"min-height:1.5em\">This is not a solutions engineering role. You are not here to demo or advise. You are here to build \u2014 agents, integrations, data pipelines, and the infrastructure that runs them \u2014 alongside a customer team, in their environment, on their timeline.</p><p style=\"min-height:1.5em\"><strong>You Will:</strong><em><strong>\u00a0\u00a0</strong></em></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Buil",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/redpanda-data/remote-forward-deployed-engineer-emea-63325",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-20T18:40:31+00:00",
-    "tags": [
-      "Sales"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "SQL"
-    ]
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Ivcevidensia",
-    "location": "Keynsham, Bristol, England",
-    "description": "<div><b>About Us</b>&nbsp;</div><div><br></div><div>IVC&nbsp;Evidensia&nbsp;is the UK and Europe\u2019s leading veterinary care group, made up of over 900 practices and referral hospitals, united by a shared purpose of happier animals, happier owners.&nbsp;</div><div><br></div><div>At IVC&nbsp;Evidensia, we believe careers should be built without limits. Our people are supported to make more impact, access more career opportunities, and play an active role in their local and professional communities. Through investment in learning, innovation, and wellbeing, we create environments where our teams can grow in confidence, capability, and fulfilment\u2014at every stage of their career.&nbsp;</div><div><br></div><div>As part of Central Functions, you will be part of the teams that support and enable our network of over 2,500 practices across 20 countries, driving operational excellence, innovation, and strategic impact across the business.&nbsp;&nbsp;</div><div><br></div><div>Our Technology teams are responsible for the systems and infrastructure that make that work - everything our healthcare professionals need to deliver world-class care. From keeping on top of patient records, health plans, client communications, diary management and dispensing, our teams have a lot to think about and need smarter ways to provide the convenience and expertise that modern Pet owners have come to expect.</div><div><br></div><div>\n<p>IVC Evidensia is undergoing an exciting digital transformation. The key to this is improving the management of our core data sets - accelerating the standardisation of operational systems in practices, building stronger master data management tooling, and developing standard reporting models across the group.</p>\n<p>As a data engineer, you will work with the team to advance the data platform within a DevOps culture. You will play a central role in building and maintaining scalable data pipelines across Databricks &amp; Azure SQL Server, and will bring solid experienc",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineer-keynsham-bristol-england-420378",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-20T18:24:30+00:00",
-    "tags": [
-      "IT & Digital"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "SQL",
-      "Azure"
-    ]
-  },
-  {
     "title": "Current openings",
     "company": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
     "location": "Wideopen, ",
-    "description": "403 / Security check<br><br>Before you continue, please verify your request.<br><br>We need to confirm that this request is coming from a real browser before we send you to Wellfound. Complete the security check below to continue.<br><br>Verification successful. Waiting for wellfound.com to respond<br><br>Enable JavaScript and cookies to continue<br><br>Cloudflare Ray ID a2b81e2c28c2ebe7<br><br>Back to Wellfound Contact Support<br/><br/>Please mention the word **COMPLEMENTS** and tag RMTM1LjIzMi4xNzcuMjAw when applying to show you read the job post completely (#RMTM1LjIzMi4xNzcuMjAw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "403 / Security check<br><br>Before you continue, please verify your request.<br><br>We need to confirm that this request is coming from a real browser before we send you to Wellfound. Complete the security check below to continue.<br><br>Verification successful. Waiting for wellfound.com to respond<br><br>Enable JavaScript and cookies to continue<br><br>Cloudflare Ray ID a2b81e2c28c2ebe7<br><br>Back to Wellfound Contact Support<br/><br/>Please mention the word **COMPLEMENTS** and tag RMTA0LjIwOS4xMS4yMTE= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMTE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-current-openings-mobiux-labs-uk-limited-formerly-vida-technologies-ltd-1136793",
     "source": "RemoteOK",
     "posted_at": "2026-08-15T00:12:49+00:00",
@@ -67,78 +18,36 @@
     ]
   },
   {
-    "title": "Quality Checker",
-    "company": "InTechNative",
-    "location": "Nellore, ",
-    "description": "intechnative.com<br><br>Performing security verification<br><br>This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.<br><br>Verification successful. Waiting for intechnative.com to respond<br><br>Enable JavaScript and cookies to continue<br/><br/>Please mention the word **VALIANTLY** and tag RMTM1LjIzMi4xNzcuMjAw when applying to show you read the job post completely (#RMTM1LjIzMi4xNzcuMjAw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-quality-checker-intechnative-1136776",
-    "source": "RemoteOK",
-    "posted_at": "2026-08-14T07:58:11+00:00",
-    "tags": [
-      "infosec",
-      "javascript"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Werkstudent (m/w/d) IT \u2013 Automatisierung & KI",
-    "company": "AEM Unternehmerkapital GmbH",
-    "location": "Gro\u00dfraum M\u00fcnster",
-    "description": "<br><strong>WERDEN SIE TEIL UNSERES TEAMS!</strong><p>Du m\u00f6chtest dein IT-Wissen aus dem Studium in der Praxis einsetzen und an L\u00f6sungen mitarbeiten, die Prozesse effizienter und digitaler gestalten? F\u00fcr eine innovative Umwelt- und Ingenieurberatung suchen wir ab sofort einen engagierten <strong>Werkstudenten (m/w/d)</strong>, der/die mit Neugier, technischem Verst\u00e4ndnis und Begeisterung f\u00fcr Automatisierung und neue Technologien digitale Prozesse optimiert.</p><br><strong>WAS SIE BEI UNS LEISTEN</strong><p><ul><li style=\"text-align:left;\"><strong>Entwicklung smarter Automatisierungsl\u00f6sungen:</strong> Konzeption, Programmierung und Weiterentwicklung von Skripten und automatisierten Workflows (z. B. mit Python, PowerShell oder Power Automate) zur Vereinfachung wiederkehrender Prozesse und Reduzierung manueller Aufgaben</li><li style=\"text-align:left;\"><strong>Umsetzung KI-gest\u00fctzter L\u00f6sungen:</strong> Entwicklung und Erprobung innovativer KI-Anwendungen, z.B. durch die Integration von Large Language Models (LLMs) in interne Prozesse, die Dokumentenverarbeitung oder das Wissensmanagement</li><li style=\"text-align:left;\"><strong>Anbindung und Integration von Systemen:</strong> Unterst\u00fctzung bei der Vernetzung von Microsoft-365-Diensten und internen Anwendungen \u00fcber Schnittstellen wie Microsoft Graph API und REST APIs</li><li style=\"text-align:left;\"><strong>Unterst\u00fctzung im IT-Service-Management:</strong> Begleitung der Zusammenarbeit mit externen IT-Dienstleistern, Monitoring der Ticketbearbeitung, Nachverfolgung offener Themen sowie Unterst\u00fctzung bei der Einhaltung von Service-Level-Vereinbarungen (SLAs)</li><li style=\"text-align:left;\"><strong>Aufbereitung und Analyse von Daten:</strong> Erstellung kleiner Dashboards und Datenpipelines zur automatisierten Auswertung von IT-Kennzahlen, z.B. zu Ticketaufkommen, Bearbeitungszeiten und Servicequalit\u00e4t</li><li style=\"text-align:left;\"><strong>Erstellung technischer Dokumentationen:</strong> Dokumentation entwickelter L\u00f6su",
-    "url": "https://www.arbeitnow.com/jobs/companies/aem-unternehmerkapital-gmbh/werkstudent-it-automatisierung-ki-grossraum-munster-430824",
+    "title": "Senior Data Engineer (m/w/d) \u2013 Snowflake",
+    "company": "Jobrad Loop",
+    "location": "M\u00fcnchen",
+    "description": "<br><strong>Lust auf eine besondere Herausforderung?</strong><p><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;color:rgb(0,0,0);\">Du m\u00f6chtest die <strong>technische Grundlage f\u00fcr datengetriebene Entscheidungen aktiv mitgestalten</strong> und nicht nur bestehende Systeme verwalten? Dann werde Teil unseres Teams als <strong>Senior Data Engineer</strong> und bring unsere Datenlandschaft auf das n\u00e4chste Level. Du entwickelst skalierbare Datenarchitekturen, verantwortest gesch\u00e4ftskritische Pipelines und gestaltest aktiv, wie Daten im Unternehmen genutzt werden. Bei uns arbeitest du an L\u00f6sungen, die echten Impact haben: f\u00fcr unsere Teams, unsere Prozesse und unsere Zukunft.\u00a0</span><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;color:rgb(0,0,0);\"><strong>Let`s ride together!</strong></span></p><br><strong>Was du brauchst, um erfolgreich zu sein</strong><p><ul><li style=\"text-align:left;\"><strong>Technische Expertise:</strong> Fundierte Erfahrung in Data Engineering sowie ein sicherer Umgang mit SQL, Python und modernen Datenplattformen (insbesondere mit Snowflake) zeichnen dich aus</li><li style=\"text-align:left;\"><strong>Pipelines &amp; Datenverarbeitung:</strong> Erfahrung im Aufbau und Betrieb von ETL/ELT-Prozessen sowie die F\u00e4higkeit, gro\u00dfe Datenmengen effizient zu verarbeiten, bringst du mit</li><li style=\"text-align:left;\"><strong>Architektur &amp; Datenmodellierung:</strong> Mit skalierbaren Datenarchitekturen (z. B. Data Lake, Data Warehouse) und Datenmodellierung bist du bestens vertraut und bringst idealerweise Erfahrung mit Workflow-Orchestrierungstools wie Airflow oder Dagster mit</li><li style=\"text-align:left;\"><strong>Cloud &amp; Plattformen:</strong> Erfahrung mit Cloud-Umgebungen, idealerweise mit Fokus auf Azure (z. B. im Kontext von BI/Power BI), sowie ein gutes Verst\u00e4ndnis bestehender AWS-Strukturen geh\u00f6ren zu deinem Profil</li><li style=\"text-align:left;\"><strong>Qualit\u00e4tsverst\u00e4ndnis:</strong> Ein ausgepr\u00e4gtes",
+    "url": "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-20T23:10:46+00:00",
+    "posted_at": "2026-08-22T05:29:55+00:00",
     "tags": [
-      "IT",
-      "Data Science",
-      "Business Informatics",
+      "Data",
+      "Data Analyst",
+      "Warehouse design",
+      "ETL - Prozesse",
+      "Data Pipeline",
+      "SQL",
       "Python",
-      "KI",
-      "Large Language Models",
-      "Informatik",
-      "Prompt Engineering",
-      "Automatisierung",
-      "Git",
-      "Docker"
+      "Cloud Computing",
+      "Data Engineer",
+      "Azure",
+      "Datenarchitektur",
+      "Datenpipelines",
+      "Analytics Engineer",
+      "Big Data Engineer",
+      "AWS Data Engineer",
+      "Spark Data Engineer"
     ],
     "match_score": 2,
     "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Staff Software Engineer (Agentic Engineering)",
-    "company": "Coder",
-    "location": "United Kingdom",
-    "description": "<p style=\"min-height:1.5em\">As a Staff Software Engineer on Coder\u2019s Agentic Engineering team, you\u2019ll shape the systems behind our agentic development experience. You\u2019ll work across the agent harness, integrations, and workflows that connect agents with real development environments.</p><p style=\"min-height:1.5em\">You\u2019ll stay hands-on while setting the team's technical direction. You\u2019ll lead complex work, make sound architectural decisions, and help other engineers do their best work.</p><p style=\"min-height:1.5em\"></p><h2><strong>What you\u2019ll do here</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Set technical direction across Coder\u2019s agent harness, integrations, and workflows.</p></li><li><p style=\"min-height:1.5em\">Design and build production systems in Go, with work across React and TypeScript where needed.</p></li><li><p style=\"min-height:1.5em\">Evolve agent execution, tool use, context management, streaming, and long-running workflows.</p></li><li><p style=\"min-height:1.5em\">Extend our provider-agnostic architecture as models and capabilities change.</p></li><li><p style=\"min-height:1.5em\">Lead complex projects from early ambiguity through production.</p></li><li><p style=\"min-height:1.5em\">Raise the engineering bar through design reviews, code reviews, and technical mentorship.</p></li><li><p style=\"min-height:1.5em\">Partner with Product and Design on clear, useful agent experiences.</p></li><li><p style=\"min-height:1.5em\">Improve the reliability, performance, and operability of agentic systems.</p><p style=\"min-height:1.5em\"></p></li></ul><h2><strong>What we\u2019re looking for</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Deep experience building and operating production software systems.</p></li><li><p style=\"min-height:1.5em\">Strong hands-on experience with Go.</p></li><li><p style=\"min-height:1.5em\">Experience with React and TypeScript.</p></li><li><p style=\"min-height:1.5em\">Hands-on experience building sy",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/staff-software-engineer-agentic-engineering-united-kingdom-28866",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-20T18:40:18+00:00",
-    "tags": [
-      "Research & Development"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "React"
-    ]
-  },
-  {
-    "title": "Engineering Manager (Agentic Engineering)",
-    "company": "Coder",
-    "location": "United Kingdom",
-    "description": "<p style=\"min-height:1.5em\">As an Engineering Manager on Coder\u2019s Agentic Engineering team, you\u2019ll lead engineers building and evolving the systems behind our agentic development experience. You\u2019ll help make agents more capable, reliable, and useful across real development environments.</p><p style=\"min-height:1.5em\">You\u2019ll guide technical direction, grow the team, and keep execution sharp. You\u2019ll work closely with Engineering, Product, and Design across the agent harness, integrations, and developer workflows.</p><p style=\"min-height:1.5em\"></p><h2><strong>What you\u2019ll do here</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Lead and grow a team within our Agentic Engineering organization.</p></li><li><p style=\"min-height:1.5em\">Set technical direction across the agent harness, integrations, and workflows.</p></li><li><p style=\"min-height:1.5em\">Stay close to the code and contribute to architecture and implementation decisions.</p></li><li><p style=\"min-height:1.5em\">Evolve agent execution, tool use, context management, streaming, and long-running workflows.</p></li><li><p style=\"min-height:1.5em\">Extend our provider-agnostic architecture as models and capabilities change.</p></li><li><p style=\"min-height:1.5em\">Partner with Product and Design to turn agent capabilities into useful developer experiences.</p></li><li><p style=\"min-height:1.5em\">Improve reliability, performance, and operability across agentic systems.</p></li><li><p style=\"min-height:1.5em\">Coach engineers, raise the technical bar, and create clarity around priorities and tradeoffs.</p><p style=\"min-height:1.5em\"></p></li></ul><h2><strong>What we\u2019re looking for</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience managing and growing software engineering teams.</p></li><li><p style=\"min-height:1.5em\">Strong hands-on engineering experience with Go.</p></li><li><p style=\"min-height:1.5em\">Experience with React and TypeScript.</p></li><li><p style=\"",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/engineering-manager-agentic-engineering-united-kingdom-109180",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-20T18:40:18+00:00",
-    "tags": [
-      "Research & Development"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "React"
+      "Python",
+      "SQL",
+      "Azure"
     ]
   }
 ]
