@@ -1,53 +1,244 @@
 [
   {
-    "title": "Current openings",
-    "company": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
-    "location": "Wideopen, ",
-    "description": "403 / Security check<br><br>Before you continue, please verify your request.<br><br>We need to confirm that this request is coming from a real browser before we send you to Wellfound. Complete the security check below to continue.<br><br>Verification successful. Waiting for wellfound.com to respond<br><br>Enable JavaScript and cookies to continue<br><br>Cloudflare Ray ID a2b81e2c28c2ebe7<br><br>Back to Wellfound Contact Support<br/><br/>Please mention the word **COMPLEMENTS** and tag RMTA0LjIwOS4xMS4yMTE= when applying to show you read the job post completely (#RMTA0LjIwOS4xMS4yMTE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-current-openings-mobiux-labs-uk-limited-formerly-vida-technologies-ltd-1136793",
+    "title": "Project Systems Specialist",
+    "company": "Dart",
+    "location": "George Town, ",
+    "description": "<p><strong>JOB TITLE:</strong> PROJECT SYSTEMS SPECIALIST</p><p><br></p><p><strong>SALARY:</strong> CI$60,000 - CI$80,000 pa</p><p><br></p><p><strong>WORKING HOURS: </strong>40 HOURS PER WEEK</p><p><br></p><p>We are seeking a Project Systems Specialist to join our Project Operations team. The successful candidate will support project management systems, ensuring efficient information management, system performance, and data-driven reporting to support project delivery and operational excellence.</p><p><strong> </strong></p><p><strong>DO YOU HAVE:</strong></p><p><br></p><p>A Bachelor\u00e2\u0080\u0099s degree in a related field or equivalent experience</p><p>At least 4 years\u00e2\u0080\u0099 experience in a similar systems or technical support role</p><p>A minimum of 2 years\u00e2\u0080\u0099 hands-on experience with SSRS reporting</p><p>Familiarity with Power BI, Crystal Reports, or similar BI tools</p><p>Working knowledge of SQL, HTML, CSS, and JavaScript (C# is a plus)</p><p>Experience supporting or administering project management systems such as PMWeb</p><p>Strong analytical, problem-solving, and communication skills</p><p>The ability to manage multiple tasks under pressure while maintaining attention to detail</p><p>The ability to travel to project sites and perform occasional system inspections, including standing, walking, and lifting or carrying light equipment as required to fulfill the essential duties of the role</p><p><br></p><p><strong>WE WANT YOU TO:</strong></p><p><br></p><p>Provide day-to-day technical support for project management systems and users</p><p>Monitor system performance and respond promptly to user queries and issues</p><p>Assist in maintaining and improving system administration policies and procedures</p><p>Collaborate with IT and technical teams to ensure system functionality and reliability</p><p>Support reporting needs through SSRS, dashboards, and automated tools</p><p>Help evaluate and improve information management processes across projects</p><p>Contribute to QA/QC measur",
+    "url": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069",
     "source": "RemoteOK",
-    "posted_at": "2026-08-15T00:12:49+00:00",
+    "posted_at": "2026-08-21T14:53:06+00:00",
     "tags": [
-      "infosec",
+      "design",
+      "sys admin",
+      "education",
       "customer support",
-      "javascript"
+      "testing",
+      "travel",
+      "node",
+      "microsoft",
+      "exec",
+      "ops",
+      "medical",
+      "engineer",
+      "digital nomad",
+      "c sharp",
+      "technical",
+      "marketing",
+      "quality assurance",
+      "javascript",
+      "c",
+      "css",
+      "html"
     ],
-    "match_score": 2,
+    "match_score": 4,
     "matched_skills": [
+      "JavaScript",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Data Engineer (m/f/d)",
+    "company": "DISH Digital Solutions GmbH",
+    "location": "D\u00fcsseldorf",
+    "description": "<br><strong>Your Contribution</strong><p>Are you passionate about building robust data pipelines and enabling data-driven innovation? As a Data Engineer, you will design and evolve scalable data platforms that power analytics, machine learning, and business insights across DISH. Working closely with product teams, data scientists, analysts, and engineers, you will help shape our data ecosystem and contribute to the digital transformation of the HoReCa industry.</p><br><strong>Menu of Responsibilities</strong><p>This role is part of our Data Insights Team, consisting of three Centers of Excellence (CoEs) and one Platform Team. You will be responsible for:<ul><li>Designing, building, and operating scalable data platforms and pipelines that support analytics, AI, and business decision-making.</li><li>Delivering data products within cross-functional squads and translating business needs into reliable, cost-efficient solutions.</li><li>Developing and maintaining batch and real-time data processing solutions on Google Cloud using modern ETL/ELT practices.</li><li>Establishing data engineering standards, guardrails, and best practices that enable safe experimentation while protecting production environments.</li><li>Enabling AI and machine learning initiatives through the adoption of Vertex AI, Model Garden, and GenAI orchestration frameworks.</li><li>Developing integrations, APIs, and workflow orchestration processes to ensure reliable and scalable data movement across systems.</li></ul></p><br><strong>Ingredients for Success</strong><p><ul><li>Proven experience designing and operating distributed data systems and processing large-scale datasets.</li><li>Strong proficiency in Python and SQL, with working knowledge of Java and software engineering best practices.</li><li>Hands-on experience with Google Cloud technologies, including BigQuery, Cloud Storage, Dataflow, Cloud Run, and Pub/Sub.</li><li>Experience building and orchestrating data pipelines using tools such as DBT",
+    "url": "https://www.arbeitnow.com/jobs/companies/dish-digital-solutions-gmbh/data-engineer-dusseldorf-363424",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-23T05:09:45+00:00",
+    "tags": [],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "title": "QA Automation Engineer (IntelliJ IDEA Java Build Tools)",
+    "company": "jetbrains",
+    "location": "Berlin; Munich",
+    "description": "&lt;p&gt;At JetBrains, code is our passion. Ever since we started, back in 2000, we have been striving to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers and businesses to grow, discover, and create.&lt;/p&gt;\n&lt;p&gt;IntelliJ IDEA revolutionized the Java development tool market back in 2001, becoming the first IDE to offer automated code refactoring. It continues to drive innovation in software development, making thousands of programmers more productive every day. In addition to Java, IntelliJ IDEA includes various development tools for other prominent languages such as Ruby, Groovy, Scala, Python, JavaScript, Objective-C, PHP, and Kotlin.&lt;/p&gt;\n&lt;p&gt;We&#39;re now looking for a QA Automation Engineer to join the IntelliJ IDEA Java Build Tools QA team and help ensure the quality of a product that our customers and software engineers around the world rely on daily. Since most Java projects in IntelliJ IDEA are built with Maven or Gradle, Java Build Tools is a critical part of the IDE experience, and your work will affect how smoothly our users can open, sync, build, and run their projects. You&#39;ll work alongside QA engineers to design and set up our automation process for Gradle and Maven end-to-end tests, as well as implement and automate test scenarios that catch issues before they reach our users.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;Core responsibilities:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, develop, and maintain multi-platform and environmental (Linux, Windows, MacOS, Docker, WSL) automated test scenarios.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Expand test coverage for new and existing functionality.&lt;/li&gt;\n&lt;li&gt;Debug and troubleshoot test failures.&lt;/li&gt;\n&lt;li&gt;Improve existing automation based on team feedback and reduce test flakiness.&lt;/li&gt;\n&",
+    "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/qa-automation-engineer-intellij-idea-java-build-tools-berlin-munich-231323",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-23T02:55:30+00:00",
+    "tags": [
+      "Quality Office"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
       "JavaScript"
     ]
   },
   {
-    "title": "Senior Data Engineer (m/w/d) \u2013 Snowflake",
-    "company": "Jobrad Loop",
-    "location": "M\u00fcnchen",
-    "description": "<br><strong>Lust auf eine besondere Herausforderung?</strong><p><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;color:rgb(0,0,0);\">Du m\u00f6chtest die <strong>technische Grundlage f\u00fcr datengetriebene Entscheidungen aktiv mitgestalten</strong> und nicht nur bestehende Systeme verwalten? Dann werde Teil unseres Teams als <strong>Senior Data Engineer</strong> und bring unsere Datenlandschaft auf das n\u00e4chste Level. Du entwickelst skalierbare Datenarchitekturen, verantwortest gesch\u00e4ftskritische Pipelines und gestaltest aktiv, wie Daten im Unternehmen genutzt werden. Bei uns arbeitest du an L\u00f6sungen, die echten Impact haben: f\u00fcr unsere Teams, unsere Prozesse und unsere Zukunft.\u00a0</span><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;color:rgb(0,0,0);\"><strong>Let`s ride together!</strong></span></p><br><strong>Was du brauchst, um erfolgreich zu sein</strong><p><ul><li style=\"text-align:left;\"><strong>Technische Expertise:</strong> Fundierte Erfahrung in Data Engineering sowie ein sicherer Umgang mit SQL, Python und modernen Datenplattformen (insbesondere mit Snowflake) zeichnen dich aus</li><li style=\"text-align:left;\"><strong>Pipelines &amp; Datenverarbeitung:</strong> Erfahrung im Aufbau und Betrieb von ETL/ELT-Prozessen sowie die F\u00e4higkeit, gro\u00dfe Datenmengen effizient zu verarbeiten, bringst du mit</li><li style=\"text-align:left;\"><strong>Architektur &amp; Datenmodellierung:</strong> Mit skalierbaren Datenarchitekturen (z. B. Data Lake, Data Warehouse) und Datenmodellierung bist du bestens vertraut und bringst idealerweise Erfahrung mit Workflow-Orchestrierungstools wie Airflow oder Dagster mit</li><li style=\"text-align:left;\"><strong>Cloud &amp; Plattformen:</strong> Erfahrung mit Cloud-Umgebungen, idealerweise mit Fokus auf Azure (z. B. im Kontext von BI/Power BI), sowie ein gutes Verst\u00e4ndnis bestehender AWS-Strukturen geh\u00f6ren zu deinem Profil</li><li style=\"text-align:left;\"><strong>Qualit\u00e4tsverst\u00e4ndnis:</strong> Ein ausgepr\u00e4gtes",
-    "url": "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-10090",
+    "title": "Praktikum - Political Data Engineering (w/d/m)",
+    "company": "Christundcompany",
+    "location": "Berlin",
+    "description": "<br><strong>Deine Aufgaben</strong><p><ul><li>Konzeption und Umsetzung kreativer Datenprodukte f\u00fcr Kunden aus dem politischen Umfeld, darunter Parteien, Verb\u00e4nde, Ministerien und NGOs</li><li>Datensammlung \u00fcber APIs: Entwicklung und Pflege von Skripten, die Daten aus Social-Media-APIs und Ad Libraries abrufen\u00a0</li><li>Mitarbeit an den bestehenden Datenpipelines: Umsetzung und Test von Transformations-Modellen (dbt/SQL)</li><li>Datenqualit\u00e4t &amp; Monitoring: Regelm\u00e4\u00dfige Kontrolle laufender Pipelines, Nachverfolgen von Fehlern und Auff\u00e4lligkeiten, Onboarding neuer Kunden, Dokumentation</li><li>Dashboards &amp; wiederkehrende Auswertungen: Aufbau und Pflege von Dashboards sowie Erstellung wiederkehrender Reports</li><li>Ad-hoc-Analysen: Beantwortung konkreter Datenfragen aus dem Team - von der Abfrage bis zur verst\u00e4ndlichen Aufbereitung des Ergebnisses</li></ul></p><br><strong>Dein Profil</strong><p><ul><li>Programmierkenntnisse in Python sowie Grundkenntnisse in SQL, Erfahrung mit R ist w\u00fcnschenswert</li><li>Interesse an Dateninfrastruktur und erste Ber\u00fchrungspunkte mit Technologien wie PostgreSQL, dbt, Dagster oder Ansible. Entscheidend ist f\u00fcr uns weniger die konkrete Toolkenntnise als die F\u00e4higkeit und das Interesse, neue Systeme zu erlernen</li><li>Erfahrung in der Datensammlung \u00fcber APIs\u00a0</li><li>Grundlegendes Verst\u00e4ndnis f\u00fcr gutes Code Design, insbesondere Wiederverwendbarkeit, Wartbarkeit, klare Verantwortlichkeiten und sinnvolle Abstraktion</li><li>F\u00e4higkeit, technische L\u00f6sungen so zu gestalten, dass sie nicht nur einen einzelnen Anwendungsfall l\u00f6sen, sondern m\u00f6glichst flexibel und f\u00fcr weitere Projekte nutzbar sind</li><li>Bewusster und kritischer Umgang mit Large Language Models wie Claude Code sowie die F\u00e4higkeit, KI gezielt zum Lernen, f\u00fcr Code Design und zur Entwicklung technischer L\u00f6sungsans\u00e4tze einzusetzen</li><li>F\u00e4higkeit, KI-generierte Vorschl\u00e4ge zu hinterfragen und zu durchdenken statt sie einfach zu \u00fcbernehmen</li><li>Interesse an tagesaktuellen po",
+    "url": "https://www.arbeitnow.com/jobs/companies/christundcompany/praktikum-political-data-engineering-berlin-255318",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-22T05:29:55+00:00",
+    "posted_at": "2026-08-23T02:09:57+00:00",
     "tags": [
-      "Data",
-      "Data Analyst",
-      "Warehouse design",
-      "ETL - Prozesse",
-      "Data Pipeline",
-      "SQL",
       "Python",
-      "Cloud Computing",
-      "Data Engineer",
-      "Azure",
-      "Datenarchitektur",
-      "Datenpipelines",
-      "Analytics Engineer",
-      "Big Data Engineer",
-      "AWS Data Engineer",
-      "Spark Data Engineer"
+      "SQL",
+      "dbt",
+      "PostgreSQL",
+      "Data Engineering",
+      "Data Science",
+      "Data Analysis",
+      "Computational Social Science (CSS)",
+      "Politik"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Backend Software Engineer - New Bets",
+    "company": "Heidi",
+    "location": "London",
+    "description": "<h2><strong>Who is Heidi?</strong></h2><p style=\"min-height:1.5em\">Heidi is building an AI Care Partner that supports clinicians every step of the way, from documentation to delivery of care.</p><p style=\"min-height:1.5em\">We exist to double healthcare\u2019s capacity while keeping care deeply human. In the last 18 months, Heidi has returned more than 18 million hours to clinicians and supported over 73 million patient visits. Today, more than two million patient visits each week are powered by Heidi across 116 countries and over 110 languages.</p><p style=\"min-height:1.5em\">Founded by clinicians, Heidi brings together clinicians, engineers, designers, scientists, creatives, and mathematicians, working with a shared purpose: to strengthen the human connection at the heart of healthcare.</p><p style=\"min-height:1.5em\">Backed by nearly $100 million in total funding, Heidi is expanding across the USA, UK, Canada, and Europe, partnering with major health systems including the NHS, Beth Israel Lahey Health, MaineGeneral, and Monash Health, among others.</p><p style=\"min-height:1.5em\">We move quickly where it matters and stay grounded in what\u2019s proven, shaping healthcare\u2019s next era. Ready for the challenge?</p><p style=\"min-height:1.5em\"></p><h2><strong>The Role</strong></h2><p style=\"min-height:1.5em\">The New Bets squad builds Heidi's next products. Scribe already powers millions of patient visits a week, and Evidence and Remote are scaling behind it. Your job, alongside the New Bets PM and Team, is to build what comes next.</p><p style=\"min-height:1.5em\">This is zero-to-one engineering with a distribution advantage most early products never get. Your v1s don't launch into silence, instead they go in front of clinicians who already open Heidi every day, and who will tell you within a week whether you have built something they need. </p><p style=\"min-height:1.5em\">The squad is small on purpose. You'll build the whole thing: the React front end, the Python services behind it, a",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/backend-software-engineer-new-bets-london-388425",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-22T09:40:12+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "title": "DESARROLLADOR FULL STACK",
+    "company": "Kruger NearShore LLC - Rekluti",
+    "location": "Remote",
+    "description": "<h3>Desarrollador/a Full Stack \u00e2\u0080\u0093 Python / Angular / Go</h3><p class=\"isSelectedEnd\">En <strong>Rekluti</strong>, consultora especializada en talento tecnol\u00c3\u00b3gico en LATAM, buscamos un/a <strong>Desarrollador/a Full Stack</strong> para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables.</p><p class=\"isSelectedEnd\">Buscamos un perfil con s\u00c3\u00b3lida experiencia en <strong>Python, Angular y Go</strong>, capaz de desenvolverse de manera aut\u00c3\u00b3noma, aportar en decisiones t\u00c3\u00a9cnicas y colaborar con equipos multidisciplinarios.</p><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u008e\u00af Principales responsabilidades</h3><ul><li><p>Dise\u00c3\u00b1ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend.</p></li><li><p>Desarrollar servicios y <strong>APIs REST</strong> utilizando principalmente Python y Go.</p></li><li><p>Construir y mantener interfaces web modernas con <strong>Angular</strong>.</p></li><li><p>Participar en el dise\u00c3\u00b1o de arquitecturas y definici\u00c3\u00b3n de soluciones t\u00c3\u00a9cnicas.</p></li><li><p>Integrar servicios, APIs y diferentes componentes de la plataforma.</p></li><li><p>Desarrollar c\u00c3\u00b3digo limpio, mantenible, escalable y de alta calidad.</p></li><li><p>Participar en revisiones de c\u00c3\u00b3digo, testing y resoluci\u00c3\u00b3n de incidencias.</p></li><li><p>Colaborar con equipos de Producto, QA, DevOps y otros perfiles t\u00c3\u00a9cnicos.</p></li><li><p>Contribuir a la mejora continua de procesos y buenas pr\u00c3\u00a1cticas de desarrollo.</p></li><li><p>Trabajar con servicios cloud y ambientes desplegados sobre <strong>Google Cloud Platform (GCP)</strong>.</p></li><li><p>Participar eventualmente en iniciativas de desarrollo mobile utilizando <strong>Flutter</strong>.</p></li></ul><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u0092\u00bb Requisitos</h3><ul><li><p><strong>5+ a\u00c3\u00b1os de experiencia</strong> en desarrollo de software.</p></li><li><p>Experiencia s\u00c3\u00b3lida como <strong>Full Stack Developer</strong>.</p></li><li><p>Dominio avanzado de <strong>Pytho",
+    "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+    "source": "RemoteOK",
+    "posted_at": "2026-08-22T00:00:12+00:00",
+    "tags": [
+      "full stack",
+      "front end",
+      "python",
+      "dev",
+      "testing",
+      "web dev",
+      "quality assurance",
+      "devops",
+      "c",
+      "cloud",
+      "nosql",
+      "git",
+      "flutter",
+      "angular",
+      "mobile",
+      "golang",
+      "backend",
+      "digital nomad"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Softwareentwickler (m/w/d) Moodle / PHP / E-Learning",
+    "company": "Velptec",
+    "location": "Remote (Deutschland)",
+    "description": "<br><strong>\u00dcber uns</strong><p>velpTEC ist ein auf innovative Technologien ausgerichtetes Weiterbildungsinstitut, das Erfahrungen aus Wirtschaft, Zukunftsforschung und neuen Bildungsans\u00e4tzen verbindet. Wir unterst\u00fctzen Menschen durch unsere Bildungsangebote praxisnah dabei, ihre F\u00e4higkeiten f\u00fcr k\u00fcnftige Zeiten zu st\u00e4rken und damit aktiv ihren Lebensweg zu gestalten. In unserem Handeln legen wir Wert auf gesellschaftliche Verantwortung, Fortschritt und Selbstbestimmung. Bereit f\u00fcr eine neue Mission? Dann entdecke jetzt deine Zukunftsperspektive bei velpTEC und werde Teil unseres multiprofessionellen und diversen Teams.<br>\u200b<br>Zur Verst\u00e4rkung unseres Teams suchen wir zum n\u00e4chstm\u00f6glichen Zeitpunkt einen Softwareentwickler (m/w/d) mit Erfahrung in Moodle, um unsere Lernplattform technisch weiterzuentwickeln und gemeinsam mit unserem Learning Design Team innovative Lernkonzepte in leistungsf\u00e4hige digitale L\u00f6sungen zu \u00fcbersetzen.</p><br><strong>Was deine Aufgaben sein werden</strong><p><ul><li>Weiterentwicklung und Optimierung unserer Moodle-basierten Lernplattform</li><li>Entwicklung neuer Erweiterungen und Schnittstellen</li><li>Anpassung und Modernisierung bestehender Moodle-Komponenten</li><li>Analyse und Optimierung von Performance, Sicherheit und Benutzerfreundlichkeit</li><li>Mitarbeit an der technischen Konzeption neuer digitaler Lernangebote</li><li>Enge Zusammenarbeit mit unserem Learning Design Team zur Entwicklung innovativer didaktischer Konzepte</li><li>Integration externer Systeme \u00fcber REST-APIs und Standards wie LTI oder SCORM</li><li>Unterst\u00fctzung bei Updates, Releases und Qualit\u00e4tssicherung</li><li>Technischer Support und Fehleranalyse f\u00fcr unsere Moodle-Umgebung</li><li>Dokumentation von Entwicklungen und Best Practice</li></ul></p><br><strong>Das solltest du mitbringen </strong><p><ul><li>Abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder eine vergleichbare Qualifikation</li><li>Mehrj\u00e4hrige Erfahrung in der Entwicklung mit Moodle</li><",
+    "url": "https://www.arbeitnow.com/jobs/companies/velptec/remote-softwareentwickler-moodle-php-e-learning-257464",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-23T05:10:25+00:00",
+    "tags": [
+      "software entwicklung",
+      "php",
+      "moodle",
+      "e-learning",
+      "software engineer",
+      "software engineering",
+      "apis",
+      "sql"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "SQL"
+    ]
+  },
+  {
+    "title": "Lead Software Engineer (m/f/d)",
+    "company": "Fincite Gmbh",
+    "location": "Frankfurt am Main",
+    "description": "<br><strong>Your responsibilities</strong><p>\u2022 Together with two fellow Lead Engineers, you will help lead an engineering organization of around 20 people.<br>\u2022 You will provide technical and functional leadership for a team, with no more than five direct reports.<br>\u2022 You will build robust backend solutions for sophisticated wealth management products and actively shape their architecture.<br>\u2022 You will establish new technical standards and champion high-quality, sustainable software design in a regulated environment.<br>\u2022 You will break down complex business and technical topics into focused workstreams with clear ownership.<br>\u2022 Initially, you will work extensively hands-on in the codebase; over time, the role will develop toward approximately 70% team leadership and 30% technical work.<br>\u2022 You will support your team members\u2019 development and foster a constructive, learning-oriented engineering culture.<br>\u2022 You will strengthen our internal development capacity and help deliver reliable software that supports lasting client relationships.</p><br><strong>Your profile</strong><p>\u2022 Several years of backend development experience with Python and Django.<br>\u2022 Strong knowledge of PostgreSQL and Redis, together with experience in cloud-based architectures like Microsoft Azure or AWS<br>\u2022 A genuine passion for excellent software design and clean, maintainable solutions.<br>\u2022 Initial or proven experience in technical or functional leadership.<br>\u2022 A genuine interest in financial markets, investing and wealth management, enabling you to understand our users and build a lasting connection with the product.<br>\u2022 A growth mindset, curiosity and the motivation to develop both technically and as a leader.</p><br><strong>What we offer</strong><p>We are an established product company with the spirit of a startup. You can expect a team-oriented atmosphere, quick decision-making, and genuine freedom to shape your work environment. Flexible work hours, training budgets, and attracti",
+    "url": "https://www.arbeitnow.com/jobs/companies/fincite-gmbh/lead-software-engineer-frankfurt-am-main-115503",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-23T05:10:06+00:00",
+    "tags": [
+      "Growth",
+      "architecture",
+      "development",
+      "fintech",
+      "wealthmanagement",
+      "softwareengineering",
+      "leadership",
+      "headof"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "Python",
+      "Azure"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer (m/f/d): AI-Native Development",
+    "company": "Myra",
+    "location": "M\u00fcnchen",
+    "description": "<p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
+    "url": "https://www.arbeitnow.com/jobs/companies/myra/senior-software-engineer-ai-native-development-munchen-31670",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-22T20:10:21+00:00",
+    "tags": [
+      "AI Native Development",
+      "PHP",
+      "Symfony",
+      "React",
+      "GraphQL",
+      "Rust",
+      "Python",
+      "Go",
+      "Security by Design",
+      "CI/CD",
+      "Fullstack Development",
+      "Javascript",
+      "ReactJS",
+      "Typescript",
+      "Devops",
+      "Software Developer"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
+    "title": "AI Engineering & Automation Specialist (on-site)",
+    "company": "Cloover",
+    "location": "Berlin",
+    "description": "<br><strong>Deine Rolle</strong><p>Jedes interne Team bei Cloover, Ops, Energy, Sales, CS, Finance, hat Arbeit, die KI-Agenten schneller und besser erledigen k\u00f6nnen. Du baust die Systeme, die das real machen: agentische Pipelines, MCP-Server und interne Tools, die unseren Arbeitsalltag ver\u00e4ndern, nicht irgendwann, sondern jetzt. Erfolg in dieser Rolle hei\u00dft: Kolleg:innen h\u00f6ren auf, die Arbeit zu machen, die du automatisiert hast, und konzentrieren sich auf das, was nur sie tun k\u00f6nnen.<br>Du berichtest an Florent (Head of Operations &amp; Energy) und arbeitest in einem starken, eng vernetzten Team.</p><br><strong>Deine Aufgaben</strong><p><ul><li>Konzipiere, baue und shippe end-to-end agentische Systeme, RAG-Pipelines, Embeddings, Retrieval, Prompt Engineering und Evaluation, die Cloovers volumenst\u00e4rkste interne Workflows automatisieren.</li><li>Entwickle und deploye eigene MCP-Server sowie Integrationen, die HubSpot, Slack, Notion, Aircall und weitere Tools verbinden, damit Daten dort landen, wo sie gebraucht werden, ohne manuelle Zwischenschritte.</li><li>Schreibe Production-Code in Python und TypeScript mit sauberem Schema-Design, Security und Authorization, Code, der live geht und l\u00e4uft, keine Prototypen, die liegen bleiben.</li><li>Verantworte internes Tooling von Anfang bis Ende: L\u00fccke erkennen, Tool bauen, auf Firebase, Vercel oder GCP deployen, mit ordentlichem Versionsmanagement und CI/CD.</li><li>Baue eigene Claude-Code-Skills, Plugins und Connectors, und onboarde Kolleg:innen in AI-native Workflows, die wirklich genutzt werden.</li><li>Arbeite eng mit Ops, Energy, Sales, CS und Finance zusammen, um die hebelst\u00e4rksten Automatisierungs-Use-Cases zu identifizieren, und setze sie dann selbst um.</li></ul></p><br><strong>Dein Profil</strong><p>Wie du denkst und was du aufgebaut hast, z\u00e4hlt mehr als wo du warst. Das sind die Voraussetzungen f\u00fcr deinen Erfolg in dieser Rolle:<br><ul><li>Du hast bereits agentische Systeme, RAG-Pipelines oder KI-gest\u00fctzte Tools ges",
+    "url": "https://www.arbeitnow.com/jobs/companies/cloover/ai-engineering-automation-specialist-on-site-berlin-204043",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-22T20:30:03+00:00",
+    "tags": [
+      "AI",
+      "artificial intelligence",
+      "renewal energy"
     ],
     "match_score": 2,
     "matched_skills": [
-      "Python",
-      "SQL",
-      "Azure"
+      "Python"
     ]
   }
 ]
