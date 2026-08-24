@@ -37,77 +37,27 @@
     ]
   },
   {
-    "title": "Data Engineer (m/f/d)",
-    "company": "DISH Digital Solutions GmbH",
-    "location": "D\u00fcsseldorf",
-    "description": "<br><strong>Your Contribution</strong><p>Are you passionate about building robust data pipelines and enabling data-driven innovation? As a Data Engineer, you will design and evolve scalable data platforms that power analytics, machine learning, and business insights across DISH. Working closely with product teams, data scientists, analysts, and engineers, you will help shape our data ecosystem and contribute to the digital transformation of the HoReCa industry.</p><br><strong>Menu of Responsibilities</strong><p>This role is part of our Data Insights Team, consisting of three Centers of Excellence (CoEs) and one Platform Team. You will be responsible for:<ul><li>Designing, building, and operating scalable data platforms and pipelines that support analytics, AI, and business decision-making.</li><li>Delivering data products within cross-functional squads and translating business needs into reliable, cost-efficient solutions.</li><li>Developing and maintaining batch and real-time data processing solutions on Google Cloud using modern ETL/ELT practices.</li><li>Establishing data engineering standards, guardrails, and best practices that enable safe experimentation while protecting production environments.</li><li>Enabling AI and machine learning initiatives through the adoption of Vertex AI, Model Garden, and GenAI orchestration frameworks.</li><li>Developing integrations, APIs, and workflow orchestration processes to ensure reliable and scalable data movement across systems.</li></ul></p><br><strong>Ingredients for Success</strong><p><ul><li>Proven experience designing and operating distributed data systems and processing large-scale datasets.</li><li>Strong proficiency in Python and SQL, with working knowledge of Java and software engineering best practices.</li><li>Hands-on experience with Google Cloud technologies, including BigQuery, Cloud Storage, Dataflow, Cloud Run, and Pub/Sub.</li><li>Experience building and orchestrating data pipelines using tools such as DBT",
-    "url": "https://www.arbeitnow.com/jobs/companies/dish-digital-solutions-gmbh/data-engineer-dusseldorf-363424",
+    "title": "Data Engineer Working Student (m/w/d)",
+    "company": "Trusteq Gmbh",
+    "location": "K\u00f6ln",
+    "description": "<br><strong>YOUR TASKS</strong><p><ul><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support the development of databases and data integration processes</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You contribute to the design and implementation of data models and data pipelines for modern data lakes, data warehouses, or lakehouses</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You assist in documenting and structuring data platforms and related processes</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You participate in the development of interactive dashboards and reports, for example in the area of performance metrics and ESG</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support the application of data analytics methods and tools within project contexts</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You assist users in the utilization and maintenance of data platforms and analytics solutions</li></ul></p><br><strong>YOUR PROFIL</strong><p><ul><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You are currently enrolled as a student in an IT-related field, such as (Business) Informatics, Software Engineering, Data Science, Data Engineering, or a related discipline</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You have solid knowledge of the programming languages Python and SQL</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You have experience in data visualization and presentation using Power BI and/or Microsoft Fabric.</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">Initial experience with Databricks is considered an advantage</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You have a basic understanding of data modeling methods and data integration processes (ETL / ELT)</li><li style=",
+    "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-358872",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-23T05:09:45+00:00",
-    "tags": [],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
-    "title": "QA Automation Engineer (IntelliJ IDEA Java Build Tools)",
-    "company": "jetbrains",
-    "location": "Berlin; Munich",
-    "description": "&lt;p&gt;At JetBrains, code is our passion. Ever since we started, back in 2000, we have been striving to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers and businesses to grow, discover, and create.&lt;/p&gt;\n&lt;p&gt;IntelliJ IDEA revolutionized the Java development tool market back in 2001, becoming the first IDE to offer automated code refactoring. It continues to drive innovation in software development, making thousands of programmers more productive every day. In addition to Java, IntelliJ IDEA includes various development tools for other prominent languages such as Ruby, Groovy, Scala, Python, JavaScript, Objective-C, PHP, and Kotlin.&lt;/p&gt;\n&lt;p&gt;We&#39;re now looking for a QA Automation Engineer to join the IntelliJ IDEA Java Build Tools QA team and help ensure the quality of a product that our customers and software engineers around the world rely on daily. Since most Java projects in IntelliJ IDEA are built with Maven or Gradle, Java Build Tools is a critical part of the IDE experience, and your work will affect how smoothly our users can open, sync, build, and run their projects. You&#39;ll work alongside QA engineers to design and set up our automation process for Gradle and Maven end-to-end tests, as well as implement and automate test scenarios that catch issues before they reach our users.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;Core responsibilities:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, develop, and maintain multi-platform and environmental (Linux, Windows, MacOS, Docker, WSL) automated test scenarios.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Expand test coverage for new and existing functionality.&lt;/li&gt;\n&lt;li&gt;Debug and troubleshoot test failures.&lt;/li&gt;\n&lt;li&gt;Improve existing automation based on team feedback and reduce test flakiness.&lt;/li&gt;\n&",
-    "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/qa-automation-engineer-intellij-idea-java-build-tools-berlin-munich-231323",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-23T02:55:30+00:00",
+    "posted_at": "2026-08-24T02:29:49+00:00",
     "tags": [
-      "Quality Office"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Praktikum - Political Data Engineering (w/d/m)",
-    "company": "Christundcompany",
-    "location": "Berlin",
-    "description": "<br><strong>Deine Aufgaben</strong><p><ul><li>Konzeption und Umsetzung kreativer Datenprodukte f\u00fcr Kunden aus dem politischen Umfeld, darunter Parteien, Verb\u00e4nde, Ministerien und NGOs</li><li>Datensammlung \u00fcber APIs: Entwicklung und Pflege von Skripten, die Daten aus Social-Media-APIs und Ad Libraries abrufen\u00a0</li><li>Mitarbeit an den bestehenden Datenpipelines: Umsetzung und Test von Transformations-Modellen (dbt/SQL)</li><li>Datenqualit\u00e4t &amp; Monitoring: Regelm\u00e4\u00dfige Kontrolle laufender Pipelines, Nachverfolgen von Fehlern und Auff\u00e4lligkeiten, Onboarding neuer Kunden, Dokumentation</li><li>Dashboards &amp; wiederkehrende Auswertungen: Aufbau und Pflege von Dashboards sowie Erstellung wiederkehrender Reports</li><li>Ad-hoc-Analysen: Beantwortung konkreter Datenfragen aus dem Team - von der Abfrage bis zur verst\u00e4ndlichen Aufbereitung des Ergebnisses</li></ul></p><br><strong>Dein Profil</strong><p><ul><li>Programmierkenntnisse in Python sowie Grundkenntnisse in SQL, Erfahrung mit R ist w\u00fcnschenswert</li><li>Interesse an Dateninfrastruktur und erste Ber\u00fchrungspunkte mit Technologien wie PostgreSQL, dbt, Dagster oder Ansible. Entscheidend ist f\u00fcr uns weniger die konkrete Toolkenntnise als die F\u00e4higkeit und das Interesse, neue Systeme zu erlernen</li><li>Erfahrung in der Datensammlung \u00fcber APIs\u00a0</li><li>Grundlegendes Verst\u00e4ndnis f\u00fcr gutes Code Design, insbesondere Wiederverwendbarkeit, Wartbarkeit, klare Verantwortlichkeiten und sinnvolle Abstraktion</li><li>F\u00e4higkeit, technische L\u00f6sungen so zu gestalten, dass sie nicht nur einen einzelnen Anwendungsfall l\u00f6sen, sondern m\u00f6glichst flexibel und f\u00fcr weitere Projekte nutzbar sind</li><li>Bewusster und kritischer Umgang mit Large Language Models wie Claude Code sowie die F\u00e4higkeit, KI gezielt zum Lernen, f\u00fcr Code Design und zur Entwicklung technischer L\u00f6sungsans\u00e4tze einzusetzen</li><li>F\u00e4higkeit, KI-generierte Vorschl\u00e4ge zu hinterfragen und zu durchdenken statt sie einfach zu \u00fcbernehmen</li><li>Interesse an tagesaktuellen po",
-    "url": "https://www.arbeitnow.com/jobs/companies/christundcompany/praktikum-political-data-engineering-berlin-255318",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-23T02:09:57+00:00",
-    "tags": [
-      "Python",
-      "SQL",
-      "dbt",
-      "PostgreSQL",
-      "Data Engineering",
-      "Data Science",
-      "Data Analysis",
-      "Computational Social Science (CSS)",
-      "Politik"
+      "Working Student",
+      "Working Student Data Analyst",
+      "Data Analyst",
+      "IT-Strategy",
+      "ESG",
+      "Working Student Data Engineer",
+      "Data Engineer",
+      "Data Bricks"
     ],
     "match_score": 4,
     "matched_skills": [
       "Python",
       "SQL"
-    ]
-  },
-  {
-    "title": "Backend Software Engineer - New Bets",
-    "company": "Heidi",
-    "location": "London",
-    "description": "<h2><strong>Who is Heidi?</strong></h2><p style=\"min-height:1.5em\">Heidi is building an AI Care Partner that supports clinicians every step of the way, from documentation to delivery of care.</p><p style=\"min-height:1.5em\">We exist to double healthcare\u2019s capacity while keeping care deeply human. In the last 18 months, Heidi has returned more than 18 million hours to clinicians and supported over 73 million patient visits. Today, more than two million patient visits each week are powered by Heidi across 116 countries and over 110 languages.</p><p style=\"min-height:1.5em\">Founded by clinicians, Heidi brings together clinicians, engineers, designers, scientists, creatives, and mathematicians, working with a shared purpose: to strengthen the human connection at the heart of healthcare.</p><p style=\"min-height:1.5em\">Backed by nearly $100 million in total funding, Heidi is expanding across the USA, UK, Canada, and Europe, partnering with major health systems including the NHS, Beth Israel Lahey Health, MaineGeneral, and Monash Health, among others.</p><p style=\"min-height:1.5em\">We move quickly where it matters and stay grounded in what\u2019s proven, shaping healthcare\u2019s next era. Ready for the challenge?</p><p style=\"min-height:1.5em\"></p><h2><strong>The Role</strong></h2><p style=\"min-height:1.5em\">The New Bets squad builds Heidi's next products. Scribe already powers millions of patient visits a week, and Evidence and Remote are scaling behind it. Your job, alongside the New Bets PM and Team, is to build what comes next.</p><p style=\"min-height:1.5em\">This is zero-to-one engineering with a distribution advantage most early products never get. Your v1s don't launch into silence, instead they go in front of clinicians who already open Heidi every day, and who will tell you within a week whether you have built something they need. </p><p style=\"min-height:1.5em\">The squad is small on purpose. You'll build the whole thing: the React front end, the Python services behind it, a",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/backend-software-engineer-new-bets-london-388425",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-22T09:40:12+00:00",
-    "tags": [
-      "Engineering"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "React"
     ]
   },
   {
@@ -144,101 +94,64 @@
     ]
   },
   {
-    "title": "Softwareentwickler (m/w/d) Moodle / PHP / E-Learning",
-    "company": "Velptec",
-    "location": "Remote (Deutschland)",
-    "description": "<br><strong>\u00dcber uns</strong><p>velpTEC ist ein auf innovative Technologien ausgerichtetes Weiterbildungsinstitut, das Erfahrungen aus Wirtschaft, Zukunftsforschung und neuen Bildungsans\u00e4tzen verbindet. Wir unterst\u00fctzen Menschen durch unsere Bildungsangebote praxisnah dabei, ihre F\u00e4higkeiten f\u00fcr k\u00fcnftige Zeiten zu st\u00e4rken und damit aktiv ihren Lebensweg zu gestalten. In unserem Handeln legen wir Wert auf gesellschaftliche Verantwortung, Fortschritt und Selbstbestimmung. Bereit f\u00fcr eine neue Mission? Dann entdecke jetzt deine Zukunftsperspektive bei velpTEC und werde Teil unseres multiprofessionellen und diversen Teams.<br>\u200b<br>Zur Verst\u00e4rkung unseres Teams suchen wir zum n\u00e4chstm\u00f6glichen Zeitpunkt einen Softwareentwickler (m/w/d) mit Erfahrung in Moodle, um unsere Lernplattform technisch weiterzuentwickeln und gemeinsam mit unserem Learning Design Team innovative Lernkonzepte in leistungsf\u00e4hige digitale L\u00f6sungen zu \u00fcbersetzen.</p><br><strong>Was deine Aufgaben sein werden</strong><p><ul><li>Weiterentwicklung und Optimierung unserer Moodle-basierten Lernplattform</li><li>Entwicklung neuer Erweiterungen und Schnittstellen</li><li>Anpassung und Modernisierung bestehender Moodle-Komponenten</li><li>Analyse und Optimierung von Performance, Sicherheit und Benutzerfreundlichkeit</li><li>Mitarbeit an der technischen Konzeption neuer digitaler Lernangebote</li><li>Enge Zusammenarbeit mit unserem Learning Design Team zur Entwicklung innovativer didaktischer Konzepte</li><li>Integration externer Systeme \u00fcber REST-APIs und Standards wie LTI oder SCORM</li><li>Unterst\u00fctzung bei Updates, Releases und Qualit\u00e4tssicherung</li><li>Technischer Support und Fehleranalyse f\u00fcr unsere Moodle-Umgebung</li><li>Dokumentation von Entwicklungen und Best Practice</li></ul></p><br><strong>Das solltest du mitbringen </strong><p><ul><li>Abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder eine vergleichbare Qualifikation</li><li>Mehrj\u00e4hrige Erfahrung in der Entwicklung mit Moodle</li><",
-    "url": "https://www.arbeitnow.com/jobs/companies/velptec/remote-softwareentwickler-moodle-php-e-learning-257464",
+    "title": "AI-Native Software Entwickler (m/w/d)",
+    "company": "JUNE GmbH",
+    "location": "M\u00fcnchen + Remote",
+    "description": "<br><strong>HERAUSFORDERUNG UND PERSPEKTIVE</strong><p><strong>Bei uns lernst du Agentic Coding dort, wo es bereits t\u00e4glich eingesetzt wird!<br></strong><p>Du hast die ersten eigenen Projekte gebaut. Nicht perfekt, aber echt. Du hast mit Claude Code, Codex oder anderen AI-Tools experimentiert und gemerkt: So wird Softwareentwicklung in Zukunft aussehen.</p><p>W\u00e4hrend andere Unternehmen noch diskutieren, ob AI ins Engineering geh\u00f6rt, arbeiten wir schon damit. Jeden Tag.</p><p>Agentic Coding ist bei uns kein Experiment und kein internes Innovationsprojekt. Es ist die Art, wie wir Software entwickeln. Du arbeitest von Anfang an mit erfahrenen Entwicklern zusammen, lernst in echten Kundenprojekten und bekommst Einblicke, die an vielen Orten heute noch Zukunftsmusik sind.</p><p>Uns ist egal, ob du schon alles kannst. Uns ist wichtig, dass du jeden Tag besser werden willst.</p><strong>Was dich erwartet:\u00a0</strong><br><ul><li><span><span>T\u00e4gliche Arbeit mit Agentic Coding und AI-gest\u00fctzter Softwareentwicklung</span></span></li><li><span><span>Moderne Backend-Entwicklung f\u00fcr unsere Legal-AI-Plattform</span></span></li><li><span><span>Entwicklung intelligenter Agenten f\u00fcr reale Kundenprojekte</span></span></li><li><span><span>Ein Umfeld, das st\u00e4ndig neue Tools ausprobiert und produktiv einsetzt</span></span></li><li><span><span>Verantwortung vom ersten Tag an</span></span></li><li><span><span>Extrem steile Lernkurve durch direkte Zusammenarbeit mit erfahrenen AI-First-Entwicklern</span></span></li></ul></p><br><strong>PERS\u00d6NLICHKEIT UND QUALIFIKATION</strong><p><strong>Du passt zu uns, wenn du\u2026\u00a0<br></strong><ul><li><span><span>bereits erste praktische Programmiererfahrung gesammelt</span><span>hast</span></span></li><li><span><span>dich intensiv f\u00fcr KI</span><span>interessierst</span><span>und dich</span><span>aktiv</span><span>damit besch\u00e4ftigst</span></span></li><li><span><span>idealerweise schon mit Claude Code, Codex oder \u00e4hnlichen Tools entwickelt</span><span>hast</span>",
+    "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-108394",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-23T05:10:25+00:00",
+    "posted_at": "2026-08-23T23:30:14+00:00",
     "tags": [
-      "software entwicklung",
-      "php",
-      "moodle",
-      "e-learning",
-      "software engineer",
-      "software engineering",
-      "apis",
-      "sql"
+      "ai",
+      "ki",
+      "agentic",
+      "claude",
+      "codex",
+      "backend",
+      ".net",
+      "python",
+      "agent"
     ],
     "match_score": 3,
     "matched_skills": [
-      "SQL"
+      "Python"
     ]
   },
   {
-    "title": "Lead Software Engineer (m/f/d)",
-    "company": "Fincite Gmbh",
-    "location": "Frankfurt am Main",
-    "description": "<br><strong>Your responsibilities</strong><p>\u2022 Together with two fellow Lead Engineers, you will help lead an engineering organization of around 20 people.<br>\u2022 You will provide technical and functional leadership for a team, with no more than five direct reports.<br>\u2022 You will build robust backend solutions for sophisticated wealth management products and actively shape their architecture.<br>\u2022 You will establish new technical standards and champion high-quality, sustainable software design in a regulated environment.<br>\u2022 You will break down complex business and technical topics into focused workstreams with clear ownership.<br>\u2022 Initially, you will work extensively hands-on in the codebase; over time, the role will develop toward approximately 70% team leadership and 30% technical work.<br>\u2022 You will support your team members\u2019 development and foster a constructive, learning-oriented engineering culture.<br>\u2022 You will strengthen our internal development capacity and help deliver reliable software that supports lasting client relationships.</p><br><strong>Your profile</strong><p>\u2022 Several years of backend development experience with Python and Django.<br>\u2022 Strong knowledge of PostgreSQL and Redis, together with experience in cloud-based architectures like Microsoft Azure or AWS<br>\u2022 A genuine passion for excellent software design and clean, maintainable solutions.<br>\u2022 Initial or proven experience in technical or functional leadership.<br>\u2022 A genuine interest in financial markets, investing and wealth management, enabling you to understand our users and build a lasting connection with the product.<br>\u2022 A growth mindset, curiosity and the motivation to develop both technically and as a leader.</p><br><strong>What we offer</strong><p>We are an established product company with the spirit of a startup. You can expect a team-oriented atmosphere, quick decision-making, and genuine freedom to shape your work environment. Flexible work hours, training budgets, and attracti",
-    "url": "https://www.arbeitnow.com/jobs/companies/fincite-gmbh/lead-software-engineer-frankfurt-am-main-115503",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-23T05:10:06+00:00",
-    "tags": [
-      "Growth",
-      "architecture",
-      "development",
-      "fintech",
-      "wealthmanagement",
-      "softwareengineering",
-      "leadership",
-      "headof"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python",
-      "Azure"
-    ]
-  },
-  {
-    "title": "Senior Software Engineer (m/f/d): AI-Native Development",
-    "company": "Myra",
-    "location": "M\u00fcnchen",
-    "description": "<p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
-    "url": "https://www.arbeitnow.com/jobs/companies/myra/senior-software-engineer-ai-native-development-munchen-31670",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-22T20:10:21+00:00",
-    "tags": [
-      "AI Native Development",
-      "PHP",
-      "Symfony",
-      "React",
-      "GraphQL",
-      "Rust",
-      "Python",
-      "Go",
-      "Security by Design",
-      "CI/CD",
-      "Fullstack Development",
-      "Javascript",
-      "ReactJS",
-      "Typescript",
-      "Devops",
-      "Software Developer"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python",
-      "JavaScript",
-      "React"
-    ]
-  },
-  {
-    "title": "AI Engineering & Automation Specialist (on-site)",
-    "company": "Cloover",
+    "title": "Forward Deployed Engineer (m/f/d)",
+    "company": "Blueocean Technologies Gmbh",
     "location": "Berlin",
-    "description": "<br><strong>Deine Rolle</strong><p>Jedes interne Team bei Cloover, Ops, Energy, Sales, CS, Finance, hat Arbeit, die KI-Agenten schneller und besser erledigen k\u00f6nnen. Du baust die Systeme, die das real machen: agentische Pipelines, MCP-Server und interne Tools, die unseren Arbeitsalltag ver\u00e4ndern, nicht irgendwann, sondern jetzt. Erfolg in dieser Rolle hei\u00dft: Kolleg:innen h\u00f6ren auf, die Arbeit zu machen, die du automatisiert hast, und konzentrieren sich auf das, was nur sie tun k\u00f6nnen.<br>Du berichtest an Florent (Head of Operations &amp; Energy) und arbeitest in einem starken, eng vernetzten Team.</p><br><strong>Deine Aufgaben</strong><p><ul><li>Konzipiere, baue und shippe end-to-end agentische Systeme, RAG-Pipelines, Embeddings, Retrieval, Prompt Engineering und Evaluation, die Cloovers volumenst\u00e4rkste interne Workflows automatisieren.</li><li>Entwickle und deploye eigene MCP-Server sowie Integrationen, die HubSpot, Slack, Notion, Aircall und weitere Tools verbinden, damit Daten dort landen, wo sie gebraucht werden, ohne manuelle Zwischenschritte.</li><li>Schreibe Production-Code in Python und TypeScript mit sauberem Schema-Design, Security und Authorization, Code, der live geht und l\u00e4uft, keine Prototypen, die liegen bleiben.</li><li>Verantworte internes Tooling von Anfang bis Ende: L\u00fccke erkennen, Tool bauen, auf Firebase, Vercel oder GCP deployen, mit ordentlichem Versionsmanagement und CI/CD.</li><li>Baue eigene Claude-Code-Skills, Plugins und Connectors, und onboarde Kolleg:innen in AI-native Workflows, die wirklich genutzt werden.</li><li>Arbeite eng mit Ops, Energy, Sales, CS und Finance zusammen, um die hebelst\u00e4rksten Automatisierungs-Use-Cases zu identifizieren, und setze sie dann selbst um.</li></ul></p><br><strong>Dein Profil</strong><p>Wie du denkst und was du aufgebaut hast, z\u00e4hlt mehr als wo du warst. Das sind die Voraussetzungen f\u00fcr deinen Erfolg in dieser Rolle:<br><ul><li>Du hast bereits agentische Systeme, RAG-Pipelines oder KI-gest\u00fctzte Tools ges",
-    "url": "https://www.arbeitnow.com/jobs/companies/cloover/ai-engineering-automation-specialist-on-site-berlin-204043",
+    "description": "<br><strong> \u2b50\ufe0f Your Impact:</strong><p>The European trades are one of the least digitised industries left. Software<br>penetration sits under 15%, against roughly 70% in the US. The labour<br>productivity gap runs about 30%. Millions of skilled people spend their evenings<br>on paperwork instead of the craft they trained for \u2014 in the industry that has to<br>deliver the energy transition.<br><br>There is almost no incumbent software to displace. That is unusual, and it won't<br>last.<br><br>smalt replaces the back office entirely rather than selling Meister another tool<br>to manage. In the last six months that went from a partner app and a dashboard<br>to around thirty AI agents in production - pricing real jobs, qualifying real<br>leads, running the operations of businesses whose payroll depends on it working.<br><br>These days building thirty agents is easy. Knowing which thirty is what's challenging.<br><br>That only comes from being in the Betrieb and talking to the Handwerker.<br><br>That's what this role is for.<br><br><strong>What you'll do</strong><br><br>You'll sit in Handwerksbetrieben - at the Meister's desk, in the van, on site, next to our team -<br>and watch how the work actually happens. Then you'll come back and build the<br>thing that fixes it, often multiple times on the same day.<br><br>-\u00a0<strong>Spend real time with partners.</strong> Not a quarterly customer call. You'll know<br>\u00a0 our Meister by name, understand their P&amp;L, and notice the thing they've<br>\u00a0 stopped complaining about because they assume it can't be fixed.<br>-\u00a0<strong>Build across the stack.</strong> Python/FastAPI services, Vue interfaces, Flutter<br>\u00a0 screens, agent loops, data pipelines - whatever the problem needs.<br>-\u00a0<strong>Own agents in production.</strong> Not demos. Agents that price real jobs, answer<br>\u00a0 real customers, and cost real money when they're wrong. Reliability,<br>\u00a0 evaluation, structured output, graceful failure.<br>-\u00a0<strong>Decide what to build.</st",
+    "url": "https://www.arbeitnow.com/jobs/companies/blueocean-technologies-gmbh/forward-deployed-engineer-berlin-29335",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-22T20:30:03+00:00",
+    "posted_at": "2026-08-24T05:10:03+00:00",
     "tags": [
+      "Forward Deployed Engineer",
       "AI",
-      "artificial intelligence",
-      "renewal energy"
+      "Python",
+      "Vue",
+      "PostgreSQL",
+      "Product"
     ],
     "match_score": 2,
     "matched_skills": [
       "Python"
+    ]
+  },
+  {
+    "title": "Graduate Software Engineer",
+    "company": "Optiverus",
+    "location": "London",
+    "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1&quot; data-local-id=&quot;126eb7d5a283&quot;&gt;As a Graduate Software Engineer, your work is mission-critical at our firm. You will work on solutions that enable us to react to markets at lightning-fast speeds. Your work will be the magic behind the scenes, enabling our teams to make split-second decisions with precision and confidence. By working in an interdisciplinary manner and innovating and optimising code, you will keep our firm competitive in the ever-evolving capital markets.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;445&quot; data-local-id=&quot;f6d9212fbfed&quot;&gt;Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;680&quot; data-local-id=&quot;68a1838cd58b&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;What you\u2019ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;696&quot; data-local-id=&quot;65d1da96ab48&quot;&gt;&lt;em data-renderer-mark=&quot;true&quot;&gt;Your onboarding&lt;/em&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;713&quot; data-local-id=&quot;e39ecb833522&quot;&gt;You will participate in Optiver\u2019s comprehensive &lt;a class=&quot;_2hGPVj98eZ _2i3C1kYbGa _2kH23qT6kp _1ubuxonXvL _34b3D2vc3e _1NDpvb6wH8 _2wtOC9vc3e _3e11vU6wH8 _0hSAgbHZdu _00uqCY98eZ _3xtjKN0Rl6 _0H9qDF6wH8 _24h04i2Njc _1mT5xdRAKS _0WKd3G4z3T _0bjKvDcjp5 _1UtDYzM7Tp _32C2rk98eZ _0i9AWA0Rl6 _0mm6KQ6wH8 _10n1R5M7Tp _0DCa9D98eZ _3932vvYbGa _02cRtH6wH8 _0clgaMM7Tp _3WzCGi98eZ _0NqVRtYbGa _3BKYwu6wH8 _0CMRbkAwSC _2nTuUYWfPD _3ADzdEWfPD _1warJ9WfPD _4scvAwWyeI&quot; href=&quot;https://optiver.com/working-at-optiver/career-hub/kickstart-your-tech-career-with-the-global-optiver-academy-technology/&quot; data-renderer-mark=&quot;true&quot; data-is-router-link=",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-software-engineer-london-368153",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-23T12:55:18+00:00",
+    "tags": [
+      "Software"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "React"
     ]
   }
 ]
