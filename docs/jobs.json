@@ -37,22 +37,38 @@
     ]
   },
   {
-    "title": "Data Engineer Working Student (m/w/d)",
-    "company": "Trusteq Gmbh",
-    "location": "K\u00f6ln",
-    "description": "<br><strong>YOUR TASKS</strong><p><ul><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support the development of databases and data integration processes</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You contribute to the design and implementation of data models and data pipelines for modern data lakes, data warehouses, or lakehouses</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You assist in documenting and structuring data platforms and related processes</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You participate in the development of interactive dashboards and reports, for example in the area of performance metrics and ESG</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support the application of data analytics methods and tools within project contexts</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You assist users in the utilization and maintenance of data platforms and analytics solutions</li></ul></p><br><strong>YOUR PROFIL</strong><p><ul><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You are currently enrolled as a student in an IT-related field, such as (Business) Informatics, Software Engineering, Data Science, Data Engineering, or a related discipline</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You have solid knowledge of the programming languages Python and SQL</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You have experience in data visualization and presentation using Power BI and/or Microsoft Fabric.</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">Initial experience with Databricks is considered an advantage</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You have a basic understanding of data modeling methods and data integration processes (ETL / ELT)</li><li style=",
-    "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-358872",
+    "title": "Data Engineer (f/m/d)",
+    "company": "Climate",
+    "location": "Berlin HQ",
+    "description": "<br><strong>Job description</strong><p><p style=\"line-height:1.3800000000000001;text-align:justify;background-color:#ffffff;margin-top:4pt;margin-bottom:0pt;\"><span style=\"font-size:10.5pt;font-family:Lato, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">We are currently seeking a\u00a0</span><span style=\"font-size:10.5pt;font-family:Lato, sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;text-decoration:none;\">Data Engineer</span><span style=\"font-size:10.5pt;font-family:Lato, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">\u00a0for our international and diverse Climate Policy Team (CPT). The team is engaged in various projects on climate change mitigation, in particular on energy system transformation, the 1.5\u00b0C global warming limit and the evaluation of national climate action. This includes flagship projects, such as the Climate Action Tracker and the National Pathways Explorer, for which data is being processed and analysed in-house and then published on the respective project websites.</span></p><p style=\"line-height:1.3800000000000001;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:4pt 0pt 0pt 0pt;\"><br></p><p style=\"line-height:1.3800000000000001;text-align:justify;margin-top:4pt;margin-bottom:0pt;\"><span style=\"font-size:10.5pt;font-family:Lato, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">As a\u00a0</span><span style=\"font-size:10.5pt;font-family:Lato, sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;text-decoration:none;\">Data Engineer</span><span style=\"font-size:10.5pt;font-family:Lato, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">\u00a0you will play a critical role in designing, building and maintaining ou",
+    "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-316909",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-24T02:29:49+00:00",
+    "posted_at": "2026-08-25T05:09:32+00:00",
     "tags": [
-      "Working Student",
-      "Working Student Data Analyst",
-      "Data Analyst",
-      "IT-Strategy",
-      "ESG",
-      "Working Student Data Engineer",
       "Data Engineer",
-      "Data Bricks"
+      "nonprofit",
+      "NGO",
+      "Climate Policy",
+      "Python",
+      "Data Platform",
+      "SQL"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Junior Market Data Analyst \u2013 Chartering",
+    "company": "Kpler",
+    "location": "United Kingdom",
+    "description": "<div>\n<p>At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors.</p>\n<p>Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 700 experts from 35+ countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success.</p>\n</div><br><strong>Your future position</strong><br><p>Join Kpler\u2019s Chartering team as a Junior Market Data Analyst \u2013 Chartering and play a key role in ensuring the quality and accuracy of the data that powers our Chartering products.</p>\n<p>Kpler\u2019s Chartering products rely on accurate vessel, ownership and market data to help charterers, shipowners and brokers make informed commercial decisions. In this role, you will work hands-on with the datasets behind these products, investigating inconsistencies, validating information and helping improve data quality at scale.</p>\n<p>Your work will span a range of chartering datasets, from vessel ownership and characteristics to fixtures, cargo orders, vessel positions and shipping zones. You will use SQL and Python to extract, transform and analyse data, build validation checks and investigate potential issues.&nbsp;</p>\n<p>This is a role for someone who enjoys getting into the detail of data, asking why something doesn't look right and finding ways to identify and solve problems systematically. You will work closely with Product, Data, Research, Engineering and AI/ML teams, turning individual data issues into broader improvements across Kpler's datasets and products.</p><br><strong>Your mission is to:</strong><br><div>\n\n<li>Monitor, ",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/junior-market-data-analyst-chartering-united-kingdom-164308",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-24T21:05:03+00:00",
+    "tags": [
+      "Chartering & Inbox"
     ],
     "match_score": 4,
     "matched_skills": [
@@ -94,60 +110,51 @@
     ]
   },
   {
-    "title": "AI-Native Software Entwickler (m/w/d)",
-    "company": "JUNE GmbH",
-    "location": "M\u00fcnchen + Remote",
-    "description": "<br><strong>HERAUSFORDERUNG UND PERSPEKTIVE</strong><p><strong>Bei uns lernst du Agentic Coding dort, wo es bereits t\u00e4glich eingesetzt wird!<br></strong><p>Du hast die ersten eigenen Projekte gebaut. Nicht perfekt, aber echt. Du hast mit Claude Code, Codex oder anderen AI-Tools experimentiert und gemerkt: So wird Softwareentwicklung in Zukunft aussehen.</p><p>W\u00e4hrend andere Unternehmen noch diskutieren, ob AI ins Engineering geh\u00f6rt, arbeiten wir schon damit. Jeden Tag.</p><p>Agentic Coding ist bei uns kein Experiment und kein internes Innovationsprojekt. Es ist die Art, wie wir Software entwickeln. Du arbeitest von Anfang an mit erfahrenen Entwicklern zusammen, lernst in echten Kundenprojekten und bekommst Einblicke, die an vielen Orten heute noch Zukunftsmusik sind.</p><p>Uns ist egal, ob du schon alles kannst. Uns ist wichtig, dass du jeden Tag besser werden willst.</p><strong>Was dich erwartet:\u00a0</strong><br><ul><li><span><span>T\u00e4gliche Arbeit mit Agentic Coding und AI-gest\u00fctzter Softwareentwicklung</span></span></li><li><span><span>Moderne Backend-Entwicklung f\u00fcr unsere Legal-AI-Plattform</span></span></li><li><span><span>Entwicklung intelligenter Agenten f\u00fcr reale Kundenprojekte</span></span></li><li><span><span>Ein Umfeld, das st\u00e4ndig neue Tools ausprobiert und produktiv einsetzt</span></span></li><li><span><span>Verantwortung vom ersten Tag an</span></span></li><li><span><span>Extrem steile Lernkurve durch direkte Zusammenarbeit mit erfahrenen AI-First-Entwicklern</span></span></li></ul></p><br><strong>PERS\u00d6NLICHKEIT UND QUALIFIKATION</strong><p><strong>Du passt zu uns, wenn du\u2026\u00a0<br></strong><ul><li><span><span>bereits erste praktische Programmiererfahrung gesammelt</span><span>hast</span></span></li><li><span><span>dich intensiv f\u00fcr KI</span><span>interessierst</span><span>und dich</span><span>aktiv</span><span>damit besch\u00e4ftigst</span></span></li><li><span><span>idealerweise schon mit Claude Code, Codex oder \u00e4hnlichen Tools entwickelt</span><span>hast</span>",
-    "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-108394",
+    "title": "Senior CRM Technology Manager (F/M/D)",
+    "company": "freenow",
+    "location": "Hamburg",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;Location&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: &lt;/em&gt;&lt;em&gt;Barcelona, Berlin or Hamburg&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Join our innovative team as a Senior CRM Tech Manager, where you will drive the implementation, maintenance, and optimization of our CRM platform &lt;strong&gt;across Rider, Driver and B2B in 9 markets&lt;/strong&gt;.&lt;br&gt;&lt;strong&gt;As a key member of the CRM team&lt;/strong&gt;, you\u2019ll collaborate across marketing, operations and data functions to &lt;strong&gt;ideate&lt;/strong&gt; and deliver high-quality, data-driven marketing &lt;strong&gt;automations&lt;/strong&gt; and other solutions that enhance customer engagement and support our business growth.&lt;/p&gt;\n&lt;hr&gt;\n&lt;h2&gt;&lt;strong&gt;YOUR DAILY ADVENTURES WILL INCLUDE:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive the technical &lt;strong&gt;design&lt;/strong&gt;, implementation, optimization, and scalability of CRM systems.&lt;/li&gt;\n&lt;li&gt;Collaborate with marketing, product and engineering teams, ensuring technical CRM solutions align with business goals.&lt;/li&gt;\n&lt;li&gt;Develop and maintain our CRM infrastructure, including automating workflows, integrations, and personalization that drive efficiency.&lt;/li&gt;\n&lt;li&gt;Ensure data quality, integrity, and compliance through audits and analysis.&lt;/li&gt;\n&lt;li&gt;Troubleshoot CRM performance issues and optimize system functionality.&lt;/li&gt;\n&lt;li&gt;Analyze CRM data to generate insights and recommendations.&lt;/li&gt;\n&lt;li&gt;Manage technical vendors and maintain system documentation.&lt;/li&gt;\n&lt;li&gt;Develop in-app messages and email templates using HTML, CSS, and JavaScript.&lt;/li&gt;\n&lt;li&gt;Write SQL and Python scripts for segmentation and ETL processes.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Our MarTech stack&lt;/strong&gt;: Braze | Tableau | Mixpanel &amp;amp; more&lt;/p&gt;\n&lt;hr&gt;\n&lt;h2&gt;&lt;strong&gt;TO BE SUCCESSFUL IN THIS ROL",
+    "url": "https://www.arbeitnow.com/jobs/companies/freenow/senior-crm-technology-manager-hamburg-461970",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-23T23:30:14+00:00",
+    "posted_at": "2026-08-25T02:55:09+00:00",
     "tags": [
-      "ai",
-      "ki",
-      "agentic",
-      "claude",
-      "codex",
-      "backend",
-      ".net",
-      "python",
-      "agent"
+      "Marketing"
     ],
     "match_score": 3,
     "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Forward Deployed Engineer (m/f/d)",
-    "company": "Blueocean Technologies Gmbh",
-    "location": "Berlin",
-    "description": "<br><strong> \u2b50\ufe0f Your Impact:</strong><p>The European trades are one of the least digitised industries left. Software<br>penetration sits under 15%, against roughly 70% in the US. The labour<br>productivity gap runs about 30%. Millions of skilled people spend their evenings<br>on paperwork instead of the craft they trained for \u2014 in the industry that has to<br>deliver the energy transition.<br><br>There is almost no incumbent software to displace. That is unusual, and it won't<br>last.<br><br>smalt replaces the back office entirely rather than selling Meister another tool<br>to manage. In the last six months that went from a partner app and a dashboard<br>to around thirty AI agents in production - pricing real jobs, qualifying real<br>leads, running the operations of businesses whose payroll depends on it working.<br><br>These days building thirty agents is easy. Knowing which thirty is what's challenging.<br><br>That only comes from being in the Betrieb and talking to the Handwerker.<br><br>That's what this role is for.<br><br><strong>What you'll do</strong><br><br>You'll sit in Handwerksbetrieben - at the Meister's desk, in the van, on site, next to our team -<br>and watch how the work actually happens. Then you'll come back and build the<br>thing that fixes it, often multiple times on the same day.<br><br>-\u00a0<strong>Spend real time with partners.</strong> Not a quarterly customer call. You'll know<br>\u00a0 our Meister by name, understand their P&amp;L, and notice the thing they've<br>\u00a0 stopped complaining about because they assume it can't be fixed.<br>-\u00a0<strong>Build across the stack.</strong> Python/FastAPI services, Vue interfaces, Flutter<br>\u00a0 screens, agent loops, data pipelines - whatever the problem needs.<br>-\u00a0<strong>Own agents in production.</strong> Not demos. Agents that price real jobs, answer<br>\u00a0 real customers, and cost real money when they're wrong. Reliability,<br>\u00a0 evaluation, structured output, graceful failure.<br>-\u00a0<strong>Decide what to build.</st",
-    "url": "https://www.arbeitnow.com/jobs/companies/blueocean-technologies-gmbh/forward-deployed-engineer-berlin-29335",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-24T05:10:03+00:00",
-    "tags": [
-      "Forward Deployed Engineer",
-      "AI",
       "Python",
-      "Vue",
-      "PostgreSQL",
-      "Product"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python"
+      "JavaScript",
+      "SQL"
     ]
   },
   {
-    "title": "Graduate Software Engineer",
-    "company": "Optiverus",
-    "location": "London",
-    "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1&quot; data-local-id=&quot;126eb7d5a283&quot;&gt;As a Graduate Software Engineer, your work is mission-critical at our firm. You will work on solutions that enable us to react to markets at lightning-fast speeds. Your work will be the magic behind the scenes, enabling our teams to make split-second decisions with precision and confidence. By working in an interdisciplinary manner and innovating and optimising code, you will keep our firm competitive in the ever-evolving capital markets.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;445&quot; data-local-id=&quot;f6d9212fbfed&quot;&gt;Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;680&quot; data-local-id=&quot;68a1838cd58b&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;What you\u2019ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;696&quot; data-local-id=&quot;65d1da96ab48&quot;&gt;&lt;em data-renderer-mark=&quot;true&quot;&gt;Your onboarding&lt;/em&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;713&quot; data-local-id=&quot;e39ecb833522&quot;&gt;You will participate in Optiver\u2019s comprehensive &lt;a class=&quot;_2hGPVj98eZ _2i3C1kYbGa _2kH23qT6kp _1ubuxonXvL _34b3D2vc3e _1NDpvb6wH8 _2wtOC9vc3e _3e11vU6wH8 _0hSAgbHZdu _00uqCY98eZ _3xtjKN0Rl6 _0H9qDF6wH8 _24h04i2Njc _1mT5xdRAKS _0WKd3G4z3T _0bjKvDcjp5 _1UtDYzM7Tp _32C2rk98eZ _0i9AWA0Rl6 _0mm6KQ6wH8 _10n1R5M7Tp _0DCa9D98eZ _3932vvYbGa _02cRtH6wH8 _0clgaMM7Tp _3WzCGi98eZ _0NqVRtYbGa _3BKYwu6wH8 _0CMRbkAwSC _2nTuUYWfPD _3ADzdEWfPD _1warJ9WfPD _4scvAwWyeI&quot; href=&quot;https://optiver.com/working-at-optiver/career-hub/kickstart-your-tech-career-with-the-global-optiver-academy-technology/&quot; data-renderer-mark=&quot;true&quot; data-is-router-link=",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-software-engineer-london-368153",
+    "title": "Senior CRM Technology Manager (F/M/D)",
+    "company": "freenow",
+    "location": "Berlin",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;Location&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: &lt;/em&gt;&lt;em&gt;Barcelona, Berlin or Hamburg&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Join our innovative team as a Senior CRM Tech Manager, where you will drive the implementation, maintenance, and optimization of our CRM platform &lt;strong&gt;across Rider, Driver and B2B in 9 markets&lt;/strong&gt;.&lt;br&gt;&lt;strong&gt;As a key member of the CRM team&lt;/strong&gt;, you\u2019ll collaborate across marketing, operations and data functions to &lt;strong&gt;ideate&lt;/strong&gt; and deliver high-quality, data-driven marketing &lt;strong&gt;automations&lt;/strong&gt; and other solutions that enhance customer engagement and support our business growth.&lt;/p&gt;\n&lt;hr&gt;\n&lt;h2&gt;&lt;strong&gt;YOUR DAILY ADVENTURES WILL INCLUDE:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive the technical &lt;strong&gt;design&lt;/strong&gt;, implementation, optimization, and scalability of CRM systems.&lt;/li&gt;\n&lt;li&gt;Collaborate with marketing, product and engineering teams, ensuring technical CRM solutions align with business goals.&lt;/li&gt;\n&lt;li&gt;Develop and maintain our CRM infrastructure, including automating workflows, integrations, and personalization that drive efficiency.&lt;/li&gt;\n&lt;li&gt;Ensure data quality, integrity, and compliance through audits and analysis.&lt;/li&gt;\n&lt;li&gt;Troubleshoot CRM performance issues and optimize system functionality.&lt;/li&gt;\n&lt;li&gt;Analyze CRM data to generate insights and recommendations.&lt;/li&gt;\n&lt;li&gt;Manage technical vendors and maintain system documentation.&lt;/li&gt;\n&lt;li&gt;Develop in-app messages and email templates using HTML, CSS, and JavaScript.&lt;/li&gt;\n&lt;li&gt;Write SQL and Python scripts for segmentation and ETL processes.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Our MarTech stack&lt;/strong&gt;: Braze | Tableau | Mixpanel &amp;amp; more&lt;/p&gt;\n&lt;hr&gt;\n&lt;h2&gt;&lt;strong&gt;TO BE SUCCESSFUL IN THIS ROL",
+    "url": "https://www.arbeitnow.com/jobs/companies/freenow/senior-crm-technology-manager-berlin-133815",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-23T12:55:18+00:00",
+    "posted_at": "2026-08-25T02:55:09+00:00",
     "tags": [
-      "Software"
+      "Marketing"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "Python",
+      "JavaScript",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Frontend Developer \u2013 E-Commerce & Shopify (m/w/d)",
+    "company": "ABRIO GmbH",
+    "location": "Frankfurt, Hessen, Deutschland",
+    "description": "<p class=\"MsoNormal\"><strong><span style=\"color:#121317\">Frankfurt am Main | Hybrid: 2\u20133 Tage B\u00fcro/Woche | Vollzeit | Deutsch C1/C2 erforderlich</span></strong></p><p class=\"MsoNormal\"><span style=\"color:#121317\">Du hast Erfahrung im Frontend Development und willst moderne E-Commerce-L\u00f6sungen entwickeln, die wirklich genutzt werden? Bei ABRIO baust und optimierst du performante Shopify-Frontends f\u00fcr anspruchsvolle D2C-, B2C- und B2B-Marken \u2013 mit React, TypeScript und viel Raum f\u00fcr eigene Ideen.</span></p><p class=\"MsoNormal\"><span style=\"color:#121317\">Shopify-Erfahrung ist ein Plus, aber kein Muss. Wichtiger sind uns ein starkes Frontend-Fundament, technisches Verst\u00e4ndnis und Lust, Verantwortung zu \u00fcbernehmen.</span></p><p class=\"MsoNormal\"><span style=\"color:#121317\">Als Digital-Commerce-Partner aus Frankfurt entwickeln wir skalierbare L\u00f6sungen, die E-Commerce nachhaltig besser machen.</span></p><p class=\"MsoNormal\"><span style=\"color:#121317\">Klingt spannend? Dann lies weiter \u2013 wir suchen genau dich f\u00fcr unser Team!<br><br></span><strong><span style=\"color:#121317\">DAS ERWARTET DICH</span></strong></p><ul><li><p class=\"MsoListParagraphCxSpFirst\"><strong><span style=\"color:#27272A\">Projektarbeit im Commerce-Umfeld:</span></strong><span style=\"color:#27272A\"> Du arbeitest in einem interdisziplin\u00e4ren Team mit Developern, Designern und Marketing-Experten an anspruchsvollen Shopify- und Plattformprojekten f\u00fcr namhafte D2C-, B2C- und B2B-Kunden. Dabei stehst du auch im direkten Austausch mit unseren Kunden und \u00fcbersetzt ihre Anforderungen gemeinsam mit dem Team in passende L\u00f6sungen.</span></p></li><li><p class=\"MsoListParagraphCxSpMiddle\"><strong><span style=\"color:#27272A\">Frontend Development:</span></strong><span style=\"color:#27272A\"> Du entwickelst moderne, performante und responsive Frontends und \u00fcbersetzt fachliche und technische Anforderungen eigenst\u00e4ndig in saubere, skalierbare L\u00f6sungen.</span></p></li><li><p class=\"MsoListParagraphCxSpMiddle\"><strong><span sty",
+    "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/frontend-developer-e-commerce-shopify-frankfurt-193357",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-25T05:50:14+00:00",
+    "tags": [
+      "Development"
     ],
     "match_score": 2,
     "matched_skills": [
