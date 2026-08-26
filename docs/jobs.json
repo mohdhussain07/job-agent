@@ -1,5 +1,47 @@
 [
   {
+    "title": "Software Engineer \u2013 Mission Control Software",
+    "company": "The Exploration Company",
+    "location": "Munich, Germany",
+    "description": "<p style=\"min-height:1.5em\">Here at The Exploration Company, we are building innovative aerospace technologies that advance the future of space transportation.</p><p style=\"min-height:1.5em\">Join us as a Software Engineer \u2013 Mission Control Software, where you will develop mission-critical software that powers our integrated testing and mission operations. You will primarily work on our Mission Control Software and build supporting tools used by flight controllers and engineering teams.</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"></p><h2>Key Responsibilities</h2><p style=\"min-height:1.5em\">In your capacity as a Software Engineer - Ground Segment you will:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Develop robust software used in testing and mission operations</p></li><li><p style=\"min-height:1.5em\">Contribute across the full software development lifecycle, from design to deployment</p></li><li><p style=\"min-height:1.5em\">Build scalable systems that support TEC\u2019s expanding mission activities</p></li><li><p style=\"min-height:1.5em\">Collaborate with testing, engineering, and operations teams to understand and meet operational needs</p></li><li><p style=\"min-height:1.5em\">Write performant, maintainable, and well-documented code</p></li><li><p style=\"min-height:1.5em\">Ensure reliability through automated testing and operational validation</p></li><li><p style=\"min-height:1.5em\">Support users and contribute to improving development workflows and tooling</p></li><li><p style=\"min-height:1.5em\">Mentor junior engineers and contribute to a strong engineering culture</p></li></ul><h2>What we would love to see from you</h2><p style=\"min-height:1.5em\">The ideal candidate will have:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience with backend development using Python and/or Ruby (on Rails)</p></li></ul></li><li><p style=\"min-height:1.5em\">Frontend experience with modern JavaScript frameworks (React, Vue.js, or sim",
+    "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-232683",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-26T02:40:17+00:00",
+    "tags": [
+      "Digital Systems"
+    ],
+    "match_score": 6,
+    "matched_skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
+    "title": "Data Engineer Junior - Schwerpunkt Datenpipelines (m/w/d)",
+    "company": "Aktion Mensch e.V.",
+    "location": "Bonn",
+    "description": "<br><strong>WIR suchen dich!</strong><p>Statt nur Code zu schreiben, m\u00f6chtest du sehen, wie deine Arbeit wirkt? Gemeinsam mit f\u00fcnf Analytics- und Data-Expert*innen entwickelst du in Bonn moderne Datenl\u00f6sungen f\u00fcr ein ganzheitliches 360\u00b0-Kundenprofil und erm\u00f6glichst damit datengetriebene Entscheidungen, die zu mehr Inklusion und gesellschaftlicher Teilhabe beitragen.</p><br><strong>Tu, was du liebst</strong><p><ul><li>Du arbeitest an modernen Datenprodukten, die Reporting, Analysen und datengetriebene Entscheidungen in der Aktion Mensch unterst\u00fctzen.</li><li>Du unterst\u00fctzt bei der Bereitstellung kuratierter Daten f\u00fcr Analysen, Reporting und weitere datengetriebene Anwendungsf\u00e4lle.</li><li>Du entwickelst und pflegst Datenpipelines sowie Datenverarbeitungsprozesse zur Bereitstellung hochwertiger Daten.</li><li>Du wirkst bei der Durchf\u00fchrung von Datenqualit\u00e4tspr\u00fcfungen sowie bei der Analyse und Behebung von Datenfehlern mit.</li><li>Du dokumentierst Datenfl\u00fcsse, Schnittstellen und technische Zusammenh\u00e4nge nachvollziehbar und verst\u00e4ndlich.</li><li>Du arbeitest eng mit Analyst*innen, Data Scientists, Architektur-, Entwicklungs- und Fachbereichsteams zusammen.</li><li>Du unterst\u00fctzt bei der Umsetzung von Standards f\u00fcr Datenqualit\u00e4t, Governance und Wiederverwendbarkeit von Daten.</li></ul></p><br><strong>Zeig, was du kannst</strong><p><ul><li>Du hast erste praktische Erfahrungen im Bereich Data Engineering gesammelt, beispielsweise durch Berufserfahrung, Studium, Werkstudentent\u00e4tigkeiten oder eigene Projekte.</li><li>Du verf\u00fcgst \u00fcber gute SQL-Kenntnisse und erste Erfahrungen mit Python f\u00fcr die Verarbeitung und Analyse von Daten.</li><li>Du interessierst dich f\u00fcr Datenmodellierung und moderne Datenplattformen und hast idealerweise bereits erste praktische Ber\u00fchrungspunkte gesammelt.</li><li>Du hast erste Erfahrungen mit Datenpipelines, ETL-/ELT-Prozessen oder vergleichbaren Datenintegrationsaufgaben.</li><li>W\u00fcnschenswert sind erste Kenntnisse in Microsoft Fabric, Azure Data",
+    "url": "https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/data-engineer-junior-schwerpunkt-datenpipelines-bonn-113303",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-26T02:30:32+00:00",
+    "tags": [
+      "bonn",
+      "homeoffice.",
+      "Barrierefreier Arbeitsplatz",
+      "Data Warehouse",
+      "ETL / ELT",
+      "Reporting & Analysen",
+      "Datenqualit\u00e4t"
+    ],
+    "match_score": 5,
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Azure"
+    ]
+  },
+  {
     "title": "Project Systems Specialist",
     "company": "Dart",
     "location": "George Town, ",
@@ -37,39 +79,14 @@
     ]
   },
   {
-    "title": "Data Engineer (f/m/d)",
-    "company": "Climate",
-    "location": "Berlin HQ",
-    "description": "<br><strong>Job description</strong><p><p style=\"line-height:1.3800000000000001;text-align:justify;background-color:#ffffff;margin-top:4pt;margin-bottom:0pt;\"><span style=\"font-size:10.5pt;font-family:Lato, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">We are currently seeking a\u00a0</span><span style=\"font-size:10.5pt;font-family:Lato, sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;text-decoration:none;\">Data Engineer</span><span style=\"font-size:10.5pt;font-family:Lato, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">\u00a0for our international and diverse Climate Policy Team (CPT). The team is engaged in various projects on climate change mitigation, in particular on energy system transformation, the 1.5\u00b0C global warming limit and the evaluation of national climate action. This includes flagship projects, such as the Climate Action Tracker and the National Pathways Explorer, for which data is being processed and analysed in-house and then published on the respective project websites.</span></p><p style=\"line-height:1.3800000000000001;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:4pt 0pt 0pt 0pt;\"><br></p><p style=\"line-height:1.3800000000000001;text-align:justify;margin-top:4pt;margin-bottom:0pt;\"><span style=\"font-size:10.5pt;font-family:Lato, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">As a\u00a0</span><span style=\"font-size:10.5pt;font-family:Lato, sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;text-decoration:none;\">Data Engineer</span><span style=\"font-size:10.5pt;font-family:Lato, sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;text-decoration:none;\">\u00a0you will play a critical role in designing, building and maintaining ou",
-    "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-316909",
+    "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
+    "company": "NOW GmbH Nationale Organisation f\u00fcr den Wandel in der ...",
+    "location": "Berlin Fasanenstrasse",
+    "description": "<br><strong>Aufgaben</strong><p>Schwerpunkt Deiner T\u00e4tigkeit ist die datenbasierte, inhaltliche und organisatorische Unterst\u00fctzung des Tagesgesch\u00e4fts bei der Beauftragung Alternativer Antriebe von Bussen im Personenverkehr sowie alternativer Antriebe im Schienenverkehr f\u00fcr das Bundesministeriums f\u00fcr Verkehr (BMV). Dazu geh\u00f6rt insbesondere die Umsetzung der F\u00f6rderrichtlinie Busse mit alternativen Antrieben des BMV. Ebenso gilt es, kleinere Teilprojekte, koordinative Aufgaben sowie Berichtsaufgaben zu \u00fcbernehmen.\u202fIm Einzelnen bedeutet dies:\u00a0<br><ul><li>Mit Python und SQL tauchst du tief in die Welt der Daten ein, wertest diese gezielt aus und gewinnst daraus wertvolle Erkenntnisse.</li><li>Du \u00fcberwachst und analysierst die Markt- und Technologieentwicklung im Bus-Bereich und beh\u00e4ltst aktuelle Trends und Innovationen im Blick.</li><li>Um die Marktanalyse zu unterst\u00fctzen, erstellst du mit Plotly aussagekr\u00e4ftige Visualisierungen und Grafiken, die komplexe Zusammenh\u00e4nge leicht verst\u00e4ndlich machen.</li><li>Du entwickelst standardisierte Python-Funktionen f\u00fcr unsere internen Libraries.</li><li>Durch die Organisation und Systematisierung relevanter Datengrundlagen sorgst du daf\u00fcr, dass Wissen klar strukturiert und jederzeit zug\u00e4nglich ist.</li><li>Du recherchierst programmrelevante Informationen und identifizierst neue Datenquellen.</li><li>Du unterst\u00fctzt das Team bei der Bearbeitung von Anfragen aus der Politik, Wirtschaft und Forschung sowie bei der Vor- und Nachbereitung von Terminen und Veranstaltungen.\u00a0</li><li>Du \u00fcbernimmst kleinere Teilprojekte, koordinative Aufgaben sowie Berichtsaufgaben und unterst\u00fctzt beim Tagesgesch\u00e4ft.</li></ul></p><br><strong>Profil</strong><p>Unsere Profilbeschreibung enth\u00e4lt eine Vielzahl unterschiedlicher Kompetenzen, welche wir f\u00fcr diese Stelle relevant finden. Bitte bewirb Dich auch, wenn nicht alle Punkte zu 100% auf Dich zutreffen.\u00a0<ul><li>Du befindest dich in einem Studium der Informatik, Wirtschaftsinformatik, Naturwissenschaften, Inge",
+    "url": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-434798",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-25T05:09:32+00:00",
-    "tags": [
-      "Data Engineer",
-      "nonprofit",
-      "NGO",
-      "Climate Policy",
-      "Python",
-      "Data Platform",
-      "SQL"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Junior Market Data Analyst \u2013 Chartering",
-    "company": "Kpler",
-    "location": "United Kingdom",
-    "description": "<div>\n<p>At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors.</p>\n<p>Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 700 experts from 35+ countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success.</p>\n</div><br><strong>Your future position</strong><br><p>Join Kpler\u2019s Chartering team as a Junior Market Data Analyst \u2013 Chartering and play a key role in ensuring the quality and accuracy of the data that powers our Chartering products.</p>\n<p>Kpler\u2019s Chartering products rely on accurate vessel, ownership and market data to help charterers, shipowners and brokers make informed commercial decisions. In this role, you will work hands-on with the datasets behind these products, investigating inconsistencies, validating information and helping improve data quality at scale.</p>\n<p>Your work will span a range of chartering datasets, from vessel ownership and characteristics to fixtures, cargo orders, vessel positions and shipping zones. You will use SQL and Python to extract, transform and analyse data, build validation checks and investigate potential issues.&nbsp;</p>\n<p>This is a role for someone who enjoys getting into the detail of data, asking why something doesn't look right and finding ways to identify and solve problems systematically. You will work closely with Product, Data, Research, Engineering and AI/ML teams, turning individual data issues into broader improvements across Kpler's datasets and products.</p><br><strong>Your mission is to:</strong><br><div>\n\n<li>Monitor, ",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/junior-market-data-analyst-chartering-united-kingdom-164308",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-24T21:05:03+00:00",
-    "tags": [
-      "Chartering & Inbox"
-    ],
+    "posted_at": "2026-08-26T02:30:24+00:00",
+    "tags": [],
     "match_score": 4,
     "matched_skills": [
       "Python",
@@ -110,55 +127,21 @@
     ]
   },
   {
-    "title": "Senior CRM Technology Manager (F/M/D)",
-    "company": "freenow",
-    "location": "Hamburg",
-    "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;Location&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: &lt;/em&gt;&lt;em&gt;Barcelona, Berlin or Hamburg&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Join our innovative team as a Senior CRM Tech Manager, where you will drive the implementation, maintenance, and optimization of our CRM platform &lt;strong&gt;across Rider, Driver and B2B in 9 markets&lt;/strong&gt;.&lt;br&gt;&lt;strong&gt;As a key member of the CRM team&lt;/strong&gt;, you\u2019ll collaborate across marketing, operations and data functions to &lt;strong&gt;ideate&lt;/strong&gt; and deliver high-quality, data-driven marketing &lt;strong&gt;automations&lt;/strong&gt; and other solutions that enhance customer engagement and support our business growth.&lt;/p&gt;\n&lt;hr&gt;\n&lt;h2&gt;&lt;strong&gt;YOUR DAILY ADVENTURES WILL INCLUDE:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive the technical &lt;strong&gt;design&lt;/strong&gt;, implementation, optimization, and scalability of CRM systems.&lt;/li&gt;\n&lt;li&gt;Collaborate with marketing, product and engineering teams, ensuring technical CRM solutions align with business goals.&lt;/li&gt;\n&lt;li&gt;Develop and maintain our CRM infrastructure, including automating workflows, integrations, and personalization that drive efficiency.&lt;/li&gt;\n&lt;li&gt;Ensure data quality, integrity, and compliance through audits and analysis.&lt;/li&gt;\n&lt;li&gt;Troubleshoot CRM performance issues and optimize system functionality.&lt;/li&gt;\n&lt;li&gt;Analyze CRM data to generate insights and recommendations.&lt;/li&gt;\n&lt;li&gt;Manage technical vendors and maintain system documentation.&lt;/li&gt;\n&lt;li&gt;Develop in-app messages and email templates using HTML, CSS, and JavaScript.&lt;/li&gt;\n&lt;li&gt;Write SQL and Python scripts for segmentation and ETL processes.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Our MarTech stack&lt;/strong&gt;: Braze | Tableau | Mixpanel &amp;amp; more&lt;/p&gt;\n&lt;hr&gt;\n&lt;h2&gt;&lt;strong&gt;TO BE SUCCESSFUL IN THIS ROL",
-    "url": "https://www.arbeitnow.com/jobs/companies/freenow/senior-crm-technology-manager-hamburg-461970",
+    "title": "Sr. Solutions Engineer",
+    "company": "databricks",
+    "location": "London",
+    "description": "&lt;h3&gt;FEQ327R417&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Sr. Solutions Engineer, you will independently lead technical engagements for customers, owning discovery, solution design, and platform demonstrations. You are a builder who can code, architect, and present\u2014combining technical depth with customer-facing skills to drive Databricks adoption. You will own frontline customer relationships and work with your Account Executive to develop technical strategies that expand platform usage.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Impact You Will Have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Independently lead technical discovery and solution design for customer workloads spanning data engineering, analytics, and machine learning&lt;/li&gt;\n&lt;li&gt;Build and deliver compelling proofs-of-concept and live demos on the Databricks Platform that drive technical wins&lt;/li&gt;\n&lt;li&gt;Own frontline technical relationships with customer engineers, data teams, and technical leads&lt;/li&gt;\n&lt;li&gt;Develop account-level technical strategies in partnership with your Account Executive to grow platform consumption&lt;/li&gt;\n&lt;li&gt;Navigate competitive landscapes by articulating Databricks differentiation through hands-on demonstrations&lt;/li&gt;\n&lt;li&gt;Contribute reusable technical assets (notebooks, solution accelerators, reference architectures) to the broader SA community&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What We Look For&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;4+ years in data engineering, solutions architecture, technical pre-sales, or a hands-on consulting role&lt;/li&gt;\n&lt;li&gt;Proficient in Python and SQL with demonstrated ability to debug, optimize, and write production-quality code \u2014 live coding is a required interview stage&lt;/li&gt;\n&lt;li&gt;Hands-on experience designing and implementing data solutions on at least one public cloud platform (AWS, Azure, or GCP)&lt;/li&gt;\n&lt;li&gt;Work",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-480765",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-25T02:55:09+00:00",
+    "posted_at": "2026-08-26T00:55:37+00:00",
     "tags": [
-      "Marketing"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python",
-      "JavaScript",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Senior CRM Technology Manager (F/M/D)",
-    "company": "freenow",
-    "location": "Berlin",
-    "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;Location&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: &lt;/em&gt;&lt;em&gt;Barcelona, Berlin or Hamburg&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Join our innovative team as a Senior CRM Tech Manager, where you will drive the implementation, maintenance, and optimization of our CRM platform &lt;strong&gt;across Rider, Driver and B2B in 9 markets&lt;/strong&gt;.&lt;br&gt;&lt;strong&gt;As a key member of the CRM team&lt;/strong&gt;, you\u2019ll collaborate across marketing, operations and data functions to &lt;strong&gt;ideate&lt;/strong&gt; and deliver high-quality, data-driven marketing &lt;strong&gt;automations&lt;/strong&gt; and other solutions that enhance customer engagement and support our business growth.&lt;/p&gt;\n&lt;hr&gt;\n&lt;h2&gt;&lt;strong&gt;YOUR DAILY ADVENTURES WILL INCLUDE:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive the technical &lt;strong&gt;design&lt;/strong&gt;, implementation, optimization, and scalability of CRM systems.&lt;/li&gt;\n&lt;li&gt;Collaborate with marketing, product and engineering teams, ensuring technical CRM solutions align with business goals.&lt;/li&gt;\n&lt;li&gt;Develop and maintain our CRM infrastructure, including automating workflows, integrations, and personalization that drive efficiency.&lt;/li&gt;\n&lt;li&gt;Ensure data quality, integrity, and compliance through audits and analysis.&lt;/li&gt;\n&lt;li&gt;Troubleshoot CRM performance issues and optimize system functionality.&lt;/li&gt;\n&lt;li&gt;Analyze CRM data to generate insights and recommendations.&lt;/li&gt;\n&lt;li&gt;Manage technical vendors and maintain system documentation.&lt;/li&gt;\n&lt;li&gt;Develop in-app messages and email templates using HTML, CSS, and JavaScript.&lt;/li&gt;\n&lt;li&gt;Write SQL and Python scripts for segmentation and ETL processes.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Our MarTech stack&lt;/strong&gt;: Braze | Tableau | Mixpanel &amp;amp; more&lt;/p&gt;\n&lt;hr&gt;\n&lt;h2&gt;&lt;strong&gt;TO BE SUCCESSFUL IN THIS ROL",
-    "url": "https://www.arbeitnow.com/jobs/companies/freenow/senior-crm-technology-manager-berlin-133815",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-25T02:55:09+00:00",
-    "tags": [
-      "Marketing"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python",
-      "JavaScript",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Frontend Developer \u2013 E-Commerce & Shopify (m/w/d)",
-    "company": "ABRIO GmbH",
-    "location": "Frankfurt, Hessen, Deutschland",
-    "description": "<p class=\"MsoNormal\"><strong><span style=\"color:#121317\">Frankfurt am Main | Hybrid: 2\u20133 Tage B\u00fcro/Woche | Vollzeit | Deutsch C1/C2 erforderlich</span></strong></p><p class=\"MsoNormal\"><span style=\"color:#121317\">Du hast Erfahrung im Frontend Development und willst moderne E-Commerce-L\u00f6sungen entwickeln, die wirklich genutzt werden? Bei ABRIO baust und optimierst du performante Shopify-Frontends f\u00fcr anspruchsvolle D2C-, B2C- und B2B-Marken \u2013 mit React, TypeScript und viel Raum f\u00fcr eigene Ideen.</span></p><p class=\"MsoNormal\"><span style=\"color:#121317\">Shopify-Erfahrung ist ein Plus, aber kein Muss. Wichtiger sind uns ein starkes Frontend-Fundament, technisches Verst\u00e4ndnis und Lust, Verantwortung zu \u00fcbernehmen.</span></p><p class=\"MsoNormal\"><span style=\"color:#121317\">Als Digital-Commerce-Partner aus Frankfurt entwickeln wir skalierbare L\u00f6sungen, die E-Commerce nachhaltig besser machen.</span></p><p class=\"MsoNormal\"><span style=\"color:#121317\">Klingt spannend? Dann lies weiter \u2013 wir suchen genau dich f\u00fcr unser Team!<br><br></span><strong><span style=\"color:#121317\">DAS ERWARTET DICH</span></strong></p><ul><li><p class=\"MsoListParagraphCxSpFirst\"><strong><span style=\"color:#27272A\">Projektarbeit im Commerce-Umfeld:</span></strong><span style=\"color:#27272A\"> Du arbeitest in einem interdisziplin\u00e4ren Team mit Developern, Designern und Marketing-Experten an anspruchsvollen Shopify- und Plattformprojekten f\u00fcr namhafte D2C-, B2C- und B2B-Kunden. Dabei stehst du auch im direkten Austausch mit unseren Kunden und \u00fcbersetzt ihre Anforderungen gemeinsam mit dem Team in passende L\u00f6sungen.</span></p></li><li><p class=\"MsoListParagraphCxSpMiddle\"><strong><span style=\"color:#27272A\">Frontend Development:</span></strong><span style=\"color:#27272A\"> Du entwickelst moderne, performante und responsive Frontends und \u00fcbersetzt fachliche und technische Anforderungen eigenst\u00e4ndig in saubere, skalierbare L\u00f6sungen.</span></p></li><li><p class=\"MsoListParagraphCxSpMiddle\"><strong><span sty",
-    "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/frontend-developer-e-commerce-shopify-frankfurt-193357",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-25T05:50:14+00:00",
-    "tags": [
-      "Development"
+      "Field Engineering - Other"
     ],
     "match_score": 2,
     "matched_skills": [
-      "React"
+      "Python",
+      "SQL",
+      "Azure"
     ]
   }
 ]
