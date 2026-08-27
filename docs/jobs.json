@@ -1,47 +1,5 @@
 [
   {
-    "title": "Software Engineer \u2013 Mission Control Software",
-    "company": "The Exploration Company",
-    "location": "Munich, Germany",
-    "description": "<p style=\"min-height:1.5em\">Here at The Exploration Company, we are building innovative aerospace technologies that advance the future of space transportation.</p><p style=\"min-height:1.5em\">Join us as a Software Engineer \u2013 Mission Control Software, where you will develop mission-critical software that powers our integrated testing and mission operations. You will primarily work on our Mission Control Software and build supporting tools used by flight controllers and engineering teams.</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"></p><h2>Key Responsibilities</h2><p style=\"min-height:1.5em\">In your capacity as a Software Engineer - Ground Segment you will:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Develop robust software used in testing and mission operations</p></li><li><p style=\"min-height:1.5em\">Contribute across the full software development lifecycle, from design to deployment</p></li><li><p style=\"min-height:1.5em\">Build scalable systems that support TEC\u2019s expanding mission activities</p></li><li><p style=\"min-height:1.5em\">Collaborate with testing, engineering, and operations teams to understand and meet operational needs</p></li><li><p style=\"min-height:1.5em\">Write performant, maintainable, and well-documented code</p></li><li><p style=\"min-height:1.5em\">Ensure reliability through automated testing and operational validation</p></li><li><p style=\"min-height:1.5em\">Support users and contribute to improving development workflows and tooling</p></li><li><p style=\"min-height:1.5em\">Mentor junior engineers and contribute to a strong engineering culture</p></li></ul><h2>What we would love to see from you</h2><p style=\"min-height:1.5em\">The ideal candidate will have:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience with backend development using Python and/or Ruby (on Rails)</p></li></ul></li><li><p style=\"min-height:1.5em\">Frontend experience with modern JavaScript frameworks (React, Vue.js, or sim",
-    "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-232683",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-26T02:40:17+00:00",
-    "tags": [
-      "Digital Systems"
-    ],
-    "match_score": 6,
-    "matched_skills": [
-      "Python",
-      "JavaScript",
-      "React"
-    ]
-  },
-  {
-    "title": "Data Engineer Junior - Schwerpunkt Datenpipelines (m/w/d)",
-    "company": "Aktion Mensch e.V.",
-    "location": "Bonn",
-    "description": "<br><strong>WIR suchen dich!</strong><p>Statt nur Code zu schreiben, m\u00f6chtest du sehen, wie deine Arbeit wirkt? Gemeinsam mit f\u00fcnf Analytics- und Data-Expert*innen entwickelst du in Bonn moderne Datenl\u00f6sungen f\u00fcr ein ganzheitliches 360\u00b0-Kundenprofil und erm\u00f6glichst damit datengetriebene Entscheidungen, die zu mehr Inklusion und gesellschaftlicher Teilhabe beitragen.</p><br><strong>Tu, was du liebst</strong><p><ul><li>Du arbeitest an modernen Datenprodukten, die Reporting, Analysen und datengetriebene Entscheidungen in der Aktion Mensch unterst\u00fctzen.</li><li>Du unterst\u00fctzt bei der Bereitstellung kuratierter Daten f\u00fcr Analysen, Reporting und weitere datengetriebene Anwendungsf\u00e4lle.</li><li>Du entwickelst und pflegst Datenpipelines sowie Datenverarbeitungsprozesse zur Bereitstellung hochwertiger Daten.</li><li>Du wirkst bei der Durchf\u00fchrung von Datenqualit\u00e4tspr\u00fcfungen sowie bei der Analyse und Behebung von Datenfehlern mit.</li><li>Du dokumentierst Datenfl\u00fcsse, Schnittstellen und technische Zusammenh\u00e4nge nachvollziehbar und verst\u00e4ndlich.</li><li>Du arbeitest eng mit Analyst*innen, Data Scientists, Architektur-, Entwicklungs- und Fachbereichsteams zusammen.</li><li>Du unterst\u00fctzt bei der Umsetzung von Standards f\u00fcr Datenqualit\u00e4t, Governance und Wiederverwendbarkeit von Daten.</li></ul></p><br><strong>Zeig, was du kannst</strong><p><ul><li>Du hast erste praktische Erfahrungen im Bereich Data Engineering gesammelt, beispielsweise durch Berufserfahrung, Studium, Werkstudentent\u00e4tigkeiten oder eigene Projekte.</li><li>Du verf\u00fcgst \u00fcber gute SQL-Kenntnisse und erste Erfahrungen mit Python f\u00fcr die Verarbeitung und Analyse von Daten.</li><li>Du interessierst dich f\u00fcr Datenmodellierung und moderne Datenplattformen und hast idealerweise bereits erste praktische Ber\u00fchrungspunkte gesammelt.</li><li>Du hast erste Erfahrungen mit Datenpipelines, ETL-/ELT-Prozessen oder vergleichbaren Datenintegrationsaufgaben.</li><li>W\u00fcnschenswert sind erste Kenntnisse in Microsoft Fabric, Azure Data",
-    "url": "https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/data-engineer-junior-schwerpunkt-datenpipelines-bonn-113303",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-26T02:30:32+00:00",
-    "tags": [
-      "bonn",
-      "homeoffice.",
-      "Barrierefreier Arbeitsplatz",
-      "Data Warehouse",
-      "ETL / ELT",
-      "Reporting & Analysen",
-      "Datenqualit\u00e4t"
-    ],
-    "match_score": 5,
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "Azure"
-    ]
-  },
-  {
     "title": "Project Systems Specialist",
     "company": "Dart",
     "location": "George Town, ",
@@ -79,13 +37,13 @@
     ]
   },
   {
-    "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
-    "company": "NOW GmbH Nationale Organisation f\u00fcr den Wandel in der ...",
-    "location": "Berlin Fasanenstrasse",
-    "description": "<br><strong>Aufgaben</strong><p>Schwerpunkt Deiner T\u00e4tigkeit ist die datenbasierte, inhaltliche und organisatorische Unterst\u00fctzung des Tagesgesch\u00e4fts bei der Beauftragung Alternativer Antriebe von Bussen im Personenverkehr sowie alternativer Antriebe im Schienenverkehr f\u00fcr das Bundesministeriums f\u00fcr Verkehr (BMV). Dazu geh\u00f6rt insbesondere die Umsetzung der F\u00f6rderrichtlinie Busse mit alternativen Antrieben des BMV. Ebenso gilt es, kleinere Teilprojekte, koordinative Aufgaben sowie Berichtsaufgaben zu \u00fcbernehmen.\u202fIm Einzelnen bedeutet dies:\u00a0<br><ul><li>Mit Python und SQL tauchst du tief in die Welt der Daten ein, wertest diese gezielt aus und gewinnst daraus wertvolle Erkenntnisse.</li><li>Du \u00fcberwachst und analysierst die Markt- und Technologieentwicklung im Bus-Bereich und beh\u00e4ltst aktuelle Trends und Innovationen im Blick.</li><li>Um die Marktanalyse zu unterst\u00fctzen, erstellst du mit Plotly aussagekr\u00e4ftige Visualisierungen und Grafiken, die komplexe Zusammenh\u00e4nge leicht verst\u00e4ndlich machen.</li><li>Du entwickelst standardisierte Python-Funktionen f\u00fcr unsere internen Libraries.</li><li>Durch die Organisation und Systematisierung relevanter Datengrundlagen sorgst du daf\u00fcr, dass Wissen klar strukturiert und jederzeit zug\u00e4nglich ist.</li><li>Du recherchierst programmrelevante Informationen und identifizierst neue Datenquellen.</li><li>Du unterst\u00fctzt das Team bei der Bearbeitung von Anfragen aus der Politik, Wirtschaft und Forschung sowie bei der Vor- und Nachbereitung von Terminen und Veranstaltungen.\u00a0</li><li>Du \u00fcbernimmst kleinere Teilprojekte, koordinative Aufgaben sowie Berichtsaufgaben und unterst\u00fctzt beim Tagesgesch\u00e4ft.</li></ul></p><br><strong>Profil</strong><p>Unsere Profilbeschreibung enth\u00e4lt eine Vielzahl unterschiedlicher Kompetenzen, welche wir f\u00fcr diese Stelle relevant finden. Bitte bewirb Dich auch, wenn nicht alle Punkte zu 100% auf Dich zutreffen.\u00a0<ul><li>Du befindest dich in einem Studium der Informatik, Wirtschaftsinformatik, Naturwissenschaften, Inge",
-    "url": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-434798",
+    "title": "Data Engineer (m/f/d)",
+    "company": "Dishdigital",
+    "location": "D\u00fcsseldorf",
+    "description": "<br><strong>Your Contribution</strong><p>Are you passionate about building robust data pipelines and enabling data-driven innovation? As a Data Engineer, you will design and evolve scalable data platforms that power analytics, machine learning, and business insights across DISH. Working closely with product teams, data scientists, analysts, and engineers, you will help shape our data ecosystem and contribute to the digital transformation of the HoReCa industry.</p><br><strong>Menu of Responsibilities</strong><p>This role is part of our Data Insights Team, consisting of three Centers of Excellence (CoEs) and one Platform Team. You will be responsible for:<ul><li>Designing, building, and operating scalable data platforms and pipelines that support analytics, AI, and business decision-making.</li><li>Delivering data products within cross-functional squads and translating business needs into reliable, cost-efficient solutions.</li><li>Developing and maintaining batch and real-time data processing solutions on Google Cloud using modern ETL/ELT practices.</li><li>Establishing data engineering standards, guardrails, and best practices that enable safe experimentation while protecting production environments.</li><li>Enabling AI and machine learning initiatives through the adoption of Vertex AI, Model Garden, and GenAI orchestration frameworks.</li><li>Developing integrations, APIs, and workflow orchestration processes to ensure reliable and scalable data movement across systems.</li></ul></p><br><strong>Ingredients for Success</strong><p><ul><li>Proven experience designing and operating distributed data systems and processing large-scale datasets.</li><li>Strong proficiency in Python and SQL, with working knowledge of Java and software engineering best practices.</li><li>Hands-on experience with Google Cloud technologies, including BigQuery, Cloud Storage, Dataflow, Cloud Run, and Pub/Sub.</li><li>Experience building and orchestrating data pipelines using tools such as DBT",
+    "url": "https://www.arbeitnow.com/jobs/companies/dishdigital/data-engineer-dusseldorf-39634",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-26T02:30:24+00:00",
+    "posted_at": "2026-08-27T14:29:58+00:00",
     "tags": [],
     "match_score": 4,
     "matched_skills": [
@@ -127,21 +85,52 @@
     ]
   },
   {
-    "title": "Sr. Solutions Engineer",
-    "company": "databricks",
-    "location": "London",
-    "description": "&lt;h3&gt;FEQ327R417&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Sr. Solutions Engineer, you will independently lead technical engagements for customers, owning discovery, solution design, and platform demonstrations. You are a builder who can code, architect, and present\u2014combining technical depth with customer-facing skills to drive Databricks adoption. You will own frontline customer relationships and work with your Account Executive to develop technical strategies that expand platform usage.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Impact You Will Have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Independently lead technical discovery and solution design for customer workloads spanning data engineering, analytics, and machine learning&lt;/li&gt;\n&lt;li&gt;Build and deliver compelling proofs-of-concept and live demos on the Databricks Platform that drive technical wins&lt;/li&gt;\n&lt;li&gt;Own frontline technical relationships with customer engineers, data teams, and technical leads&lt;/li&gt;\n&lt;li&gt;Develop account-level technical strategies in partnership with your Account Executive to grow platform consumption&lt;/li&gt;\n&lt;li&gt;Navigate competitive landscapes by articulating Databricks differentiation through hands-on demonstrations&lt;/li&gt;\n&lt;li&gt;Contribute reusable technical assets (notebooks, solution accelerators, reference architectures) to the broader SA community&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What We Look For&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;4+ years in data engineering, solutions architecture, technical pre-sales, or a hands-on consulting role&lt;/li&gt;\n&lt;li&gt;Proficient in Python and SQL with demonstrated ability to debug, optimize, and write production-quality code \u2014 live coding is a required interview stage&lt;/li&gt;\n&lt;li&gt;Hands-on experience designing and implementing data solutions on at least one public cloud platform (AWS, Azure, or GCP)&lt;/li&gt;\n&lt;li&gt;Work",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-solutions-engineer-london-480765",
+    "title": "Engineering Manager - Pro",
+    "company": "Kraken",
+    "location": "United Kingdom",
+    "description": "<h1><strong>Building the Future of Open Finance</strong><br /></h1><p style=\"min-height:1.5em\">Payward - the parent company behind Kraken, NinjaTrader, Breakout,  xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system.</p><p style=\"min-height:1.5em\"><br />Before you apply, we encourage you to explore our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.kraken.com/culture\"><u>culture page</u></a> to understand what drives us and how we work.</p><h2><strong>The team</strong></h2><p style=\"min-height:1.5em\">Founded in 2011, Kraken is one of the world's longest-standing crypto platforms, trusted by over 10 million individuals and institutions across the globe. It offers spot trading, margin, futures, staking, and OTC services, with products built for both individual investors and institutional clients.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">The Exchange team is responsible for everything to do with the trading backend services such as the matching engine, market data gateways, internal and external APIs, margin systems and various other trading services. The team is located globally and responsibilities are split into sub-teams, working with various tech stacks. Our teams code in C++, Go, Rust, and Python, depending on the product they are contributing to within Kraken and work agile around the globe<strong>. </strong>Recently, the Trading Technologies team played a critical role in<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://blog.kraken.com/post/17936/performance-at-kraken/\"> <u>scaling Kraken's trading infrastructure.</u></a></p><p style=\"min-height:1.5em\"></p><h2><strong>The opportunity</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Lead and grow a team of 8-10 eng",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/engineering-manager-pro-london-409747",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-26T00:55:37+00:00",
+    "posted_at": "2026-08-27T12:40:32+00:00",
     "tags": [
-      "Field Engineering - Other"
+      "Engineering"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "Python",
+      "Agile"
+    ]
+  },
+  {
+    "title": "IT - Linux-Systemadministrator (m/w/d)",
+    "company": "MVZ Medizinische Labore Dessau Kassel GmbH",
+    "location": "Dessau-Ro\u00dflau",
+    "description": "<p>Mehr als Labor</p>\n<p>Ihr Einstieg in die moderne Labormedizin</p>\n<p>Wir, die MVZ Medizinische Labore Dessau Kassel GmbH, sind ein seit \u00fcber 30 Jahren stetig wachsendes Unternehmen mit Hauptsitz in Dessau-Ro\u00dflau. Vertreten an mehreren Standorten in Sachsen-Anhalt, Sachsen und Hessen, geh\u00f6ren wir zur Limbach Gruppe, dem gr\u00f6\u00dften inhabergef\u00fchrten Labornetz in Deutschland.<br>\nAktuell besch\u00e4ftigen wir etwa 300 Mitarbeiterinnen und Mitarbeiter in Voll- und Teilzeit, verschiedenster Nationalit\u00e4ten, Altersgruppen und mit einzigartigen Talenten.</p>\n<p>An erster Stelle steht f\u00fcr uns die Qualit\u00e4t: in der Diagnostik, in der medizinischen Beratung und im Umgang miteinander.</p>\n<p>Zur Unterst\u00fctzung unseres IT-Teams suchen wir zum n\u00e4chstm\u00f6glichen Zeitpunkt:</p>\n<p><strong>Linux-Systemadministrator (m/w/d)</strong></p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Sie sind f\u00fcr die Installation, Konfiguration, Wartung und Absicherung unserer Linux-Serverlandschaft (z.B. Ubuntu, RHEL, Oracle) sowie der darauf laufenden Applikationen verantwortlich.</li>\n<li>In enger Zusammenarbeit mit unserer Informationssicherheit unterst\u00fctzen Sie bei der Umsetzung der KRITIS- und NIS-2-Sicherheitsstandards. Sie implementieren Sicherheitsrichtlinien (z. B. H\u00e4rtung von Systemen, Berechtigungskonzepte, LDAPS und Zertifikatsverwaltung).</li>\n<li>Sie optimieren und automatisieren wiederkehrende Administrationsaufgaben und Systemprozesse mittels g\u00e4ngiger Skriptsprachen (z. B. Bash, Python) oder Configuration-Management-Tools.</li>\n<li>Sie betreuen und \u00fcberwachen unsere Fachanwendungen im Linux-Umfeld (inkl. Datenbanken und Schnittstellen zu unseren Laborsystemen).</li>\n<li>Sie unterst\u00fctzen bei der Betreuung und dem Ausbau unserer Netzwerkinfrastruktur und sorgen f\u00fcr eine nahtlose Integration der Linux-Systeme in gemischte Umgebungen (Active Directory / LDAP).</li>\n<li>Sie leisten Support im Rahmen unseres User Helpdesks bei komplexen technischen Fragestellungen und erstellen eine l\u00fcckenlose Systemdokumentation.</li>",
+    "url": "https://www.arbeitnow.com/jobs/companies/mvz-medizinische-labore-dessau-kassel-gmbh/it-linux-systemadministrator-dessau-rosslau-466279",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-27T13:01:02+00:00",
+    "tags": [
+      "System and Network Administration"
     ],
     "match_score": 2,
     "matched_skills": [
-      "Python",
-      "SQL",
-      "Azure"
+      "Python"
+    ]
+  },
+  {
+    "title": "Sales Development Representative",
+    "company": "Astronomer",
+    "location": "London",
+    "description": "<p style=\"min-height:1.5em\">Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow\u00ae. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer lets businesses do more with their data. To learn more, visit  <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://www.astronomer.io\"><u>www.astronomer.io</u></a>.</p><p style=\"min-height:1.5em\"></p><h2><strong>About this Role</strong>:</h2><p style=\"min-height:1.5em\">As a Sales Development Representative (SDR) at Astronomer, you'll be the first point of contact for prospective customers and a key driver of pipeline for the sales team. You'll identify and qualify high-potential leads, introduce them to Astro, and set up meaningful conversations for our Account Executives. If you're hungry to build a career in sales and want to work with technology that data teams actually love, this is your role.</p><p style=\"min-height:1.5em\"></p><h2><strong>What You Get to Do:</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Prospect &amp; Outreach</strong> \u2013 Research and engage potential customers through outbound calls, emails, and LinkedIn to build a strong, consistent pipeline.</p></li><li><p style=\"min-height:1.5em\"><strong>Qualify Leads</strong> \u2013 Assess inbound and outbound leads for fit across needs, budget, and intent to convert them into Sales Qualified Leads (SQLs).</p></li><li><p style=\"min-height:1.5em\"><strong>Partner with Sales &amp; Marketing</strong> \u2013 Work closely with both teams to refine MQL-to-SQL conversion strategies and keep high-quality leads flowing.</p></li><li><p style=\"min-height:1.5em\"><strong>Work Smart with Tools</strong> \u2013 Use Salesforce, sales automation platforms, and LinkedIn Sal",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/astronomer/sales-development-representative-london-194366",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-27T00:40:22+00:00",
+    "tags": [
+      "Sales"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "SQL"
     ]
   }
 ]
