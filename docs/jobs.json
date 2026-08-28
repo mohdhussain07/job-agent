@@ -37,21 +37,6 @@
     ]
   },
   {
-    "title": "Data Engineer (m/f/d)",
-    "company": "Dishdigital",
-    "location": "D\u00fcsseldorf",
-    "description": "<br><strong>Your Contribution</strong><p>Are you passionate about building robust data pipelines and enabling data-driven innovation? As a Data Engineer, you will design and evolve scalable data platforms that power analytics, machine learning, and business insights across DISH. Working closely with product teams, data scientists, analysts, and engineers, you will help shape our data ecosystem and contribute to the digital transformation of the HoReCa industry.</p><br><strong>Menu of Responsibilities</strong><p>This role is part of our Data Insights Team, consisting of three Centers of Excellence (CoEs) and one Platform Team. You will be responsible for:<ul><li>Designing, building, and operating scalable data platforms and pipelines that support analytics, AI, and business decision-making.</li><li>Delivering data products within cross-functional squads and translating business needs into reliable, cost-efficient solutions.</li><li>Developing and maintaining batch and real-time data processing solutions on Google Cloud using modern ETL/ELT practices.</li><li>Establishing data engineering standards, guardrails, and best practices that enable safe experimentation while protecting production environments.</li><li>Enabling AI and machine learning initiatives through the adoption of Vertex AI, Model Garden, and GenAI orchestration frameworks.</li><li>Developing integrations, APIs, and workflow orchestration processes to ensure reliable and scalable data movement across systems.</li></ul></p><br><strong>Ingredients for Success</strong><p><ul><li>Proven experience designing and operating distributed data systems and processing large-scale datasets.</li><li>Strong proficiency in Python and SQL, with working knowledge of Java and software engineering best practices.</li><li>Hands-on experience with Google Cloud technologies, including BigQuery, Cloud Storage, Dataflow, Cloud Run, and Pub/Sub.</li><li>Experience building and orchestrating data pipelines using tools such as DBT",
-    "url": "https://www.arbeitnow.com/jobs/companies/dishdigital/data-engineer-dusseldorf-39634",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-27T14:29:58+00:00",
-    "tags": [],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
     "title": "DESARROLLADOR FULL STACK",
     "company": "Kruger NearShore LLC - Rekluti",
     "location": "Remote",
@@ -85,48 +70,51 @@
     ]
   },
   {
-    "title": "Engineering Manager - Pro",
-    "company": "Kraken",
-    "location": "United Kingdom",
-    "description": "<h1><strong>Building the Future of Open Finance</strong><br /></h1><p style=\"min-height:1.5em\">Payward - the parent company behind Kraken, NinjaTrader, Breakout,  xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system.</p><p style=\"min-height:1.5em\"><br />Before you apply, we encourage you to explore our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.kraken.com/culture\"><u>culture page</u></a> to understand what drives us and how we work.</p><h2><strong>The team</strong></h2><p style=\"min-height:1.5em\">Founded in 2011, Kraken is one of the world's longest-standing crypto platforms, trusted by over 10 million individuals and institutions across the globe. It offers spot trading, margin, futures, staking, and OTC services, with products built for both individual investors and institutional clients.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">The Exchange team is responsible for everything to do with the trading backend services such as the matching engine, market data gateways, internal and external APIs, margin systems and various other trading services. The team is located globally and responsibilities are split into sub-teams, working with various tech stacks. Our teams code in C++, Go, Rust, and Python, depending on the product they are contributing to within Kraken and work agile around the globe<strong>. </strong>Recently, the Trading Technologies team played a critical role in<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://blog.kraken.com/post/17936/performance-at-kraken/\"> <u>scaling Kraken's trading infrastructure.</u></a></p><p style=\"min-height:1.5em\"></p><h2><strong>The opportunity</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Lead and grow a team of 8-10 eng",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/engineering-manager-pro-london-409747",
+    "title": "Software Security Engineer*",
+    "company": "Accso \u2013 Accelerated Solutions GmbH",
+    "location": "Frankfurt am Main",
+    "description": "<p style=\";\"></p><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, der Deutschen Bahn und ZDF</span></p></li><li><p><span style=\"color: #335f5f\">Du konzipierst, entwickelst und implementierst Softwarel\u00f6sungen, in dem du AI-Methoden und Tools im gesamten Softwareentwicklungsprozess anwendest (z.B. LLMs, agentische Frameworks, Codegenerierung und Testautomatisierung)</span></p></li><li><p><span style=\"color: #335f5f\">Du verf\u00fcgst \u00fcber Erfahrung und Expertise in der sicheren Software Entwicklung, um Best Principles und Practices f\u00fcr sichere Softwareentwicklung, z. B. NCSC, OWASP oder Mitre, in den Projekten einzusetzen und an uns anzupassen</span></p></li><li><p><span style=\"color: #335f5f\">Du arbeitest mit modernen Technologien wie C#, Java, JavaScript, Spring oder Vue \u2013 je nach deinen St\u00e4rken und Interessen bringst du einen Teil davon in unsere Projekte ein und bist verantwortlich f\u00fcr die IT-Sicherheit</span></p></li><li><p><span style=\"color: #335f5f\">Du entwirfst und baust sichere Infrastrukturen in der Cloud (z. B. AWS, Azure, IONOS, Google) f\u00fcr die von uns entwickelten Anwendungen</span></p><p style=\";\"></p></li></ul><h4><strong><span style=\"color: #00ca75\">Das zeichnet dich aus:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du hast einen Hochschulabschluss in Informatik oder in einer vergleichbaren Disziplin erfolgreich abgeschlossen\u200b</span></p></li><li><p><span style=\"color: #335f5f\">Du bringst tiefgehende, praktische Kenntnisse im Software Engineering mit und f\u00fchlst dich sowohl im Backend als auch im Frontend wohl</span></p></li><li><p><span style=\"color: #335f5f\">Du beherrscht Secure by Design, Zero Trust und andere Prinzipien der IT-Sicherheit hast diese bereits erfolgreich in komplexen und anspruchvollen Projekten eingebracht</span></p></li><li><p><span style=\"color:",
+    "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/software-security-engineer-frankfurt-am-main-258233",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-27T12:40:32+00:00",
+    "posted_at": "2026-08-28T13:20:10+00:00",
     "tags": [
-      "Engineering"
+      "Internet and software",
+      "high school coursework"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "JavaScript",
+      "Azure"
+    ]
+  },
+  {
+    "title": "Senior Customer Success Engineer, French Speaking",
+    "company": "Mitti",
+    "location": "Manchester",
+    "description": "<p style=\"min-height:1.5em\"><strong>Why join us?</strong></p><p style=\"min-height:1.5em\">Mitti by SafetyCulture is a global tech company, just not the kind you're picturing. Our almost 1,000-person team builds tools that make work better for the three billion frontline workers who keep the world moving. We've got big tech scale, without the sign-off layers or corporate theatre. Every permanent team member gets equity, so when we grow, you do too. This next chapter is about scaling smart, powered by AI, a clear vision and real ownership. </p><p style=\"min-height:1.5em\">Big tech impact, without the big tech ick.</p><p style=\"min-height:1.5em\"><br />This role exists to unlock technical value for Mitti\u2019s customers by designing and delivering scalable integrations. It bridges the gap between Go-to-Market (GTM) and Product, Design &amp; Engineering (PDE) to accelerate time-to-value within defined scope, timeline, and budget.<br /></p><p style=\"min-height:1.5em\"><br /><strong>About You</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Technical Expertise:</strong> You have strong hands-on experience with SQL, relational databases, APIs, enterprise integration patterns, and scripting languages (e.g., Python, JavaScript, Ruby, Golang).</p></li><li><p style=\"min-height:1.5em\"><strong>Language &amp; Communication:</strong> You possess full written and verbal fluency in French, with a proven ability to explain complex technical concepts effortlessly to both engineers and business stakeholders.</p></li><li><p style=\"min-height:1.5em\"><strong>AI Leverage:</strong> You fluently use AI coding assistants and automation tools to accelerate spec drafting, data analysis, and code development securely.</p></li><li><p style=\"min-height:1.5em\"><strong>Mindset &amp; Approach:</strong> You are a self-directed, customer-first problem solver who context-switches easily, balances standard methodologies with edge-case judgment, and prioritises team success.</p></l",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/mitti/senior-customer-success-engineer-french-speaking-manchester-47076",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-28T09:40:26+00:00",
+    "tags": [
+      "GTM"
     ],
     "match_score": 3,
     "matched_skills": [
       "Python",
-      "Agile"
+      "JavaScript",
+      "SQL"
     ]
   },
   {
-    "title": "IT - Linux-Systemadministrator (m/w/d)",
-    "company": "MVZ Medizinische Labore Dessau Kassel GmbH",
-    "location": "Dessau-Ro\u00dflau",
-    "description": "<p>Mehr als Labor</p>\n<p>Ihr Einstieg in die moderne Labormedizin</p>\n<p>Wir, die MVZ Medizinische Labore Dessau Kassel GmbH, sind ein seit \u00fcber 30 Jahren stetig wachsendes Unternehmen mit Hauptsitz in Dessau-Ro\u00dflau. Vertreten an mehreren Standorten in Sachsen-Anhalt, Sachsen und Hessen, geh\u00f6ren wir zur Limbach Gruppe, dem gr\u00f6\u00dften inhabergef\u00fchrten Labornetz in Deutschland.<br>\nAktuell besch\u00e4ftigen wir etwa 300 Mitarbeiterinnen und Mitarbeiter in Voll- und Teilzeit, verschiedenster Nationalit\u00e4ten, Altersgruppen und mit einzigartigen Talenten.</p>\n<p>An erster Stelle steht f\u00fcr uns die Qualit\u00e4t: in der Diagnostik, in der medizinischen Beratung und im Umgang miteinander.</p>\n<p>Zur Unterst\u00fctzung unseres IT-Teams suchen wir zum n\u00e4chstm\u00f6glichen Zeitpunkt:</p>\n<p><strong>Linux-Systemadministrator (m/w/d)</strong></p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Sie sind f\u00fcr die Installation, Konfiguration, Wartung und Absicherung unserer Linux-Serverlandschaft (z.B. Ubuntu, RHEL, Oracle) sowie der darauf laufenden Applikationen verantwortlich.</li>\n<li>In enger Zusammenarbeit mit unserer Informationssicherheit unterst\u00fctzen Sie bei der Umsetzung der KRITIS- und NIS-2-Sicherheitsstandards. Sie implementieren Sicherheitsrichtlinien (z. B. H\u00e4rtung von Systemen, Berechtigungskonzepte, LDAPS und Zertifikatsverwaltung).</li>\n<li>Sie optimieren und automatisieren wiederkehrende Administrationsaufgaben und Systemprozesse mittels g\u00e4ngiger Skriptsprachen (z. B. Bash, Python) oder Configuration-Management-Tools.</li>\n<li>Sie betreuen und \u00fcberwachen unsere Fachanwendungen im Linux-Umfeld (inkl. Datenbanken und Schnittstellen zu unseren Laborsystemen).</li>\n<li>Sie unterst\u00fctzen bei der Betreuung und dem Ausbau unserer Netzwerkinfrastruktur und sorgen f\u00fcr eine nahtlose Integration der Linux-Systeme in gemischte Umgebungen (Active Directory / LDAP).</li>\n<li>Sie leisten Support im Rahmen unseres User Helpdesks bei komplexen technischen Fragestellungen und erstellen eine l\u00fcckenlose Systemdokumentation.</li>",
-    "url": "https://www.arbeitnow.com/jobs/companies/mvz-medizinische-labore-dessau-kassel-gmbh/it-linux-systemadministrator-dessau-rosslau-466279",
+    "title": "Software Consultant .NET (m/w/d)",
+    "company": "MY Humancapital GmbH",
+    "location": "Munich",
+    "description": "<p><strong>Software Consultant .NET (m/w/d) - Vollzeit | M\u00fcnchen | Festanstellung | Homeoffice-M\u00f6glichkeit</strong></p>\n<p>Im Auftrag unseres Partnerunternehmens in M\u00fcnchen suchen wir Sie zum n\u00e4chstm\u00f6glichen Zeitpunkt als <strong>\u201eSoftware Consultant .NET (m/w/d)\u201c.</strong></p>\n<h2><strong>Aufgaben</strong></h2>\n<ul>\n<li>Sie beraten Kunden bei der Einf\u00fchrung und Weiterentwicklung individueller Softwarel\u00f6sungen und stehen ihnen als technischer Ansprechpartner zur Seite</li>\n<li>Sie analysieren Anforderungen, entwickeln passende L\u00f6sungskonzepte und setzen diese eigenst\u00e4ndig oder im Team um</li>\n<li>Dar\u00fcber hinaus entwickeln Sie Anwendungen auf Basis von .NET, C# und MAUI f\u00fcr verschiedene Plattformen</li>\n<li>Sie arbeiten eng mit Entwicklung, Vertrieb und weiteren Fachbereichen zusammen und begleiten Projekte bis zur erfolgreichen Umsetzung</li>\n<li>Zus\u00e4tzlich unterst\u00fctzen Sie Kunden durch Schulungen und bringen Ihre Ideen in die Weiterentwicklung der Softwareprodukte ein</li>\n</ul>\n<h2><strong>Qualifikation</strong></h2>\n<ul>\n<li>Sie verf\u00fcgen \u00fcber mehrj\u00e4hrige Berufserfahrung als Softwareentwickler (m/w/d), .NET-Entwickler (m/w/d), IT-Consultant (m/w/d) oder Software Consultant (m/w/d)</li>\n<li>Idealerweise bringen Sie Erfahrung in den Bereichen Logistik, Produktion oder Instandhaltung mit</li>\n<li>Erforderlich sind sehr gute Kenntnisse in .NET, C#, MAUI oder vergleichbaren UI-Frameworks sowie Entity Framework und MS SQL Server</li>\n<li>Zus\u00e4tzlich sind Erfahrungen mit <a href=\"http://ASP.NET\">ASP.NET</a> Core, Blazor oder SAP von Vorteil</li>\n<li>Wichtig sind eine ausgepr\u00e4gte Kundenorientierung, Kommunikationsst\u00e4rke sowie verhandlungssichere Deutsch- und gute Englischkenntnisse</li>\n</ul>\n<h2><strong>Benefits</strong></h2>\n<ul>\n<li><strong>Work-Life-Balance</strong>: Flexible Arbeitszeiten, 30 Tage Urlaub sowie anteilige Homeoffice-M\u00f6glichkeit</li>\n<li><strong>Sicherheit</strong>: Unbefristete Festanstellung im Rahmen der Direktvermittlung</li>\n<li><strong>Weiterentwic",
+    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/software-consultant-net-munich-436463",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-27T13:01:02+00:00",
+    "posted_at": "2026-08-28T17:00:42+00:00",
     "tags": [
-      "System and Network Administration"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Sales Development Representative",
-    "company": "Astronomer",
-    "location": "London",
-    "description": "<p style=\"min-height:1.5em\">Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow\u00ae. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 800 of the world's leading enterprises, Astronomer lets businesses do more with their data. To learn more, visit  <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://www.astronomer.io\"><u>www.astronomer.io</u></a>.</p><p style=\"min-height:1.5em\"></p><h2><strong>About this Role</strong>:</h2><p style=\"min-height:1.5em\">As a Sales Development Representative (SDR) at Astronomer, you'll be the first point of contact for prospective customers and a key driver of pipeline for the sales team. You'll identify and qualify high-potential leads, introduce them to Astro, and set up meaningful conversations for our Account Executives. If you're hungry to build a career in sales and want to work with technology that data teams actually love, this is your role.</p><p style=\"min-height:1.5em\"></p><h2><strong>What You Get to Do:</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Prospect &amp; Outreach</strong> \u2013 Research and engage potential customers through outbound calls, emails, and LinkedIn to build a strong, consistent pipeline.</p></li><li><p style=\"min-height:1.5em\"><strong>Qualify Leads</strong> \u2013 Assess inbound and outbound leads for fit across needs, budget, and intent to convert them into Sales Qualified Leads (SQLs).</p></li><li><p style=\"min-height:1.5em\"><strong>Partner with Sales &amp; Marketing</strong> \u2013 Work closely with both teams to refine MQL-to-SQL conversion strategies and keep high-quality leads flowing.</p></li><li><p style=\"min-height:1.5em\"><strong>Work Smart with Tools</strong> \u2013 Use Salesforce, sales automation platforms, and LinkedIn Sal",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/astronomer/sales-development-representative-london-194366",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-27T00:40:22+00:00",
-    "tags": [
-      "Sales"
+      "Software Development"
     ],
     "match_score": 2,
     "matched_skills": [
