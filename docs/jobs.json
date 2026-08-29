@@ -70,51 +70,72 @@
     ]
   },
   {
-    "title": "Software Security Engineer*",
-    "company": "Accso \u2013 Accelerated Solutions GmbH",
-    "location": "Frankfurt am Main",
-    "description": "<p style=\";\"></p><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, der Deutschen Bahn und ZDF</span></p></li><li><p><span style=\"color: #335f5f\">Du konzipierst, entwickelst und implementierst Softwarel\u00f6sungen, in dem du AI-Methoden und Tools im gesamten Softwareentwicklungsprozess anwendest (z.B. LLMs, agentische Frameworks, Codegenerierung und Testautomatisierung)</span></p></li><li><p><span style=\"color: #335f5f\">Du verf\u00fcgst \u00fcber Erfahrung und Expertise in der sicheren Software Entwicklung, um Best Principles und Practices f\u00fcr sichere Softwareentwicklung, z. B. NCSC, OWASP oder Mitre, in den Projekten einzusetzen und an uns anzupassen</span></p></li><li><p><span style=\"color: #335f5f\">Du arbeitest mit modernen Technologien wie C#, Java, JavaScript, Spring oder Vue \u2013 je nach deinen St\u00e4rken und Interessen bringst du einen Teil davon in unsere Projekte ein und bist verantwortlich f\u00fcr die IT-Sicherheit</span></p></li><li><p><span style=\"color: #335f5f\">Du entwirfst und baust sichere Infrastrukturen in der Cloud (z. B. AWS, Azure, IONOS, Google) f\u00fcr die von uns entwickelten Anwendungen</span></p><p style=\";\"></p></li></ul><h4><strong><span style=\"color: #00ca75\">Das zeichnet dich aus:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du hast einen Hochschulabschluss in Informatik oder in einer vergleichbaren Disziplin erfolgreich abgeschlossen\u200b</span></p></li><li><p><span style=\"color: #335f5f\">Du bringst tiefgehende, praktische Kenntnisse im Software Engineering mit und f\u00fchlst dich sowohl im Backend als auch im Frontend wohl</span></p></li><li><p><span style=\"color: #335f5f\">Du beherrscht Secure by Design, Zero Trust und andere Prinzipien der IT-Sicherheit hast diese bereits erfolgreich in komplexen und anspruchvollen Projekten eingebracht</span></p></li><li><p><span style=\"color:",
-    "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/software-security-engineer-frankfurt-am-main-258233",
+    "title": "AI-Native Software Entwickler (m/w/d)",
+    "company": "JUNE GmbH",
+    "location": "M\u00fcnchen + Remote",
+    "description": "<br><strong>HERAUSFORDERUNG UND PERSPEKTIVE</strong><p><strong>Bei uns lernst du Agentic Coding dort, wo es bereits t\u00e4glich eingesetzt wird!<br></strong><p>Du hast die ersten eigenen Projekte gebaut. Nicht perfekt, aber echt. Du hast mit Claude Code, Codex oder anderen AI-Tools experimentiert und gemerkt: So wird Softwareentwicklung in Zukunft aussehen.</p><p>W\u00e4hrend andere Unternehmen noch diskutieren, ob AI ins Engineering geh\u00f6rt, arbeiten wir schon damit. Jeden Tag.</p><p>Agentic Coding ist bei uns kein Experiment und kein internes Innovationsprojekt. Es ist die Art, wie wir Software entwickeln. Du arbeitest von Anfang an mit erfahrenen Entwicklern zusammen, lernst in echten Kundenprojekten und bekommst Einblicke, die an vielen Orten heute noch Zukunftsmusik sind.</p><p>Uns ist egal, ob du schon alles kannst. Uns ist wichtig, dass du jeden Tag besser werden willst.</p><strong>Was dich erwartet:\u00a0</strong><br><ul><li><span><span>T\u00e4gliche Arbeit mit Agentic Coding und AI-gest\u00fctzter Softwareentwicklung</span></span></li><li><span><span>Moderne Backend-Entwicklung f\u00fcr unsere Legal-AI-Plattform</span></span></li><li><span><span>Entwicklung intelligenter Agenten f\u00fcr reale Kundenprojekte</span></span></li><li><span><span>Ein Umfeld, das st\u00e4ndig neue Tools ausprobiert und produktiv einsetzt</span></span></li><li><span><span>Verantwortung vom ersten Tag an</span></span></li><li><span><span>Extrem steile Lernkurve durch direkte Zusammenarbeit mit erfahrenen AI-First-Entwicklern</span></span></li></ul></p><br><strong>PERS\u00d6NLICHKEIT UND QUALIFIKATION</strong><p><strong>Du passt zu uns, wenn du\u2026\u00a0<br></strong><ul><li><span><span>bereits erste praktische Programmiererfahrung gesammelt</span><span>hast</span></span></li><li><span><span>dich intensiv f\u00fcr KI</span><span>interessierst</span><span>und dich</span><span>aktiv</span><span>damit besch\u00e4ftigst</span></span></li><li><span><span>idealerweise schon mit Claude Code, Codex oder \u00e4hnlichen Tools entwickelt</span><span>hast</span>",
+    "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-424302",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-28T13:20:10+00:00",
+    "posted_at": "2026-08-29T08:10:39+00:00",
     "tags": [
-      "Internet and software",
-      "high school coursework"
+      "ai",
+      "ki",
+      "agentic",
+      "claude",
+      "codex",
+      "backend",
+      ".net",
+      "python",
+      "agent"
     ],
     "match_score": 3,
     "matched_skills": [
-      "JavaScript",
-      "Azure"
+      "Python"
     ]
   },
   {
-    "title": "Senior Customer Success Engineer, French Speaking",
-    "company": "Mitti",
-    "location": "Manchester",
-    "description": "<p style=\"min-height:1.5em\"><strong>Why join us?</strong></p><p style=\"min-height:1.5em\">Mitti by SafetyCulture is a global tech company, just not the kind you're picturing. Our almost 1,000-person team builds tools that make work better for the three billion frontline workers who keep the world moving. We've got big tech scale, without the sign-off layers or corporate theatre. Every permanent team member gets equity, so when we grow, you do too. This next chapter is about scaling smart, powered by AI, a clear vision and real ownership. </p><p style=\"min-height:1.5em\">Big tech impact, without the big tech ick.</p><p style=\"min-height:1.5em\"><br />This role exists to unlock technical value for Mitti\u2019s customers by designing and delivering scalable integrations. It bridges the gap between Go-to-Market (GTM) and Product, Design &amp; Engineering (PDE) to accelerate time-to-value within defined scope, timeline, and budget.<br /></p><p style=\"min-height:1.5em\"><br /><strong>About You</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Technical Expertise:</strong> You have strong hands-on experience with SQL, relational databases, APIs, enterprise integration patterns, and scripting languages (e.g., Python, JavaScript, Ruby, Golang).</p></li><li><p style=\"min-height:1.5em\"><strong>Language &amp; Communication:</strong> You possess full written and verbal fluency in French, with a proven ability to explain complex technical concepts effortlessly to both engineers and business stakeholders.</p></li><li><p style=\"min-height:1.5em\"><strong>AI Leverage:</strong> You fluently use AI coding assistants and automation tools to accelerate spec drafting, data analysis, and code development securely.</p></li><li><p style=\"min-height:1.5em\"><strong>Mindset &amp; Approach:</strong> You are a self-directed, customer-first problem solver who context-switches easily, balances standard methodologies with edge-case judgment, and prioritises team success.</p></l",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/mitti/senior-customer-success-engineer-french-speaking-manchester-47076",
+    "title": "Senior Software Engineer (m/f/d): AI-Native Development",
+    "company": "Myra",
+    "location": "M\u00fcnchen",
+    "description": "<br><strong>Job Description</strong><p>We protect our customers\u2019 digital infrastructure, keeping it secure, fast, and online, even under active attack. As a cybersecurity provider, we run high-performance systems in a genuinely hostile environment, where code quality, security, and rigorous input validation are not hygiene: they are the product. Our customers trust us with business-critical traffic, and we build and operate to the highest standards of certification for critical infrastructure.<br><br>As a Senior Software Engineer (m/f/d), you will help your team design and build robust solutions for complex problems. We are looking for someone who thinks in systems, who starts from the problem, reasons about the trade-offs of the environment it will run in, and reaches for the tool that fits, rather than the one on their CV. We are constantly improving our applications and we work AI-natively: AI coding agents are part of how we spec, build, and review every day. We strongly believe in \u201cyou build it, you run it, you own it\u201d and a \u201ccollaboration culture\u201d, where you and the team are on the frontlines and driving the change together!</p><br><strong>Your Responsibilities</strong><p><ul style=\"list-style-type:disc;margin-left:26px;\"><li>Own features end-to-end, from backend service design through to the frontend slice the feature needs, in an international, cross-functional team of software engineers, QA and OPS professionals</li><li>Design, validate and advocate architecture decisions for your team\u2019s verticals, with a bias toward well-structured, service-oriented backends</li><li>Work AI-natively: use AI coding agents as core tooling to move faster and raise quality, while staying fully accountable for the code you ship</li><li>Drive technical discussions and decisions with your team</li><li>Push toward continuous delivery, improving both the software and how we build it</li><li>Write code that performs, and holds up in production under hostile, high-volume traffic, wit",
+    "url": "https://www.arbeitnow.com/jobs/companies/myra/senior-software-engineer-ai-native-development-munchen-329381",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-28T09:40:26+00:00",
+    "posted_at": "2026-08-29T08:10:03+00:00",
     "tags": [
-      "GTM"
+      "AI Native Development",
+      "PHP",
+      "Symfony",
+      "React",
+      "GraphQL",
+      "Rust",
+      "Python",
+      "Go",
+      "Security by Design",
+      "CI/CD",
+      "Fullstack Development",
+      "Javascript",
+      "ReactJS",
+      "Typescript",
+      "Devops",
+      "Software Developer"
     ],
     "match_score": 3,
     "matched_skills": [
       "Python",
       "JavaScript",
-      "SQL"
+      "React"
     ]
   },
   {
-    "title": "Software Consultant .NET (m/w/d)",
-    "company": "MY Humancapital GmbH",
-    "location": "Munich",
-    "description": "<p><strong>Software Consultant .NET (m/w/d) - Vollzeit | M\u00fcnchen | Festanstellung | Homeoffice-M\u00f6glichkeit</strong></p>\n<p>Im Auftrag unseres Partnerunternehmens in M\u00fcnchen suchen wir Sie zum n\u00e4chstm\u00f6glichen Zeitpunkt als <strong>\u201eSoftware Consultant .NET (m/w/d)\u201c.</strong></p>\n<h2><strong>Aufgaben</strong></h2>\n<ul>\n<li>Sie beraten Kunden bei der Einf\u00fchrung und Weiterentwicklung individueller Softwarel\u00f6sungen und stehen ihnen als technischer Ansprechpartner zur Seite</li>\n<li>Sie analysieren Anforderungen, entwickeln passende L\u00f6sungskonzepte und setzen diese eigenst\u00e4ndig oder im Team um</li>\n<li>Dar\u00fcber hinaus entwickeln Sie Anwendungen auf Basis von .NET, C# und MAUI f\u00fcr verschiedene Plattformen</li>\n<li>Sie arbeiten eng mit Entwicklung, Vertrieb und weiteren Fachbereichen zusammen und begleiten Projekte bis zur erfolgreichen Umsetzung</li>\n<li>Zus\u00e4tzlich unterst\u00fctzen Sie Kunden durch Schulungen und bringen Ihre Ideen in die Weiterentwicklung der Softwareprodukte ein</li>\n</ul>\n<h2><strong>Qualifikation</strong></h2>\n<ul>\n<li>Sie verf\u00fcgen \u00fcber mehrj\u00e4hrige Berufserfahrung als Softwareentwickler (m/w/d), .NET-Entwickler (m/w/d), IT-Consultant (m/w/d) oder Software Consultant (m/w/d)</li>\n<li>Idealerweise bringen Sie Erfahrung in den Bereichen Logistik, Produktion oder Instandhaltung mit</li>\n<li>Erforderlich sind sehr gute Kenntnisse in .NET, C#, MAUI oder vergleichbaren UI-Frameworks sowie Entity Framework und MS SQL Server</li>\n<li>Zus\u00e4tzlich sind Erfahrungen mit <a href=\"http://ASP.NET\">ASP.NET</a> Core, Blazor oder SAP von Vorteil</li>\n<li>Wichtig sind eine ausgepr\u00e4gte Kundenorientierung, Kommunikationsst\u00e4rke sowie verhandlungssichere Deutsch- und gute Englischkenntnisse</li>\n</ul>\n<h2><strong>Benefits</strong></h2>\n<ul>\n<li><strong>Work-Life-Balance</strong>: Flexible Arbeitszeiten, 30 Tage Urlaub sowie anteilige Homeoffice-M\u00f6glichkeit</li>\n<li><strong>Sicherheit</strong>: Unbefristete Festanstellung im Rahmen der Direktvermittlung</li>\n<li><strong>Weiterentwic",
-    "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/software-consultant-net-munich-436463",
+    "title": "Backend QA Engineer",
+    "company": "Jobgether",
+    "location": "UK",
+    "description": "<div>\n<p><strong>This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Backend QA Engineer based in United Kingdom.</strong></p>\n<p>Take ownership of quality across a high-traffic, backend-focused platform where reliability and precision are critical.<br>You\u2019ll combine hands-on manual testing with automation to validate APIs, transaction lifecycles, data, and event-driven services.<br>The role gives you the opportunity to uncover edge cases and risks beyond what is explicitly defined in specifications.<br>You\u2019ll work closely with engineers and other stakeholders to ensure robust releases and prevent critical issues from reaching production.<br>Your work will span REST and gRPC APIs, relational databases, message queues, and distributed backend services.<br>You\u2019ll also contribute to automated regression coverage using Go and help continuously strengthen the testing approach.<br>Working fully remotely within a global team, you\u2019ll have meaningful ownership in a fast-growing technology environment.</p>\n</div><br><strong>Accountabilities</strong><br><div>\n<ul data-spread=\"false\">\n<li>Analyze business requirements, functional specifications, and user stories to design <strong>comprehensive test cases, scenarios, and coverage strategies</strong>.</li>\n<li>Perform end-to-end testing of transaction lifecycles, including initiation, authorization, settlement, reconciliation, and related workflows.</li>\n<li>Proactively explore the platform to identify <strong>edge cases, unexpected behavior, risks, and gaps</strong> not covered by existing specifications.</li>\n<li>Validate data accuracy, integrity, and consistency across services using <strong>SQL queries against PostgreSQL and MySQL</strong>.</li>\n<li>Test <strong>REST and gRPC APIs</strong> using tools such as Postman, grpcurl, or equivalent solutions, validating requests, responses, error handling, and edge cases.</li>\n<li>Verify event-driven workfl",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/backend-qa-engineer-uk-147650",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-28T17:00:42+00:00",
+    "posted_at": "2026-08-28T21:05:11+00:00",
     "tags": [
-      "Software Development"
+      "IT"
     ],
     "match_score": 2,
     "matched_skills": [
