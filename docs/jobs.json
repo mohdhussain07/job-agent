@@ -37,6 +37,21 @@
     ]
   },
   {
+    "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
+    "company": "LiveEO GmbH",
+    "location": "LiveEO GmbH Berlin Office (Hybrid)",
+    "description": "<br><strong>Build the Market Leader in Satellite Analytics with us at LiveEO</strong><p><p>LiveEO uses satellite data and AI to monitor critical infrastructure at scale. As a <strong>Geospatial Data Analyst (f/m/x)</strong>, you\u2019ll sit at the heart of our operations, working with geospatial and satellite data to make sure our analytics projects are delivered reliably, accurately, and on time.</p><p>You\u2019ll work closely with Project Managers, our Operations Support Studio, engineers, and product teams - investigating data, understanding our analytics pipelines, solving delivery issues, and helping us continuously improve how our technology performs in real-world use cases across energy and transportation infrastructure.</p><strong>This role is a maternity leave cover and is offered on a fixed-term contract for 1 year.</strong></p><br><strong>Your challenge</strong><p><ul><li>Analyze, validate, and interpret geospatial and satellite data across global customer projects</li><li>Take ownership of analytics deliveries and help ensure high technical quality and reliability</li><li>Understand and adapt to different analytics use cases across energy and transportation infrastructure</li><li>Investigate data and pipeline issues, identify root causes, and communicate findings clearly to engineering teams</li><li>Work closely with engineers, Project Managers, and the Operations Support Studio to resolve issues and keep deliveries moving</li><li>Develop a strong end-to-end understanding of our analytics pipelines and identify opportunities to improve efficiency and quality</li><li>Provide structured feedback to Product and Engineering teams when you identify recurring issues or opportunities for improvement</li><li>Use AI coding and analysis tools such as Claude or Cursor for data validation, pipeline debugging, and analysis - while critically validating their output before acting on it</li><li>Work with tools and technologies including QGIS, Python, SQL, AWS, remote sensing too",
+    "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-270225",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-30T02:10:08+00:00",
+    "tags": [],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
     "title": "DESARROLLADOR FULL STACK",
     "company": "Kruger NearShore LLC - Rekluti",
     "location": "Remote",
@@ -70,76 +85,49 @@
     ]
   },
   {
-    "title": "AI-Native Software Entwickler (m/w/d)",
-    "company": "JUNE GmbH",
-    "location": "M\u00fcnchen + Remote",
-    "description": "<br><strong>HERAUSFORDERUNG UND PERSPEKTIVE</strong><p><strong>Bei uns lernst du Agentic Coding dort, wo es bereits t\u00e4glich eingesetzt wird!<br></strong><p>Du hast die ersten eigenen Projekte gebaut. Nicht perfekt, aber echt. Du hast mit Claude Code, Codex oder anderen AI-Tools experimentiert und gemerkt: So wird Softwareentwicklung in Zukunft aussehen.</p><p>W\u00e4hrend andere Unternehmen noch diskutieren, ob AI ins Engineering geh\u00f6rt, arbeiten wir schon damit. Jeden Tag.</p><p>Agentic Coding ist bei uns kein Experiment und kein internes Innovationsprojekt. Es ist die Art, wie wir Software entwickeln. Du arbeitest von Anfang an mit erfahrenen Entwicklern zusammen, lernst in echten Kundenprojekten und bekommst Einblicke, die an vielen Orten heute noch Zukunftsmusik sind.</p><p>Uns ist egal, ob du schon alles kannst. Uns ist wichtig, dass du jeden Tag besser werden willst.</p><strong>Was dich erwartet:\u00a0</strong><br><ul><li><span><span>T\u00e4gliche Arbeit mit Agentic Coding und AI-gest\u00fctzter Softwareentwicklung</span></span></li><li><span><span>Moderne Backend-Entwicklung f\u00fcr unsere Legal-AI-Plattform</span></span></li><li><span><span>Entwicklung intelligenter Agenten f\u00fcr reale Kundenprojekte</span></span></li><li><span><span>Ein Umfeld, das st\u00e4ndig neue Tools ausprobiert und produktiv einsetzt</span></span></li><li><span><span>Verantwortung vom ersten Tag an</span></span></li><li><span><span>Extrem steile Lernkurve durch direkte Zusammenarbeit mit erfahrenen AI-First-Entwicklern</span></span></li></ul></p><br><strong>PERS\u00d6NLICHKEIT UND QUALIFIKATION</strong><p><strong>Du passt zu uns, wenn du\u2026\u00a0<br></strong><ul><li><span><span>bereits erste praktische Programmiererfahrung gesammelt</span><span>hast</span></span></li><li><span><span>dich intensiv f\u00fcr KI</span><span>interessierst</span><span>und dich</span><span>aktiv</span><span>damit besch\u00e4ftigst</span></span></li><li><span><span>idealerweise schon mit Claude Code, Codex oder \u00e4hnlichen Tools entwickelt</span><span>hast</span>",
-    "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-424302",
+    "title": "Tech Lead Full-Stack Engineer (f/m/x)",
+    "company": "LiveEO GmbH",
+    "location": "LiveEO GmbH Berlin Office (Hybrid)",
+    "description": "<br><strong>Build the Market Leader in Satellite Analytics with us at LiveEO</strong><p>As the Tech Lead for the backend, frontend, mobile and fullstack software engineers, you will own and shape the architecture of the underlying services as well as their technical roadmap for the services that together create Treeline, our application that helps predict and prevent wildfires, storm events and generally power and train outages due to vegetation, weather and climate.<br><br>Technically, that means rendering and querying large volumes of geospatial data efficiently in both browser, mobile and backend, handling complex and custom business logic, writing the services that make that fast, and building integrations for the growing number of third-party consumers of our services.<br><br>We are a team of five engineers today, actively growing, embedded in a cross-functional group of product managers, UX/UI designers, data, DevOps, ML, and geospatial engineering experts. You will not be the only person responsible for any system you touch and we\u2019re a friendly bunch.</p><br><strong>Your challenge</strong><p><ul><li>Lead, support and coordinate the team that builds Treeline while still being around 60% hands-on</li><li>Architect, build and extend features end-to-end that handle large volumes of geospatial data, with attention to UX and design</li><li>Design and build well-designed, performant API endpoints and backend services used by partners and customers</li><li>Coordinate tightly with other functions in cross-functional temporary squads</li><li>Shape and influence how your team works and how we work together in a greater context</li></ul><br><strong>Stack:</strong><ul><li>Frontend: React, TypeScript</li><li>Backend: NestJS, TypeORM</li><li>Mobile: React Native</li><li>Database: PostgreSQL (including geospatial workloads, PostGIS and OGC)</li><li>Infrastructure &amp; CI/CD: AWS, GitLab</li></ul></p><br><strong>Your profile</strong><p><strong>Must have</strong><ul><li>First",
+    "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/tech-lead-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-15801",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-29T08:10:39+00:00",
-    "tags": [
-      "ai",
-      "ki",
-      "agentic",
-      "claude",
-      "codex",
-      "backend",
-      ".net",
-      "python",
-      "agent"
-    ],
-    "match_score": 3,
+    "posted_at": "2026-08-30T02:10:08+00:00",
+    "tags": [],
+    "match_score": 2,
     "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Senior Software Engineer (m/f/d): AI-Native Development",
-    "company": "Myra",
-    "location": "M\u00fcnchen",
-    "description": "<br><strong>Job Description</strong><p>We protect our customers\u2019 digital infrastructure, keeping it secure, fast, and online, even under active attack. As a cybersecurity provider, we run high-performance systems in a genuinely hostile environment, where code quality, security, and rigorous input validation are not hygiene: they are the product. Our customers trust us with business-critical traffic, and we build and operate to the highest standards of certification for critical infrastructure.<br><br>As a Senior Software Engineer (m/f/d), you will help your team design and build robust solutions for complex problems. We are looking for someone who thinks in systems, who starts from the problem, reasons about the trade-offs of the environment it will run in, and reaches for the tool that fits, rather than the one on their CV. We are constantly improving our applications and we work AI-natively: AI coding agents are part of how we spec, build, and review every day. We strongly believe in \u201cyou build it, you run it, you own it\u201d and a \u201ccollaboration culture\u201d, where you and the team are on the frontlines and driving the change together!</p><br><strong>Your Responsibilities</strong><p><ul style=\"list-style-type:disc;margin-left:26px;\"><li>Own features end-to-end, from backend service design through to the frontend slice the feature needs, in an international, cross-functional team of software engineers, QA and OPS professionals</li><li>Design, validate and advocate architecture decisions for your team\u2019s verticals, with a bias toward well-structured, service-oriented backends</li><li>Work AI-natively: use AI coding agents as core tooling to move faster and raise quality, while staying fully accountable for the code you ship</li><li>Drive technical discussions and decisions with your team</li><li>Push toward continuous delivery, improving both the software and how we build it</li><li>Write code that performs, and holds up in production under hostile, high-volume traffic, wit",
-    "url": "https://www.arbeitnow.com/jobs/companies/myra/senior-software-engineer-ai-native-development-munchen-329381",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-29T08:10:03+00:00",
-    "tags": [
-      "AI Native Development",
-      "PHP",
-      "Symfony",
-      "React",
-      "GraphQL",
-      "Rust",
-      "Python",
-      "Go",
-      "Security by Design",
-      "CI/CD",
-      "Fullstack Development",
-      "Javascript",
-      "ReactJS",
-      "Typescript",
-      "Devops",
-      "Software Developer"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python",
-      "JavaScript",
       "React"
     ]
   },
   {
-    "title": "Backend QA Engineer",
-    "company": "Jobgether",
-    "location": "UK",
-    "description": "<div>\n<p><strong>This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Backend QA Engineer based in United Kingdom.</strong></p>\n<p>Take ownership of quality across a high-traffic, backend-focused platform where reliability and precision are critical.<br>You\u2019ll combine hands-on manual testing with automation to validate APIs, transaction lifecycles, data, and event-driven services.<br>The role gives you the opportunity to uncover edge cases and risks beyond what is explicitly defined in specifications.<br>You\u2019ll work closely with engineers and other stakeholders to ensure robust releases and prevent critical issues from reaching production.<br>Your work will span REST and gRPC APIs, relational databases, message queues, and distributed backend services.<br>You\u2019ll also contribute to automated regression coverage using Go and help continuously strengthen the testing approach.<br>Working fully remotely within a global team, you\u2019ll have meaningful ownership in a fast-growing technology environment.</p>\n</div><br><strong>Accountabilities</strong><br><div>\n<ul data-spread=\"false\">\n<li>Analyze business requirements, functional specifications, and user stories to design <strong>comprehensive test cases, scenarios, and coverage strategies</strong>.</li>\n<li>Perform end-to-end testing of transaction lifecycles, including initiation, authorization, settlement, reconciliation, and related workflows.</li>\n<li>Proactively explore the platform to identify <strong>edge cases, unexpected behavior, risks, and gaps</strong> not covered by existing specifications.</li>\n<li>Validate data accuracy, integrity, and consistency across services using <strong>SQL queries against PostgreSQL and MySQL</strong>.</li>\n<li>Test <strong>REST and gRPC APIs</strong> using tools such as Postman, grpcurl, or equivalent solutions, validating requests, responses, error handling, and edge cases.</li>\n<li>Verify event-driven workfl",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/backend-qa-engineer-uk-147650",
+    "title": "Operations Generalist",
+    "company": "Freetrade",
+    "location": "London",
+    "description": "<h1>About Freetrade</h1><p style=\"min-height:1.5em\">Freetrade\u2019s mission is to become the default place to invest. Investing has been too complicated and expensive for too long, keeping millions from making the most of their savings.</p><p style=\"min-height:1.5em\">We\u2019re changing that.</p><p style=\"min-height:1.5em\">We\u2019re building our team and looking for people who are excited to reshape how our customers invest and grow their wealth. If you\u2019re driven by solving complex problems and building innovative products, you\u2019ll fit right in.</p><p style=\"min-height:1.5em\">2026 is a big year for us. Last year, we announced a game changing deal to become part of the IG Group. We\u2019ll continue to operate as an independent business while gaining access to the resources and support of an established leader in the space.</p><p style=\"min-height:1.5em\">This year, we\u2019re accelerating our roadmap and taking our products to the next level. We\u2019re building new features like mutual funds, bonds, and family investment tools. We\u2019re also exploring how we can leverage AI to deliver an even better experience for our customers.</p><h1><strong>About the role</strong></h1><p style=\"min-height:1.5em\">We're looking for an exceptional junior to join our Brokerage Operations team, either a recent graduate or someone with 1-2 years' full-time work experience. You'll support the day-to-day running of our Trade &amp; Settlements function, covering everything from transaction reporting and fails management to best execution analysis. Over time you'll build genuine expertise across the full trade lifecycle, working alongside Trading, Settlements, Transfers, Payments, Corporate Actions and Tax.</p><p style=\"min-height:1.5em\">You'll also get hands-on exposure to process improvement and automation, including advanced Google Sheets, Apps Script, Regular Expressions, SQL, Zapier, and AI tools like Claude, working closely with technical specialists and engineering.</p><h1><br /><strong>Responsibilities</strong></h",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/freetrade/operations-generalist-london-35811",
     "source": "Arbeitnow",
-    "posted_at": "2026-08-28T21:05:11+00:00",
+    "posted_at": "2026-08-29T18:40:15+00:00",
     "tags": [
-      "IT"
+      "Business"
     ],
     "match_score": 2,
     "matched_skills": [
       "SQL"
+    ]
+  },
+  {
+    "title": "Android Engineer",
+    "company": "Motorway",
+    "location": "London",
+    "description": "<h1><strong>About Motorway</strong></h1><p style=\"min-height:1.5em\">Motorway is the UK's largest online car-selling platform. We connect private sellers directly with over 8,000 dealers nationwide. Our online platform helps sellers achieve great prices for their cars while giving dealers fast, reliable access to the stock they want for their dealerships. Founded in 2017, our award-winning, technology-led approach has redefined the experience of selling a car. Motorway is backed by some of the world\u2019s leading technology investors, having raised \u00a3143 million in Series C funding.</p><p style=\"min-height:1.5em\">This is a unique opportunity to join a fast-growing scale-up at a crucial phase of growth and help change an industry for the better.</p><p style=\"min-height:1.5em\"></p><h2>About the team</h2><p style=\"min-height:1.5em\">We're driven by a passion for innovation and a desire to build the most powerful vehicle transaction platform in the world. Our team is comprised of talented individuals who are constantly pushing the boundaries of what's possible, and we're looking for like-minded individuals to join us on this exciting journey. If you're eager to contribute to the future of the automotive industry and work with cutting-edge technology, I encourage you to apply!</p><p style=\"min-height:1.5em\"></p><h2><strong>About the role</strong></h2><p style=\"min-height:1.5em\">As a Backend Engineer, you will:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Develop and maintain JavaScript code for new features and performance optimisation.</p></li><li><p style=\"min-height:1.5em\">Contribute to improving performance and caching as our platform continues to scale.</p></li><li><p style=\"min-height:1.5em\">Build maintainable, reusable, and reliable code.</p></li><li><p style=\"min-height:1.5em\">Work with our AWS infrastructure to ensure high performance, monitoring, and alerting.</p></li><li><p style=\"min-height:1.5em\">Collaborate with product and design teams to deliv",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/android-engineer-london-28972",
+    "source": "Arbeitnow",
+    "posted_at": "2026-08-29T15:40:08+00:00",
+    "tags": [
+      "Product"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "JavaScript"
     ]
   }
 ]
