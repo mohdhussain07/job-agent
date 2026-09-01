@@ -1,105 +1,54 @@
 [
   {
-    "title": "Project Systems Specialist",
-    "company": "Dart",
-    "location": "George Town, ",
-    "description": "<p><strong>JOB TITLE:</strong> PROJECT SYSTEMS SPECIALIST</p><p><br></p><p><strong>SALARY:</strong> CI$60,000 - CI$80,000 pa</p><p><br></p><p><strong>WORKING HOURS: </strong>40 HOURS PER WEEK</p><p><br></p><p>We are seeking a Project Systems Specialist to join our Project Operations team. The successful candidate will support project management systems, ensuring efficient information management, system performance, and data-driven reporting to support project delivery and operational excellence.</p><p><strong> </strong></p><p><strong>DO YOU HAVE:</strong></p><p><br></p><p>A Bachelor\u00e2\u0080\u0099s degree in a related field or equivalent experience</p><p>At least 4 years\u00e2\u0080\u0099 experience in a similar systems or technical support role</p><p>A minimum of 2 years\u00e2\u0080\u0099 hands-on experience with SSRS reporting</p><p>Familiarity with Power BI, Crystal Reports, or similar BI tools</p><p>Working knowledge of SQL, HTML, CSS, and JavaScript (C# is a plus)</p><p>Experience supporting or administering project management systems such as PMWeb</p><p>Strong analytical, problem-solving, and communication skills</p><p>The ability to manage multiple tasks under pressure while maintaining attention to detail</p><p>The ability to travel to project sites and perform occasional system inspections, including standing, walking, and lifting or carrying light equipment as required to fulfill the essential duties of the role</p><p><br></p><p><strong>WE WANT YOU TO:</strong></p><p><br></p><p>Provide day-to-day technical support for project management systems and users</p><p>Monitor system performance and respond promptly to user queries and issues</p><p>Assist in maintaining and improving system administration policies and procedures</p><p>Collaborate with IT and technical teams to ensure system functionality and reliability</p><p>Support reporting needs through SSRS, dashboards, and automated tools</p><p>Help evaluate and improve information management processes across projects</p><p>Contribute to QA/QC measur",
-    "url": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069",
-    "source": "RemoteOK",
-    "posted_at": "2026-08-21T14:53:06+00:00",
+    "title": "Backend / Full Stack Developer (m/w/d)",
+    "company": "SOFI AI GmbH",
+    "location": "Krailling",
+    "description": "<p>Wir sind SOFI AI und bauen eine KI-Plattform f\u00fcr einen hochregulierten Markt, ohne dass unsere Kunden daf\u00fcr Vertraulichkeit oder Datensouver\u00e4nit\u00e4t aufgeben m\u00fcssen. Genau diese Verbindung aus starker KI und kompromissloser Datensicherheit macht unsere Arbeit technisch anspruchsvoll und spannend.</p>\n<p>Wir sind ein kleines Team mit kurzen Wegen, echter Verantwortung und einem Produkt, dessen Wirkung du direkt siehst.</p>\n<h2>Aufgaben</h2>\n<p>Gemeinsam mit unserem bestehenden Entwicklungsteam bringst du die SOFI AI Plattform weiter voran. Dein Schwerpunkt liegt im Backend, je nach deinen St\u00e4rken \u00fcbernimmst du auch Full-Stack-Aufgaben. Was dich erwartet:</p>\n<p>- Du entwickelst und betreibst unsere Backend-Services und APIs</p>\n<p>- Du baust und optimierst unsere AI-Harnesses, also die Orchestrierung rund um Sprachmodelle mit Tool-Calling, Agenten-Abl\u00e4ufen und Eval-Frameworks</p>\n<p>- Du refactorst bestehende Komponenten und holst mehr Performance heraus</p>\n<p>- Du analysierst und behebst Fehler und h\u00e4ltst die Codequalit\u00e4t hoch</p>\n<p>- Du bindest externe Datenquellen und Schnittstellen an</p>\n<p>- Je nach Profil arbeitest du auch am Frontend mit und begleitest Features von der API bis ins UI</p>\n<p>- Du bist von der Idee bis zum Produktivbetrieb dabei</p>\n<p>KI-gest\u00fctzte Entwicklung geh\u00f6rt bei uns zum Alltag. Du arbeitest mit modernen AI-Tools und Coding-Agents, um schneller und fokussierter voranzukommen und baust zugleich die KI-Funktionen, die unser Produkt ausmachen.</p>\n<h2>Qualifikation</h2>\n<p>Das solltest du mitbringen:</p>\n<p>- Mehrj\u00e4hrige Erfahrung in der Backend-Entwicklung, idealerweise mit Python und/oder TypeScript</p>\n<p>- Sicherheit im Design und Betrieb von REST-APIs</p>\n<p>- Erfahrung mit Datenbanken sowie ein Gesp\u00fcr f\u00fcr testbaren und wartbaren Code</p>\n<p>- Von Vorteil sind Erfahrungen im Frontend, etwa mit React, falls du Full-Stack-Aufgaben \u00fcbernehmen m\u00f6chtest</p>\n<p>- Interesse oder erste Erfahrung an der Integration von Sprachmodellen und de",
+    "url": "https://www.arbeitnow.com/jobs/companies/sofi-ai-gmbh/backend-full-stack-developer-krailling-424909",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-01T07:30:24+00:00",
     "tags": [
-      "design",
-      "sys admin",
-      "education",
-      "customer support",
-      "testing",
-      "travel",
-      "node",
-      "microsoft",
-      "exec",
-      "ops",
-      "medical",
-      "engineer",
-      "digital nomad",
-      "c sharp",
-      "technical",
-      "marketing",
-      "quality assurance",
-      "javascript",
-      "c",
-      "css",
-      "html"
+      "Remote",
+      "Web Development"
     ],
     "match_score": 4,
     "matched_skills": [
-      "JavaScript",
-      "SQL"
+      "Python",
+      "React"
     ]
   },
   {
-    "title": "DESARROLLADOR FULL STACK",
-    "company": "Kruger NearShore LLC - Rekluti",
-    "location": "Remote",
-    "description": "<h3>Desarrollador/a Full Stack \u00e2\u0080\u0093 Python / Angular / Go</h3><p class=\"isSelectedEnd\">En <strong>Rekluti</strong>, consultora especializada en talento tecnol\u00c3\u00b3gico en LATAM, buscamos un/a <strong>Desarrollador/a Full Stack</strong> para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables.</p><p class=\"isSelectedEnd\">Buscamos un perfil con s\u00c3\u00b3lida experiencia en <strong>Python, Angular y Go</strong>, capaz de desenvolverse de manera aut\u00c3\u00b3noma, aportar en decisiones t\u00c3\u00a9cnicas y colaborar con equipos multidisciplinarios.</p><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u008e\u00af Principales responsabilidades</h3><ul><li><p>Dise\u00c3\u00b1ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend.</p></li><li><p>Desarrollar servicios y <strong>APIs REST</strong> utilizando principalmente Python y Go.</p></li><li><p>Construir y mantener interfaces web modernas con <strong>Angular</strong>.</p></li><li><p>Participar en el dise\u00c3\u00b1o de arquitecturas y definici\u00c3\u00b3n de soluciones t\u00c3\u00a9cnicas.</p></li><li><p>Integrar servicios, APIs y diferentes componentes de la plataforma.</p></li><li><p>Desarrollar c\u00c3\u00b3digo limpio, mantenible, escalable y de alta calidad.</p></li><li><p>Participar en revisiones de c\u00c3\u00b3digo, testing y resoluci\u00c3\u00b3n de incidencias.</p></li><li><p>Colaborar con equipos de Producto, QA, DevOps y otros perfiles t\u00c3\u00a9cnicos.</p></li><li><p>Contribuir a la mejora continua de procesos y buenas pr\u00c3\u00a1cticas de desarrollo.</p></li><li><p>Trabajar con servicios cloud y ambientes desplegados sobre <strong>Google Cloud Platform (GCP)</strong>.</p></li><li><p>Participar eventualmente en iniciativas de desarrollo mobile utilizando <strong>Flutter</strong>.</p></li></ul><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u0092\u00bb Requisitos</h3><ul><li><p><strong>5+ a\u00c3\u00b1os de experiencia</strong> en desarrollo de software.</p></li><li><p>Experiencia s\u00c3\u00b3lida como <strong>Full Stack Developer</strong>.</p></li><li><p>Dominio avanzado de <strong>Pytho",
-    "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-    "source": "RemoteOK",
-    "posted_at": "2026-08-22T00:00:12+00:00",
+    "title": "Software Security Engineer*",
+    "company": "Accso \u2013 Accelerated Solutions GmbH",
+    "location": "Frankfurt am Main",
+    "description": "<p style=\";\"></p><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, der Deutschen Bahn und ZDF</span></p></li><li><p><span style=\"color: #335f5f\">Du konzipierst, entwickelst und implementierst Softwarel\u00f6sungen, in dem du AI-Methoden und Tools im gesamten Softwareentwicklungsprozess anwendest (z.B. LLMs, agentische Frameworks, Codegenerierung und Testautomatisierung)</span></p></li><li><p><span style=\"color: #335f5f\">Du verf\u00fcgst \u00fcber Erfahrung und Expertise in der sicheren Software Entwicklung, um Best Principles und Practices f\u00fcr sichere Softwareentwicklung, z. B. NCSC, OWASP oder Mitre, in den Projekten einzusetzen und an uns anzupassen</span></p></li><li><p><span style=\"color: #335f5f\">Du arbeitest mit modernen Technologien wie C#, Java, JavaScript, Spring oder Vue \u2013 je nach deinen St\u00e4rken und Interessen bringst du einen Teil davon in unsere Projekte ein und bist verantwortlich f\u00fcr die IT-Sicherheit</span></p></li><li><p><span style=\"color: #335f5f\">Du entwirfst und baust sichere Infrastrukturen in der Cloud (z. B. AWS, Azure, IONOS, Google) f\u00fcr die von uns entwickelten Anwendungen</span></p><p style=\";\"></p></li></ul><h4><strong><span style=\"color: #00ca75\">Das zeichnet dich aus:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du hast einen Hochschulabschluss in Informatik oder in einer vergleichbaren Disziplin erfolgreich abgeschlossen\u200b</span></p></li><li><p><span style=\"color: #335f5f\">Du bringst tiefgehende, praktische Kenntnisse im Software Engineering mit und f\u00fchlst dich sowohl im Backend als auch im Frontend wohl</span></p></li><li><p><span style=\"color: #335f5f\">Du beherrscht Secure by Design, Zero Trust und andere Prinzipien der IT-Sicherheit hast diese bereits erfolgreich in komplexen und anspruchvollen Projekten eingebracht</span></p></li><li><p><span style=\"color:",
+    "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/software-security-engineer-frankfurt-am-main-342307",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-01T05:20:10+00:00",
     "tags": [
-      "full stack",
-      "front end",
-      "python",
-      "dev",
-      "testing",
-      "web dev",
-      "quality assurance",
-      "devops",
-      "c",
-      "cloud",
-      "nosql",
-      "git",
-      "flutter",
-      "angular",
-      "mobile",
-      "golang",
-      "backend",
-      "digital nomad"
+      "Internet and software",
+      "high school coursework"
     ],
     "match_score": 3,
     "matched_skills": [
+      "JavaScript",
+      "Azure"
+    ]
+  },
+  {
+    "title": "Praktikant/Werkstudent f\u00fcr Prototyping & Zukunftstechnologien (m/w/d)",
+    "company": "softgate",
+    "location": "Erlangen",
+    "description": "<p><strong>Wir entwickeln Software, die Leben retten kann \u2013 gestalte mit uns die Medizintechnik von morgen!</strong></p>\n<p>Wir sind ein internationales Team und entwickeln Software nach h\u00f6chsten Qualit\u00e4tsma\u00dfst\u00e4ben f\u00fcr Medizintechnikhersteller aus aller Welt. Dabei leben wir ein agiles Mindset, flache Hierarchien und kontinuierliche Verbesserung unserer Prozesse in famili\u00e4rer Atmosph\u00e4re. Das macht uns stark \u2013 mach\u2018 du uns noch st\u00e4rker!</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Technologische Recherche</li>\n<li>Prototyping und Entwicklung</li>\n<li>Kreative Ideenfindung</li>\n<li>Dokumentation</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>\n<p>Immatrikulation an einer Hochschule oder Universit\u00e4t</p>\n</li>\n<li>\n<p>Du studierst im Bereich Informatik, Mathematik oder Medizintechnik oder eine vergleichbare Fachrichtung</p>\n</li>\n<li>\n<p>Gute Kenntnisse in einer der Sprachen C++, Python, etc.<br>\nErste Erfahrungen in einem dieser Bereiche:</p>\n</li>\n<li>\n<p>Chatbot und Knowledgemanagement mit KI/LLMs</p>\n</li>\n<li>\n<p>Container Management und Micro Services</p>\n</li>\n<li>\n<p>CI/CD Pipelines</p>\n</li>\n<li>\n<p>Erste Erfahrung in gr\u00f6\u00dferen Softwareprojekten (w\u00fcnschenswert)</p>\n</li>\n<li>\n<p>Kommunikationsst\u00e4rke, Teamf\u00e4higkeit und eine selbstst\u00e4ndige Arbeitsweise runden dein Profil ab</p>\n</li>\n<li>\n<p>Sehr gute Kenntnisse der deutschen Sprache (C2-Level)</p>\n</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>Ein erfahrenes, unterst\u00fctzendes Team, das Wert auf eine positive Arbeitsatmosph\u00e4re legt</li>\n<li>Die M\u00f6glichkeit, aktiv an der Gestaltung deiner Aufgaben und des Unternehmens mitzuwirken</li>\n<li>Eine offene Unternehmenskultur, in der deine Meinung z\u00e4hlt</li>\n<li>Bis zu 24 Tage Urlaub</li>\n<li>Corporate Benefits</li>\n<li>Schulungs- und Weiterbildungsangebot</li>\n<li>Flexible Arbeitszeiten mit bis zu 60 % Remote Work Anteil</li>\n<li>Ergonomische Arbeitspl\u00e4tze mit h\u00f6henverstellbaren Tischen und hochwertiger Hardware</li>\n<li>Kaffee, Tee, Wasser und Erfrischungsgetr\u00e4nke</li>\n<li>Bei uns steht dein Fahrr",
+    "url": "https://www.arbeitnow.com/jobs/companies/softgate/praktikant-werkstudent-fur-prototyping-zukunftstechnologien-erlangen-272773",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-01T08:00:42+00:00",
+    "tags": [
+      "IT"
+    ],
+    "match_score": 2,
+    "matched_skills": [
       "Python"
-    ]
-  },
-  {
-    "title": "Mediengestalter/in Digital und Print mit Schwerpunkt Kundenberatung (mwd)",
-    "company": "Bugaga Werbeagentur e.K.",
-    "location": "Hamburg",
-    "description": "<p>Wir sind eine junge und dynamische Werbemittelagentur aus Hamburg HafenCity und als agiles Unternehmen sind wir permanent auf der Suche nach neuen Talenten wie dich!</p>\n<h2>Aufgaben</h2>\n<p>Mit Promobedarf - unserem Onlineshop f\u00fcr Werbeartikel - versorgen wir unsere Kunden schnell und zuverl\u00e4ssig mit Werbemitteln aller Art. Die Philosophie von Promobedarf ist - individuelle und personalisierte Werbeartikel im Kaufprozess m\u00f6glichst vereinfacht bereitzustellen. Damit unsere Kunden eine passende L\u00f6sung auf dem Weg zum Erfolg schnellstm\u00f6glich erhalten.</p>\n<p>Unabh\u00e4ngig von deinem Standort kannst du bei Promobedarf im HomeOffice oder in unserem B\u00fcro direkt in der HafenCity arbeiten. Wir legen viel Wert darauf, dass Aufgaben rechtzeitig und zuverl\u00e4ssig erledigt werden, aber geben gleichzeitig den Freiraum deine Zeit selbst einzuteilen.</p>\n<p>Du bist zielstrebig, motiviert und flei\u00dfig, kennst dich mit diversen Druckverfahren aus, kannst tolle Arbeitsproben vorweisen, und hast eine hervorragende Qualifikation im Design. Du kennst dich gut mit Photoshop- und Illustrator aus aber auch HTML, CSS und JavaScript sind f\u00fcr dich keine Fremdw\u00f6rter.</p>\n<h2>Qualifikation</h2>\n<p><strong>Deine Aufgaben</strong></p>\n<ul>\n<li>Kundenberatung zur grafischen Gestaltung diverser Werbemittel und Werbeartikel</li>\n<li>Du ber\u00e4tst Kunden zu Produkten und M\u00f6glichkeiten und unterst\u00fctzt sie bei Anliegen zu ihren Auftr\u00e4gen.</li>\n<li>Daten\u00fcberpr\u00fcfung, Korrektur- und Druckdatenaufbereitung</li>\n<li>Du bearbeitest Kundenanfragen eigenst\u00e4ndig \u00fcber Telefon oder E-Mail und schaffst durch dein professionelles und freundliches Auftreten Vertrauen.</li>\n<li>Du kalkulierst und erstellst Angebote auf Basis der Kundenvorgaben und stimmst die Druckumsetzbarkeit mit ihnen ab.</li>\n<li>Du hast eine Abgeschlossene Ausbildung im Bereich Mediengestaltung, Grafikdesign oder \u00e4hnlichen Abschluss und hast bereits etwas Berufserfahrung sowie gute Kenntnisse sowohl im Online- als auch im Printbereich.</li>\n</ul>\n<p>",
-    "url": "https://www.arbeitnow.com/jobs/companies/bugaga-werbeagentur-ek/mediengestalter-in-digital-und-print-mit-schwerpunkt-kundenberatung-mwd-hamburg-284699",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-31T11:00:41+00:00",
-    "tags": [
-      "Remote",
-      "Marketing and Communication"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Operations Generalist",
-    "company": "Freetrade",
-    "location": "London",
-    "description": "<h1>About Freetrade</h1><p style=\"min-height:1.5em\">Freetrade\u2019s mission is to become the default place to invest. Investing has been too complicated and expensive for too long, keeping millions from making the most of their savings.</p><p style=\"min-height:1.5em\">We\u2019re changing that.</p><p style=\"min-height:1.5em\">We\u2019re building our team and looking for people who are excited to reshape how our customers invest and grow their wealth. If you\u2019re driven by solving complex problems and building innovative products, you\u2019ll fit right in.</p><p style=\"min-height:1.5em\">2026 is a big year for us. Last year, we announced a game changing deal to become part of the IG Group. We\u2019ll continue to operate as an independent business while gaining access to the resources and support of an established leader in the space.</p><p style=\"min-height:1.5em\">This year, we\u2019re accelerating our roadmap and taking our products to the next level. We\u2019re building new features like mutual funds, bonds, and family investment tools. We\u2019re also exploring how we can leverage AI to deliver an even better experience for our customers.</p><h1><strong>About the role</strong></h1><p style=\"min-height:1.5em\">We're looking for an exceptional junior to join our Brokerage Operations team, either a recent graduate or someone with 1-2 years' full-time work experience. You'll support the day-to-day running of our Trade &amp; Settlements function, covering everything from transaction reporting and fails management to best execution analysis. Over time you'll build genuine expertise across the full trade lifecycle, working alongside Trading, Settlements, Transfers, Payments, Corporate Actions and Tax.</p><p style=\"min-height:1.5em\">You'll also get hands-on exposure to process improvement and automation, including advanced Google Sheets, Apps Script, Regular Expressions, SQL, Zapier, and AI tools like Claude, working closely with technical specialists and engineering.</p><h1><br /><strong>Responsibilities</strong></h",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/freetrade/operations-generalist-london-35811",
-    "source": "Arbeitnow",
-    "posted_at": "2026-08-29T18:40:15+00:00",
-    "tags": [
-      "Business"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "SQL"
     ]
   }
 ]
