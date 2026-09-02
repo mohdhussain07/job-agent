@@ -1,20 +1,21 @@
 [
   {
-    "title": "Backend / Full Stack Developer (m/w/d)",
-    "company": "SOFI AI GmbH",
-    "location": "Krailling",
-    "description": "<p>Wir sind SOFI AI und bauen eine KI-Plattform f\u00fcr einen hochregulierten Markt, ohne dass unsere Kunden daf\u00fcr Vertraulichkeit oder Datensouver\u00e4nit\u00e4t aufgeben m\u00fcssen. Genau diese Verbindung aus starker KI und kompromissloser Datensicherheit macht unsere Arbeit technisch anspruchsvoll und spannend.</p>\n<p>Wir sind ein kleines Team mit kurzen Wegen, echter Verantwortung und einem Produkt, dessen Wirkung du direkt siehst.</p>\n<h2>Aufgaben</h2>\n<p>Gemeinsam mit unserem bestehenden Entwicklungsteam bringst du die SOFI AI Plattform weiter voran. Dein Schwerpunkt liegt im Backend, je nach deinen St\u00e4rken \u00fcbernimmst du auch Full-Stack-Aufgaben. Was dich erwartet:</p>\n<p>- Du entwickelst und betreibst unsere Backend-Services und APIs</p>\n<p>- Du baust und optimierst unsere AI-Harnesses, also die Orchestrierung rund um Sprachmodelle mit Tool-Calling, Agenten-Abl\u00e4ufen und Eval-Frameworks</p>\n<p>- Du refactorst bestehende Komponenten und holst mehr Performance heraus</p>\n<p>- Du analysierst und behebst Fehler und h\u00e4ltst die Codequalit\u00e4t hoch</p>\n<p>- Du bindest externe Datenquellen und Schnittstellen an</p>\n<p>- Je nach Profil arbeitest du auch am Frontend mit und begleitest Features von der API bis ins UI</p>\n<p>- Du bist von der Idee bis zum Produktivbetrieb dabei</p>\n<p>KI-gest\u00fctzte Entwicklung geh\u00f6rt bei uns zum Alltag. Du arbeitest mit modernen AI-Tools und Coding-Agents, um schneller und fokussierter voranzukommen und baust zugleich die KI-Funktionen, die unser Produkt ausmachen.</p>\n<h2>Qualifikation</h2>\n<p>Das solltest du mitbringen:</p>\n<p>- Mehrj\u00e4hrige Erfahrung in der Backend-Entwicklung, idealerweise mit Python und/oder TypeScript</p>\n<p>- Sicherheit im Design und Betrieb von REST-APIs</p>\n<p>- Erfahrung mit Datenbanken sowie ein Gesp\u00fcr f\u00fcr testbaren und wartbaren Code</p>\n<p>- Von Vorteil sind Erfahrungen im Frontend, etwa mit React, falls du Full-Stack-Aufgaben \u00fcbernehmen m\u00f6chtest</p>\n<p>- Interesse oder erste Erfahrung an der Integration von Sprachmodellen und de",
-    "url": "https://www.arbeitnow.com/jobs/companies/sofi-ai-gmbh/backend-full-stack-developer-krailling-424909",
+    "title": "Full Stack Engineer",
+    "company": "GlassFlow",
+    "location": "Berlin",
+    "description": "<p><strong>About GlassFlow:</strong></p>\n<p>GlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.</p>\n<p>We\u2019re a Berlin startup with a Silicon Valley mentality, backed with $5.9m from Upfront Ventures, the CEO of GitHub, the ex-CTO of Aiven, and more world-class investors.</p>\n<p>The founders are serial entrepreneurs with more +10y of experience in building and selling data products.</p>\n<h2>Tasks</h2>\n<p><strong>Why is this role special</strong></p>\n<p>As one of the first fullstack engineers, you'll get to significant impact at GlassFlow. As a fullstack engineer, you will design and implement our web applications and collaborate directly with our CTO. You will join a small team solving challenging problems in the field of Data engineering and building a product that will be used by developers across the world.</p>\n<h2>Requirements</h2>\n<p><strong>What we\u2019re looking for</strong></p>\n<p><strong>You are:</strong></p>\n<ul>\n<li>Fluent in Javascript and frontend frameworks like Next.js and React.</li>\n<li>Experience with Python and Golang is a plus</li>\n<li>Experience with public or private clouds (AWS / GCP / Azure)</li>\n<li>Experience with DevOps (Kubernetes, Docker, GitHub Actions)</li>\n<li>Worked in fast growing environments or early stage startups</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>What you\u2019ll get</strong></p>\n<ul>\n<li>Real ownership: competitive equity (everyone at GlassFlow is an owner).</li>\n<li>The chance to build something that changes how the world streams data.</li>\n<li>The opportunity to build for global tech brands from day one.</li>\n<li>A career trajectory that will 10x your skills and network.</li>\n</ul>\n<p><strong>Benefits:</strong></p>\n<ul>\n<li>Competitive salary with Stock Option Grant</li>\n<li>Ticket for public transportation in Berlin</li>\n<li>Company c",
+    "url": "https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-berlin-385834",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-01T07:30:24+00:00",
+    "posted_at": "2026-09-02T08:00:26+00:00",
     "tags": [
-      "Remote",
-      "Web Development"
+      "Software Development"
     ],
-    "match_score": 4,
+    "match_score": 7,
     "matched_skills": [
       "Python",
-      "React"
+      "JavaScript",
+      "React",
+      "Azure"
     ]
   },
   {
@@ -22,9 +23,9 @@
     "company": "Accso \u2013 Accelerated Solutions GmbH",
     "location": "Frankfurt am Main",
     "description": "<p style=\";\"></p><p style=\";\"></p><h4><strong><span style=\"color: #00ca75\">Das erwartet dich bei uns:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du arbeitest in Beratungs- und Softwareentwicklungsprojekten bei Kunden wie AXA, BMW, der Deutschen Bahn und ZDF</span></p></li><li><p><span style=\"color: #335f5f\">Du konzipierst, entwickelst und implementierst Softwarel\u00f6sungen, in dem du AI-Methoden und Tools im gesamten Softwareentwicklungsprozess anwendest (z.B. LLMs, agentische Frameworks, Codegenerierung und Testautomatisierung)</span></p></li><li><p><span style=\"color: #335f5f\">Du verf\u00fcgst \u00fcber Erfahrung und Expertise in der sicheren Software Entwicklung, um Best Principles und Practices f\u00fcr sichere Softwareentwicklung, z. B. NCSC, OWASP oder Mitre, in den Projekten einzusetzen und an uns anzupassen</span></p></li><li><p><span style=\"color: #335f5f\">Du arbeitest mit modernen Technologien wie C#, Java, JavaScript, Spring oder Vue \u2013 je nach deinen St\u00e4rken und Interessen bringst du einen Teil davon in unsere Projekte ein und bist verantwortlich f\u00fcr die IT-Sicherheit</span></p></li><li><p><span style=\"color: #335f5f\">Du entwirfst und baust sichere Infrastrukturen in der Cloud (z. B. AWS, Azure, IONOS, Google) f\u00fcr die von uns entwickelten Anwendungen</span></p><p style=\";\"></p></li></ul><h4><strong><span style=\"color: #00ca75\">Das zeichnet dich aus:</span></strong></h4><ul><li><p><span style=\"color: #335f5f\">Du hast einen Hochschulabschluss in Informatik oder in einer vergleichbaren Disziplin erfolgreich abgeschlossen\u200b</span></p></li><li><p><span style=\"color: #335f5f\">Du bringst tiefgehende, praktische Kenntnisse im Software Engineering mit und f\u00fchlst dich sowohl im Backend als auch im Frontend wohl</span></p></li><li><p><span style=\"color: #335f5f\">Du beherrscht Secure by Design, Zero Trust und andere Prinzipien der IT-Sicherheit hast diese bereits erfolgreich in komplexen und anspruchvollen Projekten eingebracht</span></p></li><li><p><span style=\"color:",
-    "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/software-security-engineer-frankfurt-am-main-342307",
+    "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/software-security-engineer-frankfurt-am-main-361112",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-01T05:20:10+00:00",
+    "posted_at": "2026-09-02T09:20:25+00:00",
     "tags": [
       "Internet and software",
       "high school coursework"
@@ -36,19 +37,68 @@
     ]
   },
   {
-    "title": "Praktikant/Werkstudent f\u00fcr Prototyping & Zukunftstechnologien (m/w/d)",
-    "company": "softgate",
-    "location": "Erlangen",
-    "description": "<p><strong>Wir entwickeln Software, die Leben retten kann \u2013 gestalte mit uns die Medizintechnik von morgen!</strong></p>\n<p>Wir sind ein internationales Team und entwickeln Software nach h\u00f6chsten Qualit\u00e4tsma\u00dfst\u00e4ben f\u00fcr Medizintechnikhersteller aus aller Welt. Dabei leben wir ein agiles Mindset, flache Hierarchien und kontinuierliche Verbesserung unserer Prozesse in famili\u00e4rer Atmosph\u00e4re. Das macht uns stark \u2013 mach\u2018 du uns noch st\u00e4rker!</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Technologische Recherche</li>\n<li>Prototyping und Entwicklung</li>\n<li>Kreative Ideenfindung</li>\n<li>Dokumentation</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>\n<p>Immatrikulation an einer Hochschule oder Universit\u00e4t</p>\n</li>\n<li>\n<p>Du studierst im Bereich Informatik, Mathematik oder Medizintechnik oder eine vergleichbare Fachrichtung</p>\n</li>\n<li>\n<p>Gute Kenntnisse in einer der Sprachen C++, Python, etc.<br>\nErste Erfahrungen in einem dieser Bereiche:</p>\n</li>\n<li>\n<p>Chatbot und Knowledgemanagement mit KI/LLMs</p>\n</li>\n<li>\n<p>Container Management und Micro Services</p>\n</li>\n<li>\n<p>CI/CD Pipelines</p>\n</li>\n<li>\n<p>Erste Erfahrung in gr\u00f6\u00dferen Softwareprojekten (w\u00fcnschenswert)</p>\n</li>\n<li>\n<p>Kommunikationsst\u00e4rke, Teamf\u00e4higkeit und eine selbstst\u00e4ndige Arbeitsweise runden dein Profil ab</p>\n</li>\n<li>\n<p>Sehr gute Kenntnisse der deutschen Sprache (C2-Level)</p>\n</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>Ein erfahrenes, unterst\u00fctzendes Team, das Wert auf eine positive Arbeitsatmosph\u00e4re legt</li>\n<li>Die M\u00f6glichkeit, aktiv an der Gestaltung deiner Aufgaben und des Unternehmens mitzuwirken</li>\n<li>Eine offene Unternehmenskultur, in der deine Meinung z\u00e4hlt</li>\n<li>Bis zu 24 Tage Urlaub</li>\n<li>Corporate Benefits</li>\n<li>Schulungs- und Weiterbildungsangebot</li>\n<li>Flexible Arbeitszeiten mit bis zu 60 % Remote Work Anteil</li>\n<li>Ergonomische Arbeitspl\u00e4tze mit h\u00f6henverstellbaren Tischen und hochwertiger Hardware</li>\n<li>Kaffee, Tee, Wasser und Erfrischungsgetr\u00e4nke</li>\n<li>Bei uns steht dein Fahrr",
-    "url": "https://www.arbeitnow.com/jobs/companies/softgate/praktikant-werkstudent-fur-prototyping-zukunftstechnologien-erlangen-272773",
+    "title": "Frontend Engineer - React",
+    "company": "GlassFlow",
+    "location": "Berlin",
+    "description": "<p><strong>About GlassFlow:</strong></p>\n<p>GlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.</p>\n<p>We\u2019re a Berlin startup with a Silicon Valley mentality, backed with $5.9m from Upfront Ventures, the CEO of GitHub, the ex-CTO of Aiven, and more world-class investors.</p>\n<p>The founders are serial entrepreneurs with more +10y of experience in building and selling data products.</p>\n<h2>Tasks</h2>\n<p><strong>Your Role</strong></p>\n<p>As one of the first engineers, you'll get to lay the tech foundations of GlassFlow. As a frontend engineer, you will design and implement our web applications in close collaboration Backend Team, and CTO. You will join a small team solving challenging problems in the field of Data engineering and building a product that will be used by developers across the world.</p>\n<h2>Requirements</h2>\n<p><strong>Previous experience that could be helpful:</strong></p>\n<ul>\n<li>Fluent in TypeScript and frontend frameworks like React</li>\n<li>Experience with public or private clouds (AWS / GCP / Azure)</li>\n<li>Experience with DevOps (Kubernetes, Docker, GitHub Actions)</li>\n<li>Worked in fast-growing environments or early-stage startups</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>What you\u2019ll get</strong></p>\n<ul>\n<li>Real ownership: competitive equity (everyone at GlassFlow is an owner).</li>\n<li>The chance to build something that changes how the world streams data.</li>\n<li>The opportunity to build for global tech brands from day one.</li>\n<li>A career trajectory that will 10x your skills and network.</li>\n</ul>\n<p><strong>Benefits:</strong></p>\n<ul>\n<li>Competitive salary with Stock Option Grant</li>\n<li>Ticket for public transportation in Berlin</li>\n<li>Company credit card with a monthly allowance</li>\n<li>Newest tech of your choosing</li>\n<li>Annual Le",
+    "url": "https://www.arbeitnow.com/jobs/companies/glassflow/frontend-engineer-react-berlin-316759",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-01T08:00:42+00:00",
+    "posted_at": "2026-09-02T08:00:26+00:00",
     "tags": [
-      "IT"
+      "Software Development"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "React",
+      "Azure"
+    ]
+  },
+  {
+    "title": "Werkstudent:in F&E | High-Tech Kompressor Startup",
+    "company": "Ecalia",
+    "location": "Stuttgart",
+    "description": "<p><strong>Du willst nicht nur \u00dcbungsaufgaben rechnen, sondern sehen, wie aus einer Idee ein Bauteil und aus einem Bauteil ein Versuch wird?</strong></p>\n<p>Bei Ecalia arbeitest du an realen Aufgaben rund um Scroll-Kompressoren \u2014 kompakte Verdichter mit ineinandergreifenden Spiralen \u2014 sowie K\u00e4lte- und W\u00e4rmepumpentechnik. Du untersuchst klar begrenzte technische Fragestellungen, entwickelst unter Review L\u00f6sungen und siehst, wie deine Ergebnisse in CAD-Modelle, Prototypen oder Pr\u00fcfstandsversuche einflie\u00dfen.</p>\n<p>Wir erwarten nicht, dass du bereits fertige:r Entwicklungsingenieur:in bist. Wir suchen eine Person mit guten technischen Grundlagen, Lernwillen und Sorgfalt, die an echter Produktentwicklung wachsen m\u00f6chte.</p>\n<p>Ecalia ist ein Deep-Tech-Startup aus Stuttgart. Wir entwickeln Scroll-Kompressor-Expander-Systeme, die Heiz- und K\u00fchlsysteme deutlich effizienter machen sollen. Daf\u00fcr verbinden wir Physik, Maschinenbau, Versuche und KI-gest\u00fctzte Entwicklungsarbeit. Wir arbeiten am Institut f\u00fcr Kunststofftechnik der Universit\u00e4t Stuttgart direkt an unseren Prototypen und Testanlagen.</p>\n<p><strong>Start:</strong> ab November 2026</p>\n<p><strong>Umfang:</strong> min. 15 Std./ Woche, vor Ort in Stuttgart-S\u00fcd</p>\n<h2>Aufgaben</h2>\n<p>Du steigst nicht mit der Verantwortung f\u00fcr ein ganzes Kompressorsystem ein. Gemeinsam w\u00e4hlen wir einen Schwerpunkt, der zu deinen Vorkenntnissen passt, und schneiden daraus klare Entwicklungspakete.</p>\n<p><strong>Das kann konkret hei\u00dfen:</strong></p>\n<ul>\n<li><strong>Technische Fragestellungen bearbeiten:</strong> Anforderungen verstehen, Annahmen festhalten, L\u00f6sungswege vergleichen und Ergebnisse plausibilisieren.</li>\n<li><strong>Berechnungen und Parameterstudien durchf\u00fchren:</strong> Kleine Auslegungen oder physikalische Modelle mit Handrechnung, Python oder geeigneten Simulationstools bearbeiten.</li>\n<li><strong>In CAD mitentwickeln:</strong> Bauteile oder Baugruppen modellieren und unter Review fertigungsgerecht verbessern, beispie",
+    "url": "https://www.arbeitnow.com/jobs/companies/ecalia/werkstudentin-fe-high-tech-kompressor-startup-stuttgart-168457",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-02T09:00:24+00:00",
+    "tags": [
+      "Development"
     ],
     "match_score": 2,
     "matched_skills": [
       "Python"
+    ]
+  },
+  {
+    "title": "Software Engineer - Frontend (React / React Native)",
+    "company": "Fanduel",
+    "location": "Edinburgh",
+    "description": "&lt;h3&gt;&lt;strong&gt;The Position&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We&#39;re looking for a Software Engineer (React Native / React ) to join our Sportsbook engineering team. You&#39;ll be working on foundational engineering, focusing on improving the underlying frameworks, tooling, and performance that enable FanDuel to deliver an exciting and innovative customer experience.&lt;/p&gt;\n&lt;p&gt;Working with our React Native Sportsbook application, you&#39;ll contribute to app performance improvements and help enhance our core codebase to improve quality, scalability, and developer experience.&lt;/p&gt;\n&lt;p&gt;We&#39;re looking for engineers who are collaborative, curious, and committed to developing their skills. The ideal candidate has practical experience with React Native and an interest in mobile performance, tooling, and best practices. Exposure to native Android or iOS development is a plus. As a member of this team, you will contribute to the foundations of our mobile platform, helping FanDuel engineers deliver features more effectively while maintaining platform quality and engineering best practices.&lt;/p&gt;\n&lt;p&gt;We are a growth company, so there are plenty of opportunities for you to learn &amp;amp; grow with us.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Some of your responsibilities will include:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Contributing to the core React Native codebase that underpins our Sportsbook application&lt;/li&gt;\n&lt;li&gt;Working on app launch performance and broader performance improvements&lt;/li&gt;\n&lt;li&gt;Building and maintaining frameworks, tooling, and shared components to support feature teams&lt;/li&gt;\n&lt;li&gt;Collaborating with engineers across domains to solve cross-cutting technical challenges&lt;/li&gt;\n&lt;li&gt;Implementing pragmatic solutions that balance performance, maintainability, and scalability&lt;/li&gt;\n&lt;li&gt;Participate in code reviews, share knowledge, and contribute to continuous improveme",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-frontend-react-react-native-edinburgh-328067",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-02T03:55:13+00:00",
+    "tags": [
+      "Software Engineering"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "React"
+    ]
+  },
+  {
+    "title": "Forward Deployed Engineer (FDE): United Kingdom",
+    "company": "Forgd Ai",
+    "location": "Remote - UK",
+    "description": "<h1><strong>Forward Deployed Engineer (FDE)</strong></h1><p style=\"min-height:1.5em\"><em>Remote /  20% Travel</em></p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><h2>About forgd</h2><p style=\"min-height:1.5em\">forgd is the consultancy partnering exclusively with Anthropic to help enterprises build AI-native businesses. We start with engineering \u2014 helping organizations move from individual developers using Claude Code to entire teams shipping together with AI-native workflows \u2014 and expand into agentic solution delivery and broader business transformation.</p><p style=\"min-height:1.5em\">Our conviction is that engineers are uniquely positioned to lead this transformation. The strongest mental model for designing, deploying, and governing AI agents in production lives in software engineering. The teams that change how their organization builds software are the same teams equipped to shepherd the rest of the business into this new world.</p><p style=\"min-height:1.5em\">We embed and co-build with customer teams. Cycles are short, delivery is iterative and accountable to clear outcome goals.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><h2>About the Role</h2><p style=\"min-height:1.5em\">As an FDE, you embed with enterprise customers and own the technical work across the full customer journey \u2014 initial demos, short proof-of-value engagements, and multi-week implementations. The work moves customers from interesting prototypes to production capability.</p><p style=\"min-height:1.5em\">Most engagements start in engineering. You'll work with customer engineering teams adopting Claude Code and redesigning their SDLC \u2014 code review, requirements, testing, documentation, and governance. From there, the work expands: co-building agentic applications and modernizing legacy systems on the Claude developer platform, and partnering with business stakeholders to deploy agents into core operations like sales, customer service, and finance.</p><p ",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/forgd-ai/remote-forward-deployed-engineer-fde-united-kingdom-441564",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-01T18:40:03+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "SDLC"
     ]
   }
 ]
