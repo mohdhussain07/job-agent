@@ -1,31 +1,28 @@
 [
   {
-    "title": "Full Stack Engineer - Javascript",
-    "company": "GlassFlow",
-    "location": "Berlin",
-    "description": "<p><strong>About GlassFlow:</strong></p>\n<p>GlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.</p>\n<p>We\u2019re a Berlin startup with a Silicon Valley mentality, backed with $5.9m from Upfront Ventures, the CEO of GitHub, the ex-CTO of Aiven, and more world-class investors.</p>\n<p>The founders are serial entrepreneurs with more +10y of experience in building and selling data products.</p>\n<h2>Tasks</h2>\n<p><strong>Why is this role special</strong></p>\n<p>As one of the first fullstack engineers, you'll get to significant impact at GlassFlow. As a fullstack engineer, you will design and implement our web applications and collaborate directly with our CTO. You will join a small team solving challenging problems in the field of Data engineering and building a product that will be used by developers across the world.</p>\n<h2>Requirements</h2>\n<p><strong>What we\u2019re looking for</strong></p>\n<p><strong>You are:</strong></p>\n<ul>\n<li>Fluent in Javascript and frontend frameworks like Next.js and React.</li>\n<li>Experience with Python and Golang is a plus</li>\n<li>Experience with public or private clouds (AWS / GCP / Azure)</li>\n<li>Experience with DevOps (Kubernetes, Docker, GitHub Actions)</li>\n<li>Worked in fast growing environments or early stage startups</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>What you\u2019ll get</strong></p>\n<ul>\n<li>Real ownership: competitive equity (everyone at GlassFlow is an owner).</li>\n<li>The chance to build something that changes how the world streams data.</li>\n<li>The opportunity to build for global tech brands from day one.</li>\n<li>A career trajectory that will 10x your skills and network.</li>\n</ul>\n<p><strong>Benefits:</strong></p>\n<ul>\n<li>Competitive salary with Stock Option Grant</li>\n<li>Ticket for public transportation in Berlin</li>\n<li>Company c",
-    "url": "https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-javascript-berlin-176003",
+    "title": "Working Student Data Analytics/Engineering eMobility (f/m/d)",
+    "company": "Edri",
+    "location": "Essen",
+    "description": "<br><strong>Your mission</strong><p><ul><li style=\"font-family:Verdana, Geneva, sans-serif;\"><span>You design &amp; code data transformations, pipelines &amp; dashboards to implement different business use cases on our data platform (Databricks/Spark, Python, SQL, Power BI)</span></li><li style=\"font-family:Verdana, Geneva, sans-serif;\"><span>You assist in integrating APIs and third-party services into existing systems. Debugging and troubleshooting to ensure seamless data flow and functionality</span></li><li style=\"font-family:Verdana, Geneva, sans-serif;\"><span>You will be proficient in utilizing GIT in Azure DevOps for collaborative programming environments, including code repository management, branching, merging, resolving conflicts, pull requests, code reviews, and CI/CD pipeline integration</span></li><li style=\"font-family:Verdana, Geneva, sans-serif;\"><span>You will help in the operation and\u00a0maintenance\u00a0of our billing engine\u00a0workflows\u00a0used for invoicing our b2b customers (Python (Spark, Pandas), Databricks, Azure Functions).</span></li><li style=\"font-family:Verdana, Geneva, sans-serif;\"><span>Assist in the creation and maintenance of AI-driven dashboards in Databricks.</span></li></ul></p><br><strong>Your profile</strong><p><ul><li style=\"font-family:Verdana, Geneva, sans-serif;font-size:14px;\">You are an enrolled student (preferably with a technical degree) with previous experience in coding, preferably Python with libraries like pandas, numpy, spark, SQL or/and Power BI and 1-2 years of study ahead of you</li><li style=\"font-family:Verdana, Geneva, sans-serif;font-size:14px;\">Your mindset is to complete tasks consciously, reliably, and end-to-end, with a high level of personal commitment</li><li style=\"font-family:Verdana, Geneva, sans-serif;font-size:14px;\">You possess a strong attention to detail, consistently ensuring the precision and accuracy of all shared data within the team</li><li style=\"font-family:Verdana, Geneva, sans-serif;font-size:14px;\">",
+    "url": "https://www.arbeitnow.com/jobs/companies/edri/working-student-data-analytics-engineering-emobility-essen-200143",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-03T07:30:42+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 7,
+    "posted_at": "2026-09-04T05:09:52+00:00",
+    "tags": [],
+    "match_score": 5,
     "matched_skills": [
       "Python",
-      "JavaScript",
-      "React",
+      "SQL",
       "Azure"
     ]
   },
   {
-    "title": "Backend Engineer",
+    "title": "Backend Engineer - Python",
     "company": "GlassFlow",
     "location": "Berlin",
     "description": "<p><strong>About GlassFlow:</strong></p>\n<p>GlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.</p>\n<p>We\u2019re a Berlin startup with a Silicon Valley mentality, backed with $5.9m from Upfront Ventures, the CEO of GitHub, the ex-CTO of Aiven, and more world-class investors.</p>\n<p>The founders are serial entrepreneurs with more +10y of experience in building and selling data products.</p>\n<h2>Tasks</h2>\n<p><strong>Why is this role special</strong></p>\n<p>We are Backend Engineer at GlassFlow, you\u2019ll be shaping the core technology, culture, and trajectory of the company. The code you write will power AI agents for billions of data events around the world.</p>\n<p>You\u2019ll be working in a fast, high-ownership environment where speed matters, curiosity is rewarded, and ambition is the norm.</p>\n<p><strong>What you\u2019ll do</strong></p>\n<ul>\n<li>Build and scale high-performance, low-latency systems in Python.</li>\n<li>Take complete ownership of projects from idea to production.</li>\n<li>Ship fast, break things, learn, and ship again.</li>\n<li>Help define the technical culture of GlassFlow.</li>\n<li>Work directly with the founders to solve problems in a way that no one has solved before.</li>\n</ul>\n<h2>Requirements</h2>\n<p><strong>What we\u2019re looking for</strong></p>\n<p><strong>You are:</strong></p>\n<ul>\n<li>Deep expertise in Python.</li>\n<li>Hungry, competitive, and resilient.</li>\n<li>Someone with impressive achievements that prove you\u2019re a 10x builder.</li>\n<li>A fast learner who thrives in chaos.</li>\n<li>Hands-on, pragmatic, and deeply technical.</li>\n<li>Actively looking for startup culture.</li>\n</ul>\n<p><strong>Previous experience that could be helpful:</strong></p>\n<ul>\n<li>Experience with public or private clouds (AWS / GCP / Azure)</li>\n<li>Experience with K8s, Docker, Docker ",
-    "url": "https://www.arbeitnow.com/jobs/companies/glassflow/backend-engineer-berlin-260448",
+    "url": "https://www.arbeitnow.com/jobs/companies/glassflow/backend-engineer-python-berlin-157873",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-03T07:00:40+00:00",
+    "posted_at": "2026-09-04T08:02:41+00:00",
     "tags": [
       "Software Development"
     ],
@@ -36,38 +33,77 @@
     ]
   },
   {
-    "title": "Software Engineer II - Full Stack - Web Engineering",
-    "company": "Elastic",
-    "location": "Remote",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing and protecting private information more effectively \u2014 Elastic\u2019s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;elastic.co is how Elastic talks to the world \u2014 it&#39;s where potential customers first encounter our products and where existing ones come to learn more. As a Software Engineer II on the Web Engineering team you&#39;ll own meaningful parts of that experience: building the features, systems, and infrastructure that keep the site fast, reliable, and effective at scale. The ideal candidate is a full-stack engineer who is equally comfortable writing React components, designing backend services, shipping to production, and owning what they build once it&#39;s live \u2014 including on-call response and security triage.&lt;/p&gt;\n&lt;p&gt;You&#39;ll work closely with stakeholders across the company to ship features that improve the site&#39;s quality and performance in a distributed, async-first environment.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What You Will Be Doing&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Own features across the full stack from component design and backend services to deployment pipelines and ship production code end-to-end.&lt;/li&gt;\n&lt;li&gt;Instrument client-side performance (Core Web Vitals, error tracking, real-user monitoring) alongside backend logging, metrics, tracing, alerting, ",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/software-engineer-ii-full-stack-web-engineering-462983",
+    "title": "Trainee Frontend Development (m/w/d)",
+    "company": "Brandung",
+    "location": "Berlin",
+    "description": "<br><strong>  </strong><p><br><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Du willst Frontend nicht nur lernen, sondern an echten Projekten anwenden. Bei uns baust du vom ersten Tag an mit, begleitet, aber nicht an der Seitenlinie.\u00a0</span><br><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\"><br>BRANDUNG ist eine unabh\u00e4ngige Digitalagentur in Berlin. Wir entwickeln Websites, Shops und Applikationen: f\u00fcr bekannte Marken ebenso wie f\u00fcr NGOs und gemeinn\u00fctzige Organisationen. Gearbeitet wird in Teams aus Frontend, Backend, Design und Projektmanagement. Als Trainee arbeitest du in genau diesen Teams mit, mit einem festen Mentor oder einer festen Mentorin aus dem Frontend-Team an deiner Seite.</span></p><br><strong>Dein Spielfeld</strong><p>Was dich erwartet<br><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Ein 12-monatiges Traineeprogramm mit klarem Entwicklungsplan und dem Ziel der \u00dcbernahme</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Feste Mentoren, regelm\u00e4\u00dfige Feedbackgespr\u00e4che, Zeit f\u00fcr Lernen im Arbeitsalltag</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Moderner Stack:\u00a0TypeScript, React mit Next.js (App Router) oder Vue mit\u00a0Nuxt\u00a03</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Code Reviews als Standard, Tests als Standard, keine Bastell\u00f6sungen</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">KI-gest\u00fctzte Entwicklung als Normalfall, nicht als Experiment: Wir arbeiten intensiv mit KI, und du lernst von Anfang an, damit sauber und kritisch umzugehen</li></ul><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">\u00a0<br>Dein Alltag\u00a0<br>\u00a0<br></span><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Du entwickelst Komponenten und Interfaces f\u00fcr die Websites, Shops und Applikationen unserer\u00a0Kund:innen</li><li style=\"font-family:Arial, Helvetica, sans-serif;font",
+    "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-457689",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-02T21:55:04+00:00",
+    "posted_at": "2026-09-04T08:09:24+00:00",
     "tags": [
-      "Web and Localization"
+      "Frontend Developer",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Vue",
+      "Nuxt3",
+      "KI",
+      "Coding",
+      "Trainee",
+      "JOIN"
     ],
-    "match_score": 3,
+    "match_score": 2,
     "matched_skills": [
       "React"
     ]
   },
   {
-    "title": "Software Engineer Linux OS (m/w/d)",
-    "company": "Smight Gmbh",
-    "location": "Karlsruhe",
-    "description": "<br><strong>Dein Ziel</strong><p>Als Software Engineer Linux OS bist Du verantwortlich f\u00fcr das Betriebssystem unseres Gateways. Du gestaltest die Grundlage f\u00fcr ein sicheres, stabiles und skalierbares \u00d6kosystem, das den Betrieb, die \u00dcberwachung und Aktualisierung unserer Ger\u00e4teflotte erm\u00f6glicht. Damit legst du den Grundstein f\u00fcr unsere Anwendungen und tr\u00e4gst aktiv zur Digitalisierung der Energienetze bei!</p><br><strong>Deine Aufgaben</strong><p><ul><li><span><span>Du entwickelst und wartest ein sicheres und modulares Linux-Betriebssystem f\u00fcr unsere Gateways.</span></span></li><li><span><span>Du konzipierst und implementierst Frameworks und Schnittstellen zur \u00dcberwachung und Aktualisierung der Ger\u00e4teflotte.</span></span></li><li><span><span>Du integrierst L\u00f6sungen zur Ger\u00e4teidentifikation, -authentifizierung und -autorisierung, um h\u00f6chste Sicherheit zu gew\u00e4hrleisten.</span></span></li><li><span><span>Das Thema Linux OS treibst Du aktiv voran und bringst technische Weiterentwicklungen eigenst\u00e4ndig von der Idee bis zur erfolgreichen Umsetzung.</span></span></li></ul></p><br><strong>Dein Profil</strong><p><ul><li><span><span>Du bringst fundierte Kenntnisse moderner Softwareentwicklungsworkflows mit, z. B. Versionskontrolle mit </span><span>Git</span><span>, CI/CD-Pipelines, automatisiertes </span><span>Testing</span><span> und Code Reviews.</span></span></li><li><span><span>Fundierte Erfahrung in der Entwicklung von Linux-Betriebssystemen und Softwarearchitekturen bringst Du mit.</span></span></li><li><span><span>Der Umgang mit Tools wie </span><span>Yocto</span><span> zur Erstellung und Anpassung von Linux-Distributionen ist dir vertraut.</span></span></li><li><span><span>Du verf\u00fcgst \u00fcber fundierte Kenntnisse in aktuellen Programmiersprachen wie C++ und Python</span></span></li><li><span><span>Im Bereich Docker und Containerisierung verf\u00fcgst du \u00fcber sehr gute Kenntnisse.</span></span></li><li><span><span>Mit der Konzeption sicherer Systeme, z. B. durch Threat Modelling",
-    "url": "https://www.arbeitnow.com/jobs/companies/smight-gmbh/software-engineer-linux-os-karlsruhe-252942",
+    "title": "Machine Learning Engineer / MLOps Engineer (m/w/d)",
+    "company": "Rockstardevelopers GmbH",
+    "location": "Stuttgart",
+    "description": "<p>Du baust produktive KI-Systeme (LLM, RAG, Agenten) f\u00fcr gro\u00dfe Kunden im \u00f6ffentlichen Sektor. Kein Prototyp f\u00fcr die Schublade, sondern Software, die im Regelbetrieb l\u00e4uft.</p>\n<p><strong>Wer wir sind</strong></p>\n<p>Rockstardevelopers, gegr\u00fcndet 2015, B\u00fcros in Stuttgart und M\u00fcnchen. Aus hunderten Projekten f\u00fcr Enterprise- und Mittelstandskunden wissen wir, wie man Software baut, die im Ernstfall tr\u00e4gt.</p>\n<p>Seit einer Weile verschiebt sich unser Schwerpunkt Richtung KI: LLM-Anwendungen, RAG, Agenten-Systeme, die beim Kunden wirklich produktiv gehen. Genau daf\u00fcr suchen wir dich.</p>\n<p><strong>Worum es geht</strong></p>\n<p>Unsere Kunden sind IT-Dienstleister im \u00f6ffentlichen Sektor, ein reguliertes Umfeld mit hohen Anspr\u00fcchen an Datenschutz und Betriebssicherheit. Dort baust du KI-L\u00f6sungen in bestehende Branchenl\u00f6sungen ein: Dialogsysteme, semantische Suche, RAG-Pipelines, Agenten, alles im echten Produktivbetrieb f\u00fcr viele Nutzer. Projektsprache ist Deutsch.</p>\n<p>Ein Wort zu Remote, weil es oft die erste Frage ist: Der Alltag l\u00e4uft remote-first innerhalb der DACH-Region. Ab und zu bist du vor Ort, den Rest der Zeit arbeitest du von dort, wo du gut arbeitest.</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Produktive Daten- und ML-Pipelines entwickeln</li>\n<li>Datenaufbereitung und Modelltraining automatisieren</li>\n<li>Model Serving aufbauen und betreiben, inklusive Monitoring und Alerting</li>\n<li>ML-Modelle in Fachanwendungen integrieren</li>\n<li>ML-Modelle \u00fcberwachen, Model Drift erkennen</li>\n<li>Technologischen Stack und DevOps-/MLOps-Prozesse weiterentwickeln</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Das musst du mitbringen</strong></p>\n<p>Die folgenden sechs Punkte sind harte Voraussetzungen, jeder muss nachweisbar sein. Wenn einer davon fehlt, k\u00f6nnen wir dich leider nicht ins Rennen schicken. So ehrlich sind wir lieber vorab, als dir Zeit zu stehlen.</p>\n<ul>\n<li>Mindestens 3 Jahre Erfahrung in CI/CD-Entwicklung</li>\n<li>Mindestens 3 Jahre Erfahrung in Python-Entwickl",
+    "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/machine-learning-engineer-mlops-engineer-stuttgart-493718",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-03T02:09:35+00:00",
+    "posted_at": "2026-09-04T06:00:32+00:00",
     "tags": [
-      "Software Engineer Linux OS",
-      "Linux OS",
-      "Software Entwicklung",
-      "Engineering"
+      "Remote",
+      "IT"
     ],
     "match_score": 2,
     "matched_skills": [
       "Python"
+    ]
+  },
+  {
+    "title": "Werkstudent (w/m/d) Data Science",
+    "company": "Holzland Becker",
+    "location": "Offenbach am Main, Hessen, Deutschland",
+    "description": "<p>Mit den Marken Holzprofi24 und Leondo betreiben wir f\u00fchrende E-Commerce-Plattformen f\u00fcr Haus &amp; Garten in Europa. Wir verbinden moderne Web-Technologien, datengetriebenes Onlinemarketing und leistungsstarke Logistik, um unseren Kunden ein herausragendes Einkaufserlebnis zu bieten. Zur Unterst\u00fctzung unseres Data-Teams suchen wir einen motivierten Werkstudenten (w/m/d) Data Science, der unsere Datenlandschaft aktiv mitgestaltet, Dashboards und Prognosemodelle weiterentwickelt und den Einsatz intelligenter KI-Tools in einem dynamischen E-Commerce-Umfeld vorantreibt.</p><ul><li><p>Identifikation, Bereinigung und Aufbereitung von relevanten Daten</p></li><li><p>Entwicklung von Datenanalysen und Dashboards</p></li><li><p>Erstellung von Reports</p></li><li><p>Optimierung und Weiterentwicklung unserer Prognosemodelle</p></li><li><p>Sicherstellung der Datenqualit\u00e4t durch Aufbau und Pflege automatisierter Tests (Data Quality Checks)</p></li><li><p>Weiterentwicklung und Integration von KI-Tools zur Automatisierung und Optimierung unserer Datenprozesse</p></li><li><p>\u00dcbernahme von Ad hoc-Aufgaben im Bereich Data</p></li><li><p>Mitarbeit an interdisziplin\u00e4ren Projekten</p></li></ul> <br> <ul><li><p>Immatrikulierte/-r Student/-in (w/m/d) mit Schwerpunkt Informatik, Data oder Wirtschaft</p></li><li><p>Sehr gute Englischkenntnisse in Wort und Schrift</p></li><li><p>Analytisches Denkverm\u00f6gen, l\u00f6sungsorientiertes Vorgehen und eine strukturierte Arbeitsweise</p></li><li><p>Gute Kenntnisse in SQL und relationalen Datenbanken</p></li><li><p>Vorkenntnisse in ELT- oder ETL-Prozessen, Linux, Git und Modultests</p></li><li><p>Neugier auf den Einsatz und die Weiterentwicklung von KI-gest\u00fctzten Tools im Data-Umfeld</p></li></ul><p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
+    "url": "https://www.arbeitnow.com/jobs/companies/holzland-becker/werkstudent-data-science-offenbach-am-main-426796",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-04T05:30:02+00:00",
+    "tags": [
+      "Werkstudenten OFB"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "SQL"
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Fanduel",
+    "location": "Edinburgh",
+    "description": "&lt;p&gt;&lt;strong&gt;The Position&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Our roster has an opening with your name on it&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;We&#39;re looking for a Software Engineer to join our Trust &amp;amp; Safety team within the CPE Platform vertical,&amp;nbsp;working across Core Products and Experiences. In this role, you\u2019ll contribute to a multidisciplinary team&amp;nbsp;building reliable, engaging products for millions of players. You\u2019ll bring some hands-on engineering&amp;nbsp;experience, a practical approach to solving problems, and a willingness to learn from and support others. You\u2019ll&amp;nbsp;help deliver well-structured software, take part in technical discussions, and contribute to documentation,&amp;nbsp;collaboration, and continuous improvement across the team.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are a growth company so there are plenty of opportunities for you to learn and grow with us, plus we have remote-first working, you&#39;ll work from our office in Edinburgh two days a week. We also offer generous paid leave policy to enjoy your downtime. We&#39;re committed to making sure everyone who works here can maintain a healthy work/life balance.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Everyone on our team has a part to play&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You&#39;ll work as part of our Trust &amp;amp; Safety team, helping build and improve Responsible Gaming tools.&lt;/li&gt;\n&lt;li&gt;You&#39;ll build and maintain React-based Responsible Gaming tools&lt;/li&gt;\n&lt;li&gt;You&#39;ll write clear, maintainable backend code using Java, building APIs and services that process high-volumes of signals, events, and enforcement actions&lt;/li&gt;\n&lt;li&gt;You&#39;ll help build and improve APIs, services, and database-backed functionality that can handle high&amp;nbsp;volumes of traffic reliably and at scale&lt;/li&gt;\n&lt;li&gt;You&#39;ll contribute to well-scoped features, fixes, and impro",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-edinburgh-145631",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-04T06:55:03+00:00",
+    "tags": [
+      "Engineering & Technology"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "React"
     ]
   }
 ]
