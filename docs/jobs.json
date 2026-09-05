@@ -1,56 +1,22 @@
 [
   {
-    "title": "Working Student Data Analytics/Engineering eMobility (f/m/d)",
-    "company": "Edri",
-    "location": "Essen",
-    "description": "<br><strong>Your mission</strong><p><ul><li style=\"font-family:Verdana, Geneva, sans-serif;\"><span>You design &amp; code data transformations, pipelines &amp; dashboards to implement different business use cases on our data platform (Databricks/Spark, Python, SQL, Power BI)</span></li><li style=\"font-family:Verdana, Geneva, sans-serif;\"><span>You assist in integrating APIs and third-party services into existing systems. Debugging and troubleshooting to ensure seamless data flow and functionality</span></li><li style=\"font-family:Verdana, Geneva, sans-serif;\"><span>You will be proficient in utilizing GIT in Azure DevOps for collaborative programming environments, including code repository management, branching, merging, resolving conflicts, pull requests, code reviews, and CI/CD pipeline integration</span></li><li style=\"font-family:Verdana, Geneva, sans-serif;\"><span>You will help in the operation and\u00a0maintenance\u00a0of our billing engine\u00a0workflows\u00a0used for invoicing our b2b customers (Python (Spark, Pandas), Databricks, Azure Functions).</span></li><li style=\"font-family:Verdana, Geneva, sans-serif;\"><span>Assist in the creation and maintenance of AI-driven dashboards in Databricks.</span></li></ul></p><br><strong>Your profile</strong><p><ul><li style=\"font-family:Verdana, Geneva, sans-serif;font-size:14px;\">You are an enrolled student (preferably with a technical degree) with previous experience in coding, preferably Python with libraries like pandas, numpy, spark, SQL or/and Power BI and 1-2 years of study ahead of you</li><li style=\"font-family:Verdana, Geneva, sans-serif;font-size:14px;\">Your mindset is to complete tasks consciously, reliably, and end-to-end, with a high level of personal commitment</li><li style=\"font-family:Verdana, Geneva, sans-serif;font-size:14px;\">You possess a strong attention to detail, consistently ensuring the precision and accuracy of all shared data within the team</li><li style=\"font-family:Verdana, Geneva, sans-serif;font-size:14px;\">",
-    "url": "https://www.arbeitnow.com/jobs/companies/edri/working-student-data-analytics-engineering-emobility-essen-200143",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-04T05:09:52+00:00",
-    "tags": [],
-    "match_score": 5,
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "Azure"
-    ]
-  },
-  {
-    "title": "Backend Engineer - Python",
-    "company": "GlassFlow",
-    "location": "Berlin",
-    "description": "<p><strong>About GlassFlow:</strong></p>\n<p>GlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.</p>\n<p>We\u2019re a Berlin startup with a Silicon Valley mentality, backed with $5.9m from Upfront Ventures, the CEO of GitHub, the ex-CTO of Aiven, and more world-class investors.</p>\n<p>The founders are serial entrepreneurs with more +10y of experience in building and selling data products.</p>\n<h2>Tasks</h2>\n<p><strong>Why is this role special</strong></p>\n<p>We are Backend Engineer at GlassFlow, you\u2019ll be shaping the core technology, culture, and trajectory of the company. The code you write will power AI agents for billions of data events around the world.</p>\n<p>You\u2019ll be working in a fast, high-ownership environment where speed matters, curiosity is rewarded, and ambition is the norm.</p>\n<p><strong>What you\u2019ll do</strong></p>\n<ul>\n<li>Build and scale high-performance, low-latency systems in Python.</li>\n<li>Take complete ownership of projects from idea to production.</li>\n<li>Ship fast, break things, learn, and ship again.</li>\n<li>Help define the technical culture of GlassFlow.</li>\n<li>Work directly with the founders to solve problems in a way that no one has solved before.</li>\n</ul>\n<h2>Requirements</h2>\n<p><strong>What we\u2019re looking for</strong></p>\n<p><strong>You are:</strong></p>\n<ul>\n<li>Deep expertise in Python.</li>\n<li>Hungry, competitive, and resilient.</li>\n<li>Someone with impressive achievements that prove you\u2019re a 10x builder.</li>\n<li>A fast learner who thrives in chaos.</li>\n<li>Hands-on, pragmatic, and deeply technical.</li>\n<li>Actively looking for startup culture.</li>\n</ul>\n<p><strong>Previous experience that could be helpful:</strong></p>\n<ul>\n<li>Experience with public or private clouds (AWS / GCP / Azure)</li>\n<li>Experience with K8s, Docker, Docker ",
-    "url": "https://www.arbeitnow.com/jobs/companies/glassflow/backend-engineer-python-berlin-157873",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-04T08:02:41+00:00",
+    "title": "Store Manager BOSS Store Plaza Las Americas",
+    "company": "HUGO BOSS",
+    "location": "San Juan, ",
+    "description": "HUGO BOSS is one of the leading fashion and lifestyle companies in the premium segment with over 19,000 employees worldwide. As versatile as we are, we are united by a common goal: We love fashion, we change fashion!<br><br>Become a brand ambassador and be part of a team that works with passion, ambition and expertise to create excellent customer experiences. Be among the first to bring our collections from the runway to the customers! Join our team and explore career opportunities that are tailor-made for you!<br><br>Convey a positive impression of HUGO BOSS to the marketplace by delivering an exceptional shopping experience, showcasing the brand through exciting merchandise presentations and executing operational strategies resulting in positive operating profits.<br><br><strong>What you can expect:<br><br></strong><ul><li>Utilize effective communication skills in training and developing staff, delivering exceptional service to customers, driving business with the merchant group and general problem solving.</li><li>Achieve positive results in top line sales, profit and loss management and inventory control.</li><li>Establish a goal oriented selling culture that focuses on relationship selling, building a client base and exceptional service.</li><li>Ensure standard operating procedures are executed and policies followed.</li><li>Cultivate a relationship with the community via personal involvement, PR events and advertising opportunities.Manage personnel activities of staff (i.e. hire, train, appraise, reward, motivate, discipline, etc).</li><li>Monitor performance, provide direction, and take corrective action when needed.</li><li>Continually evaluate and react to performance issues and actively recruit candidates.</li><li>Exceptional leadership and management skills and the ability to motivate, develop and inspire a team while creating a highly empowered organization.</li><li>Ensure all relevant conditions relating to Health &amp; Safety are fulfilled and empower ",
+    "url": "https://remoteOK.com/remote-jobs/remote-store-manager-boss-store-plaza-las-americas-hugo-boss-1137301",
+    "source": "RemoteOK",
+    "posted_at": "2026-09-03T15:48:13+00:00",
     "tags": [
-      "Software Development"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python",
-      "Azure"
-    ]
-  },
-  {
-    "title": "Trainee Frontend Development (m/w/d)",
-    "company": "Brandung",
-    "location": "Berlin",
-    "description": "<br><strong>  </strong><p><br><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Du willst Frontend nicht nur lernen, sondern an echten Projekten anwenden. Bei uns baust du vom ersten Tag an mit, begleitet, aber nicht an der Seitenlinie.\u00a0</span><br><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\"><br>BRANDUNG ist eine unabh\u00e4ngige Digitalagentur in Berlin. Wir entwickeln Websites, Shops und Applikationen: f\u00fcr bekannte Marken ebenso wie f\u00fcr NGOs und gemeinn\u00fctzige Organisationen. Gearbeitet wird in Teams aus Frontend, Backend, Design und Projektmanagement. Als Trainee arbeitest du in genau diesen Teams mit, mit einem festen Mentor oder einer festen Mentorin aus dem Frontend-Team an deiner Seite.</span></p><br><strong>Dein Spielfeld</strong><p>Was dich erwartet<br><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Ein 12-monatiges Traineeprogramm mit klarem Entwicklungsplan und dem Ziel der \u00dcbernahme</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Feste Mentoren, regelm\u00e4\u00dfige Feedbackgespr\u00e4che, Zeit f\u00fcr Lernen im Arbeitsalltag</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Moderner Stack:\u00a0TypeScript, React mit Next.js (App Router) oder Vue mit\u00a0Nuxt\u00a03</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Code Reviews als Standard, Tests als Standard, keine Bastell\u00f6sungen</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">KI-gest\u00fctzte Entwicklung als Normalfall, nicht als Experiment: Wir arbeiten intensiv mit KI, und du lernst von Anfang an, damit sauber und kritisch umzugehen</li></ul><span style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">\u00a0<br>Dein Alltag\u00a0<br>\u00a0<br></span><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Du entwickelst Komponenten und Interfaces f\u00fcr die Websites, Shops und Applikationen unserer\u00a0Kund:innen</li><li style=\"font-family:Arial, Helvetica, sans-serif;font",
-    "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-457689",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-04T08:09:24+00:00",
-    "tags": [
-      "Frontend Developer",
-      "TypeScript",
-      "React",
-      "Next.js",
-      "Vue",
-      "Nuxt3",
-      "KI",
-      "Coding",
-      "Trainee",
-      "JOIN"
+      "exec",
+      "react",
+      "education",
+      "consulting",
+      "customer support",
+      "microsoft",
+      "ops",
+      "sales",
+      "medical"
     ],
     "match_score": 2,
     "matched_skills": [
@@ -58,48 +24,15 @@
     ]
   },
   {
-    "title": "Machine Learning Engineer / MLOps Engineer (m/w/d)",
-    "company": "Rockstardevelopers GmbH",
-    "location": "Stuttgart",
-    "description": "<p>Du baust produktive KI-Systeme (LLM, RAG, Agenten) f\u00fcr gro\u00dfe Kunden im \u00f6ffentlichen Sektor. Kein Prototyp f\u00fcr die Schublade, sondern Software, die im Regelbetrieb l\u00e4uft.</p>\n<p><strong>Wer wir sind</strong></p>\n<p>Rockstardevelopers, gegr\u00fcndet 2015, B\u00fcros in Stuttgart und M\u00fcnchen. Aus hunderten Projekten f\u00fcr Enterprise- und Mittelstandskunden wissen wir, wie man Software baut, die im Ernstfall tr\u00e4gt.</p>\n<p>Seit einer Weile verschiebt sich unser Schwerpunkt Richtung KI: LLM-Anwendungen, RAG, Agenten-Systeme, die beim Kunden wirklich produktiv gehen. Genau daf\u00fcr suchen wir dich.</p>\n<p><strong>Worum es geht</strong></p>\n<p>Unsere Kunden sind IT-Dienstleister im \u00f6ffentlichen Sektor, ein reguliertes Umfeld mit hohen Anspr\u00fcchen an Datenschutz und Betriebssicherheit. Dort baust du KI-L\u00f6sungen in bestehende Branchenl\u00f6sungen ein: Dialogsysteme, semantische Suche, RAG-Pipelines, Agenten, alles im echten Produktivbetrieb f\u00fcr viele Nutzer. Projektsprache ist Deutsch.</p>\n<p>Ein Wort zu Remote, weil es oft die erste Frage ist: Der Alltag l\u00e4uft remote-first innerhalb der DACH-Region. Ab und zu bist du vor Ort, den Rest der Zeit arbeitest du von dort, wo du gut arbeitest.</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Produktive Daten- und ML-Pipelines entwickeln</li>\n<li>Datenaufbereitung und Modelltraining automatisieren</li>\n<li>Model Serving aufbauen und betreiben, inklusive Monitoring und Alerting</li>\n<li>ML-Modelle in Fachanwendungen integrieren</li>\n<li>ML-Modelle \u00fcberwachen, Model Drift erkennen</li>\n<li>Technologischen Stack und DevOps-/MLOps-Prozesse weiterentwickeln</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Das musst du mitbringen</strong></p>\n<p>Die folgenden sechs Punkte sind harte Voraussetzungen, jeder muss nachweisbar sein. Wenn einer davon fehlt, k\u00f6nnen wir dich leider nicht ins Rennen schicken. So ehrlich sind wir lieber vorab, als dir Zeit zu stehlen.</p>\n<ul>\n<li>Mindestens 3 Jahre Erfahrung in CI/CD-Entwicklung</li>\n<li>Mindestens 3 Jahre Erfahrung in Python-Entwickl",
-    "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/machine-learning-engineer-mlops-engineer-stuttgart-493718",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-04T06:00:32+00:00",
-    "tags": [
-      "Remote",
-      "IT"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Werkstudent (w/m/d) Data Science",
-    "company": "Holzland Becker",
-    "location": "Offenbach am Main, Hessen, Deutschland",
-    "description": "<p>Mit den Marken Holzprofi24 und Leondo betreiben wir f\u00fchrende E-Commerce-Plattformen f\u00fcr Haus &amp; Garten in Europa. Wir verbinden moderne Web-Technologien, datengetriebenes Onlinemarketing und leistungsstarke Logistik, um unseren Kunden ein herausragendes Einkaufserlebnis zu bieten. Zur Unterst\u00fctzung unseres Data-Teams suchen wir einen motivierten Werkstudenten (w/m/d) Data Science, der unsere Datenlandschaft aktiv mitgestaltet, Dashboards und Prognosemodelle weiterentwickelt und den Einsatz intelligenter KI-Tools in einem dynamischen E-Commerce-Umfeld vorantreibt.</p><ul><li><p>Identifikation, Bereinigung und Aufbereitung von relevanten Daten</p></li><li><p>Entwicklung von Datenanalysen und Dashboards</p></li><li><p>Erstellung von Reports</p></li><li><p>Optimierung und Weiterentwicklung unserer Prognosemodelle</p></li><li><p>Sicherstellung der Datenqualit\u00e4t durch Aufbau und Pflege automatisierter Tests (Data Quality Checks)</p></li><li><p>Weiterentwicklung und Integration von KI-Tools zur Automatisierung und Optimierung unserer Datenprozesse</p></li><li><p>\u00dcbernahme von Ad hoc-Aufgaben im Bereich Data</p></li><li><p>Mitarbeit an interdisziplin\u00e4ren Projekten</p></li></ul> <br> <ul><li><p>Immatrikulierte/-r Student/-in (w/m/d) mit Schwerpunkt Informatik, Data oder Wirtschaft</p></li><li><p>Sehr gute Englischkenntnisse in Wort und Schrift</p></li><li><p>Analytisches Denkverm\u00f6gen, l\u00f6sungsorientiertes Vorgehen und eine strukturierte Arbeitsweise</p></li><li><p>Gute Kenntnisse in SQL und relationalen Datenbanken</p></li><li><p>Vorkenntnisse in ELT- oder ETL-Prozessen, Linux, Git und Modultests</p></li><li><p>Neugier auf den Einsatz und die Weiterentwicklung von KI-gest\u00fctzten Tools im Data-Umfeld</p></li></ul><p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
-    "url": "https://www.arbeitnow.com/jobs/companies/holzland-becker/werkstudent-data-science-offenbach-am-main-426796",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-04T05:30:02+00:00",
-    "tags": [
-      "Werkstudenten OFB"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "SQL"
-    ]
-  },
-  {
     "title": "Software Engineer",
-    "company": "Fanduel",
-    "location": "Edinburgh",
-    "description": "&lt;p&gt;&lt;strong&gt;The Position&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Our roster has an opening with your name on it&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;We&#39;re looking for a Software Engineer to join our Trust &amp;amp; Safety team within the CPE Platform vertical,&amp;nbsp;working across Core Products and Experiences. In this role, you\u2019ll contribute to a multidisciplinary team&amp;nbsp;building reliable, engaging products for millions of players. You\u2019ll bring some hands-on engineering&amp;nbsp;experience, a practical approach to solving problems, and a willingness to learn from and support others. You\u2019ll&amp;nbsp;help deliver well-structured software, take part in technical discussions, and contribute to documentation,&amp;nbsp;collaboration, and continuous improvement across the team.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are a growth company so there are plenty of opportunities for you to learn and grow with us, plus we have remote-first working, you&#39;ll work from our office in Edinburgh two days a week. We also offer generous paid leave policy to enjoy your downtime. We&#39;re committed to making sure everyone who works here can maintain a healthy work/life balance.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Everyone on our team has a part to play&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You&#39;ll work as part of our Trust &amp;amp; Safety team, helping build and improve Responsible Gaming tools.&lt;/li&gt;\n&lt;li&gt;You&#39;ll build and maintain React-based Responsible Gaming tools&lt;/li&gt;\n&lt;li&gt;You&#39;ll write clear, maintainable backend code using Java, building APIs and services that process high-volumes of signals, events, and enforcement actions&lt;/li&gt;\n&lt;li&gt;You&#39;ll help build and improve APIs, services, and database-backed functionality that can handle high&amp;nbsp;volumes of traffic reliably and at scale&lt;/li&gt;\n&lt;li&gt;You&#39;ll contribute to well-scoped features, fixes, and impro",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-edinburgh-145631",
+    "company": "Yext",
+    "location": "London",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Yext (NYSE: YEXT) is the enterprise agentic marketing platform. Built on the world&#39;s most comprehensive structured data platform for local businesses, Yext gives brands and their partners the visibility intelligence to win every moment of discovery \u2013 across AI and traditional search. Yext&#39;s API-first architecture connects structured data to APIs, MCP servers, and generative interfaces, so partners and developers can build purpose-built experiences on the same infrastructure powering Yext&#39;s own products. Thousands of brands and digital marketing partners in financial services, healthcare, retail, hospitality, and food rely on Yext to manage, measure, and optimize visibility at scale. For more information, visit&amp;nbsp;&lt;span&gt;&lt;a href=&quot;http://yext.com&quot; target=&quot;_blank&quot;&gt;yext.com&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Yext Services team works with Yext\u2019s largest clients to deliver highly customized and integrated products! Our team includes Project Management, Creative, and Development resources that work together to deliver end-to-end solutions. We take pride in our ability to tackle a wide breadth and depth of challenges and keep pace with the ever-changing needs of our clients. We are looking for a &lt;strong&gt;Full Stack Software Engineer&lt;/strong&gt; to help us build custom web and backend solutions for our enterprise clients. Our team features a Scrum development process with one-week sprints, peer code reviews and individual ownership of projects from kickoff to delivery. You will work alongside engineers from the top universities and tech companies in the world, hands-on with the code from day one.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build, modify and maintain web applications with React, ensuring compatibility across multiple browsers and platforms&lt;/li&gt;\n&lt;li&gt;Build and maintain ETL",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/yext/software-engineer-london-380457",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-04T06:55:03+00:00",
+    "posted_at": "2026-09-05T00:55:20+00:00",
     "tags": [
-      "Engineering & Technology"
+      "(20) Services"
     ],
     "match_score": 2,
     "matched_skills": [
