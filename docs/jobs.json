@@ -1,5 +1,60 @@
 [
   {
+    "title": "Technical Project Manager \u2013 Software Development (m/w/d)",
+    "company": "Athereon",
+    "location": "Saarbr\u00fccken",
+    "description": "<br><strong>Your mission</strong><p><ul><li>You are responsible for the operational management of our software development and ensure that our Backend and Frontend teams can deliver reliably and with clear focus. You manage planning, capacities, dependencies, and releases and keep the entire development process in view.</li><li>You lead our Development Leads and development teams both functionally and disciplinarily. You establish clear responsibilities, develop team members, and ensure that problems and blockers are identified and resolved early.</li><li>You coordinate teams and tickets throughout their full lifecycle, continuously improve our development and project processes, and ensure transparent and realistic planning for all relevant stakeholders.</li><li>You are the central interface between Engineering and Product Management. Product owns product strategy, prioritization, and requirements; together with the Development Leads, you ensure these are translated into technically sound, realistically planned, and reliably delivered solutions.</li><li>This is not a traditional IT project management role: you bring a strong technical background yourself and can make architecture and design decisions together with our Development Leads, assess technical risks, and evaluate different solution approaches.</li><li>Alongside short-term delivery, you also keep long-term technical topics in view, including architecture, maintainability, security, technical debt, and the continuous improvement of our engineering standards.</li><li>You actively drive our AI First Development Culture. This goes far beyond AI-assisted coding: you identify opportunities to integrate AI into research, technical conception, architecture, project planning, development, testing, reviews, debugging, documentation, and other development processes, and help the team use these tools effectively.</li></ul></p><br><strong>Your profile</strong><p><ul><li>You have at least 5 years of relevant professional",
+    "url": "https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-384502",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-06T05:09:19+00:00",
+    "tags": [
+      "Lead Developer",
+      "Engineering Lead",
+      "Software Architecture",
+      "Python",
+      "Django",
+      "React"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "title": "QA Software Test Automation Engineers (Java)",
+    "company": "Xm",
+    "location": "Remote",
+    "description": "<div><strong style=\"font-size: 16px;\">The Role:</strong></div>\n<div><span style=\"font-size: 16px;\">Our team is expanding and we are hiring several high caliber QA Software Test Automation Engineers (Java) to join our fast-growing team. </span><span style=\"font-size: 16px;\">You will work with world class specialists in a friendly, supportive and open-minded environment on challenging goals that will help you to grow professionally and achieve new technical levels. This role will focus on improving and monitoring product quality via test automation framework development and test coverage extension for functional and performance suits.</span></div><br><strong>The main responsibilities of the position include:</strong><br>\n<li>Closely collaborate with the development team to help deliver high quality software</li>\n<li>Understand and translate business requirements to technical requirements</li>\n<li>Enhance software delivery and quality throughout the entire Software Development Life Cycle</li>\n<li>Perform automated functional and performance testing</li>\n<li>Design and develop the test automation framework, implement required libraries, and conduct auto-tests</li>\n<li>Maintain CI pipelines and integrate automated scripts into CI tools</li>\n<li>Manage any issues that may arise and drive resolutions throughout the testing process</li>\n<li>Actively participate in the Software Development Life Cycle and Software Testing Life Cycle</li>\n<br><strong>Main requirements:</strong><br>\n<li>BSc/MSc in Computer Science</li>\n<li>Minimum 2 years\u2019 experience in quality assurance and test automation (functional GUI and API)</li>\n<li>Practical experience in automation testing with Java (Playwright, REST Assured, or similar for mobile automation) is a must</li>\n<li>Experience in writing queries for SQL and NoSQL databases</li>\n<li>Experience in agile software development methodologies and testing procedures</li>\n<li>Strong interpersonal and organisational skills&nbsp;</li>\n<li>Committed t",
+    "url": "https://www.arbeitnow.fr/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-233007",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-06T07:24:17+00:00",
+    "tags": [
+      "Quality Assurance"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "SQL",
+      "Agile"
+    ]
+  },
+  {
+    "title": "Software Development Engineers in Test (Python)",
+    "company": "Xm",
+    "location": "Remote",
+    "description": "<div><strong style=\"font-size: 16px;\">The Role:</strong></div>\n<div><span style=\"font-size: 16px;\">Our team is expanding and we are hiring several high caliber SDET (Software Development Engineer in Test) - Python to join our fast-growing team. </span><span style=\"font-size: 16px;\">You will work with world class specialists in a friendly, supportive and open-minded environment on challenging goals that will help you to grow professionally and achieve new technical levels. This role will focus on improving and monitoring product quality via test automation framework development and test coverage extension for functional and performance suits. You will work with the most valuable part of the product - a Forex brokerage core. If you enjoy working with pure API, Python, cutting-edge technologies, Kafka and AWS, this role is for you.</span></div><br><strong>The main responsibilities of the position include:</strong><br>\n<li>Work in close cooperation with the development team to enhance software delivery and quality throughout the entire software development cycle</li>\n<li>Understand and translate high level business requirements to technical requirements</li>\n<li>Advise on efficient performance testing strategies for enhancing delivery and quality throughout the full software development cycle</li>\n<li>Develop formal test procedures and test plans from internal product design documentation as well as from external certification requirements</li>\n<li>Design, develop and modify functional and performance automation tests</li>\n<li>Design and implement test automation framework, required libraries and auto-tests</li>\n<li>Develop emulators for mobile testing</li>\n<li>Build CI/CD pipelines and integrate automation scripts into CI tools</li>\n<li>Manage any issues that may arise and drive resolutions throughout the testing process</li>\n<li>Share technical expertise with the rest of the QA team &nbsp;</li>\n<li>Actively participate in the Software Development Life Cycle and Softwa",
+    "url": "https://www.arbeitnow.fr/jobs/companies/xm/remote-software-development-engineers-in-test-python-226133",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-06T07:24:17+00:00",
+    "tags": [
+      "Quality Assurance"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
     "title": "Store Manager BOSS Store Plaza Las Americas",
     "company": "HUGO BOSS",
     "location": "San Juan, ",
@@ -24,15 +79,107 @@
     ]
   },
   {
-    "title": "Software Engineer",
-    "company": "Yext",
-    "location": "London",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Yext (NYSE: YEXT) is the enterprise agentic marketing platform. Built on the world&#39;s most comprehensive structured data platform for local businesses, Yext gives brands and their partners the visibility intelligence to win every moment of discovery \u2013 across AI and traditional search. Yext&#39;s API-first architecture connects structured data to APIs, MCP servers, and generative interfaces, so partners and developers can build purpose-built experiences on the same infrastructure powering Yext&#39;s own products. Thousands of brands and digital marketing partners in financial services, healthcare, retail, hospitality, and food rely on Yext to manage, measure, and optimize visibility at scale. For more information, visit&amp;nbsp;&lt;span&gt;&lt;a href=&quot;http://yext.com&quot; target=&quot;_blank&quot;&gt;yext.com&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Yext Services team works with Yext\u2019s largest clients to deliver highly customized and integrated products! Our team includes Project Management, Creative, and Development resources that work together to deliver end-to-end solutions. We take pride in our ability to tackle a wide breadth and depth of challenges and keep pace with the ever-changing needs of our clients. We are looking for a &lt;strong&gt;Full Stack Software Engineer&lt;/strong&gt; to help us build custom web and backend solutions for our enterprise clients. Our team features a Scrum development process with one-week sprints, peer code reviews and individual ownership of projects from kickoff to delivery. You will work alongside engineers from the top universities and tech companies in the world, hands-on with the code from day one.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build, modify and maintain web applications with React, ensuring compatibility across multiple browsers and platforms&lt;/li&gt;\n&lt;li&gt;Build and maintain ETL",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/yext/software-engineer-london-380457",
+    "title": "Data Analyst (w/m/d)",
+    "company": "Pub Tech",
+    "location": "M\u00fcnchen",
+    "description": "<br><strong>Unser Team, unsere Arbeitsweise und du</strong><p>F\u00fcr unser fast 20-k\u00f6pfiges Analytics &amp; Data Platforms - Department sind wir auf der Suche nach einem/r Data Engineer, der/die Spa\u00df daran hat, die Digitalisierung innerhalb der ARD und ihren Landesrundfunkanstalten voranzutreiben.<br>Als Teil eines interdisziplin\u00e4ren Projektteams bist du verantwortlich f\u00fcr Schl\u00fcsselprojekte: von der Implementierung des ARD-weiten Data Meshs \u00fcber die effiziente Verarbeitung von Clickstreams und die Bereitstellung von Data Marts f\u00fcr BI-Dashboards.<br>Wir setzen stark auf Eigeninitiative und pers\u00f6nliche Weiterentwicklung. Kennst du eine Technologie noch nicht so gut, dann lernst du sie durch unsere Unterst\u00fctzung im Rahmen des Training-on-the-job. Da du mal mehr, mal weniger direkte pub.tech Kolleg*innen um dich herum hast, uns das pers\u00f6nliche Miteinander aber sehr wichtig ist, pflegen wir regelm\u00e4\u00dfigen Kontakt \u00fcber direkte Einzelgespr\u00e4che, regelm\u00e4\u00dfige Fachteammeetings und einem pub.tech-Weekly, in dem sich die ganze Firma \u00fcber Neuigkeiten austauscht und wir Transparenz zwischen allen Bereichen schaffen. Au\u00dferdem wichtig f\u00fcr dich zu wissen: wir nehmen sehr viel R\u00fccksicht darauf, Privates wie Familie und Kinder mit der Arbeit vereinbaren zu k\u00f6nnen.<br>Wenn es dich unter diesen Bedingungen reizt, die digitale Zukunft des \u00f6ffentlich-rechtlichen Rundfunks mitzugestalten, dann ist dieser Job genau richtig f\u00fcr dich!</p><br><strong>Folgende Aufgaben erwarten dich bei uns</strong><p><ul><li><strong>Sorge daf\u00fcr, dass wir die richtigen Dinge messen:</strong> Gemeinsam mit Produkt, Redaktion und Engineering entwickelst Du <strong>Tracking- und Messkonzepte</strong>, definierst relevante Kennzahlen und stellst sicher, dass die ben\u00f6tigten Daten <strong>vollst\u00e4ndig</strong>, <strong>verst\u00e4ndlich</strong> und <strong>verl\u00e4sslich</strong> zur Verf\u00fcgung stehen. Dabei bewegst Du Dich sicher an der Schnittstelle zur technischen Datenerhebung und arbeitest auch selbst mit <strong>SQL und struk",
+    "url": "https://www.arbeitnow.com/jobs/companies/pub-tech/data-analyst-munchen-36665",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-05T00:55:20+00:00",
+    "posted_at": "2026-09-06T02:09:51+00:00",
     "tags": [
-      "(20) Services"
+      "Analytics",
+      "Data Analytics",
+      "Digital Analytics",
+      "Tracking & Measurement",
+      "GCP",
+      "SQL",
+      "BigQuery",
+      "KPI-Definition",
+      "Data Visualization",
+      "Dashboarding",
+      "Reporting",
+      "Nutzungsanalyse"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "SQL"
+    ]
+  },
+  {
+    "title": "Senior DevOps Engineer (all genders) | Data Platform",
+    "company": "Real Digital",
+    "location": "Remote oder K\u00f6ln / Darmstadt / D\u00fcsseldorf / Berlin",
+    "description": "<br><strong>Anstellungsdetails</strong><p>Permanent Contract, Full- or Part-Time, Remote or Cologne / D\u00fcsseldorf / Darmstadt / Berlin</p><br><strong>Info</strong><p>Who we areWe are the tech powerhouse behind Kaufland\u2019s international online marketplaces and a company within the Schwarz Group. Driven by a start-up mentality and working on an equal footing within flat hierarchies, we develop the best marketplace solutions for our customers, sellers and partners. #FromEuropeForEurope<br><br>Day by day, our Tech &amp; Product Team of about 400 experts pursues the goal of creating the best possible customer shopping experience for our online marketplace. Through innovative technical developments, they not only create an outstanding shopping experience but also lay the foundation for an optimal selling experience for our sellers. Learn more about our division, areas, and cross-functional teams <a href=\"https://kaufland-ecommerce.com/en/teams/tech-product/\">here</a>!</p><br><strong>Aufgaben</strong><p>Your tasks \u2013 this is what awaits you in detail\n\n<ul>\n\t<li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You run and own our self-hosted Apache Kafka backbone and Schema Registry end-to-end, managing ACLs, client quotas, certificates, upgrades, and disaster recovery</li>\n\t<li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You operate our Debezium-based change data capture pipelines, overseeing connectors, snapshots, offsets, replica lag, and BigQuery sink loaders\u00a0</li>\n\t<li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You run our workloads on Kubernetes, including Navarch - our self-built workflow orchestrator executing ~7,500 SQL and Python tasks daily - owning resource management, autoscaling, and debugging</li>\n\t<li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You automate and own access management and infrastructure as code across our self-hosted GitLab CI/CD pipelines, replacing manual tickets wi",
+    "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-426742",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-06T02:09:33+00:00",
+    "tags": [
+      "Data Engineering"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Business Development Representative",
+    "company": "Dualentry",
+    "location": "London, UK (Hybrid)",
+    "description": "<h1><strong>About DualEntry</strong></h1><p style=\"min-height:1.5em\">DualEntry is building the OS for finance.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">Every business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s. DualEntry's AI-native ERP automates accounting from data entry to close, so finance teams move faster, spend less and incur less risk.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">In just 2 years we've raised $100M+ from Lightspeed, Khosla Ventures, Contrary and Google Ventures and earned the trust of customers from $5M ARR to publicly traded companies.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We hire <em><strong>outliers</strong></em> - people who have achieved difficult things, in their careers or beyond. You'll find leaders, colleagues who've competed at the highest levels of sport, performed on Broadway, trained with UFC champions and founded the country\u2019s largest Python community.</p><p style=\"min-height:1.5em\"></p><div><div style=\"left:0;width:100%;height:0;position:relative;padding-bottom:56.338%\"><iframe src=\"https://embedded-media.ashbyhq.com/embed/90a003a5-39b1-4b2c-b1f7-cd8c1761ad1d/b986c500-921d-4566-bb1d-a9bd0644237d\" style=\"top:0;left:0;width:100%;height:100%;position:absolute;border:0\" allowfullscreen scrolling=\"no\" allow=\"encrypted-media *; picture-in-picture *;\" sandbox=\"allow-scripts allow-same-origin allow-presentation\"></iframe></div></div><p style=\"min-height:1.5em\"></p><h1><strong>Where You'll Create Impact</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Drive high-volume ERP lead generation and engage with prospects</p></li><li><p style=\"min-height:1.5em\">GTM process improvement and experimentation (creative outbound strategies, sales velocity improvements, etc.)</p></li><",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/business-development-representative-london-34530",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-05T09:40:02+00:00",
+    "tags": [
+      "Sales"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Lead Mobile Engineer - React Native",
+    "company": "DiliTrust",
+    "location": "Paris - La D\u00e9fense",
+    "description": "<h3><strong>Ready to be part of the Legal Tech revolution?</strong></h3>\n<div>&nbsp;</div>\n<div>As the leading SaaS publisher in Europe, <strong>DiliTrust</strong> is transforming legal departments worldwide with cutting-edge technology</div>\n<div>&nbsp;</div>\n<div><strong>Our Impact: </strong>From General Meeting reports to AI-assisted contract life management, our teams across France, Spain, Italy, Canada, Mexico, and MEA are the driving force behind our global success</div>\n<div>We proudly support 2,300 customers in 50 countries, with 80% of them being CAC 40 companies</div>\n<div><strong>Our Ambition: </strong>To become the first French legal tech Unicorn, reaching a valuation of over \u20ac1 billion</div>\n<div><strong>Our Recognition:&nbsp;</strong>DiliTrust is recognized for offering a positive and stimulating work environment \ud83c\udf1f</div>\n<div>We are proud recipients of the \u201cHappy at Work\u201d and \u201cTech at Work\u201d labels since 2019&nbsp;</div>\n<h3>As our Lead Mobile Engineer,</h3>\n<p>you will spearhead the rebuild of our native mobile application using React Native and AI-powered development tools. This is a key strategic role: you will lay the foundations (architecture, CI/CD pipelines, tooling, and best practices) and then scale the mobile scope well beyond what we deliver today.</p>\n<h3>Missions:</h3>\n<p>Lead the full rebuild of our existing native mobile applications using React Native, from scratch<br>Define and implement the mobile architecture, ensuring scalability, performance, and maintainability<br>Set up the complete CI/CD pipeline for mobile (build, test, distribution, store deployment)<br>Leverage AI-powered tools (code generation, assisted testing, copilot-style workflows) to accelerate development and raise quality standards<br>Establish mobile engineering best practices: code structure, testing strategy, release management, and monitoring<br>Collaborate closely with product managers, designers, backend engineers, and stakeholders to deliver a world-class mobil",
+    "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/lead-mobile-engineer-react-native-paris-la-defense-182907",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-06T07:05:03+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "React"
+    ]
+  },
+  {
+    "title": "Software Engineer Full Stack (.NET / React) \u2013 Projet From Scratch \u2013 | Practice SE MARGO",
+    "company": "MARGO",
+    "location": "Paris",
+    "description": "<div>\n<h1 style=\"margin-top: 20pt; margin-bottom: 4pt;\"><span style=\"font-size: 20pt; font-family: Arial, sans-serif; color: #4079b3; font-weight: 400;\">Qui sommes nous ?</span></h1>\n<p style=\"margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 11pt; font-family: 'Trebuchet MS', sans-serif;\">Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business r\u00e9el.</span><span style=\"font-size: 11pt; font-family: 'Trebuchet MS', sans-serif;\"><br></span><span style=\"font-size: 11pt; font-family: 'Trebuchet MS', sans-serif;\">C\u2019est pourquoi nous accompagnons les plus grands acteurs de la finance, de l\u2019industrie et de la tech dans la conception et le d\u00e9veloppement de solutions logicielles \u00e0 haute performance : architectures distribu\u00e9es, plateformes cloud, syst\u00e8mes temps r\u00e9el et applications critiques \u00e0 grande \u00e9chelle.</span></p>\n<p style=\"margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 11pt; font-family: 'Trebuchet MS', sans-serif;\">Aujourd\u2019hui, nous recherchons un</span><strong><span style=\"font-size: 11pt; font-family: 'Trebuchet MS', sans-serif;\"> Software Engineer Full Stack</span></strong><span style=\"font-size: 11pt; font-family: 'Trebuchet MS', sans-serif;\"> pour participer \u00e0 la cr\u00e9ation d'une plateforme innovante au service des enjeux de transition \u00e9nerg\u00e9tique.&nbsp;</span></p>\n<h1 style=\"margin-top: 20pt; margin-bottom: 4pt;\"><span style=\"font-size: 20pt; font-family: Arial, sans-serif; color: #4079b3; font-weight: 400;\">Vos missions</span></h1>\n<ul style=\"margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px;\">\n<li style=\"font-size: 11pt; font-family: 'Trebuchet MS', sans-serif;\">\n<p style=\"line-height: 1.2; margin-top: 12pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt;\">Concevoir et d\u00e9velopper une </span><strong><span style=\"font-size: 11pt;\">plateforme web strat\u00e9gique </span></strong><span style=\"font-size: 11pt;\">destin\u00e9e \u00e0 des utilisateur",
+    "url": "https://www.arbeitnow.fr/jobs/companies/margo/software-engineer-full-stack-net-react-projet-from-scratch-practice-se-margo-paris-479819",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-06T07:04:58+00:00",
+    "tags": [
+      "Software Engineering"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "React"
+    ]
+  },
+  {
+    "title": "D\u00e9veloppeur Full Stack - Java/React |  Practice SE MARGO",
+    "company": "MARGO",
+    "location": "Paris",
+    "description": "<div><span style=\"text-decoration: underline;\">Qui sommes nous</span> ?</div>\n<div>&nbsp;</div>\n<div>Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business r\u00e9el. C\u2019est pourquoi nous accompagnons les plus grands acteurs de la finance, de l\u2019industrie et de la tech dans la conception et le d\u00e9veloppement de solutions logicielles \u00e0 haute performance : architectures distribu\u00e9es, plateformes cloud, syst\u00e8mes temps r\u00e9el et applications critiques \u00e0 grande \u00e9chelle.</div>\n<div>&nbsp;</div>\n<div>Pourquoi rejoindre la practice Software Engineering ?</div>\n<div>&nbsp;</div>\n<div>Vous \u00e9voluerez au sein d\u2019une \u00e9quipe encadr\u00e9e par Paul Blois, Practice Manager chez MARGO depuis 6 ans. Travailler \u00e0 ses c\u00f4t\u00e9s, c\u2019est b\u00e9n\u00e9ficier d'une parfaite connaissance de l\u2019entreprise, \u00eatre accompagn\u00e9 de pr\u00e8s dans votre \u00e9volution et contribuer \u00e0 des projets IT exigeants et \u00e0 fort impact pour nos clients.</div>\n<div>&nbsp;</div>\n<div><span style=\"text-decoration: underline;\">Vos missions</span> :&nbsp;</div>\n<div>\n<p>Nous recherchons un <strong>Software Engineer Full Stack exp\u00e9riment\u00e9</strong> pour intervenir sur une plateforme critique au c\u0153ur des activit\u00e9s de march\u00e9.</p>\n<p>Cette plateforme orchestre un volume tr\u00e8s important de traitements et joue un r\u00f4le central dans le fonctionnement quotidien des \u00e9quipes (calculs, pilotage op\u00e9rationnel, restitution des donn\u00e9es). Elle fait actuellement l\u2019objet d\u2019une <strong>refonte en profondeur</strong>, \u00e0 la fois sur le frontend et le backend.</p>\n<p>Vous interviendrez dans un contexte o\u00f9 les enjeux sont \u00e0 la fois :</p>\n<ul>\n<li>\n<p>techniques (modernisation, performance, fiabilit\u00e9)</p>\n</li>\n<li>\n<p>fonctionnels (proximit\u00e9 avec les utilisateurs finaux)</p>\n</li>\n<li>\n<p>et organisationnels (forte autonomie des ing\u00e9nieurs)<br><br></p>\n</li>\n</ul>\n<div><span style=\"text-decoration: underline;\">Vos responsabilit\u00e9s :&nbsp;</span></div>\n<div>\n<ul>\n<li>\n<p>Concevoir et d\u00e9velopper ",
+    "url": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-java-react-practice-se-margo-paris-334636",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-06T07:04:58+00:00",
+    "tags": [
+      "Software Engineering"
     ],
     "match_score": 2,
     "matched_skills": [
