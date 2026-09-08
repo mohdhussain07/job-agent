@@ -1,36 +1,19 @@
 [
   {
-    "title": "React Developer:in (m/w/d) im K\u00f6lner Startup",
-    "company": "Greenpocket",
-    "location": "Cologne",
-    "description": "<p>Du willst mehr sein als ein Byte im Datenmeer? Du m\u00f6chtest gerne mit Leidenschaft Verantwortung in agilen Teams \u00fcbernehmen und aktiv mit uns dazu beitragen, die Klimawende voranzutreiben? Dann sollten wir uns unbedingt kennenlernen!</p>\n<p><strong>\u00dcber uns</strong></p>\n<p>Als agiles, gr\u00fcnes Startup und Spezialist f\u00fcr Energiemanagement- und Visualisierungssoftware beteiligen wir uns aktiv an der Gestaltung einer nachhaltigen, klimaneutralen Zukunft. So ist es unsere Mission, mit intuitiver, KI-getriebener Software das Management des Energieverbrauchs so einfach zu machen, dass es f\u00fcr wirklich jeden \u2013 egal ob Unternehmen oder Privathaushalt \u2013 zu einer Selbstverst\u00e4ndlichkeit wird und Energieversorger und Unternehmenskunden wirksam sowohl Energieverbrauch als auch CO2-Fu\u00dfabdruck reduzieren k\u00f6nnen. So machen wir mit unseren derzeit 35 talentierten Kolleg:innen die Digitalisierung der Energiebranche zu einer echten Chance.<br>\nSeit 2025 sind wir Teil der Hausheld-Gruppe: Gemeinsam mit der Hausheld AG, Solandeo GmbH, Mako365 GmbH bilden wir die erste Full-Service-Plattform f\u00fcr Smart Metering in Deutschland.</p>\n<h2>Aufgaben</h2>\n<p><strong>UNSER TECHNOLOGY STACK</strong></p>\n<ul>\n<li>Kotlin, Spring, Java</li>\n<li>TypeScript, React, Redux, Recoil</li>\n<li>Jest, React Testing Library, Gauge &#x26; Taiko</li>\n<li>REST, OpenAPI</li>\n<li>SASS, CSS Modules</li>\n<li>Python, Pandas, NumPy</li>\n<li>IntelliJ IDEA, VS Code</li>\n<li>git, Maven, webpack</li>\n<li>GitOps, Gitlab CI, Argo CD</li>\n<li>PostgreSQL &#x26; TimescaleDB, MariaDB</li>\n<li>Jupyter Notebook</li>\n<li>Kubernetes, Helm, Kafka, Docker</li>\n</ul>\n<p>Als Teil eines motivierten und innovativen Teams k\u00fcmmerst Du Dich um die Zukunft von nachhaltigem Energiemanagement. Ein hervorragendes und nachhaltiges Produkt beginnt mit einer klaren Idee und Vision. Als Software Developer:in bist Du in allen Schritten des Life-cycles Deines Produktes eingebunden und feilst mit unserem Produktmanagement und Architekten an der Strategie",
-    "url": "https://www.arbeitnow.com/jobs/companies/greenpocket/react-developerin-im-kolner-startup-cologne-477894",
+    "title": "Frontend Engineer",
+    "company": "GlassFlow",
+    "location": "Berlin",
+    "description": "<p><strong>About GlassFlow:</strong></p>\n<p>GlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.</p>\n<p>We\u2019re a Berlin startup with a Silicon Valley mentality, backed with $5.9m from Upfront Ventures, the CEO of GitHub, the ex-CTO of Aiven, and more world-class investors.</p>\n<p>The founders are serial entrepreneurs with more +10y of experience in building and selling data products.</p>\n<h2>Tasks</h2>\n<p><strong>Your Role</strong></p>\n<p>As one of the first engineers, you'll get to lay the tech foundations of GlassFlow. As a frontend engineer, you will design and implement our web applications in close collaboration Backend Team, and CTO. You will join a small team solving challenging problems in the field of Data engineering and building a product that will be used by developers across the world.</p>\n<h2>Requirements</h2>\n<p><strong>Previous experience that could be helpful:</strong></p>\n<ul>\n<li>Fluent in TypeScript and frontend frameworks like React or similar</li>\n<li>Experience with public or private clouds (AWS / GCP / Azure)</li>\n<li>Experience with DevOps (Kubernetes, Docker, GitHub Actions)</li>\n<li>Worked in fast-growing environments or early-stage startups</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>What you\u2019ll get</strong></p>\n<ul>\n<li>Real ownership: competitive equity (everyone at GlassFlow is an owner).</li>\n<li>The chance to build something that changes how the world streams data.</li>\n<li>The opportunity to build for global tech brands from day one.</li>\n<li>A career trajectory that will 10x your skills and network.</li>\n</ul>\n<p><strong>Benefits:</strong></p>\n<ul>\n<li>Competitive salary with Stock Option Grant</li>\n<li>Ticket for public transportation in Berlin</li>\n<li>Company credit card with a monthly allowance</li>\n<li>Newest tech of your choosing</li>\n<l",
+    "url": "https://www.arbeitnow.com/jobs/companies/glassflow/frontend-engineer-berlin-475016",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-07T07:30:49+00:00",
+    "posted_at": "2026-09-08T07:30:29+00:00",
     "tags": [
       "Software Development"
     ],
-    "match_score": 4,
+    "match_score": 3,
     "matched_skills": [
-      "Python",
-      "React"
-    ]
-  },
-  {
-    "title": "Full Stack Kotlin/Java-Entwickler:in (m/w/d) - im K\u00f6lner Startup",
-    "company": "Greenpocket",
-    "location": "Cologne",
-    "description": "<p>Du willst mehr sein als ein Byte im Datenmeer? Du m\u00f6chtest gerne mit Leidenschaft Verantwortung in agilen Teams \u00fcbernehmen und aktiv mit uns dazu beitragen, die Klimawende voranzutreiben? Dann sollten wir uns unbedingt kennenlernen!</p>\n<p><strong>Das sind wir</strong></p>\n<p>Als agiles, gr\u00fcnes Startup und Spezialist f\u00fcr Energiemanagement- und Visualisierungssoftware beteiligen wir uns aktiv an der Gestaltung einer nachhaltigen, klimaneutralen Zukunft. So ist es unsere Mission, mit intuitiver, KI-getriebener Software das Management des Energieverbrauchs so einfach zu machen, dass es f\u00fcr wirklich jeden \u2013 egal ob Unternehmen oder Privathaushalt \u2013 zu einer Selbstverst\u00e4ndlichkeit wird und Energieversorger und Unternehmenskunden wirksam sowohl Energieverbrauch als auch CO2-Fu\u00dfabdruck reduzieren k\u00f6nnen. So machen wir mit unseren derzeit rund 35 talentierten Kollegen und Kolleginnen die Digitalisierung der Energiebranche zu einer echten Chance.<br>\nSeit 2025 sind wir Teil der Hausheld-Gruppe: Gemeinsam mit der Hausheld AG, Solandeo GmbH, Mako365 GmbH bilden wir die erste Full-Service-Plattform f\u00fcr Smart Metering in Deutschland.</p>\n<p><strong>Unser Stack:</strong></p>\n<ul>\n<li>Kotlin, Spring, Java</li>\n<li>TypeScript, React, Redux, Recoil</li>\n<li>Jest, React Testing Library, Gauge &#x26; Taiko</li>\n<li>REST, OpenAPI</li>\n<li>SASS, CSS Modules</li>\n<li>Python, Pandas, NumPy</li>\n</ul>\n<p><strong>Unsere Tools:</strong></p>\n<ul>\n<li>IntelliJ IDEA, VS Code</li>\n<li>git, Maven, webpack</li>\n<li>GitOps, Gitlab CI, Argo CD</li>\n<li>PostgreSQL &#x26; TimescaleDB, MariaDB</li>\n<li>Jupyter Notebook</li>\n<li>Kubernetes, Helm, Kafka, Docker</li>\n</ul>\n<p><strong>Deine Rolle</strong></p>\n<p>Als Teil eines motivierten und innovativen Teams k\u00fcmmerst Du Dich um die Zukunft von nachhaltigem Energiemanagement. Ein hervorragendes und nachhaltiges Produkt beginnt mit einer klaren Idee und Vision. Als Software Developer bist Du in allen Schritten des Life-cycles Deines Produktes eingebunde",
-    "url": "https://www.arbeitnow.com/jobs/companies/greenpocket/full-stack-kotlin-java-entwicklerin-im-kolner-startup-cologne-124198",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-07T07:30:49+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "React"
+      "React",
+      "Azure"
     ]
   },
   {
@@ -58,67 +41,51 @@
     ]
   },
   {
-    "title": "Werkstudent Prototyping - smart labeling (m/w/d)",
-    "company": "isento GmbH",
-    "location": "Nuremberg",
-    "description": "<p><em>\u201cExperience is the name everyone gives to their mistakes.\u201d \u2013 Oscar Wilde</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Werkstudent (m/w/d) entwickelst Du mit uns im Rahmen eines Forschungsprojekts einen Prototyp, im Bereich Smart Labeling.</p>\n<p>Wir isentos verstehen uns als Team. Uns ist es wichtig, dass wir uns jederzeit aufeinander verlassen k\u00f6nnen - fachlich genauso wie pers\u00f6nlich. Wir unterst\u00fctzen uns gegenseitig und helfen einander, denn nur so erreichen wir unser gemeinsames Ziel: die beste L\u00f6sung f\u00fcr unsere Kunden abzuliefern.</p>\n<h2>Aufgaben</h2>\n<p><strong>Dein Job bei isento</strong></p>\n<ul>\n<li>Weiterentwicklung eines Prototyps zur Demonstration von Use-Cases</li>\n<li>Entwicklung einer intuitiven Web-Oberfl\u00e4che und des zugeh\u00f6rigen Backends</li>\n<li>Anbindung bestehender Trainings- und Datenpipelines</li>\n<li>Integration von Verfahren zur Objekterkennung und Bildsegmentierung</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Das bringst Du mit</strong></p>\n<ul>\n<li>Du studierst z. B. Informatik, Data Science, Machine Learning, AI, Elektrotechnik oder einen vergleichbaren Studiengang.</li>\n<li>Du hast gute Kenntnisse in Python und PyTorch und kannst Dich sicher in bestehenden Code einarbeiten</li>\n<li>Du hast erste praktische Erfahrung mit Machine Learning / Deep Learning, Datenpipelines und Imageprocessing (Bestenfalls: BigQuery, GCS, Optuna, AutoML, OpenCV, PIL, Grounding-DINO, COCO).</li>\n<li>Erste Erfahrungen mit REST-APIs und Web-UIs sind von Vorteil</li>\n<li>Du arbeitest selbstst\u00e4ndig, strukturiert und hast Spa\u00df daran, Dinge auszuprobieren und L\u00f6sungen zu finden.</li>\n<li>Du kannst Dich auf Deutsch gut mit Deinem Team und unseren Kunden austauschen (<strong>mindestens B2</strong>).</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>Das bieten wir dir</strong></p>\n<ul>\n<li>Freiraum: Flexible Arbeitszeiten und hybrides Arbeit",
-    "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/werkstudent-prototyping-smart-labeling-nuremberg-403495",
+    "title": "Werkstudent Data Science / Business Intelligence (m/w/d)",
+    "company": "Meierhofer",
+    "location": "Leipzig",
+    "description": "<br><strong>Unsere Standorte</strong><p>Berlin, Hannover, Leipzig, M\u00fcnchen, Passau oder remote / im Homeoffice \u2013 du kannst uns standortunabh\u00e4ngig unterst\u00fctzen</p><br><strong>Dein zuk\u00fcnftiges Team</strong><p><p>Als Werkstudent*in im Bereich Produktentwicklung unterst\u00fctzt du uns dabei, Daten aus internen Systemen sowie aus unserem Krankenhausinformationssystem M-KIS zu analysieren, aufzubereiten und in verst\u00e4ndliche Reports und Dashboards zu \u00fcbersetzen. Dabei arbeitest du an der Schnittstelle von IT, Fachbereichen und weiteren Stakeholdern und kannst dein Wissen aus dem Studium direkt in der Praxis anwenden. Du wirst von erfahrenen Kolleg*innen eingearbeitet und begleitet. So kannst du Schritt f\u00fcr Schritt mehr Verantwortung \u00fcbernehmen und eigene Themen rund um Datenanalyse, Reporting und Business Intelligence in der Healthcare-IT bearbeiten.</p></p><br><strong>Das erwartet dich bei uns</strong><p><ul><li>Du arbeitest an der Schnittstelle zwischen Fachbereichen, IT und weiteren Stakeholdern und \u00fcbersetzt Anforderungen in aussagekr\u00e4ftige Reports und Dashboards</li><li>Du unterst\u00fctzt bei der Konzeption und Umsetzung von Reports und Dashboards mit Power BI</li><li>Du analysierst und bereitest Daten aus unterschiedlichen Quellsystemen auf, z. B. mit SQL</li><li>Du entwickelst Datenmodelle und DAX-Berechnungen zur Aufbereitung von Kennzahlen</li><li>Du wirkst bei der Automatisierung und Optimierung von Reporting-Prozessen mit</li></ul></p><br><strong>Das sind deine St\u00e4rken & Skills</strong><p><ul><li>Du studierst Data Science, Data Analytics, Wirtschaftsinformatik, Informatik, Business Intelligence, Informationsmanagement, Gesundheitsinformatik, Medizininformatik, eHealth, Digital Health oder einen vergleichbaren Studiengang</li><li>Du hast erste praktische Erfahrung mit Microsoft Power BI (Reports, Dashboards, DAX) aus einer Werkstudentent\u00e4tigkeit, einem Studienprojekt oder eigenen Projekten</li><li>Du verf\u00fcgst \u00fcber Kenntnisse im Umgang mit SQL-Datenbanken</li><li>Du hatte",
+    "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-data-science-business-intelligence-leipzig-415779",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-07T10:30:45+00:00",
+    "posted_at": "2026-09-08T08:09:41+00:00",
     "tags": [
-      "Software Development"
+      "Data science",
+      "Data analytics",
+      "Business intelligence",
+      "Data engineering",
+      "berlin",
+      "hannover",
+      "leipzig",
+      "passau",
+      "m\u00fcnchen",
+      "remote",
+      "homeoffice",
+      "wirtschaftsinformatik student",
+      "student data engineering",
+      "student medizininformatik",
+      "ehealth",
+      "digital health",
+      "gesundheits\u00f6konomie"
     ],
     "match_score": 2,
     "matched_skills": [
-      "Python"
+      "SQL"
     ]
   },
   {
-    "title": "Developer - Fokus Secure Software (m/w/d)",
-    "company": "isento GmbH",
-    "location": "Nuremberg",
-    "description": "<p><em>\u201c</em> <em>Security is not a product, but a process.\u201d \u2013 Bruce Schneier</em></p>\n<p><strong>Unser Erfolg? Teamsache!</strong></p>\n<p>Wir sind isento (portugiesisch: \u201efrei\u201c) und realisieren IT-Projekte in N\u00fcrnberg von der Konzeption bis zum Rollout. Als Software Developer mit Fokus Secure Software Development bringst Du Dich bei der Entwicklung ma\u00dfgeschneiderter L\u00f6sungen f\u00fcr die Herausforderungen unserer Kunden ein. Dar\u00fcber hinaus unterst\u00fctzt du dabei, Sicherheit als festen Bestandteil moderner Softwareentwicklung zu etablieren.</p>\n<p>Wir isentos verstehen uns als Team. Uns ist es wichtig, dass wir uns jederzeit aufeinander verlassen k\u00f6nnen - fachlich genauso wie pers\u00f6nlich. Wir unterst\u00fctzen uns gegenseitig und helfen einander, denn nur so erreichen wir unser gemeinsames Ziel: die beste L\u00f6sung f\u00fcr unsere Kunden abzuliefern.</p>\n<p>Klingt gut? Dann werde Teil unseres Teams!</p>\n<h2>Aufgaben</h2>\n<p><strong>Dein Job bei isento</strong></p>\n<ul>\n<li>Der Schwerpunkt Deiner Arbeit liegt in der Softwareentwicklung. Du entwickelst moderne, sichere Softwarel\u00f6sungen Cloud- &#x26; Webumfeld mit Java, Spring Boot, Angular oder Python</li>\n<li>Verst\u00e4ndlicher Code, Unit- und Integrationstests, Code Reviews, Wissensaustausch und Pair Programming geh\u00f6ren dabei genauso zu Deinem Alltag wie die Konzeption neuer Features und die Abstimmung mit Stakeholdern</li>\n<li>Erg\u00e4nzend dazu unterst\u00fctzt Du auch projekt\u00fcbergreifend bei Themen rund um Secure Software Development. Dazu geh\u00f6ren unter anderem Secure Coding, Security Best Practices, die Analyse von Anwendungen hinsichtlich m\u00f6glicher Sicherheitsrisiken sowie die Entwicklung geeigneter Ma\u00dfnahmen.</li>\n<li>Du f\u00f6rderst den Wissensaufbau im Unternehmen, schaffst Awareness f\u00fcr IT-Sicherheit und besch\u00e4ftigst Dich mit aktuellen Themen wie der sicheren Entwicklung und dem sicheren Einsatz von KI-Systemen und LLMs.Dabei bringst Du Dich aktiv ein, entwickelst eigene Ideen und treibst Themen mit Verantwortung und Weitblick voran</li>\n</ul>\n",
-    "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/developer-fokus-secure-software-nuremberg-493105",
+    "title": "Security Engineer III - Security Operations",
+    "company": "Primer.io",
+    "location": "United Kingdom",
+    "description": "<p style=\"min-height:1.5em\"><strong>An Introduction to Primer</strong></p><p style=\"min-height:1.5em\">Primer is the unified infrastructure for global payments. We give finance and payments teams the visibility and control to reduce complexity, improve performance, and capture more revenue - all from a single platform.<br /><br />Backed by Sofina, Peak XV Partners, ICONIQ, Tencent, Accel, and Balderton, we're building the payments layer the world's best companies rely on.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://primer.io/the-primer-showcase\">Watch our showcase &gt;</a></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.primer.io/blog/series-c\">Read up on our $100m Series C</a></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://primer.io/careers\">Learn more about our culture &gt;</a></p><p style=\"min-height:1.5em\">Primer is looking for a Security Engineer to help us detect, investigate, and respond to threats across our cloud infrastructure. You'll take ownership of a meaningful slice of our detection and response capability \u2014 tuning what our SIEM catches, building the automation that speeds up how we react, and being a first responder when something looks wrong.</p><p style=\"min-height:1.5em\"><br /><strong>What you'll be doing</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Plan and deliver detection and response work end-to-end \u2014 from a new detection rule to a fully automated response \u2014 within your area of ownership.</p></li><li><p style=\"min-height:1.5em\">Build, tune and maintain detections across our SIEM (Elastic) and AWS environment, closing gaps that existing coverage misses.</p></li><li><p style=\"min-height:1.5em\">Own an investigation queue: triage, investigate, escalate and resolve security incidents, and write up findings clearly enough to stand ",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/primerio/security-engineer-iii-security-operations-united-kingdom-19370",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-07T10:00:30+00:00",
+    "posted_at": "2026-09-08T00:40:13+00:00",
     "tags": [
-      "Software Development"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Fullstack Engineer, Frontend-leaning (m/f/d)",
-    "company": "Berliner Verlag GmbH",
-    "location": "Berlin",
-    "description": "<p>.img \u2013 itai\u2019s machine GmbH is a digital technology company specializing in modern publishing solutions. With our \u201cjournalistic operating system\u201d (.jOS), we offer a cloud-native publishing platform that serves millions of users by connecting to headless CMS systems, processing and enriching content, and distributing it via web and mobile applications. Our clients include national and regional media companies as well as businesses from other industries that rely on a scalable and high-performance infrastructure for digital publishing.</p>\n<p>We are looking for a <strong>Full-Stack Engineer, Frontend-Leaning (m/f/d)</strong> to join our team as soon as possible.</p>\n<h2>Tasks</h2>\n<ul>\n<li>Design, develop, and maintain full stack applications and services across our frontend and backend systems</li>\n<li>Build high-performance React/TypeScript interfaces and the systems that turn structured content into print-ready documents</li>\n<li>Solve complex problems around layout, pagination, typography, rendering, and document generation</li>\n<li>Build automated tests and tooling to evaluate rendering quality and prevent visual regressions</li>\n<li>Collaborate closely with Product, Design, AI, and Engineering to turn complex requirements into robust, user-facing solutionsContribute to architecture, code quality, technical standards, and continuous improvement of our engineering stack</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li>Strong TypeScript and React (or equivalent modern frontend framework) expertise</li>\n<li>Experience building complex, interactive frontend applications \u2014 not just CRUD UIs</li>\n<li>Comfort working full stack, including contributing to backend services and APIs</li>\n<li>Genuine interest in rendering, layout, typography, or document-generation problems</li>\n<li>Familiarity with canvas-based or DOM-heavy editor UIs</li>\n</ul>\n<p><strong>Nice-to-have</strong></p>\n<ul>\n<li>Familiarity with paged-media, typesetting, or document-rendering libraries/engines (e.g.",
-    "url": "https://www.arbeitnow.com/jobs/companies/berliner-verlag-gmbh/fullstack-engineer-frontend-leaning-berlin-141634",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-07T09:30:33+00:00",
-    "tags": [
-      "IT"
+      "Engineering"
     ],
     "match_score": 2,
     "matched_skills": [
       "React"
-    ]
-  },
-  {
-    "title": "Business Development Representative",
-    "company": "Dualentry",
-    "location": "London, UK (Hybrid)",
-    "description": "<h1><strong>About DualEntry</strong></h1><p style=\"min-height:1.5em\">DualEntry is building the OS for finance.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">Every business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s. DualEntry's AI-native ERP automates accounting from data entry to close, so finance teams move faster, spend less and incur less risk.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">In just 2 years we've raised $100M+ from Lightspeed, Khosla Ventures, Contrary and Google Ventures and earned the trust of customers from $5M ARR to publicly traded companies.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00a0</div><p style=\"min-height:1.5em\">We hire <em><strong>outliers</strong></em> - people who have achieved difficult things, in their careers or beyond. You'll find leaders, colleagues who've competed at the highest levels of sport, performed on Broadway, trained with UFC champions and founded the country\u2019s largest Python community.</p><p style=\"min-height:1.5em\"></p><div><div style=\"left:0;width:100%;height:0;position:relative;padding-bottom:56.338%\"><iframe src=\"https://embedded-media.ashbyhq.com/embed/90a003a5-39b1-4b2c-b1f7-cd8c1761ad1d/b986c500-921d-4566-bb1d-a9bd0644237d\" style=\"top:0;left:0;width:100%;height:100%;position:absolute;border:0\" allowfullscreen scrolling=\"no\" allow=\"encrypted-media *; picture-in-picture *;\" sandbox=\"allow-scripts allow-same-origin allow-presentation\"></iframe></div></div><p style=\"min-height:1.5em\"></p><h1><strong>Where You'll Create Impact</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Drive high-volume ERP lead generation and engage with prospects</p></li><li><p style=\"min-height:1.5em\">GTM process improvement and experimentation (creative outbound strategies, sales velocity improvements, etc.)</p></li><",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/business-development-representative-london-34530",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-05T09:40:02+00:00",
-    "tags": [
-      "Sales"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python"
     ]
   }
 ]
