@@ -1,19 +1,70 @@
 [
   {
-    "title": "Frontend Engineer",
-    "company": "GlassFlow",
-    "location": "Berlin",
-    "description": "<p><strong>About GlassFlow:</strong></p>\n<p>GlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.</p>\n<p>We\u2019re a Berlin startup with a Silicon Valley mentality, backed with $5.9m from Upfront Ventures, the CEO of GitHub, the ex-CTO of Aiven, and more world-class investors.</p>\n<p>The founders are serial entrepreneurs with more +10y of experience in building and selling data products.</p>\n<h2>Tasks</h2>\n<p><strong>Your Role</strong></p>\n<p>As one of the first engineers, you'll get to lay the tech foundations of GlassFlow. As a frontend engineer, you will design and implement our web applications in close collaboration Backend Team, and CTO. You will join a small team solving challenging problems in the field of Data engineering and building a product that will be used by developers across the world.</p>\n<h2>Requirements</h2>\n<p><strong>Previous experience that could be helpful:</strong></p>\n<ul>\n<li>Fluent in TypeScript and frontend frameworks like React or similar</li>\n<li>Experience with public or private clouds (AWS / GCP / Azure)</li>\n<li>Experience with DevOps (Kubernetes, Docker, GitHub Actions)</li>\n<li>Worked in fast-growing environments or early-stage startups</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>What you\u2019ll get</strong></p>\n<ul>\n<li>Real ownership: competitive equity (everyone at GlassFlow is an owner).</li>\n<li>The chance to build something that changes how the world streams data.</li>\n<li>The opportunity to build for global tech brands from day one.</li>\n<li>A career trajectory that will 10x your skills and network.</li>\n</ul>\n<p><strong>Benefits:</strong></p>\n<ul>\n<li>Competitive salary with Stock Option Grant</li>\n<li>Ticket for public transportation in Berlin</li>\n<li>Company credit card with a monthly allowance</li>\n<li>Newest tech of your choosing</li>\n<l",
-    "url": "https://www.arbeitnow.com/jobs/companies/glassflow/frontend-engineer-berlin-475016",
+    "title": "IT-Systemadministrator (m/w/d) - Infrastruktur & Produktion",
+    "company": "53acht GmbH",
+    "location": "Achim",
+    "description": "<p><strong>53acht</strong> steht f\u00fcr die Koordinaten der Region Bremen und Oldenburg. Wir sind von hier und m\u00f6gen es offen und ehrlich. Als Personaldienstleister wissen wir, wie unsere Auftraggeber ticken und welche spannenden Aufgaben es bei ihnen vor Ort zu erledigen gibt.</p>\n<p>Derzeit suchen wir f\u00fcr ein Unternehmen der <strong>Automobilzulieferindustrie</strong> in <strong>Achim bei Bremen</strong> im Rahmen der <strong>Direktvermittlung</strong> Verst\u00e4rkung:</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Betreuung und Weiterentwicklung der IT-Infrastruktur am Standort</li>\n<li>Administration, Installation und Wartung von Windows- und Linux-Systemen</li>\n<li>Anwenderunterst\u00fctzung und Clientmanagement</li>\n<li>Administration und Konfiguration der Netzwerkumgebung inklusive Switch Management und Netzwerkmonitoring</li>\n<li>Betreuung von Datenbanksystemen und Datenschnittstellen</li>\n<li>Installation und Betreuung der im Unternehmen eingesetzten Hard- und Software</li>\n<li>Sicherstellung der Betriebsbereitschaft der IT-Systeme</li>\n<li>Unterst\u00fctzung bei der Betreuung produktionsnaher IT-Systeme und automatisierter Anlagen</li>\n<li>Mitwirkung bei Themen rund um Datenschutz und IT-Sicherheit</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Abgeschlossene Ausbildung im IT-Bereich, z. B. als Fachinformatiker f\u00fcr Systemintegration oder IT-Systemelelektroniker, oder eine vergleichbare Qualifikation</li>\n<li>Mehrj\u00e4hrige Berufserfahrung in der IT-Systemadministration</li>\n<li>Gute Kenntnisse in der Administration und Betreuung von Windows-Systemen</li>\n<li>Kenntnisse in der Administration von Linux-Systemen, idealerweise Ubuntu</li>\n<li>Erfahrung in der Netzwerkadministration und -konfiguration</li>\n<li>Kenntnisse im Umgang mit SQL-Datenbanken, idealerweise MySQL</li>\n<li>Idealerweise erste Erfahrungen in PHP, JavaScript oder Scripting</li>\n<li>Kenntnisse in der Web-Administration und im Mobile Device Management (MDM) von Vorteil</li>\n<li>Erfahrungen mit Hochregallagersystemen, SPS oder andere",
+    "url": "https://www.arbeitnow.com/jobs/companies/53acht-gmbh/it-systemadministrator-infrastruktur-produktion-achim-410425",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-08T07:30:29+00:00",
+    "posted_at": "2026-09-09T08:30:44+00:00",
+    "tags": [
+      "System and Network Administration"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "JavaScript",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Data Engineer / Cloud Data Platform Engineer (m/w/d)",
+    "company": "group24 AG",
+    "location": "Gescher",
+    "description": "<ul>\n<li><strong>Du hast Spa\u00df daran, skalierbare Datenarchitekturen aufzubauen, moderne Datenpipelines zu entwickeln und heterogene Datenquellen in saubere, hochperformante Datenmodelle zu \u00fcberf\u00fchren? Du m\u00f6chtest an anspruchsvollen Projekten arbeiten und Unternehmen dabei unterst\u00fctzen, ein zukunftsf\u00e4higes Fundament f\u00fcr Analytics, BI und datengetriebene Entscheidungen zu schaffen? Dann komm zu uns ins Team als Data Engineer / Cloud Data Platform Engineer (m/w/d).</strong></li>\n</ul>\n<h2>Deine Aufgaben</h2>\n<ul>\n<li>Du konzipierst, implementierst und betreibst moderne Data-Platform- und Warehouse-L\u00f6sungen in Cloud-Umgebungen.</li>\n<li>Du entwickelst robuste, automatisierte Batch- und Streaming-Pipelines zur Extraktion, Transformation und Bereitstellung von Daten (z. B. via Python, SQL, dbt).</li>\n<li>Du modellierst performante Datenstrukturen (z. B. Medallion Architecture / Bronze-Silver-Gold, Data Vault, Star-Schema) und stellst Schnittstellen f\u00fcr BI- und Reporting-Teams bereit.</li>\n<li>Du \u00fcbersetzt funktionale und analytische Gesch\u00e4ftsanforderungen in skalierbare technische Spezifikationen und Datenmodelle.</li>\n<li>Du begleitest und steuerst Projekte eigenverantwortlich \u2013 von der Quellanbindung \u00fcber die Transformation bis hin zur produktiven Cloud-Orchestrierung.</li>\n<li>Du verantwortest Datenqualit\u00e4t, Monitoring, Performance-Optimierung und automatisiertes Testing entlang der gesamten Pipeline.</li>\n<li>Du dokumentierst Architekturen, Datenfl\u00fcsse sowie Datenkataloge und stellst eine transparente Kommunikation mit Stakeholdern und Projektteams sicher.</li>\n</ul>\n<h2>Dein Profil</h2>\n<ul>\n<li>Du hast ein abgeschlossenes Studium im Bereich Informatik, Wirtschaftsinformatik oder eine vergleichbare Ausbildung bzw. praktische Berufserfahrung.</li>\n<li>Du bringst fundierte Erfahrung im Data Engineering, in der Datenmodellierung und im Aufbau moderner Data-Warehouse-/Lakehouse-Architekturen mit.</li>\n<li>Du besitzt praxisprobte Kenntnisse in mindestens einem relevanten ",
+    "url": "https://www.arbeitnow.com/jobs/companies/group24-ag/data-engineer-cloud-data-platform-engineer-gescher-239435",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-09T07:30:28+00:00",
+    "tags": [
+      "Business Consulting"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
+    "company": "MESKRU GmbH",
+    "location": "Essen",
+    "description": "<p>Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Das erwartet dich bei uns</strong></p>\n<p>Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team</p>\n<ul>\n<li>Anbindung externer Systeme \u00fcber REST APIs und Webhooks</li>\n<li>Code Review, Fehleranalyse und Bug Fixing, inklusive Lesen von Logs sowie Beachten von Laufzeit und Performance</li>\n<li>Erstellung und Pflege von ScriptRunner L\u00f6sungen (Listener, Workflow Postfunktionen, Validatoren, Bedingungen, Behaviours, geplante Jobs)</li>\n<li>Konzeption und Umsetzung von Automationen in Jira und Jira Service Management</li>\n<li>G\u00e4ngige Atlassian Beratungst\u00e4tigkeiten</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Das bringst du mit</strong></p>\n<p>Solide Programmiergrundlagen, idealerweise in mehreren Sprachen (z.B. TypeScript, Groovy, Python)</p>\n<ul>\n<li>Programmierkenntnisse in TypeScript/JavaScript f\u00fcr die Forge Entwicklung</li>\n<li>Erste Erfahrung mit Jira und Confluence</li>\n<li>Keine Scheu vor Bug Fixing und Fehlersuche</li>\n<li>Strukturierte Arbeitsweise sowie Freude an Teamarbeit und technischer Kommunikation</li>\n<li>Sehr gute Deutsch- und Englischkenntnisse</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>Erfahrung mit Confluence oder weiteren Marketplace Apps</li>\n<li>Erfahrung mit Atlassian Cloud Migrationen und Betriebsmodellen</li>\n<li>Kenntnisse in Forge oder Automations</li>\n<li>Atlassian Zertifizierungen sind willkommen</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>Das bieten wir dir</strong></p>\n<ul>\n<li>Technisch anspruchsvolle Projekte mit hoher Eigenverantwortung und Gestaltungsspielraum</li>\n<li>Flache Hierarchien, direkte Kommunikation und ein Team, das Wissen teilt</li>\n<",
+    "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-148110",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-09T07:30:28+00:00",
     "tags": [
       "Software Development"
     ],
-    "match_score": 3,
+    "match_score": 4,
     "matched_skills": [
-      "React",
-      "Azure"
+      "Python",
+      "JavaScript"
+    ]
+  },
+  {
+    "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
+    "company": "MESKRU GmbH",
+    "location": "Munich",
+    "description": "<p>Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Das erwartet dich bei uns</strong></p>\n<p>Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team</p>\n<ul>\n<li>Anbindung externer Systeme \u00fcber REST APIs und Webhooks</li>\n<li>Code Review, Fehleranalyse und Bug Fixing, inklusive Lesen von Logs sowie Beachten von Laufzeit und Performance</li>\n<li>Erstellung und Pflege von ScriptRunner L\u00f6sungen (Listener, Workflow Postfunktionen, Validatoren, Bedingungen, Behaviours, geplante Jobs)</li>\n<li>Konzeption und Umsetzung von Automationen in Jira und Jira Service Management</li>\n<li>G\u00e4ngige Atlassian Beratungst\u00e4tigkeiten</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Das bringst du mit</strong></p>\n<p>Solide Programmiergrundlagen, idealerweise in mehreren Sprachen (z.B. TypeScript, Groovy, Python)</p>\n<ul>\n<li>Programmierkenntnisse in TypeScript/JavaScript f\u00fcr die Forge Entwicklung</li>\n<li>Erste Erfahrung mit Jira und Confluence</li>\n<li>Keine Scheu vor Bug Fixing und Fehlersuche</li>\n<li>Strukturierte Arbeitsweise sowie Freude an Teamarbeit und technischer Kommunikation</li>\n<li>Sehr gute Deutsch- und Englischkenntnisse</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>Erfahrung mit Confluence oder weiteren Marketplace Apps</li>\n<li>Erfahrung mit Atlassian Cloud Migrationen und Betriebsmodellen</li>\n<li>Kenntnisse in Forge oder Automations</li>\n<li>Atlassian Zertifizierungen sind willkommen</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>Das bieten wir dir</strong></p>\n<ul>\n<li>Technisch anspruchsvolle Projekte mit hoher Eigenverantwortung und Gestaltungsspielraum</li>\n<li>Flache Hierarchien, direkte Kommunikation und ein Team, das Wissen teilt</li>\n<",
+    "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-munich-268785",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-09T07:30:28+00:00",
+    "tags": [
+      "Software Development"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "JavaScript"
     ]
   },
   {
@@ -34,54 +85,6 @@
       "ops",
       "sales",
       "medical"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "React"
-    ]
-  },
-  {
-    "title": "Werkstudent Data Science / Business Intelligence (m/w/d)",
-    "company": "Meierhofer",
-    "location": "Leipzig",
-    "description": "<br><strong>Unsere Standorte</strong><p>Berlin, Hannover, Leipzig, M\u00fcnchen, Passau oder remote / im Homeoffice \u2013 du kannst uns standortunabh\u00e4ngig unterst\u00fctzen</p><br><strong>Dein zuk\u00fcnftiges Team</strong><p><p>Als Werkstudent*in im Bereich Produktentwicklung unterst\u00fctzt du uns dabei, Daten aus internen Systemen sowie aus unserem Krankenhausinformationssystem M-KIS zu analysieren, aufzubereiten und in verst\u00e4ndliche Reports und Dashboards zu \u00fcbersetzen. Dabei arbeitest du an der Schnittstelle von IT, Fachbereichen und weiteren Stakeholdern und kannst dein Wissen aus dem Studium direkt in der Praxis anwenden. Du wirst von erfahrenen Kolleg*innen eingearbeitet und begleitet. So kannst du Schritt f\u00fcr Schritt mehr Verantwortung \u00fcbernehmen und eigene Themen rund um Datenanalyse, Reporting und Business Intelligence in der Healthcare-IT bearbeiten.</p></p><br><strong>Das erwartet dich bei uns</strong><p><ul><li>Du arbeitest an der Schnittstelle zwischen Fachbereichen, IT und weiteren Stakeholdern und \u00fcbersetzt Anforderungen in aussagekr\u00e4ftige Reports und Dashboards</li><li>Du unterst\u00fctzt bei der Konzeption und Umsetzung von Reports und Dashboards mit Power BI</li><li>Du analysierst und bereitest Daten aus unterschiedlichen Quellsystemen auf, z. B. mit SQL</li><li>Du entwickelst Datenmodelle und DAX-Berechnungen zur Aufbereitung von Kennzahlen</li><li>Du wirkst bei der Automatisierung und Optimierung von Reporting-Prozessen mit</li></ul></p><br><strong>Das sind deine St\u00e4rken & Skills</strong><p><ul><li>Du studierst Data Science, Data Analytics, Wirtschaftsinformatik, Informatik, Business Intelligence, Informationsmanagement, Gesundheitsinformatik, Medizininformatik, eHealth, Digital Health oder einen vergleichbaren Studiengang</li><li>Du hast erste praktische Erfahrung mit Microsoft Power BI (Reports, Dashboards, DAX) aus einer Werkstudentent\u00e4tigkeit, einem Studienprojekt oder eigenen Projekten</li><li>Du verf\u00fcgst \u00fcber Kenntnisse im Umgang mit SQL-Datenbanken</li><li>Du hatte",
-    "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-data-science-business-intelligence-leipzig-415779",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-08T08:09:41+00:00",
-    "tags": [
-      "Data science",
-      "Data analytics",
-      "Business intelligence",
-      "Data engineering",
-      "berlin",
-      "hannover",
-      "leipzig",
-      "passau",
-      "m\u00fcnchen",
-      "remote",
-      "homeoffice",
-      "wirtschaftsinformatik student",
-      "student data engineering",
-      "student medizininformatik",
-      "ehealth",
-      "digital health",
-      "gesundheits\u00f6konomie"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "SQL"
-    ]
-  },
-  {
-    "title": "Security Engineer III - Security Operations",
-    "company": "Primer.io",
-    "location": "United Kingdom",
-    "description": "<p style=\"min-height:1.5em\"><strong>An Introduction to Primer</strong></p><p style=\"min-height:1.5em\">Primer is the unified infrastructure for global payments. We give finance and payments teams the visibility and control to reduce complexity, improve performance, and capture more revenue - all from a single platform.<br /><br />Backed by Sofina, Peak XV Partners, ICONIQ, Tencent, Accel, and Balderton, we're building the payments layer the world's best companies rely on.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://primer.io/the-primer-showcase\">Watch our showcase &gt;</a></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.primer.io/blog/series-c\">Read up on our $100m Series C</a></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://primer.io/careers\">Learn more about our culture &gt;</a></p><p style=\"min-height:1.5em\">Primer is looking for a Security Engineer to help us detect, investigate, and respond to threats across our cloud infrastructure. You'll take ownership of a meaningful slice of our detection and response capability \u2014 tuning what our SIEM catches, building the automation that speeds up how we react, and being a first responder when something looks wrong.</p><p style=\"min-height:1.5em\"><br /><strong>What you'll be doing</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Plan and deliver detection and response work end-to-end \u2014 from a new detection rule to a fully automated response \u2014 within your area of ownership.</p></li><li><p style=\"min-height:1.5em\">Build, tune and maintain detections across our SIEM (Elastic) and AWS environment, closing gaps that existing coverage misses.</p></li><li><p style=\"min-height:1.5em\">Own an investigation queue: triage, investigate, escalate and resolve security incidents, and write up findings clearly enough to stand ",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/primerio/security-engineer-iii-security-operations-united-kingdom-19370",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-08T00:40:13+00:00",
-    "tags": [
-      "Engineering"
     ],
     "match_score": 2,
     "matched_skills": [
