@@ -1,94 +1,163 @@
 [
   {
-    "title": "IT-Systemadministrator (m/w/d) - Infrastruktur & Produktion",
-    "company": "53acht GmbH",
-    "location": "Achim",
-    "description": "<p><strong>53acht</strong> steht f\u00fcr die Koordinaten der Region Bremen und Oldenburg. Wir sind von hier und m\u00f6gen es offen und ehrlich. Als Personaldienstleister wissen wir, wie unsere Auftraggeber ticken und welche spannenden Aufgaben es bei ihnen vor Ort zu erledigen gibt.</p>\n<p>Derzeit suchen wir f\u00fcr ein Unternehmen der <strong>Automobilzulieferindustrie</strong> in <strong>Achim bei Bremen</strong> im Rahmen der <strong>Direktvermittlung</strong> Verst\u00e4rkung:</p>\n<h2>Aufgaben</h2>\n<ul>\n<li>Betreuung und Weiterentwicklung der IT-Infrastruktur am Standort</li>\n<li>Administration, Installation und Wartung von Windows- und Linux-Systemen</li>\n<li>Anwenderunterst\u00fctzung und Clientmanagement</li>\n<li>Administration und Konfiguration der Netzwerkumgebung inklusive Switch Management und Netzwerkmonitoring</li>\n<li>Betreuung von Datenbanksystemen und Datenschnittstellen</li>\n<li>Installation und Betreuung der im Unternehmen eingesetzten Hard- und Software</li>\n<li>Sicherstellung der Betriebsbereitschaft der IT-Systeme</li>\n<li>Unterst\u00fctzung bei der Betreuung produktionsnaher IT-Systeme und automatisierter Anlagen</li>\n<li>Mitwirkung bei Themen rund um Datenschutz und IT-Sicherheit</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Abgeschlossene Ausbildung im IT-Bereich, z. B. als Fachinformatiker f\u00fcr Systemintegration oder IT-Systemelelektroniker, oder eine vergleichbare Qualifikation</li>\n<li>Mehrj\u00e4hrige Berufserfahrung in der IT-Systemadministration</li>\n<li>Gute Kenntnisse in der Administration und Betreuung von Windows-Systemen</li>\n<li>Kenntnisse in der Administration von Linux-Systemen, idealerweise Ubuntu</li>\n<li>Erfahrung in der Netzwerkadministration und -konfiguration</li>\n<li>Kenntnisse im Umgang mit SQL-Datenbanken, idealerweise MySQL</li>\n<li>Idealerweise erste Erfahrungen in PHP, JavaScript oder Scripting</li>\n<li>Kenntnisse in der Web-Administration und im Mobile Device Management (MDM) von Vorteil</li>\n<li>Erfahrungen mit Hochregallagersystemen, SPS oder andere",
-    "url": "https://www.arbeitnow.com/jobs/companies/53acht-gmbh/it-systemadministrator-infrastruktur-produktion-achim-410425",
+    "title": "Senior Customer Success Engineer",
+    "company": "Mitti",
+    "location": "Remote: UK",
+    "description": "<p style=\"min-height:1.5em\"><strong>Why join us?</strong></p><p style=\"min-height:1.5em\">Mitti by SafetyCulture is a global tech company, just not the kind you're picturing. Our almost 1,000-person team builds tools that make work better for the three billion frontline workers who keep the world moving. We've got big tech scale, without the sign-off layers or corporate theatre. Every permanent team member gets equity, so when we grow, you do too. This next chapter is about scaling smart, powered by AI, a clear vision and real ownership. </p><p style=\"min-height:1.5em\">Big tech impact, without the big tech ick.</p><p style=\"min-height:1.5em\">This role exists to unlock technical value for Mitti\u2019s customers by designing and delivering scalable integrations. It bridges the gap between Go-to-Market (GTM) and Product, Design &amp; Engineering (PDE) to accelerate time-to-value within defined scope, timeline, and budget.</p><p style=\"min-height:1.5em\"><br /><strong>About You</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Technical Expertise:</strong> You have strong hands-on experience with SQL, relational databases, APIs, enterprise integration patterns, and scripting languages (e.g., Python, JavaScript, Ruby, Golang).</p></li><li><p style=\"min-height:1.5em\"><strong>Language &amp; Communication:</strong> You possess proven ability to explain complex technical concepts effortlessly to both engineers and business stakeholders.</p></li><li><p style=\"min-height:1.5em\"><strong>AI Leverage:</strong> You fluently use AI coding assistants and automation tools to accelerate spec drafting, data analysis, and code development securely.</p></li><li><p style=\"min-height:1.5em\"><strong>Mindset &amp; Approach:</strong> You are a self-directed, customer-first problem solver who context-switches easily, balances standard methodologies with edge-case judgment, and prioritises team success.<br /></p></li></ul><p style=\"min-height:1.5em\"><strong>How Will I Sp",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/mitti/remote-senior-customer-success-engineer-94290",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-09T08:30:44+00:00",
+    "posted_at": "2026-09-10T03:40:12+00:00",
     "tags": [
-      "System and Network Administration"
+      "GTM"
     ],
     "match_score": 4,
     "matched_skills": [
+      "Python",
       "JavaScript",
       "SQL"
     ]
   },
   {
-    "title": "Data Engineer / Cloud Data Platform Engineer (m/w/d)",
-    "company": "group24 AG",
-    "location": "Gescher",
-    "description": "<ul>\n<li><strong>Du hast Spa\u00df daran, skalierbare Datenarchitekturen aufzubauen, moderne Datenpipelines zu entwickeln und heterogene Datenquellen in saubere, hochperformante Datenmodelle zu \u00fcberf\u00fchren? Du m\u00f6chtest an anspruchsvollen Projekten arbeiten und Unternehmen dabei unterst\u00fctzen, ein zukunftsf\u00e4higes Fundament f\u00fcr Analytics, BI und datengetriebene Entscheidungen zu schaffen? Dann komm zu uns ins Team als Data Engineer / Cloud Data Platform Engineer (m/w/d).</strong></li>\n</ul>\n<h2>Deine Aufgaben</h2>\n<ul>\n<li>Du konzipierst, implementierst und betreibst moderne Data-Platform- und Warehouse-L\u00f6sungen in Cloud-Umgebungen.</li>\n<li>Du entwickelst robuste, automatisierte Batch- und Streaming-Pipelines zur Extraktion, Transformation und Bereitstellung von Daten (z. B. via Python, SQL, dbt).</li>\n<li>Du modellierst performante Datenstrukturen (z. B. Medallion Architecture / Bronze-Silver-Gold, Data Vault, Star-Schema) und stellst Schnittstellen f\u00fcr BI- und Reporting-Teams bereit.</li>\n<li>Du \u00fcbersetzt funktionale und analytische Gesch\u00e4ftsanforderungen in skalierbare technische Spezifikationen und Datenmodelle.</li>\n<li>Du begleitest und steuerst Projekte eigenverantwortlich \u2013 von der Quellanbindung \u00fcber die Transformation bis hin zur produktiven Cloud-Orchestrierung.</li>\n<li>Du verantwortest Datenqualit\u00e4t, Monitoring, Performance-Optimierung und automatisiertes Testing entlang der gesamten Pipeline.</li>\n<li>Du dokumentierst Architekturen, Datenfl\u00fcsse sowie Datenkataloge und stellst eine transparente Kommunikation mit Stakeholdern und Projektteams sicher.</li>\n</ul>\n<h2>Dein Profil</h2>\n<ul>\n<li>Du hast ein abgeschlossenes Studium im Bereich Informatik, Wirtschaftsinformatik oder eine vergleichbare Ausbildung bzw. praktische Berufserfahrung.</li>\n<li>Du bringst fundierte Erfahrung im Data Engineering, in der Datenmodellierung und im Aufbau moderner Data-Warehouse-/Lakehouse-Architekturen mit.</li>\n<li>Du besitzt praxisprobte Kenntnisse in mindestens einem relevanten ",
-    "url": "https://www.arbeitnow.com/jobs/companies/group24-ag/data-engineer-cloud-data-platform-engineer-gescher-239435",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-09T07:30:28+00:00",
+    "title": "DESARROLLADOR FULL STACK",
+    "company": "Kruger NearShore LLC - Rekluti",
+    "location": "Remote",
+    "description": "<h3>Desarrollador/a Full Stack \u00e2\u0080\u0093 Python / Angular / Go</h3><p class=\"isSelectedEnd\">En <strong>Rekluti</strong>, consultora especializada en talento tecnol\u00c3\u00b3gico en LATAM, buscamos un/a <strong>Desarrollador/a Full Stack</strong> para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables.</p><p class=\"isSelectedEnd\">Buscamos un perfil con s\u00c3\u00b3lida experiencia en <strong>Python, Angular y Go</strong>, capaz de desenvolverse de manera aut\u00c3\u00b3noma, aportar en decisiones t\u00c3\u00a9cnicas y colaborar con equipos multidisciplinarios.</p><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u008e\u00af Principales responsabilidades</h3><ul><li><p>Dise\u00c3\u00b1ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend.</p></li><li><p>Desarrollar servicios y <strong>APIs REST</strong> utilizando principalmente Python y Go.</p></li><li><p>Construir y mantener interfaces web modernas con <strong>Angular</strong>.</p></li><li><p>Participar en el dise\u00c3\u00b1o de arquitecturas y definici\u00c3\u00b3n de soluciones t\u00c3\u00a9cnicas.</p></li><li><p>Integrar servicios, APIs y diferentes componentes de la plataforma.</p></li><li><p>Desarrollar c\u00c3\u00b3digo limpio, mantenible, escalable y de alta calidad.</p></li><li><p>Participar en revisiones de c\u00c3\u00b3digo, testing y resoluci\u00c3\u00b3n de incidencias.</p></li><li><p>Colaborar con equipos de Producto, QA, DevOps y otros perfiles t\u00c3\u00a9cnicos.</p></li><li><p>Contribuir a la mejora continua de procesos y buenas pr\u00c3\u00a1cticas de desarrollo.</p></li><li><p>Trabajar con servicios cloud y ambientes desplegados sobre <strong>Google Cloud Platform (GCP)</strong>.</p></li><li><p>Participar eventualmente en iniciativas de desarrollo mobile utilizando <strong>Flutter</strong>.</p></li></ul><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u0092\u00bb Requisitos</h3><ul><li><p><strong>5+ a\u00c3\u00b1os de experiencia</strong> en desarrollo de software.</p></li><li><p>Experiencia s\u00c3\u00b3lida como <strong>Full Stack Developer</strong>.</p></li><li><p>Dominio avanzado de <strong>Pytho",
+    "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+    "source": "RemoteOK",
+    "posted_at": "2026-08-22T00:00:12+00:00",
     "tags": [
-      "Business Consulting"
+      "full stack",
+      "front end",
+      "python",
+      "dev",
+      "testing",
+      "web dev",
+      "quality assurance",
+      "devops",
+      "c",
+      "cloud",
+      "nosql",
+      "git",
+      "flutter",
+      "angular",
+      "mobile",
+      "golang",
+      "backend",
+      "digital nomad"
     ],
-    "match_score": 4,
+    "match_score": 3,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Senior Customer Success Engineer",
+    "company": "Mitti",
+    "location": "Manchester",
+    "description": "<p style=\"min-height:1.5em\"><strong>Why join us?</strong></p><p style=\"min-height:1.5em\">Mitti by SafetyCulture is a global tech company, just not the kind you're picturing. Our almost 1,000-person team builds tools that make work better for the three billion frontline workers who keep the world moving. We've got big tech scale, without the sign-off layers or corporate theatre. Every permanent team member gets equity, so when we grow, you do too. This next chapter is about scaling smart, powered by AI, a clear vision and real ownership. </p><p style=\"min-height:1.5em\">Big tech impact, without the big tech ick.</p><p style=\"min-height:1.5em\"><br />This role exists to unlock technical value for Mitti\u2019s customers by designing and delivering scalable integrations. It bridges the gap between Go-to-Market (GTM) and Product, Design &amp; Engineering (PDE) to accelerate time-to-value within defined scope, timeline, and budget.<br /></p><p style=\"min-height:1.5em\"><br /><strong>About You</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Technical Expertise:</strong> You have strong hands-on experience with SQL, relational databases, APIs, enterprise integration patterns, and scripting languages (e.g., Python, JavaScript, Ruby, Golang).</p></li><li><p style=\"min-height:1.5em\"><strong>Language &amp; Communication:</strong> You possess proven ability to explain complex technical concepts effortlessly to both engineers and business stakeholders.</p></li><li><p style=\"min-height:1.5em\"><strong>AI Leverage:</strong> You fluently use AI coding assistants and automation tools to accelerate spec drafting, data analysis, and code development securely.</p></li><li><p style=\"min-height:1.5em\"><strong>Mindset &amp; Approach:</strong> You are a self-directed, customer-first problem solver who context-switches easily, balances standard methodologies with edge-case judgment, and prioritises team success.</p></li></ul><p style=\"min-height:1.5em\"><strong>How Wil",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/mitti/senior-customer-success-engineer-manchester-67833",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-10T03:40:12+00:00",
+    "tags": [
+      "GTM"
+    ],
+    "match_score": 3,
     "matched_skills": [
       "Python",
+      "JavaScript",
       "SQL"
     ]
   },
   {
-    "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
-    "company": "MESKRU GmbH",
-    "location": "Essen",
-    "description": "<p>Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Das erwartet dich bei uns</strong></p>\n<p>Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team</p>\n<ul>\n<li>Anbindung externer Systeme \u00fcber REST APIs und Webhooks</li>\n<li>Code Review, Fehleranalyse und Bug Fixing, inklusive Lesen von Logs sowie Beachten von Laufzeit und Performance</li>\n<li>Erstellung und Pflege von ScriptRunner L\u00f6sungen (Listener, Workflow Postfunktionen, Validatoren, Bedingungen, Behaviours, geplante Jobs)</li>\n<li>Konzeption und Umsetzung von Automationen in Jira und Jira Service Management</li>\n<li>G\u00e4ngige Atlassian Beratungst\u00e4tigkeiten</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Das bringst du mit</strong></p>\n<p>Solide Programmiergrundlagen, idealerweise in mehreren Sprachen (z.B. TypeScript, Groovy, Python)</p>\n<ul>\n<li>Programmierkenntnisse in TypeScript/JavaScript f\u00fcr die Forge Entwicklung</li>\n<li>Erste Erfahrung mit Jira und Confluence</li>\n<li>Keine Scheu vor Bug Fixing und Fehlersuche</li>\n<li>Strukturierte Arbeitsweise sowie Freude an Teamarbeit und technischer Kommunikation</li>\n<li>Sehr gute Deutsch- und Englischkenntnisse</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>Erfahrung mit Confluence oder weiteren Marketplace Apps</li>\n<li>Erfahrung mit Atlassian Cloud Migrationen und Betriebsmodellen</li>\n<li>Kenntnisse in Forge oder Automations</li>\n<li>Atlassian Zertifizierungen sind willkommen</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>Das bieten wir dir</strong></p>\n<ul>\n<li>Technisch anspruchsvolle Projekte mit hoher Eigenverantwortung und Gestaltungsspielraum</li>\n<li>Flache Hierarchien, direkte Kommunikation und ein Team, das Wissen teilt</li>\n<",
-    "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-148110",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-09T07:30:28+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
-    "company": "MESKRU GmbH",
-    "location": "Munich",
-    "description": "<p>Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Das erwartet dich bei uns</strong></p>\n<p>Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team</p>\n<ul>\n<li>Anbindung externer Systeme \u00fcber REST APIs und Webhooks</li>\n<li>Code Review, Fehleranalyse und Bug Fixing, inklusive Lesen von Logs sowie Beachten von Laufzeit und Performance</li>\n<li>Erstellung und Pflege von ScriptRunner L\u00f6sungen (Listener, Workflow Postfunktionen, Validatoren, Bedingungen, Behaviours, geplante Jobs)</li>\n<li>Konzeption und Umsetzung von Automationen in Jira und Jira Service Management</li>\n<li>G\u00e4ngige Atlassian Beratungst\u00e4tigkeiten</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Das bringst du mit</strong></p>\n<p>Solide Programmiergrundlagen, idealerweise in mehreren Sprachen (z.B. TypeScript, Groovy, Python)</p>\n<ul>\n<li>Programmierkenntnisse in TypeScript/JavaScript f\u00fcr die Forge Entwicklung</li>\n<li>Erste Erfahrung mit Jira und Confluence</li>\n<li>Keine Scheu vor Bug Fixing und Fehlersuche</li>\n<li>Strukturierte Arbeitsweise sowie Freude an Teamarbeit und technischer Kommunikation</li>\n<li>Sehr gute Deutsch- und Englischkenntnisse</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>Erfahrung mit Confluence oder weiteren Marketplace Apps</li>\n<li>Erfahrung mit Atlassian Cloud Migrationen und Betriebsmodellen</li>\n<li>Kenntnisse in Forge oder Automations</li>\n<li>Atlassian Zertifizierungen sind willkommen</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>Das bieten wir dir</strong></p>\n<ul>\n<li>Technisch anspruchsvolle Projekte mit hoher Eigenverantwortung und Gestaltungsspielraum</li>\n<li>Flache Hierarchien, direkte Kommunikation und ein Team, das Wissen teilt</li>\n<",
-    "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-munich-268785",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-09T07:30:28+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Store Manager BOSS Store Plaza Las Americas",
-    "company": "HUGO BOSS",
-    "location": "San Juan, ",
-    "description": "HUGO BOSS is one of the leading fashion and lifestyle companies in the premium segment with over 19,000 employees worldwide. As versatile as we are, we are united by a common goal: We love fashion, we change fashion!<br><br>Become a brand ambassador and be part of a team that works with passion, ambition and expertise to create excellent customer experiences. Be among the first to bring our collections from the runway to the customers! Join our team and explore career opportunities that are tailor-made for you!<br><br>Convey a positive impression of HUGO BOSS to the marketplace by delivering an exceptional shopping experience, showcasing the brand through exciting merchandise presentations and executing operational strategies resulting in positive operating profits.<br><br><strong>What you can expect:<br><br></strong><ul><li>Utilize effective communication skills in training and developing staff, delivering exceptional service to customers, driving business with the merchant group and general problem solving.</li><li>Achieve positive results in top line sales, profit and loss management and inventory control.</li><li>Establish a goal oriented selling culture that focuses on relationship selling, building a client base and exceptional service.</li><li>Ensure standard operating procedures are executed and policies followed.</li><li>Cultivate a relationship with the community via personal involvement, PR events and advertising opportunities.Manage personnel activities of staff (i.e. hire, train, appraise, reward, motivate, discipline, etc).</li><li>Monitor performance, provide direction, and take corrective action when needed.</li><li>Continually evaluate and react to performance issues and actively recruit candidates.</li><li>Exceptional leadership and management skills and the ability to motivate, develop and inspire a team while creating a highly empowered organization.</li><li>Ensure all relevant conditions relating to Health &amp; Safety are fulfilled and empower ",
-    "url": "https://remoteOK.com/remote-jobs/remote-store-manager-boss-store-plaza-las-americas-hugo-boss-1137301",
+    "title": "Sales Development Representative Attribute\u00e2\u0084",
+    "company": "DoiT",
+    "location": "Remote UK",
+    "description": "Our Sales Development Representative will be an integral part of our sales team. This role is fully remote in the EMEA region in the UK, Ireland, the Netherlands, and Sweden.\n\nWho We Are\nDoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state - from planning to production. \n\nDelivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we help our customers solve complex multicloud problems and drive efficiency.\n\nWith decades of multicloud experience, we have specializations in Kubernetes, GenAI, CloudOps, and more. An award-winning strategic partner of AWS, Google Cloud, and Microsoft Azure, we work alongside more than 4,000 customers worldwide. \n\nThe Opportunity\nAs a Sales Development Representative on our Attribute\u00e2\u0084\u00a2 team, you will be responsible for outbound lead generation, including email, calling, and using LinkedIn to book demos with qualified prospects on technical teams. You\u00e2\u0080\u0099ll be on the front line of the sales team, filling the pipeline for closers by focusing on the primary metrics of qualified meetings booked and pipeline generated. We are looking f<br/><br/>Please mention the word **THRIVING** and tag RMTcyLjE4Mi4yMTEuMTc= when applying to show you read the job post completely (#RMTcyLjE4Mi4yMTEuMTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "url": "https://remoteOK.com/remote-jobs/",
     "source": "RemoteOK",
-    "posted_at": "2026-09-03T15:48:13+00:00",
+    "posted_at": "2026-08-11T08:00:43+00:00",
     "tags": [
-      "exec",
-      "react",
-      "education",
-      "consulting",
-      "customer support",
+      "technical",
+      "marketing",
+      "cloud",
       "microsoft",
-      "ops",
-      "sales",
-      "medical"
+      "exec",
+      "sales"
     ],
     "match_score": 2,
     "matched_skills": [
-      "React"
+      "Azure"
+    ]
+  },
+  {
+    "title": "Operations Engineer II",
+    "company": "AWeber",
+    "location": "Uluberia-II, ",
+    "description": "Limited-Time Offer Done For You Email Marketing $599Only$1 <strong>Start for just $1</strong> \u00e2\u0086\u0092<br><br>87% off ends soon! <em>$599 <strong>$79</strong></em> to launch your email marketing. <em><strong>Start for just $79</strong></em> \u00e2\u0086\u0092<br><br>\u00e2\u009c\u00a6 Newsletter Assistant Features Pricing Blog Sign in My account Get AWeber Free<br><br>Sign in<br><br><ul><li>Email marketing</li><li>Email automation</li><li>AI Page Builder</li><li>Ecommerce</li><li>Web push notifications</li><li>AI Signup Form Builder</li><li>AI Writing Assistant</li><li>Link in Bio page</li><li>Standard pricing</li><li>High volume pricing</li><li>Bloggers</li><li>Coaches</li><li>Etsy shops</li><li>Newsletters</li><li>YouTubers</li><li>Contact Customer Solutions 24/7</li><li>AWeber Community</li><li>Free account migration service</li><li>Knowledge base</li><li>Video tutorials</li><li>The Shift AI Show</li><li>Free workshops</li><li>Landing Page Template Gallery</li><li>Pre-written email campaigns</li><li>AWeber Certified Experts</li><li>App integrations</li><li>Customer referral program</li><li>Customer success stories</li><li>Marketing Glossary</li><li>24/7 Email Marketing Master Class<br><br></li></ul>Blog<br><br>\u00e2\u009c\u00a6 Newsletter Assistant<br><br>Join our ~60 talented remote team members, motivated to have an impact on the world while growing their skills every day.<br><br>Our mission: Build an easy to use platform for Small Businesses and Creators to connect with their audiences. We help over 300,000 users and entrepreneurs chase their dreams with tools like email marketing, automation, web push, and websites to help create deeper relationships with their audiences, while growing their businesses.<br><br>Learn more about our benefits and perks and the core values that have driven us to be one of PA's Best Places to Work for 13 consecutive years.<br><br>Submit your application below or see one of our other open positions. All applications are reviewed by real smiling people and you'll get a prompt repl",
+    "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
+    "source": "RemoteOK",
+    "posted_at": "2026-08-04T23:02:29+00:00",
+    "tags": [
+      "infosec",
+      "javascript",
+      "technical",
+      "exec",
+      "sys admin",
+      "customer support",
+      "web dev",
+      "virtual assistant",
+      "video",
+      "api",
+      "ops",
+      "marketing",
+      "engineer",
+      "ecommerce"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "JavaScript"
+    ]
+  },
+  {
+    "title": "Praktikant/Werkstudent \u201eForschung & Innovation \u2013 Datengetriebene Entwicklung autonomer Systeme\u201c (m/w/d)",
+    "company": "IPG Automotive - Personio",
+    "location": "Karlsruhe Fautenbruchstra\u00dfe",
+    "description": "<br><strong>Deine Aufgaben</strong><p><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Unterst\u00fctzung des Research &amp; Innovation Managers in der t\u00e4glichen Projekt- und Innovationsarbeit</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Recherche, Bewertung und Mitarbeit in Forschungsprojekten und F\u00f6rderthemen</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Inhaltliche Bearbeitung von Innovationsthemen (z. B. im Bezug zu einer datengetriebenen Entwicklungspipeline f\u00fcr vollautonome Fahrzeuge)</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Mitwirkung bei der Erarbeitung von Methoden f\u00fcr die Entwicklung vollautonomer Systeme mittels Gesamtfahrzeugsimulation</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Mitarbeit im Formula Student Kontext sowie Erarbeitung von Entwicklungsumgebungen, z. B. f\u00fcr die Driverless Challenge</li></ul></p><br><strong>Dein Profil</strong><p><ul><li style=\"font-family:Arial, Helvetica, sans-serif;\">Eingeschriebene*r Student*in im Bereich Ingenieurswesen, (technischer) Informatik, Fahrzeugtechnik, Data Science oder einer vergleichbaren Fachrichtung</li><li style=\"font-family:Arial, Helvetica, sans-serif;\">Interesse an Fahrzeugsimulation, autonomem Fahren und datengetriebener Entwicklung</li><li style=\"font-family:Arial, Helvetica, sans-serif;\">Erste Kenntnisse in Simulation und/oder Programmierung (z. B. Python, MATLAB) von Vorteil</li><li style=\"font-family:Arial, Helvetica, sans-serif;\">Formula Student Erfahrung \u2013 idealerweise im Driverless-Bereich \u2013 hilfreich</li><li style=\"font-family:Arial, Helvetica, sans-serif;\">Freude an der L\u00f6sung komplexer, interdisziplin\u00e4rer Fragestellungen</li><li style=\"font-family:Arial, Helvetica, sans-serif;\">Hohe Motivation, analytisches Denken sowie eine strukturierte und eigenverantwortliche Arbeitsweise</li></ul></p><br><strong>Wir bieten </strong><p><ul><li style=\"font-family:Arial, He",
+    "url": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-forschung-innovation-datengetriebene-entwicklung-autonomer-systeme-karlsruhe-fautenbruchstrasse-382716",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-10T08:09:39+00:00",
+    "tags": [],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Praktikant/Werkstudent \u201eAutomatisiertes Infotainment Testing\u201c (m/w/d)",
+    "company": "IPG Automotive - Personio",
+    "location": "Stuttgart",
+    "description": "<br><strong>Deine Aufgaben</strong><p><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Analyse, Evaluierung und Benchmark verschiedener Tools zur Testautomatisierung von GUI- und Infotainment-Systemen</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Inbetriebnahme und Konfiguration unseres Simulationstools IPG CarMaker und Integration einer exemplarischen Infotainment-GUI</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Aufbau und Testung einer GUI-Testumgebung zur Durchf\u00fchrung automatisierter Tests im Rahmen virtueller Testfahrten</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Unterst\u00fctzung bei der Durchf\u00fchrung automatisierter Tests, Auswertung der Testergebnisse sowie Dokumentation und Analyse der Ergebnisse</li></ul></p><br><strong>Dein Profil</strong><p><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Fortgeschrittenes Studium der Informatik, Wirtschaftsinformatik, Software-Engineering, Fahrzeugtechnik oder eines vergleichbaren MINT-Studiengangs</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Fundierte Kenntnisse in einer Skript- oder Programmiersprache (z. B. Python, C++)</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Erste Erfahrungen mit Testautomatisierung Frameworks (z. B.Appium, Squish) oder GUI-Entwicklung von Vorteil</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Interesse an Fahrzeugsimulation, virtuellem Testen und modernen Infotainment-Systemen</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Strukturierte, eigenst\u00e4ndige Arbeitsweise sowie analytisches Denkverm\u00f6gen</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Gute Deutsch- und Englischkenntnisse in Wort und Schrift</li></ul></p><br><strong>Wir bieten </strong><p><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Spannende Aufgaben mi",
+    "url": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-automatisiertes-infotainment-testing-stuttgart-385283",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-10T08:09:39+00:00",
+    "tags": [],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Praktikant/Werkstudent \u201eAI based passenger simulation\u201c (m/w/d)",
+    "company": "IPG Automotive - Personio",
+    "location": "Stuttgart",
+    "description": "<br><strong>Deine Aufgaben</strong><p><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Analyse und Evaluierung moderner KI-basierter Methoden zur Modellierung realistischen Passagierverhaltens</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Inbetriebnahme und Konfiguration unseres Simulationstools IPG CarMaker unter Einbindung realistischer Testfahrtdaten (z. B. Langstreckenprofile)</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Konzeption und Implementierung eines KI-basierten Modells zur Simulation von Beifahrer-Interaktionen und -Zust\u00e4nden</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Auswertung von Simulationen zur Analyse des Einflusses verschiedener Fahrsituationen auf das Verhalten und Erleben von Fahrzeuginsassen</li></ul></p><br><strong>Dein Profil</strong><p><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Fortgeschrittenes Studium der Informatik, Wirtschaftsinformatik, Software-Engineering, Data Science oder eines vergleichbaren MINT-Studiengangs</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Fundierte Kenntnisse in einer Skript- oder Programmiersprache (z. B. Python, C++)</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Erste praktische Erfahrung oder vertieftes theoretisches Wissen im Bereich k\u00fcnstliche Intelligenz, Machine Learning oder Verhaltenssimulation von Vorteil</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Interesse an Fahrzeugsimulation, virtuellem Testen und nutzerzentrierten Funktionen</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Strukturierte, eigenst\u00e4ndige Arbeitsweise sowie analytisches Denkverm\u00f6gen</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">Gute Deutsch- und Englischkenntnisse in Wort und Schrift</li></ul></p><br><strong>Wir bieten </strong><p><ul><li style=\"font-family:Arial, Helv",
+    "url": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-ai-based-passenger-simulation-stuttgart-56268",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-10T08:09:39+00:00",
+    "tags": [],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
     ]
   }
 ]
