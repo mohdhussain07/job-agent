@@ -1,45 +1,30 @@
 [
   {
-    "title": "Data Scientist - Remote Freelance Sydney (m/f/d) - Sydney Team",
-    "company": "7Learnings",
+    "title": "Sr Solutions Architect",
+    "company": "ExtraHop",
     "location": "Remote",
-    "description": "<br><strong>About the role</strong><p><p>We are looking for an autonomous <strong>Freelance Data Scientist\u00a0</strong>based in Sydney to work approximately\u00a0<strong>10 hours per week</strong>, owning the intersection of sophisticated predictive decision-making and world-class engineering for our local operations. In this role, you won't just run standard scripts; you will be the custodian of our product's localized evolution, ensuring our AI-driven decision engines are mathematically sound, highly optimized, and engineering-resilient. You will be working remotely from Sydney, supporting our clients in the region.<br>Working closely with our core engineering team in Berlin, you will translate complex, real-world retail challenges into scalable, high-performance software solutions directly impacting our clients on the ground. As our dedicated data science resource in Sydney, you are the engine of 7Learnings\u2019 regional presence. Our product relies on the perfect harmony between complex algorithms and stable software; you will be responsible for ensuring that our technical execution remains flawless, technical debt remains low, and model accuracy remains exceptionally high, all within a focused commitment of approximately 10 hours per week.</p></p><br><strong>Your mission</strong><p><p style=\"font-family:'Google Sans Text', sans-serif;line-height:1.15;margin-top:0px;\"><br></p><ul><li style=\"font-family:'Google Sans Text', sans-serif;line-height:1.15;margin-top:0px;\"><p style=\"font-family:'Google Sans Text', sans-serif;line-height:1.15;margin-top:0px;\">Leverage analytical skills to support retail optimization projects.</p></li><li style=\"font-family:'Google Sans Text', sans-serif;line-height:1.15;margin-top:0px;\"><p style=\"font-family:'Google Sans Text', sans-serif;line-height:1.15;margin-top:0px;\">Experiment with Machine Learning models to forecast sales volume and costs.</p></li><li style=\"font-family:'Google Sans Text', sans-serif;line-height:1.15;margin-top:0px;\"><p styl",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/7learnings/data-scientist-remote-freelance-sydney-sydney-team-44993",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-15T09:09:22+00:00",
+    "description": "At ExtraHop, we\u00e2\u0080\u0099re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that evade their existing security and IT tools. With this insight, organizations can investigate smarter, stop threats faster, and keep operations running.\n\nOur mission is fueled by a profound social and moral responsibility to be the best at what we do, ensuring a secure world where everyone can thrive. If this sounds like a place you\u00e2\u0080\u0099d like to spend the next chapter of your career, we\u00e2\u0080\u0099d love to hear from you.\n\nPosition Summary\nExtraHop\u00e2\u0080\u0099s Solutions Architecture team is very different from many other post-sales services practices\u00e2\u0080\u0094we focus on outcomes and customer success rather than racking up billable hours. As a member of our Solutions Architecture team, you\u00e2\u0080\u0099ll play a critical role in the success of our customers, products and position in the marketplace. Our Architects tackle the most difficult business and technology problems across a vast array of industries and technologies. As a Solutions Architect at ExtraHop, you will never be bored again.\n\nKey Responsibilities\n- Advanced GUI development\n- Advanced Trigger Script development\n- Intermediate external REST API script development\n- Intermediate understanding of networking\n- Intermediate understanding of application design\n- Analyze customer network topologies and application stacks; develop strategies to acquire high-value data from the wire.\n- Profile industry-specific applications across a broad range of verticals; create technical assets and written collateral to support product improvement and marketing efforts.\n- Conduct root cause analysis of high-profile technology problems and advise customers on their resolution.\n- De",
+    "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
+    "source": "RemoteOK",
+    "posted_at": "2026-09-15T00:00:26+00:00",
     "tags": [
-      "Data Scientist",
-      "AI",
-      "Machine Learning",
-      "Artificial Intelligence",
-      "Python",
-      "Google Cloud",
-      "SQL",
-      "BigQuery",
-      "GIT",
-      "Github"
+      "architecture",
+      "design",
+      "infosec",
+      "python",
+      "technical",
+      "customer support",
+      "javascript",
+      "api",
+      "ops",
+      "marketing",
+      "sales",
+      "digital nomad"
     ],
     "match_score": 5,
     "matched_skills": [
       "Python",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Analytics Engineer - Finance",
-    "company": "mewssystems",
-    "location": "Remote",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Help make the world more hospitable &lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;The hospitality industry is uniquely human, and it deserves technology that\u2019s just as inspiring as the people behind it. At Mews, we\u2019re transforming the industry with a platform that helps hotels run smarter, move faster and create better guest experiences.&lt;/p&gt;\n&lt;p&gt;You\u2019ll work with smart, curious people who care deeply about what they do. You\u2019ll have autonomy and the trust to make good decisions and move quickly. And you\u2019ll enjoy a real sense of purpose as you see the impact of what we\u2019re building.&lt;/p&gt;\n&lt;p&gt;If you\u2019re motivated by ownership, curiosity and meaningful impact, and are driven to deliver consistent high performance, you\u2019ll feel at home here.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Let&#39;s get into the specifics. It\u2019s impossible to capture every nuance of a role \u2013 especially at a rapidly growing company like Mews \u2013 but if we had to distil it into a job description (which we do because this is a job description), it would be this:&lt;/p&gt;&lt;/div&gt;&lt;p&gt;You&#39;ll be the founding analytics engineer in Finance, shaping our data infrastructure and analytical capabilities during a critical transformation. Your expertise in Python, &lt;span data-highlighted=&quot;true&quot; data-vc=&quot;highlighted-text&quot;&gt;&lt;span class=&quot;_kqswh2mm&quot;&gt;&lt;span class=&quot;_5pioz8co _189e1dm9 _1il9buyh _19lc184f _d0altlke&quot; data-testid=&quot;definition-highlighter&quot;&gt;DBT&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, SQL, and Databricks will drive operational efficiency, accelerate our month-end close, and deliver strategic insights that inform capital allocation and IPO readiness. This is a greenfield opportunity to own the analytics roadmap, work directly with Finance leadership, and build infrastructure that powers both scaling and compliance, al",
-    "url": "https://www.arbeitnow.fr/jobs/companies/mewssystems/analytics-engineer-finance-467775",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-13T16:55:23+00:00",
-    "tags": [
-      "Operations"
-    ],
-    "match_score": 5,
-    "matched_skills": [
-      "Python",
-      "SQL"
+      "JavaScript"
     ]
   },
   {
@@ -93,6 +78,57 @@
     "matched_skills": [
       "Python",
       "SQL"
+    ]
+  },
+  {
+    "title": "IT-Projektleiter:in - Vollzeit / Teilzeit in Leipzig oder L\u00fcbeck",
+    "company": "singularIT GmbH",
+    "location": "Leipzig",
+    "description": "<p>Wir sind ein dynamisches Unternehmen im Bereich Software-Entwicklung/IT-Beratung mit Sitz in Leipzig und L\u00fcbeck. Unser Ziel ist es, wirtschaftliche Problemstellungen durch innovative Technologien und Herangehensweisen gemeinsam im Team zu l\u00f6sen. Begleite uns dabei und arbeite in positiver Atmosph\u00e4re direkt in der Leipziger oder L\u00fcbecker Innenstadt.</p>\n<h2>Aufgaben</h2>\n<p><strong>Du m\u00f6chtest</strong></p>\n<ul>\n<li>Die Koordinierung und Begleitung von IT-Projekten von der Angebotserstellung \u00fcber die technische Konzeption bis hin zum Projektabschluss \u00fcbernehmen</li>\n<li>Die regelm\u00e4\u00dfigen Meetings innerhalb der Projekte moderieren</li>\n<li>Bei der Projektplanung, Komplexit\u00e4ts- und Aufwandssch\u00e4tzung mitwirken</li>\n<li>Mit unserer Kundschaft kommunizieren und deren W\u00fcnsche und Erwartungen an das Projektteam vermitteln</li>\n<li>Nicht nur planen und koordinieren, sondern zudem selbst Teil des Coding-Teams sein</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Dein Profil</strong></p>\n<p>Must have</p>\n<ul>\n<li>Abgeschlossenes Studium im Bereich IT oder vergleichbar</li>\n<li>Sprachniveau Deutsch mindestens C1</li>\n<li>Du m\u00f6chtest Projekte leiten, kannst aber auch selbst coden</li>\n<li>Du hast Erfahrung mit einem unserer Core Tech Stack Bereiche</li>\n<li>Erfahrung in der Einf\u00fchrung und Umsetzung agiler Methoden</li>\n<li>Gute konzeptionelle F\u00e4higkeiten</li>\n</ul>\n<p>Nice to have</p>\n<ul>\n<li>Du bist bereits Scrum-Master:in</li>\n</ul>\n<p><strong>Dein Umgebung</strong></p>\n<ul>\n<li>Unsere Core Tech Stacks: Frontend (Vue.js, React.js), Backend (PHP/Laravel, Python), Data Science (Python, PowerBI, ML)</li>\n<li>Agiles Arbeiten</li>\n<li>Git &#x26; Slack zur Absprache</li>\n<li>Viele gro\u00dfartige Kolleg:innen</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>Wir bieten Dir</strong></p>\n<ul>\n<li>Kontinuierliche Weiterbildung durch Side-Projects, KEY-Vortr\u00e4ge, Workshops und Schulungen (z.B. Scrum-Master:in)</li>\n<li>Deine eigenen Ideen einzubringen und die singularIT ma\u00dfgeblich mitzugestalten</li>\n<li",
+    "url": "https://www.arbeitnow.com/jobs/companies/singularit-gmbh/it-projektleiterin-vollzeit-teilzeit-in-leipzig-oder-lubeck-200798",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-16T08:30:43+00:00",
+    "tags": [
+      "Project Management"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "title": "Market Data Analyst Metals & Minerals",
+    "company": "Kpler",
+    "location": "United Kingdom",
+    "description": "<div>\n<p>At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors.</p>\n<p>Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 700 experts from 35+ countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success.</p>\n</div><br><strong>Your future position:</strong><br><div>\n<p>Kpler\u2019s Dry Bulk business unit is expanding its footprint in the Metals &amp; Minerals sector. We are looking for a Market Data Analyst to take ownership of data quality and operational processes across ferrous and non-ferrous metals, solid fuels, and industrial minerals.</p>\n<p>This is a role for someone who wants to sit close to how global commodity markets actually move. You will combine strong SQL and Python skills with a curiosity about the real-world events shaping those movements - from shifting trade flows and supply chain disruptions to changes in industrial demand, policy, and pricing dynamics.</p>\n<p>You won\u2019t just be processing data. You will play a key role in turning complex, high-volume datasets into reliable market intelligence used by clients to understand what is happening in global physical markets. Your work will directly influence how accurately we reflect real-world commodity flows.</p>\n<p>As the team grows, you will also help mentor junior analysts and act as a bridge between raw data, market developments, and the insights our clients depend on to make decisions.</p>\n</div><br><strong>Your mission is to:</strong><br><div>\n\n<li>\n<p>Take charge of specific regions and product groups, ensuring th",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/market-data-analyst-metals-minerals-united-kingdom-30061",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-16T06:25:12+00:00",
+    "tags": [
+      "Ags & Dry"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Backend Developer - AI Trainer (France)",
+    "company": "Anyone Ai",
+    "location": "France",
+    "description": "<p style=\"min-height:1.5em\">Anyone AI is recruiting skilled Backend Developers to work as a project consultants. </p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Qualifications:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Advanced professional written proficiency in English</p></li><li><p style=\"min-height:1.5em\">3\u20137 years of professional software engineering experience</p></li><li><p style=\"min-height:1.5em\">Strong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or Go</p></li><li><p style=\"min-height:1.5em\">Backend or full\u2011stack development experience in production systems</p></li><li><p style=\"min-height:1.5em\">Experience with testing frameworks (e.g., pytest, Jest, JUnit, xUnit, Go testing)</p></li><li><p style=\"min-height:1.5em\">Proven ability to debug and navigate large, multi\u2011file codebases</p></li><li><p style=\"min-height:1.5em\">Experience with code reviews, refactoring, and production migrations</p><p style=\"min-height:1.5em\"></p></li></ul><p style=\"min-height:1.5em\"><strong>Engagement:</strong> Part-time, project-based expert evaluation work</p><p style=\"min-height:1.5em\"><strong>Work Type:</strong> Remote</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Contributors will design and evaluate realistic software engineering tasks, including bug resolution, feature implementation, refactoring/migration, and test generation. Work includes both creating complex coding scenarios and reviewing peer submissions for quality and accuracy.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">This is a project-based consultant role. Consultants will be paid on a per-project basis; hourly rates are estimates based on anticipated completion time. Consultants control their own schedule, provide their own tools, and may simultaneously provide services to other vendors/employers (subject to those vendors\u2019 allowances).</p><p style=\"min-height:1.5em\"></p><p style=\"min-h",
+    "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/backend-developer-ai-trainer-france-paris-57482",
+    "source": "Arbeitnow",
+    "posted_at": "2026-09-16T01:40:03+00:00",
+    "tags": [
+      "Software Engineering"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "JavaScript"
     ]
   },
   {
@@ -189,27 +225,10 @@
     ]
   },
   {
-    "title": "Full-Stack-Developer (m/w/d) .NET/Angular",
-    "company": "INLOGY GmbH",
-    "location": "Paderborn",
-    "description": "<p><strong>PROBLEML\u00d6SER GESUCHT</strong></p>\n<p>Technische Herausforderungen meistern, innovative L\u00f6sungen entwickeln und echte Probleme unserer Kunden l\u00f6sen: genau das macht die Arbeit bei uns aus.</p>\n<p>Als <strong>Full-Stack-Developer</strong> wirst du Teil eines Teams, das kreative K\u00f6pfe mit Leidenschaft f\u00fcr clevere Softwarel\u00f6sungen vereint. Bei uns findest du die perfekte Mischung aus Eigenverantwortung, Teamwork und der M\u00f6glichkeit, sp\u00fcrbare Mehrwerte zu schaffen.</p>\n<h2>Aufgaben</h2>\n<p><strong>UNSERE CHALLENGE</strong></p>\n<ul>\n<li><strong>Entwickle</strong> komplexe L\u00f6sungen mit C#/.NET und modernen Webtechnologien wie Angular, SignalR oder React \u2013 sowohl eigenst\u00e4ndig als auch im Team</li>\n<li><strong>Integriere</strong> neue Anwendungen und Module in bestehende Systeme und <strong>analysiere</strong> IT-Prozesse sowie Softwarearchitekturen</li>\n<li><strong>Kommuniziere</strong> sicher mit Kunden, <strong>kl\u00e4re</strong> technische Anforderungen und <strong>pr\u00e4sentiere</strong> geeignete L\u00f6sungsans\u00e4tze</li>\n<li><strong>Erstelle</strong> automatisierte Tests (z.\u202fB. Unit- und Integrationstests) und <strong>dokumentiere</strong> Anwendungen sowie Prozesse nachvollziehbar</li>\n<li><strong>Plane</strong> Sprints und <strong>pflege</strong> Backlog-Elemente in Azure DevOps zur effizienten Steuerung der Projektabl\u00e4ufe</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>DEINE L\u00d6SUNGSKOMPETENZ</strong></p>\n<ul>\n<li>Praktische Erfahrungen in der Entwicklung mit .NET (C#) und Angular</li>\n<li>Erste Erfahrungen mit Azure-Services und Docker oder vergleichbaren Technologien</li>\n<li>Flie\u00dfende Deutsch- und Englischkenntnisse f\u00fcr die Kommunikation im Team und mit Kunden</li>\n<li>Strukturierte, eigenst\u00e4ndige und l\u00f6sungsorientierte Arbeitsweise</li>\n<li>Verst\u00e4ndnis f\u00fcr saubere Softwarearchitektur und Testbarkeit)</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>WORAUF DU DICH FREUEN KANNST</strong></p>\n<ul>\n<li>Offene Gehaltsstruktur</li>\n<li>Flexible Arbeitszeiten und Homeoffice</li>\n<li",
-    "url": "https://www.arbeitnow.com/jobs/companies/inlogy-gmbh/full-stack-developer-net-angular-paderborn-437249",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-15T08:30:34+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "React",
-      "Azure"
-    ]
-  },
-  {
     "title": "External Data Specialist",
     "company": "eClinical Solutions",
     "location": "Remote",
-    "description": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud \u00e2\u0080\u0093 the foundation of digital trials. Together, the elluminate platform and digital data services give clients self-service access to all their data from one centralized location plus advanced analytics that help them make smarter, faster business decisions.\n\neClinical Solutions is committed to driving innovation in clinical trials through a better approach to data management and data analytics. We use the eClinical Solutions technology platform, elluminate, throughout the data management process to accelerate timelines for our clients and automate manual processes. We believe in a more agile approach to data management using our core technology elluminate - enabling our life sciences clients to proactively manage their clinical programs and make decisions.\n\nYou will make an<br/><br/>Please mention the word **DECENT** and tag RMTI4LjIwMy4xOTEuMTk0 when applying to show you read the job post completely (#RMTI4LjIwMy4xOTEuMTk0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud \u00e2\u0080\u0093 the foundation of digital trials. Together, the elluminate platform and digital data services give clients self-service access to all their data from one centralized location plus advanced analytics that help them make smarter, faster business decisions.\n\neClinical Solutions is committed to driving innovation in clinical trials through a better approach to data management and data analytics. We use the eClinical Solutions technology platform, elluminate, throughout the data management process to accelerate timelines for our clients and automate manual processes. We believe in a more agile approach to data management using our core technology elluminate - enabling our life sciences clients to proactively manage their clinical programs and make decisions.\n\nYou will make an<br/><br/>Please mention the word **DECENT** and tag RMTcyLjIwOC4xNTIuMjEz when applying to show you read the job post completely (#RMTcyLjIwOC4xNTIuMjEz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
     "source": "RemoteOK",
     "posted_at": "2026-09-10T16:00:15+00:00",
@@ -227,7 +246,7 @@
     "title": "Sales Development Representative Attribute\u00e2\u0084",
     "company": "DoiT",
     "location": "Remote UK",
-    "description": "Our Sales Development Representative will be an integral part of our sales team. This role is fully remote in the EMEA region in the UK, Ireland, the Netherlands, and Sweden.\n\nWho We Are\nDoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state - from planning to production. \n\nDelivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we help our customers solve complex multicloud problems and drive efficiency.\n\nWith decades of multicloud experience, we have specializations in Kubernetes, GenAI, CloudOps, and more. An award-winning strategic partner of AWS, Google Cloud, and Microsoft Azure, we work alongside more than 4,000 customers worldwide. \n\nThe Opportunity\nAs a Sales Development Representative on our Attribute\u00e2\u0084\u00a2 team, you will be responsible for outbound lead generation, including email, calling, and using LinkedIn to book demos with qualified prospects on technical teams. You\u00e2\u0080\u0099ll be on the front line of the sales team, filling the pipeline for closers by focusing on the primary metrics of qualified meetings booked and pipeline generated. We are looking f<br/><br/>Please mention the word **THRIVING** and tag RMTI4LjIwMy4xOTEuMTk0 when applying to show you read the job post completely (#RMTI4LjIwMy4xOTEuMTk0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "Our Sales Development Representative will be an integral part of our sales team. This role is fully remote in the EMEA region in the UK, Ireland, the Netherlands, and Sweden.\n\nWho We Are\nDoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state - from planning to production. \n\nDelivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we help our customers solve complex multicloud problems and drive efficiency.\n\nWith decades of multicloud experience, we have specializations in Kubernetes, GenAI, CloudOps, and more. An award-winning strategic partner of AWS, Google Cloud, and Microsoft Azure, we work alongside more than 4,000 customers worldwide. \n\nThe Opportunity\nAs a Sales Development Representative on our Attribute\u00e2\u0084\u00a2 team, you will be responsible for outbound lead generation, including email, calling, and using LinkedIn to book demos with qualified prospects on technical teams. You\u00e2\u0080\u0099ll be on the front line of the sales team, filling the pipeline for closers by focusing on the primary metrics of qualified meetings booked and pipeline generated. We are looking f<br/><br/>Please mention the word **THRIVING** and tag RMTcyLjIwOC4xNTIuMjEz when applying to show you read the job post completely (#RMTcyLjIwOC4xNTIuMjEz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/",
     "source": "RemoteOK",
     "posted_at": "2026-08-11T08:00:43+00:00",
@@ -271,20 +290,6 @@
     "match_score": 2,
     "matched_skills": [
       "JavaScript"
-    ]
-  },
-  {
-    "title": "Product Designer (m/w/d)",
-    "company": "Lpe Immobilien Management Gmbh",
-    "location": "M\u00fcnchen",
-    "description": "<br><strong>Warum LPE Immobilien?</strong><p><ul><li style=\"font-size:14px;\"><strong>Die Hausverwaltung ist der untersch\u00e4tzteste Beruf Deutschlands:</strong> Kein anderer entscheidet so unmittelbar dar\u00fcber, wie Menschen wohnen. Trotzdem gilt der Hausverwalter bis heute als Buchhalter mit Schl\u00fcsselbund. Wir wollen das \u00e4ndern, und Software ist daf\u00fcr einer unserer zentralen Hebel.</li><li style=\"font-size:14px;\"><strong>Mit lpeOS bauen wir die Systeme, mit denen wir selbst jeden Tag arbeiten:</strong> das Kundenportal f\u00fcr unsere Eigent\u00fcmer, KI-Agenten, die eigenst\u00e4ndig Aufgaben \u00fcbernehmen, und das Verwaltercockpit als Arbeitsumgebung unserer Verwalter. Wir digitalisieren unsere eigenen Prozesse, um die Arbeit unserer Verwalter jeden Tag ein St\u00fcck besser zu machen, mit dem Anspruch, die Branche zu revolutionieren.</li><li style=\"font-size:14px;\"><strong>F\u00fcr Design ist das ein seltener Ausgangspunkt:</strong> Kaum eine Branche wurde von moderner Software so lange \u00fcbersehen. F\u00fcr diese Berufe hat noch nie jemand ernsthaft gestaltet. Du w\u00e4rst die erste Design-Person in unserem neuen Produktteam und baust Design-System und Designprozess mit auf.</li></ul></p><br><strong>Was dich bei uns erwartet \u2013 Deine Aufgaben</strong><p><ul><li style=\"text-align:left;\"><strong>Wir arbeiten als ein Team von Product Engineers</strong>, manche technischer, manche gestalterischer. Du w\u00e4rst die gestalterischste Person, arbeitest aber im selben Repository und Rhythmus wie alle anderen. Was du gestaltest, ist meist wenige Wochen sp\u00e4ter live.</li><li><strong>Du verantwortest den Designprozess von Anfang bis Ende</strong>: Du f\u00fchrst Interviews mit Verwaltern und Eigent\u00fcmern, verdichtest die Erkenntnisse zu Konzepten und gestaltest daraus Interfaces f\u00fcr Kundenportal und Verwaltercockpit. Deine Kolleginnen, Kollegen und Kunden sind direkt erreichbar, Feedback bekommst du auf kurzem und direktem Weg.</li><li><strong>Deine Designs bleiben nicht in Figma</strong>: Mit KI-gest\u00fctzter Entwicklung (React, ",
-    "url": "https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/product-designer-munchen-286640",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-15T11:09:25+00:00",
-    "tags": [],
-    "match_score": 2,
-    "matched_skills": [
-      "React"
     ]
   }
 ]
