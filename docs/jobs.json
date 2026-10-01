@@ -1,24 +1,5 @@
 [
   {
-    "title": "Werkstudent Full-Stack Entwicklung (m/w/d)",
-    "company": "SC Media House",
-    "location": "Munich",
-    "description": "<p>Wir sind eine der f\u00fchrenden Influencer-Marketing-Agenturen Deutschlands und entwickeln authentische, wirkungsvolle Kampagnen f\u00fcr \u00fcber 2.500 Partner-Brands. Gleichzeitig bauen wir unsere eigene App f\u00fcr Influencer-Kooperationen kontinuierlich aus \u2013 mit bereits mehr als 1.000 Nutzer:innen und stetigem Wachstum.</p>\n<p>Statt bei null zu starten, arbeitest du an der Weiterentwicklung eines echten Produkts mit direktem Einfluss auf unsere Nutzer:innen. Dabei entwickelst du neue Features, optimierst bestehende Prozesse und bringst eigene Ideen aktiv ein.</p>\n<p>Als Teil unseres Kernteams \u00fcbernimmst fr\u00fch Verantwortung. Du erh\u00e4ltst viel Freiraum, selbstst\u00e4ndig L\u00f6sungen zu entwickeln, moderne Technologien einzusetzen und die Zukunft unserer Plattform aktiv mitzugestalten. Wenn du Lust hast, in einem innovativen Umfeld an einer skalierenden App mit echtem Praxisbezug zu arbeiten, bist du bei uns genau richtig! \ud83d\ude0a</p>\n<h2>Aufgaben</h2>\n<p>Im Bereich Backend unterst\u00fctzt du bei der</p>\n<ul>\n<li>Entwicklung und Erweiterung unserer REST-API (Node.js / Express)</li>\n<li>Umsetzung von Business-Logik in JavaScript</li>\n<li>Optimierung und beim Schreiben von von SQL-Queries</li>\n<li>Anbindung externer APIs (z.B. CRM, Social APIs)</li>\n<li>Refactoring bestehender Logik in Service-Strukturen</li>\n</ul>\n<p>Im Bereich des Frontend und der App unterst\u00fctzt du bei der</p>\n<ul>\n<li>Feature-Entwicklung mit React (Web)</li>\n<li>Mitarbeit an React Native</li>\n<li>State-Management mit React Query</li>\n<li>Integration von API-Endpunkten</li>\n<li>Validierung komplexer UI-Flows</li>\n</ul>\n<h2>Qualifikation</h2>\n<ul>\n<li>Du bist eingeschriebene:r Student:in im Bereich Informatik oder vergleichbar</li>\n<li>Du besitzt sehr gute Kenntnisse in JavaScript, insbesonderen im Backend mit Node.js</li>\n<li>Du verf\u00fcgst \u00fcber sehr gute Kenntnisse in TypeScript und React oder React Native (Hooks, Komponentenstruktur, API-Integration, State-Handling)</li>\n<li>Du arbeitest selbst\u00e4ndig, strukturiert und l\u00f6sungsorien",
-    "url": "https://www.arbeitnow.com/jobs/companies/sc-media-house/werkstudent-full-stack-entwicklung-munich-196366",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-30T08:30:46+00:00",
-    "tags": [
-      "Remote",
-      "IT"
-    ],
-    "match_score": 6,
-    "matched_skills": [
-      "JavaScript",
-      "React",
-      "SQL"
-    ]
-  },
-  {
     "title": "Sr Solutions Architect",
     "company": "ExtraHop",
     "location": "Remote",
@@ -44,6 +25,58 @@
     "matched_skills": [
       "Python",
       "JavaScript"
+    ]
+  },
+  {
+    "title": "Senior GenAI Solution Engineer (all genders)",
+    "company": "Eraneos",
+    "location": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
+    "description": "<br><strong>What you can expect from us</strong><p>We are a technical, implementation-oriented spin-off of a global management consultancy. Our clients are primarily DAX and Fortune Global 500 companies, which we advise on issues in the areas of analytics, big data and machine learning. Within the group, we take on the development of individual and data-driven solutions in order to transform our clients into AI-powered companies. We offer an international working environment with agile teams and creative startup methods as well as above-average remuneration and numerous additional benefits. With our offices in Hamburg, Munich and D\u00fcsseldorf and our hub locations in all other major German cities (Berlin, Frankfurt and Stuttgart), we ensure that all colleagues are integrated into our team of experts across Germany.<br><br><strong>Your role as a Senior GenAI Solution Engineer:</strong><br><br><ul><li><strong>End-to-End Development:</strong> You drive AI solutions across the full lifecycle - from rapid prototyping and proof-of-concept to deployment in scalable, highly available production environments.</li><li><strong>AI Services Engineering:</strong> You build robust backend services in Python that seamlessly integrate state-of-the-art LLMs and perform reliably under production load.</li><li><strong>Autonomous Agent Architecture:</strong> You design and implement intelligent agent systems that automate real-world workflows through tool calling and memory management, operating safely within defined guardrails.</li><li><strong>Agentic SDLC:</strong> You integrate AI agents into the development lifecycle - from AI-assisted coding and code reviews to automated testing and intelligent documentation - enhancing efficiency across the entire software development process through agentic tools.</li><li><strong>Ensuring Software Excellence:</strong> You take ownership of code quality by applying clean architecture principles, implementing automated testing, and establishing effic",
+    "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-491644",
+    "source": "Arbeitnow",
+    "posted_at": "2026-10-01T11:09:31+00:00",
+    "tags": [
+      "Data Engineer",
+      "Machine Learning",
+      "Software Development",
+      "Python",
+      "Cloud",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Warehousing",
+      "SQL",
+      "Solution Engineering",
+      "GenAI",
+      "KI",
+      "Finance",
+      "Insurance"
+    ],
+    "match_score": 5,
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Agile",
+      "SDLC",
+      "Azure"
+    ]
+  },
+  {
+    "title": "Full Stack Software Engineer (Front-end focus) (m/f/d) | Berlin, Hybrid",
+    "company": "Airteam Aerial Intelligence GmbH",
+    "location": "Berlin",
+    "description": "<p>Airteam is a fast-growing Berlin SaaS startup with an AI-powered cloud platform for roofers and solar planners. Our customers turn simple drone data into actionable 3D models and measurement reports. As a Full Stack Software Engineer with a front-end focus, you'll build the web applications that take projects from drone data acquisition to customer delivery, and help create a digital, climate-neutral product.</p>\n<h2>Tasks</h2>\n<ul>\n<li>Build web applications that manage projects from drone data acquisition to customer delivery</li>\n<li>Work with UI/UX and PMs to ensure technical feasibility of designs and clear, actionable tickets</li>\n<li>Design and implement frontend and backend, integrate both, test and debug</li>\n<li>Maintain and improve our CI/CD pipeline and container-based architecture</li>\n<li>Write automated tests and technical documentation</li>\n<li>Find and fix bugs and performance bottlenecks</li>\n<li>Build reusable code and libraries</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li>Proficient in JavaScript (ES6/7), HTML5, CSS3</li>\n<li>Experience building SPAs with Vue.js</li>\n<li>Experience with Python and Flask or FastAPI</li>\n<li>Knowledge of relational databases (PostgreSQL) and REST API design</li>\n<li>Experience with Docker</li>\n<li>Understanding of unit and functional testing (TDD)</li>\n<li>Comfortable in an agile, product-focused team, with a drive for software craftsmanship and quick learning</li>\n<li>Fluent English (written and spoken), as our team works internationally (German is a plus, but not required)</li>\n</ul>\n<p><strong>Nice-to-have</strong></p>\n<ul>\n<li>TypeScript</li>\n<li>Django and Django Rest Framework</li>\n<li>MongoDB</li>\n<li>Kubernetes</li>\n<li>GCP</li>\n<li>Distributed systems and microservices</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>Hybrid work, workations, and remote work by contract</li>\n<li>Modern working space in the heart of Berlin</li>\n<li>30% contribution towards your pension savings</li>\n<li>Regular team events and workshops",
+    "url": "https://www.arbeitnow.com/jobs/companies/airteam-aerial-intelligence-gmbh/full-stack-software-engineer-front-end-focus-berlin-hybrid-458079",
+    "source": "Arbeitnow",
+    "posted_at": "2026-10-01T10:00:32+00:00",
+    "tags": [
+      "Software Development"
+    ],
+    "match_score": 5,
+    "matched_skills": [
+      "Python",
+      "JavaScript",
+      "Agile"
     ]
   },
   {
@@ -117,54 +150,30 @@
     ]
   },
   {
-    "title": "Junior Backend Developer (Python) (M/W/D) 20H Stellenbeschreibung Read Description Before",
-    "company": "uNaice GmbH",
-    "location": "Werther",
-    "description": "<p>uNaice ist Pionier im Bereich der automatisierten Contentproduktion und automatisierten Datenaufbereitung und -anreicherung.</p>\n<p>Wir entwickeln Kunden, die sich auf der Welle der Digitalisierung befinden. Unsere Kunden sind u.A. Top-Player im E-Commerce wie adidas, Wago, TUI, C&#x26;A, aber auch Verlage wie Neue Westf\u00e4lische Zeitung, Volksstimme und vor allem internationale Hersteller, mit sehr gro\u00dfen Datenmengen und Bedarf an internationalem Content.</p>\n<p>Unsere Arbeit versetzt die Pioniere der Branche in die Lage, automatisiert Daten und/ooder Content zu normieren, zu gl\u00e4tten, zu strukurieren und anzureichern und dies alles vollautomatisch. Kurz gesagt: Wir k\u00f6nnen aus Texten Datens\u00e4tze mit Attributen und Attributswerten machen, oder aus Daten auf Knopfdruck unique, conversionstarke und SEO-relevante Produktbeschreibungen und Kategorieseiten erstellen und publizieren. Und das in 110 Sprachen.</p>\n<p><strong>Zur Verst\u00e4rkung unseres Teams suchen wir einen Entwickler/Developer f\u00fcr 20h in Festanstellung.</strong></p>\n<p><strong>Dein gemeldeter Wohnsitz ist in Deutschland. Du arbeitest auch in Deutschland.</strong></p>\n<p><strong>Dein Anschreiben w\u00fcnschen wir uns in deutscher Sprache.</strong></p>\n<p><strong>Du sprichst Deutsch und Englisch flie\u00dfend.</strong></p>\n<h2>Aufgaben</h2>\n<p>Deine Aufgaben</p>\n<p>Als Junior Backend Developer, mit gleichzeitigen Kenntnissen in React, wirkst du aktiv mit bei der Weiterentwicklung unseres Backends rund um DataContentNaicer. Zu deinen Aufgaben geh\u00f6ren:</p>\n<ul>\n<li>Entwicklung und Wartung von Backend\u2011Services mit Python (z.\u202fB. REST / GraphQL APIs)</li>\n<li>Integration und Verarbeitung von Datenquellen (verschiedene Formate wie JSON, CSV, XML etc.)</li>\n<li>Aufbau und Optimierung von Datenpipelines &#x26; Datenmodellierung (Datenbereinigung, Attribut/Auswahl von Feature\u2011Parametern etc.)</li>\n<li>Zusammenarbeit mit dem Frontend-Team: Sicherstellen, dass APIs performant, stabil und gut dokumentiert sind</li>\n<li>Schreiben von ",
-    "url": "https://www.arbeitnow.com/jobs/companies/unaice-gmbh/junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-140541",
+    "title": "Werkstudent (m/w/d) \u2013 Finance Process Automatisation bis zu 20 Stunden/Woche",
+    "company": "Ecotel",
+    "location": "D\u00fcsseldorf",
+    "description": "<br><strong>MIT DIR GEMEINSAM: DIE ZUKUNFT BEWEGEN!</strong><p><strong><span style=\"color:rgb(243,121,52);\">Sammle Praxiserfahrung in Finance &amp; Digitalisierung \u2013 mitten in der Prozessautomatisierung</span></strong><br><strong>\u00a0</strong><br>Du studierst Informatik, Wirtschaftsinformatik, Mathematik, Data Science, BWL oder einen vergleichbaren Studiengang und m\u00f6chtest dein theoretisches Wissen endlich in der Praxis anwenden? Du interessierst dich f\u00fcr Daten, digitale Prozesse und Automatisierung, arbeitest strukturiert und m\u00f6chtest Teil eines motivierten Teams werden? Dann bist du bei uns genau richtig.<br>\u00a0<br>Bei ecotel arbeitest du nicht nur mit \u2013 du gestaltest mit. Als Werkstudent unterst\u00fctzt du unser Team im Bereich Commissions im operativen Tagesgesch\u00e4ft und erh\u00e4ltst spannende Einblicke in die Automatisierung von Finanzprozessen. Dabei arbeitest du mit Daten, unterst\u00fctzt bei bestehenden Prozessen und lernst moderne Technologien und Schnittstellen kennen.<br>\u00a0<br><strong><span style=\"color:rgb(243,121,52);\">Das erwartet dich</span></strong><br>\u00a0<br>Als Werkstudent unterst\u00fctzt du unser Team bei der Durchf\u00fchrung, \u00dcberwachung und Weiterentwicklung automatisierter Prozesse im Finanzbereich. Dabei \u00fcbernimmst du klar definierte Aufgaben im Tagesgesch\u00e4ft und arbeitest an kleineren Daten- und Automatisierungsthemen mit.<br>\u00a0<br>Unter anderem unterst\u00fctzt du bei:<br>\u00a0<ul><li>Pflege und \u00dcberwachung bestehender ETL-Prozesse sowie automatisierter Abl\u00e4ufe</li><li>Durchf\u00fchrung von Datenvalidierungen, Tests und Qualit\u00e4tspr\u00fcfungen</li><li>Unterst\u00fctzung bei Monatsabschlussprozessen und Ad-hoc-Anfragen</li><li>Mitarbeit an Automatisierungen mit Python, SQL und REST-APIs</li><li>Aufbereitung von Reports und Pflege technischer Dokumentationen</li></ul>\u00a0<br><strong><span style=\"color:rgb(243,121,52);\">Das bringst du mit</span></strong><br><strong>\u00a0</strong><ul><li>Laufendes Studium der (Wirtschafts-)Informatik, Mathematik, Data Science, BWL oder eines vergleichbaren Studiengangs</l",
+    "url": "https://www.arbeitnow.com/jobs/companies/ecotel/werkstudent-finance-process-automatisation-bis-zu-20-stunden-woche-dusseldorf-207957",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-30T10:00:42+00:00",
+    "posted_at": "2026-10-01T11:09:18+00:00",
     "tags": [
-      "Remote",
-      "Software Development"
+      "Werkstudent",
+      "IT",
+      "Finance",
+      "Entwicklung",
+      "Software",
+      "Billing",
+      "Programmierung",
+      "SQL",
+      "Python",
+      "D\u00fcsseldorf",
+      "KI",
+      "Automatisierung"
     ],
     "match_score": 4,
     "matched_skills": [
       "Python",
-      "React"
-    ]
-  },
-  {
-    "title": "Software Engineer I",
-    "company": "tripadvisor",
-    "location": "Oxford",
-    "description": "&lt;div&gt;\n&lt;div class=&quot;attachment-overlay preview&quot;&gt;\n&lt;div id=&quot;viewer-container&quot;&gt;\n&lt;div id=&quot;canvas-container&quot;&gt;\n&lt;div id=&quot;viewer&quot; class=&quot;pdfViewer&quot;&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;p&gt;&lt;strong&gt;About Tripadvisor&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world\u2019s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other travel categories. The subsidiaries of Tripadvisor, Inc. (Nasdaq: TRIP), include a portfolio of travel brands and businesses, including Tripadvisor, Viator, and TheFork.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Tripadvisor Experiences Engineering&lt;/strong&gt; is the team that builds and supports the &lt;strong&gt;world&#39;s leading marketplace for travel experiences&lt;/strong&gt;. We believe that making memories is what travel is all about. And with 400,000+ travel experiences to explore\u2014everything from simple tours to extreme adventures (and everything in between) \u2014making memories that will last a lifetime has never been easier.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We\u2019re looking for a curious, high-potential&lt;strong&gt; Software Engineer I&lt;/strong&gt; to join our Experiences Engineering team. This is a junior,&lt;strong&gt; full-stack&lt;/strong&gt; role, working with &lt;strong&gt;Java, SQL, React, AWS and AI tools&lt;/strong&gt;. It\u2019s designed for engineers who have strong fundamentals and are hungry to grow in a fast-paced, product-driven environment. If you love the idea of shipping code to millions of travelers and want to learn how to build at scale, this is the place for you!&",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/software-engineer-i-oxford-203689",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-30T09:55:08+00:00",
-    "tags": [
-      "Engineering & Technology"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "React",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Software Engineer I",
-    "company": "tripadvisor",
-    "location": "London",
-    "description": "&lt;div&gt;\n&lt;div class=&quot;attachment-overlay preview&quot;&gt;\n&lt;div id=&quot;viewer-container&quot;&gt;\n&lt;div id=&quot;canvas-container&quot;&gt;\n&lt;div id=&quot;viewer&quot; class=&quot;pdfViewer&quot;&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;p&gt;&lt;strong&gt;About Tripadvisor&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world\u2019s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other travel categories. The subsidiaries of Tripadvisor, Inc. (Nasdaq: TRIP), include a portfolio of travel brands and businesses, including Tripadvisor, Viator, and TheFork.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Tripadvisor Experiences Engineering&lt;/strong&gt; is the team that builds and supports the &lt;strong&gt;world&#39;s leading marketplace for travel experiences&lt;/strong&gt;. We believe that making memories is what travel is all about. And with 400,000+ travel experiences to explore\u2014everything from simple tours to extreme adventures (and everything in between) \u2014making memories that will last a lifetime has never been easier.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We\u2019re looking for a curious, high-potential&lt;strong&gt; Software Engineer I&lt;/strong&gt; to join our Experiences Engineering team. This is a junior,&lt;strong&gt; full-stack&lt;/strong&gt; role, working with &lt;strong&gt;Java, SQL, React, AWS and AI tools&lt;/strong&gt;. It\u2019s designed for engineers who have strong fundamentals and are hungry to grow in a fast-paced, product-driven environment. If you love the idea of shipping code to millions of travelers and want to learn how to build at scale, this is the place for you!&",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/software-engineer-i-london-147102",
-    "source": "Arbeitnow",
-    "posted_at": "2026-09-30T09:55:08+00:00",
-    "tags": [
-      "Engineering & Technology"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "React",
       "SQL"
     ]
   },
@@ -172,7 +181,7 @@
     "title": "AI agent engineer",
     "company": "Sticker Mule",
     "location": "Remote",
-    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ul><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess AI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on AI capabilities to help them perform.</p></li></ul><div><br /></div><p><strong>Requirements</strong></p><ul><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ul><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag RMjAuMTY4LjEyNy44OA== when applying to show you read the job post completely (#RMjAuMTY4LjEyNy44OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ul><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess AI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on AI capabilities to help them perform.</p></li></ul><div><br /></div><p><strong>Requirements</strong></p><ul><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ul><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag RMTM1LjExOS4yMzkuNTQ= when applying to show you read the job post completely (#RMTM1LjExOS4yMzkuNTQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
     "source": "RemoteOK",
     "posted_at": "2026-09-16T12:44:27+00:00",
@@ -221,20 +230,62 @@
     ]
   },
   {
-    "title": "Python Software Engineer - Digital Assets",
-    "company": "Imc",
-    "location": "Zug",
-    "description": "&lt;p&gt;IMC has a strong presence in traditional Finance and has been expanding into Crypto over the last years. Through its overseas affiliates, IMC provides liquidity and trades on many cryptocurrency exchanges and DeFi protocols. You can expect a dynamic, fast-paced environment that delivers a steady stream of challenges and opportunities, with one of the most exciting aspects of the job being our quick feedback loop in the research, development and deployment of strategies.&lt;/p&gt;\n&lt;p&gt;As a Python Software Engineer, you will work closely with our trading and engineering teams on a variety of applications, tools and automation projects. You\u2019ll be placed in an environment consisting primarily of a large Python analysis ecosystem drawing data from various sources including our own trading systems. You\u2019ll build analysis &amp;amp; visualisation tools at the heart of the business logic, in close collaboration with the traders who use them. Your work involves both interpreting ideas, coming up with your own, and efficiently implementing these into tools that are reliable, scalable and performant.&lt;/p&gt;\n&lt;p&gt;Together with traders, researchers and engineers, you deliver challenging projects, while taking ownership for end-to-end product development \u2013 from requirements gathering to production. You\u2019ll write reliable and scalable software while balancing time to production with quality and testability. Advanced automated testing and daily deployments will allow you to achieve agile and incremental benefits. Within a complex landscape of varying systems and technologies, you\u2019ll be constantly challenged to consider trade-offs between throughput, simplicity, scalability and maintainability.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Your Core Responsibilities:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Collaborate closely with researchers, and engineers to deliver challenging projects.&lt;/li&gt;\n&lt;li&gt;Build, maintain, and e",
-    "url": "https://www.arbeitnow.ch/jobs/companies/imc/python-software-engineer-digital-assets-zug-495607",
+    "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+    "company": "Auralis Group",
+    "location": "Markt Indersdorf",
+    "description": "<p>Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 80 MA, und suchen nun weiterhin Verst\u00e4rkung, um Java-Projekte bei unseren Kunden durchzuf\u00fchren.</p>\n<h2>Aufgaben</h2>\n<p>Du willst:</p>\n<ul>\n<li>Deine Arbeitszeiten selbst bestimmen?</li>\n<li>von zuhause aus arbeiten (remote)?</li>\n<li>den n\u00e4chsten Schritt in Deiner Karriere gehen und lernen, wie man Teams leitet und ein Unternehmen f\u00fchrt?</li>\n<li>einen Arbeitgeber, der Dich leistungs- und ergebnisorientiert bezahlt?</li>\n</ul>\n<h2>Qualifikation</h2>\n<p>Du:</p>\n<ul>\n<li>bist seit 5 Jahren in Vollzeit berufst\u00e4tig im Bereich Softwareentwicklung?</li>\n<li>hast einen starken Fokus auf eine oder mehrere Programmiersprachen wie z.B. Java (Spring Boot), oder Kotlin und bist dort ein absoluter Experte?</li>\n<li>hast Erfahrung in Cloud-Infrastrukturen und Deployment-Prozessen gesammelt?</li>\n<li>bringst Erfahrung in einem der gro\u00dfen Cloud-Dienstleister (AWS, Azure, GCP) mit?</li>\n<li>bringst Erfahrung im Frontend (Angular, React, oder Vue) mit?</li>\n<li>bist nicht kontaktscheu und kommunikationsfreudig?</li>\n<li>bist gesegnet mit einem Growth Mindset und willst im Leben immer weiterkommen?</li>\n<li>bist \u00fcberzeugt davon, dass Dein Potenzial noch lange nicht ausgesch\u00f6pft ist?</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>Fixum: 60.000 \u20ac - 75.000 \u20ac</li>\n<li>Zielgehalt: 70.000 \u20ac - 85.000 \u20ac (Umsatzbeteiligung an eigenem Umsatz, quartalsweise Aussch\u00fcttung)</li>\n<li>30 Tage Urlaub</li>\n<li>IT Equipment deiner Wahl (Mac, Linux, Windows)</li>\n<li>Gelebter interner Expertenaustausch und Support</li>\n<li>Flexible Arbeitszeit und 95% - 100% Homeoffice (abh\u00e4ngig vom Kunden)</li>\n<li>Remote-Arbeit im Ausland (GF war Co-Founder von rhome)</li>\n</ul>\n<p>Melde Dich bei uns!</p>\n<p>Wir sind eine Gruppe von jungen und hungrigen Entwicklern, die gemeinsam die Firma betreiben, in der wir immer arbeiten wollten, die aber nicht existent war!</p>\n<p>Wir:</p>\n<ul>\n<li>unterst\u00fctzen unsere Kunden in Software Development Projekten</li>\n<li>bauen St",
+    "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-336691",
     "source": "Arbeitnow",
-    "posted_at": "2026-09-28T14:55:07+00:00",
+    "posted_at": "2026-10-01T10:00:29+00:00",
     "tags": [
-      "Development (Group)"
+      "Remote",
+      "Software Development"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "React",
+      "Azure"
+    ]
+  },
+  {
+    "title": "Team Lead AI Engineering (f/m/d)",
+    "company": "Vestigas",
+    "location": "M\u00fcnchen (Hybrid)",
+    "description": "<br><strong>We're digitizing the construction industry \u2013 are you in?</strong><p>At VESTIGAS, you build the digital backbone of the construction supply chain. We turn purchase orders, delivery notes, and invoices into a digital, legally compliant platform used in everyday operations by construction companies and suppliers. You\u2019ll work on a product with real market traction in the DACH mid-market, ship iteratively, and take ownership of solutions that must work in the field\u2014not just in theory.</p><br><strong>Your Role</strong><p>As Team Lead \u2013 AI Engineering, you'll own the AI infrastructure and capabilities that power our supply chain platform end to end \u2013 from pipeline design to production deployment. You bring prior leadership experience and are ready to lead a team of AI engineers: setting technical direction, growing your team's capabilities, and making sure the team consistently delivers reliable, scalable AI systems.<br><br><span style=\"font-size:18px;\">The Technical Challenge</span>Your team will tackle problems like extracting structured data reliably from many different documents, building uncertainty estimation so the system knows when to flag a document for human review instead of silently guessing, and automatically reconciling purchase orders, delivery notes, and invoices against each other \u2013 all within legal and compliance requirements that leave no room for \"close enough.\" This is a domain where clean benchmark metrics mean far less than robustness against real documents nobody has seen before \u2013 and you'll set the technical direction for how the team navigates that trade-off, deciding where to push automation further and where human review still matters.</p><br><strong>Your Mission</strong><p><ul><li>Lead and long-term grow a team of AI engineers, providing both strategical technical direction and people leadership</li><li>Own MLOps processes and infrastructure, ensuring our AI systems are reliable, scalable, and secure</li><li>Drive the design and imp",
+    "url": "https://www.arbeitnow.com/jobs/companies/vestigas/team-lead-ai-engineering-munchen-hybrid-246369",
+    "source": "Arbeitnow",
+    "posted_at": "2026-10-01T08:09:25+00:00",
+    "tags": [
+      "MLOps",
+      "Machine Learning",
+      "End-to-end ML lifecycle",
+      "Natural Language Processing (NLP)",
+      "Image Processing / Computer Vision",
+      "Python",
+      "Azure",
+      "Terraform",
+      "Generative AI",
+      "OCR",
+      "AI Agents",
+      "Data Pipelines",
+      "Production Deployment",
+      "Uncertainty Estimation",
+      "Testin",
+      "clean code",
+      "Claude",
+      "cursor",
+      "chatgpt",
+      "AI tools",
+      "Leadership",
+      "Management",
+      "People Management",
+      "managing engineers",
+      "technical strategy"
     ],
     "match_score": 3,
     "matched_skills": [
       "Python",
-      "Agile"
+      "Azure"
     ]
   }
 ]
