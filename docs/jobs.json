@@ -28,58 +28,6 @@
     ]
   },
   {
-    "title": "Senior GenAI Solution Engineer (all genders)",
-    "company": "Eraneos",
-    "location": "Hamburg, M\u00fcnchen, D\u00fcsseldorf, remote",
-    "description": "<br><strong>What you can expect from us</strong><p>We are a technical, implementation-oriented spin-off of a global management consultancy. Our clients are primarily DAX and Fortune Global 500 companies, which we advise on issues in the areas of analytics, big data and machine learning. Within the group, we take on the development of individual and data-driven solutions in order to transform our clients into AI-powered companies. We offer an international working environment with agile teams and creative startup methods as well as above-average remuneration and numerous additional benefits. With our offices in Hamburg, Munich and D\u00fcsseldorf and our hub locations in all other major German cities (Berlin, Frankfurt and Stuttgart), we ensure that all colleagues are integrated into our team of experts across Germany.<br><br><strong>Your role as a Senior GenAI Solution Engineer:</strong><br><br><ul><li><strong>End-to-End Development:</strong> You drive AI solutions across the full lifecycle - from rapid prototyping and proof-of-concept to deployment in scalable, highly available production environments.</li><li><strong>AI Services Engineering:</strong> You build robust backend services in Python that seamlessly integrate state-of-the-art LLMs and perform reliably under production load.</li><li><strong>Autonomous Agent Architecture:</strong> You design and implement intelligent agent systems that automate real-world workflows through tool calling and memory management, operating safely within defined guardrails.</li><li><strong>Agentic SDLC:</strong> You integrate AI agents into the development lifecycle - from AI-assisted coding and code reviews to automated testing and intelligent documentation - enhancing efficiency across the entire software development process through agentic tools.</li><li><strong>Ensuring Software Excellence:</strong> You take ownership of code quality by applying clean architecture principles, implementing automated testing, and establishing effic",
-    "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-491644",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-01T11:09:31+00:00",
-    "tags": [
-      "Data Engineer",
-      "Machine Learning",
-      "Software Development",
-      "Python",
-      "Cloud",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Warehousing",
-      "SQL",
-      "Solution Engineering",
-      "GenAI",
-      "KI",
-      "Finance",
-      "Insurance"
-    ],
-    "match_score": 5,
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "Agile",
-      "SDLC",
-      "Azure"
-    ]
-  },
-  {
-    "title": "Full Stack Software Engineer (Front-end focus) (m/f/d) | Berlin, Hybrid",
-    "company": "Airteam Aerial Intelligence GmbH",
-    "location": "Berlin",
-    "description": "<p>Airteam is a fast-growing Berlin SaaS startup with an AI-powered cloud platform for roofers and solar planners. Our customers turn simple drone data into actionable 3D models and measurement reports. As a Full Stack Software Engineer with a front-end focus, you'll build the web applications that take projects from drone data acquisition to customer delivery, and help create a digital, climate-neutral product.</p>\n<h2>Tasks</h2>\n<ul>\n<li>Build web applications that manage projects from drone data acquisition to customer delivery</li>\n<li>Work with UI/UX and PMs to ensure technical feasibility of designs and clear, actionable tickets</li>\n<li>Design and implement frontend and backend, integrate both, test and debug</li>\n<li>Maintain and improve our CI/CD pipeline and container-based architecture</li>\n<li>Write automated tests and technical documentation</li>\n<li>Find and fix bugs and performance bottlenecks</li>\n<li>Build reusable code and libraries</li>\n</ul>\n<h2>Requirements</h2>\n<ul>\n<li>Proficient in JavaScript (ES6/7), HTML5, CSS3</li>\n<li>Experience building SPAs with Vue.js</li>\n<li>Experience with Python and Flask or FastAPI</li>\n<li>Knowledge of relational databases (PostgreSQL) and REST API design</li>\n<li>Experience with Docker</li>\n<li>Understanding of unit and functional testing (TDD)</li>\n<li>Comfortable in an agile, product-focused team, with a drive for software craftsmanship and quick learning</li>\n<li>Fluent English (written and spoken), as our team works internationally (German is a plus, but not required)</li>\n</ul>\n<p><strong>Nice-to-have</strong></p>\n<ul>\n<li>TypeScript</li>\n<li>Django and Django Rest Framework</li>\n<li>MongoDB</li>\n<li>Kubernetes</li>\n<li>GCP</li>\n<li>Distributed systems and microservices</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>Hybrid work, workations, and remote work by contract</li>\n<li>Modern working space in the heart of Berlin</li>\n<li>30% contribution towards your pension savings</li>\n<li>Regular team events and workshops",
-    "url": "https://www.arbeitnow.com/jobs/companies/airteam-aerial-intelligence-gmbh/full-stack-software-engineer-front-end-focus-berlin-hybrid-458079",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-01T10:00:32+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 5,
-    "matched_skills": [
-      "Python",
-      "JavaScript",
-      "Agile"
-    ]
-  },
-  {
     "title": "Frontend Engineer",
     "company": "Bjak",
     "location": "Singapore",
@@ -150,27 +98,31 @@
     ]
   },
   {
-    "title": "Werkstudent (m/w/d) \u2013 Finance Process Automatisation bis zu 20 Stunden/Woche",
-    "company": "Ecotel",
-    "location": "D\u00fcsseldorf",
-    "description": "<br><strong>MIT DIR GEMEINSAM: DIE ZUKUNFT BEWEGEN!</strong><p><strong><span style=\"color:rgb(243,121,52);\">Sammle Praxiserfahrung in Finance &amp; Digitalisierung \u2013 mitten in der Prozessautomatisierung</span></strong><br><strong>\u00a0</strong><br>Du studierst Informatik, Wirtschaftsinformatik, Mathematik, Data Science, BWL oder einen vergleichbaren Studiengang und m\u00f6chtest dein theoretisches Wissen endlich in der Praxis anwenden? Du interessierst dich f\u00fcr Daten, digitale Prozesse und Automatisierung, arbeitest strukturiert und m\u00f6chtest Teil eines motivierten Teams werden? Dann bist du bei uns genau richtig.<br>\u00a0<br>Bei ecotel arbeitest du nicht nur mit \u2013 du gestaltest mit. Als Werkstudent unterst\u00fctzt du unser Team im Bereich Commissions im operativen Tagesgesch\u00e4ft und erh\u00e4ltst spannende Einblicke in die Automatisierung von Finanzprozessen. Dabei arbeitest du mit Daten, unterst\u00fctzt bei bestehenden Prozessen und lernst moderne Technologien und Schnittstellen kennen.<br>\u00a0<br><strong><span style=\"color:rgb(243,121,52);\">Das erwartet dich</span></strong><br>\u00a0<br>Als Werkstudent unterst\u00fctzt du unser Team bei der Durchf\u00fchrung, \u00dcberwachung und Weiterentwicklung automatisierter Prozesse im Finanzbereich. Dabei \u00fcbernimmst du klar definierte Aufgaben im Tagesgesch\u00e4ft und arbeitest an kleineren Daten- und Automatisierungsthemen mit.<br>\u00a0<br>Unter anderem unterst\u00fctzt du bei:<br>\u00a0<ul><li>Pflege und \u00dcberwachung bestehender ETL-Prozesse sowie automatisierter Abl\u00e4ufe</li><li>Durchf\u00fchrung von Datenvalidierungen, Tests und Qualit\u00e4tspr\u00fcfungen</li><li>Unterst\u00fctzung bei Monatsabschlussprozessen und Ad-hoc-Anfragen</li><li>Mitarbeit an Automatisierungen mit Python, SQL und REST-APIs</li><li>Aufbereitung von Reports und Pflege technischer Dokumentationen</li></ul>\u00a0<br><strong><span style=\"color:rgb(243,121,52);\">Das bringst du mit</span></strong><br><strong>\u00a0</strong><ul><li>Laufendes Studium der (Wirtschafts-)Informatik, Mathematik, Data Science, BWL oder eines vergleichbaren Studiengangs</l",
-    "url": "https://www.arbeitnow.com/jobs/companies/ecotel/werkstudent-finance-process-automatisation-bis-zu-20-stunden-woche-dusseldorf-207957",
+    "title": "Forward Deployed Engineer (m/w/d)",
+    "company": "AlphaPrompt",
+    "location": "Munich",
+    "description": "<p>AlphaPrompt ist ein M\u00fcnchner B2B-Software-Startup f\u00fcr die institutionelle Immobilienwirtschaft. Wir bauen die Intelligente Immobilienakte: einen intelligenten Datenraum, der Dokumente automatisch klassifiziert, ausliest und mit nachvollziehbaren Quellen strukturiert, und einen Agentic Workspace, in dem KI-Agenten Pr\u00fcfungen und Workflows \u00fcbernehmen \u2013 von Mietvertr\u00e4gen \u00fcber Nebenkostenabrechnungen bis zur \u00dcbergabe in Drittsysteme. Unsere Kunden sind Asset- und Property-Manager im DACH-Raum, die t\u00e4glich damit arbeiten.</p>\n<h2>Aufgaben</h2>\n<p>Deine Rolle</p>\n<p>Du bist die technische Person, die unsere Kunden kennen. Du bringst neue Kunden und Objekte auf die Plattform, konfigurierst Datenr\u00e4ume und Agenten-Workflows f\u00fcr ihren Anwendungsfall, stimmst Ergebnisse mit ihnen ab und kl\u00e4rst R\u00fcckfragen \u2013 ohne Umweg \u00fcber ein Support-Team. Wo die Plattform nicht reicht, baust du selbst: Anbindungen, Importe, Konfigurationen, kleinere Features und die Integration der KI-Funktionen unseres AI-Teams. Und weil du siehst, was Kunden immer wieder brauchen, machst du aus Einzell\u00f6sungen Standard im Produkt. Du arbeitest eng mit den Gr\u00fcndern und unserem Lead-Entwickler zusammen.</p>\n<p>Was du bei uns machst</p>\n<ul>\n<li>Kunden-Onboarding verantworten: Datenr\u00e4ume aufsetzen, Dokumente einspielen, Metadaten und Workflows konfigurieren \u2013 und das Setup Schritt f\u00fcr Schritt automatisieren.</li>\n<li>In Terminen mit Asset- und Property-Managern Anforderungen aufnehmen, Ergebnisse zeigen und entscheiden, was konfiguriert, gebaut oder abgelehnt wird.</li>\n<li>Selbst \u00fcber den ganzen Stack bauen \u2013 Backend in Python, Frontend in React: Importe, Exporte, Anbindungen an Drittsysteme wie SharePoint, kundenspezifische Erweiterungen.</li>\n<li>KI-Agenten unseres AI-Teams beim Kunden in Betrieb nehmen und ihre Ergebnisse an echten deutschen Dokumenten pr\u00fcfen: Mietvertr\u00e4ge, Nebenkostenabrechnungen, Wartungsprotokolle.</li>\n<li>Kundenfeedback ins Produkt zur\u00fcckspielen: Muster erkennen, sauber beschreiben u",
+    "url": "https://www.arbeitnow.com/jobs/companies/alphaprompt/forward-deployed-engineer-munich-175201",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-01T11:09:18+00:00",
+    "posted_at": "2026-10-02T09:31:10+00:00",
     "tags": [
-      "Werkstudent",
-      "IT",
-      "Finance",
-      "Entwicklung",
-      "Software",
-      "Billing",
-      "Programmierung",
-      "SQL",
-      "Python",
-      "D\u00fcsseldorf",
-      "KI",
-      "Automatisierung"
+      "Software Development"
     ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "title": "Working Student - Data & Financial Research eCommerce (m/f/d)",
+    "company": "Ecdb Gmbh Latest",
+    "location": "Hamburg",
+    "description": "<br><strong>About us</strong><p>ECDB GmbH is an e-commerce market intelligence provider founded in 2022. The company collects and analyzes worldwide e-commerce transaction data, enriched with comprehensive information on online retailers, countries, regions, and markets, to generate structured insights into the development of global digital commerce. Based on these data-driven analyses, ECDB enables companies to better understand market dynamics, benchmark performance against competitors, and support strategic decision-making within the international e-commerce landscape.</p><br><strong>Tasks</strong><p>As a Working Student\u00a0(m/f/d)\u00a0in our Data team, you help us build and\u00a0maintain\u00a0high-quality company data for the e-commerce market:\u00a0<br><ul><li><span><span>Research financial information on online retailers from annual reports, balance sheets and other public sources</span></span></li><li><span><span>Systematically collect and validate financial KPIs such as revenue data</span></span></li><li><span><span>Analyze company figures and help model revenue estimates</span></span></li><li><span><span>Research market and economic topics for our analysts</span></span></li><li><span><span>Help improve our research processes and product</span></span></li></ul></p><br><strong>Requirements</strong><p><ul><li><span><span>Enrolled in a German university, majoring in Accounting, Finance, Business Administration, or a comparable field</span></span></li><li><span><span>Fluent in English,\u202fGerman is a\u202fplus</span></span></li><li><span><span>Structured, precise way of working and a good eye for data quality</span></span></li><li><span><span>Proficient in Microsoft Office, particularly Excel</span></span></li><li><span><span>Familiarity with annual reports, balance sheets,\u202fand financial terminology is a plus</span></span></li><li><span><span>First programming experience(e.g.,\u202fExcel VBA, Python, SQL) are a plus</span></span></li><li><span><span>15 - 17.5 hours per week, for at least 12 month",
+    "url": "https://www.arbeitnow.com/jobs/companies/ecdb-gmbh-latest/working-student-data-financial-research-ecommerce-hamburg-283150",
+    "source": "Arbeitnow",
+    "posted_at": "2026-10-02T08:09:12+00:00",
+    "tags": [],
     "match_score": 4,
     "matched_skills": [
       "Python",
@@ -181,7 +133,7 @@
     "title": "AI agent engineer",
     "company": "Sticker Mule",
     "location": "Remote",
-    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ul><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess AI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on AI capabilities to help them perform.</p></li></ul><div><br /></div><p><strong>Requirements</strong></p><ul><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ul><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag RMTM1LjExOS4yMzkuNTQ= when applying to show you read the job post completely (#RMTM1LjExOS4yMzkuNTQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ul><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess AI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on AI capabilities to help them perform.</p></li></ul><div><br /></div><p><strong>Requirements</strong></p><ul><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ul><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag RMTcyLjIxNC45OS4xMw== when applying to show you read the job post completely (#RMTcyLjIxNC45OS4xMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
     "source": "RemoteOK",
     "posted_at": "2026-09-16T12:44:27+00:00",
@@ -230,62 +182,60 @@
     ]
   },
   {
-    "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
-    "company": "Auralis Group",
-    "location": "Markt Indersdorf",
-    "description": "<p>Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 80 MA, und suchen nun weiterhin Verst\u00e4rkung, um Java-Projekte bei unseren Kunden durchzuf\u00fchren.</p>\n<h2>Aufgaben</h2>\n<p>Du willst:</p>\n<ul>\n<li>Deine Arbeitszeiten selbst bestimmen?</li>\n<li>von zuhause aus arbeiten (remote)?</li>\n<li>den n\u00e4chsten Schritt in Deiner Karriere gehen und lernen, wie man Teams leitet und ein Unternehmen f\u00fchrt?</li>\n<li>einen Arbeitgeber, der Dich leistungs- und ergebnisorientiert bezahlt?</li>\n</ul>\n<h2>Qualifikation</h2>\n<p>Du:</p>\n<ul>\n<li>bist seit 5 Jahren in Vollzeit berufst\u00e4tig im Bereich Softwareentwicklung?</li>\n<li>hast einen starken Fokus auf eine oder mehrere Programmiersprachen wie z.B. Java (Spring Boot), oder Kotlin und bist dort ein absoluter Experte?</li>\n<li>hast Erfahrung in Cloud-Infrastrukturen und Deployment-Prozessen gesammelt?</li>\n<li>bringst Erfahrung in einem der gro\u00dfen Cloud-Dienstleister (AWS, Azure, GCP) mit?</li>\n<li>bringst Erfahrung im Frontend (Angular, React, oder Vue) mit?</li>\n<li>bist nicht kontaktscheu und kommunikationsfreudig?</li>\n<li>bist gesegnet mit einem Growth Mindset und willst im Leben immer weiterkommen?</li>\n<li>bist \u00fcberzeugt davon, dass Dein Potenzial noch lange nicht ausgesch\u00f6pft ist?</li>\n</ul>\n<h2>Benefits</h2>\n<ul>\n<li>Fixum: 60.000 \u20ac - 75.000 \u20ac</li>\n<li>Zielgehalt: 70.000 \u20ac - 85.000 \u20ac (Umsatzbeteiligung an eigenem Umsatz, quartalsweise Aussch\u00fcttung)</li>\n<li>30 Tage Urlaub</li>\n<li>IT Equipment deiner Wahl (Mac, Linux, Windows)</li>\n<li>Gelebter interner Expertenaustausch und Support</li>\n<li>Flexible Arbeitszeit und 95% - 100% Homeoffice (abh\u00e4ngig vom Kunden)</li>\n<li>Remote-Arbeit im Ausland (GF war Co-Founder von rhome)</li>\n</ul>\n<p>Melde Dich bei uns!</p>\n<p>Wir sind eine Gruppe von jungen und hungrigen Entwicklern, die gemeinsam die Firma betreiben, in der wir immer arbeiten wollten, die aber nicht existent war!</p>\n<p>Wir:</p>\n<ul>\n<li>unterst\u00fctzen unsere Kunden in Software Development Projekten</li>\n<li>bauen St",
-    "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-336691",
+    "title": "AI First Data Engineer",
+    "company": "isolutions",
+    "location": "Z\u00fcrich",
+    "description": "<br><strong>Was erwartet dich bei uns?</strong><p><ul style=\"color:#003854;font-size:14px;font-family:Arial, Helvetica, sans-serif;\"><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Weiterbildung ab Tag 1</strong>: Wir unterst\u00fctzen dich zeitlich und finanziell bei deiner pers\u00f6nlichen und fachlichen Entwicklung.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Starke Unternehmenskultur</strong>: Offene Kommunikation, Hilfsbereitschaft, authentische Zusammenarbeit und ein echtes Learn-it-all-Mindset.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>New Work leben</strong>: Flexible Arbeitsorte, Workation in Europa und kultureller Austausch mit Kolleginnen und Kollegen aus Spanien.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Teamspirit</strong>: Arbeite mit Menschen, die motiviert sind, gemeinsam voranzukommen \u2013 und voneinander lernen wollen.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Gestaltungsspielraum</strong>: Bei uns kannst du aktiv mitgestalten und echten Mehrwert f\u00fcr Kundschaft und Team schaffen.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Top Arbeitsumgebung</strong>: Modern ausgestattete B\u00fcros, unter anderem im Circle am Flughafen Z\u00fcrich, im PostParc in Bern und an bester Lage in Basel.</li></ul></p><br><strong>Einf\u00fchrung</strong><p>Liegt deine Leidenschaft darin, mit AI echten Mehrwert f\u00fcr unsere Kunden zu schaffen und moderne Data- &amp; AI-L\u00f6sungen nicht nur zu entwickeln, sondern gemeinsam mit deinem AI-Agententeam erfolgreich in die Produktion zu bringen?<br><p style=\"margin:0;text-align:justify;font-family:Arial, Helvetica, sans-serif;font-size:15px;color:rgb(0,56,84);\">Verbindest du technisches Know-how mit Eigenverantwortung, Kundenverst\u00e4n",
+    "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/ai-first-data-engineer-zurich-65570",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-01T10:00:29+00:00",
+    "posted_at": "2026-10-02T05:09:24+00:00",
     "tags": [
-      "Remote",
-      "Software Development"
+      "databricks",
+      "fabric",
+      "python",
+      "powerbi",
+      "microsoft",
+      "azure"
     ],
     "match_score": 3,
     "matched_skills": [
-      "React",
+      "Python",
       "Azure"
     ]
   },
   {
-    "title": "Team Lead AI Engineering (f/m/d)",
-    "company": "Vestigas",
-    "location": "M\u00fcnchen (Hybrid)",
-    "description": "<br><strong>We're digitizing the construction industry \u2013 are you in?</strong><p>At VESTIGAS, you build the digital backbone of the construction supply chain. We turn purchase orders, delivery notes, and invoices into a digital, legally compliant platform used in everyday operations by construction companies and suppliers. You\u2019ll work on a product with real market traction in the DACH mid-market, ship iteratively, and take ownership of solutions that must work in the field\u2014not just in theory.</p><br><strong>Your Role</strong><p>As Team Lead \u2013 AI Engineering, you'll own the AI infrastructure and capabilities that power our supply chain platform end to end \u2013 from pipeline design to production deployment. You bring prior leadership experience and are ready to lead a team of AI engineers: setting technical direction, growing your team's capabilities, and making sure the team consistently delivers reliable, scalable AI systems.<br><br><span style=\"font-size:18px;\">The Technical Challenge</span>Your team will tackle problems like extracting structured data reliably from many different documents, building uncertainty estimation so the system knows when to flag a document for human review instead of silently guessing, and automatically reconciling purchase orders, delivery notes, and invoices against each other \u2013 all within legal and compliance requirements that leave no room for \"close enough.\" This is a domain where clean benchmark metrics mean far less than robustness against real documents nobody has seen before \u2013 and you'll set the technical direction for how the team navigates that trade-off, deciding where to push automation further and where human review still matters.</p><br><strong>Your Mission</strong><p><ul><li>Lead and long-term grow a team of AI engineers, providing both strategical technical direction and people leadership</li><li>Own MLOps processes and infrastructure, ensuring our AI systems are reliable, scalable, and secure</li><li>Drive the design and imp",
-    "url": "https://www.arbeitnow.com/jobs/companies/vestigas/team-lead-ai-engineering-munchen-hybrid-246369",
+    "title": "Production Engineer",
+    "company": "Auterion",
+    "location": "Zurich",
+    "description": "&lt;p&gt;As a Production Engineer, you will play a key role within our Test Engineering team, programming test software and documenting test procedures to scale production of our next-generation drone platforms. In this position, you will take ownership of verification and production test equipment, from defining test concepts to designing automated test solutions, jigs and needle-bed adapters that help us improve yield and reliability. You\u2019ll collaborate closely with our software and electronics engineers and OEM partners to enhance test coverage and reduce testing time, driving efficiency across our manufacturing process.&lt;/p&gt;\n&lt;p&gt;This is a hands-on role in a fast-paced, agile environment, offering the opportunity to design creative, practical test solutions from concept through to mass production. This involves balancing the transition from our existing test setups to more scalable and complete solutions in a pragmatic and iterative way for a number of different projects.&lt;/p&gt;\n&lt;p&gt;Beyond test engineering, you\u2019ll apply your software expertise across the broader hardware and software team by supporting the engineering validation efforts of new products. You will also visit OEMs to support new product integrations and support small scale engineering runs in person.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities and Duties&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Research, design and build test solutions, including auto generated, 3D printed test equipment and CNC milled custom test jigs, and needle-bed adapters to enable low-volume prototyping and mid- to high-volume PCB production.&lt;/li&gt;\n&lt;li&gt;Plan and execute product verification, covering test case definition, execution, analysis, and comprehensive documentation, also for repair guidance.&lt;/li&gt;\n&lt;li&gt;Write Python code and STM32 firmware to test our embedded products from the inside (selftest) and outside (via test fixture).&lt;/li&gt;\n&lt;li&gt;Collaborate with cros",
+    "url": "https://www.arbeitnow.ch/jobs/companies/auterion/production-engineer-zurich-58771",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-01T08:09:25+00:00",
+    "posted_at": "2026-10-01T02:55:29+00:00",
     "tags": [
-      "MLOps",
-      "Machine Learning",
-      "End-to-end ML lifecycle",
-      "Natural Language Processing (NLP)",
-      "Image Processing / Computer Vision",
-      "Python",
-      "Azure",
-      "Terraform",
-      "Generative AI",
-      "OCR",
-      "AI Agents",
-      "Data Pipelines",
-      "Production Deployment",
-      "Uncertainty Estimation",
-      "Testin",
-      "clean code",
-      "Claude",
-      "cursor",
-      "chatgpt",
-      "AI tools",
-      "Leadership",
-      "Management",
-      "People Management",
-      "managing engineers",
-      "technical strategy"
+      "Engineering"
     ],
     "match_score": 3,
     "matched_skills": [
       "Python",
-      "Azure"
+      "Agile"
+    ]
+  },
+  {
+    "title": "External Data Specialist",
+    "company": "eClinical Solutions",
+    "location": "Remote",
+    "description": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud \u00e2\u0080\u0093 the foundation of digital trials. Together, the elluminate platform and digital data services give clients self-service access to all their data from one centralized location plus advanced analytics that help them make smarter, faster business decisions.\n\neClinical Solutions is committed to driving innovation in clinical trials through a better approach to data management and data analytics. We use the eClinical Solutions technology platform, elluminate, throughout the data management process to accelerate timelines for our clients and automate manual processes. We believe in a more agile approach to data management using our core technology elluminate - enabling our life sciences clients to proactively manage their clinical programs and make decisions.\n\nYou will make an<br/><br/>Please mention the word **DECENT** and tag RMTcyLjIxNC45OS4xMw== when applying to show you read the job post completely (#RMTcyLjIxNC45OS4xMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
+    "source": "RemoteOK",
+    "posted_at": "2026-09-10T16:00:15+00:00",
+    "tags": [
+      "cloud",
+      "exec",
+      "stats"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Agile"
     ]
   }
 ]
