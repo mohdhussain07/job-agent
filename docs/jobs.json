@@ -1,5 +1,58 @@
 [
   {
+    "title": "Forward Deployed Engineer",
+    "company": "True Talent Solutions Partners",
+    "location": "London",
+    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">As a Forward Deployed Engineer, you will work across product engineering and customer operations at a B2B compliance software company. You will turn real-world certification, inspection, and compliance workflows into reliable software and AI-powered tools that make these processes more effective.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Work directly with customer teams to understand how certification, inspection, and compliance tasks are handled in practice.</p></li><li><p style=\"min-height:1.5em\">Lead customer conversations, write specifications, and build end-to-end features across the frontend, backend, data model, and AI layer.</p></li><li><p style=\"min-height:1.5em\">Own product areas from early discovery through production, collaborating closely with company leadership.</p></li><li><p style=\"min-height:1.5em\">Ship software quickly, gather feedback by observing real users, and improve your work based on what you learn.</p></li><li><p style=\"min-height:1.5em\">Use judgment to identify which customer requests can serve broader needs and which are specific to one workflow.</p></li><li><p style=\"min-height:1.5em\">Analyze customer documents and work outputs to develop AI-powered workflows for scheduling, technical review, conformity assessment, field inspection, and document intelligence.</p></li></ul><h3>What We're Looking For</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Three to six years of experience as a software engineer or product engineer, with a track record of shipping production software.</p></li><li><p style=\"min-height:1.5em\">Full-stack development skills, including Python, TypeScript, React, Node.js, SQL, and experience with data models and cloud infrastructure.</p></li><li><p style=\"min-height:1.5em\">Experience with AI/ML, large language models, or document intelligence is valuable.</p></li><li><p style=\"min-height:1.5em\">Strong technica",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-57699",
+    "source": "Arbeitnow",
+    "posted_at": "2026-10-11T09:40:02+00:00",
+    "tags": [
+      "Client Roles"
+    ],
+    "match_score": 6,
+    "matched_skills": [
+      "Python",
+      "React",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Product Engineering Lead",
+    "company": "Tether Operations Limited",
+    "location": "Remote",
+    "description": "<p><strong><em><span style=\"color: #121317\">Join Tether and Shape the Future of Digital Finance</span></em></strong></p><p><span style=\"color: #121317\">At Tether, we\u00e2\u0080\u0099re not just building products, we\u00e2\u0080\u0099re pioneering a global financial revolution. Our cutting-edge solutions empower businesses\u00e2\u0080\u0094from exchanges and wallets to payment processors and ATMs\u00e2\u0080\u0094to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction.</span></p><p style=\"min-height: 1.7em;\"></p><p><strong><em><span style=\"color: #121317\">Innovate with Tether</span></em></strong></p><p><strong><span style=\"color: #121317\">Tether Finance: </span></strong><span style=\"color: #121317\">Our innovative product suite features the world\u00e2\u0080\u0099s most trusted stablecoin, </span><strong><span style=\"color: #121317\">USDT</span></strong><span style=\"color: #121317\">, relied upon by hundreds of millions worldwide, alongside pioneering digital asset tokenization services.</span></p><p><span style=\"color: #121317\">But that\u00e2\u0080\u0099s just the beginning:</span></p><p><strong><span style=\"color: #121317\">Tether Power: </span></strong><span style=\"color: #121317\">Driving sustainable growth, our energy solutions optimize excess power for Bitcoin mining using eco-friendly practices in state-of-the-art, geo-diverse facilities.</span></p><p><strong><span style=\"color: #121317\">Tether Data: </span></strong><span style=\"color: #121317\">Fueling breakthroughs in AI and peer-to-peer technology, we reduce infrastructure costs and enhance global communications with cutting-edge solutions like </span><strong><span style=\"color: #121317\">KEET</span></strong><span style=\"color: #121317\">, our flagship app that redefines secure and private data sharing.</span></p><p><strong><span styl",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
+    "source": "RemoteOK",
+    "posted_at": "2026-10-10T00:00:05+00:00",
+    "tags": [
+      "design",
+      "bitcoin",
+      "react",
+      "exec",
+      "technical",
+      "recruiter",
+      "marketing",
+      "dev",
+      "virtual assistant",
+      "javascript",
+      "finance",
+      "education",
+      "cloud",
+      "api",
+      "mobile",
+      "ops",
+      "sys admin",
+      "engineer",
+      "digital nomad"
+    ],
+    "match_score": 5,
+    "matched_skills": [
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
     "title": "Sr Solutions Architect",
     "company": "ExtraHop",
     "location": "Remote",
@@ -63,27 +116,42 @@
     ]
   },
   {
-    "title": "Engineering Manager",
-    "company": "Cosuno",
-    "location": "Berlin/Remote",
-    "description": "<h2>Your mission</h2><p style=\"min-height:1.5em\">As Engineering Manager at Cosuno, you will lead a team of full stack engineers while staying deeply hands-on: you'll spend 60\u201380% of your time coding, reviewing, and shaping the architecture alongside your team. You are the kind of leader who elevates a team by example \u2014 writing code that sets the bar, and building an environment where great engineers do their best work.</p><p style=\"min-height:1.5em\">Your mission might include:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Leading a team of full stack and AI/ML engineers: coaching, regular 1:1s, growth plans, and hiring \u2014 while shipping product yourself every week.</p></li><li><p style=\"min-height:1.5em\">Owning the delivery and technical quality of your team's roadmap, working closely with your Product Manager to plan, de-risk, and execute.</p></li><li><p style=\"min-height:1.5em\">Contributing hands-on across our TypeScript stack (React + Node), from designing features to reviewing pull requests and tackling the hard problems yourself.</p></li><li><p style=\"min-height:1.5em\">Raising the team's technical bar through code reviews, architectural guidance, and best practices \u2014 including driving the adoption of AI-assisted engineering workflows.</p></li><li><p style=\"min-height:1.5em\">Partnering with engineering leadership on team topology, processes, and the technical direction of our platform.</p></li></ul><p style=\"min-height:1.5em\"></p><h2>How We Build: Our Engineering Culture</h2><p style=\"min-height:1.5em\">We believe in a calm, collaborative, and productive engineering environment. We trust our engineers and give them the autonomy to do their best work. Our approach includes:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Agile &amp; Fast-Paced: We practice trunk-based development with daily releases to get value into our users' hands quickly.</p></li><li><p style=\"min-height:1.5em\">Quality by Default: We maintain a comprehensive Cy",
-    "url": "https://www.arbeitnow.com/jobs/companies/cosuno/engineering-manager-berlin-289104",
+    "title": "Junior Full Stack Developer (All Genders)",
+    "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
+    "location": "Berlin",
+    "description": "<br><strong>Deine Aufgaben</strong><p><ul><li><span><span>Pflege, Konfiguration und Erweiterung unserer operativen Systeme\u00a0</span></span><span><span>(</span><span>Zoho</span><span>CRM, Desk, Books,\u00a0</span><span>Sign</span><span>und angrenzende Tools)</span></span></li><li><span><span>Entwicklung von Automationen und Business-Logik\u00a0</span></span><span><span>mit\u00a0</span><span>Deluge</span><span>, Python und JavaScript: Workflows,\u00a0</span><span>Functions</span><span>, Client-Skripte und geplante Jobs</span></span></li><li><span><span>Entwicklung und Verbesserung LLM-gest\u00fctzter L\u00f6sungen</span></span><span><span>: Du baust KI-Agenten und Automationen auf Basis von Large Language Models, entwickelst und testest Prompts, pflegst die zugrunde liegenden Wissensbasen und Trainingsdaten und misst systematisch, ob die Ergebnisse besser werden</span></span></li><li><span><span>Design und Implementierung von Datenaustausch zwischen Systemen\u00a0</span></span><span><span>via REST-APIs, Webhooks und Automationsplattformen</span></span></li><li><span><span>Debugging von Integrationen und Behebung von Data-Quality-</span><span>Issues</span></span><span><span>: Logs lesen, API-Calls nachverfolgen, Ursachen finden und sauber beheben</span></span></li><li><span><span>Unterst\u00fctzung interner Stakeholder</span></span><span><span>: Prozessanforderungen in funktionierende, wartbare L\u00f6sungen \u00fcbersetzen</span></span></li><li><span><span>Dokumentation deiner L\u00f6sungen</span></span><span><span>, damit sie f\u00fcr andere und dich selbst nachvollziehbar bleiben</span></span></li><li><span><span>Mitarbeit an Frontend-/UI-Themen im Rahmen der CRM-Oberfl\u00e4che</span></span></li></ul></p><br><strong>Dein Profil</strong><p><ul><li><span><span>Abgeschlossenes Studium (oder kurz vor Abschluss) in Informatik, Wirtschaftsinformatik, einer technischen Fachrichtung oder vergleichbar</span></span></li><li><span><span>Interesse an KI- und LLM-Themen und Lust, damit praktisch zu arbeiten</span></span></li><li><span><span>So",
+    "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-299686",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-10T08:40:09+00:00",
+    "posted_at": "2026-10-11T05:09:46+00:00",
+    "tags": [],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "JavaScript"
+    ]
+  },
+  {
+    "title": "PDLC/SDLC Expert \u2013 Python & GenAI H/F",
+    "company": "capco",
+    "location": "Remote",
+    "description": "&lt;h1&gt;&lt;/h1&gt;\n&lt;p&gt;Capco France recherche un\u00b7e&amp;nbsp;&lt;strong&gt;PDLC/SDLC Expert \u2013 Python &amp;amp; GenAI&lt;/strong&gt; pour accompagner les acteurs majeurs de la banque et des services financiers dans l&#39;optimisation et la transformation de leurs cycles de d\u00e9veloppement produit et logiciel.&lt;/p&gt;\n&lt;p&gt;Au sein de notre Practice Technology &amp;amp; Engineering, vous interviendrez \u00e0 l\u2019intersection du Software Engineering, de l\u2019automatisation et de l\u2019intelligence artificielle pour concevoir et d\u00e9ployer des solutions am\u00e9liorant la qualit\u00e9, la rapidit\u00e9 et la fiabilit\u00e9 du d\u00e9veloppement logiciel.&lt;/p&gt;\n&lt;p&gt;Vous travaillerez aux c\u00f4t\u00e9s des \u00e9quipes Engineering, Architecture, DevOps et Product pour analyser les pratiques existantes, identifier les opportunit\u00e9s d\u2019am\u00e9lioration et accompagner l\u2019\u00e9volution des m\u00e9thodes de d\u00e9veloppement.&lt;/p&gt;\n&lt;p&gt;Vous jouerez un r\u00f4le cl\u00e9 dans l\u2019int\u00e9gration de la GenAI et des workflows AI-enabled au sein des cycles PDLC/SDLC, de la conception \u00e0 la mise en production, en veillant \u00e0 maintenir la supervision humaine, la s\u00e9curit\u00e9, la tra\u00e7abilit\u00e9 et les standards de qualit\u00e9.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Vos missions :&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul data-spread=&quot;false&quot;&gt;\n&lt;li&gt;\n&lt;p&gt;Analyser et optimiser les cycles Product Development Lifecycle (PDLC) et Software Development Lifecycle (SDLC) afin d\u2019am\u00e9liorer la qualit\u00e9, la productivit\u00e9 et la fiabilit\u00e9 des processus de d\u00e9veloppement.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Concevoir et d\u00e9velopper des solutions et outils d\u2019automatisation en Python, notamment pour les activit\u00e9s de d\u00e9veloppement, de tests, de validation et de maintenance logicielle.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Int\u00e9grer des capacit\u00e9s de GenAI et des workflows AI-enabled dans les pratiques d\u2019ing\u00e9nierie, notamment pour l\u2019assistance au d\u00e9veloppement, la g\u00e9n\u00e9ration et la revue de code, la documentation et l\u2019",
+    "url": "https://www.arbeitnow.fr/jobs/companies/capco/pdlc-sdlc-expert-python-genai-h-f-351172",
+    "source": "Arbeitnow",
+    "posted_at": "2026-10-10T19:55:21+00:00",
     "tags": [
-      "Tech"
+      "Tech & Engineering"
     ],
     "match_score": 4,
     "matched_skills": [
-      "React",
-      "Agile"
+      "Python",
+      "SDLC"
     ]
   },
   {
     "title": "AI agent engineer",
     "company": "Sticker Mule",
     "location": "Remote",
-    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ul><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess AI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on AI capabilities to help them perform.</p></li></ul><div><br /></div><p><strong>Requirements</strong></p><ul><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ul><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag RMTM1LjExOS44Ni45Nw== when applying to show you read the job post completely (#RMTM1LjExOS44Ni45Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ul><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess AI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on AI capabilities to help them perform.</p></li></ul><div><br /></div><p><strong>Requirements</strong></p><ul><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ul><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag ROS4yMzQuMTQ5LjE3OA== when applying to show you read the job post completely (#ROS4yMzQuMTQ5LjE3OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
     "source": "RemoteOK",
     "posted_at": "2026-09-16T12:44:27+00:00",
@@ -132,13 +200,29 @@
     ]
   },
   {
-    "title": "Production Engineer",
-    "company": "Auterion",
-    "location": "Zurich",
-    "description": "&lt;p&gt;As a Production Engineer, you will play a key role within our Test Engineering team, programming test software and documenting test procedures to scale production of our next-generation drone platforms. In this position, you will take ownership of verification and production test equipment, from defining test concepts to designing automated test solutions, jigs and needle-bed adapters that help us improve yield and reliability. You\u2019ll collaborate closely with our software and electronics engineers and OEM partners to enhance test coverage and reduce testing time, driving efficiency across our manufacturing process.&lt;/p&gt;\n&lt;p&gt;This is a hands-on role in a fast-paced, agile environment, offering the opportunity to design creative, practical test solutions from concept through to mass production. This involves balancing the transition from our existing test setups to more scalable and complete solutions in a pragmatic and iterative way for a number of different projects.&lt;/p&gt;\n&lt;p&gt;Beyond test engineering, you\u2019ll apply your software expertise across the broader hardware and software team by supporting the engineering validation efforts of new products. You will also visit OEMs to support new product integrations and support small scale engineering runs in person.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities and Duties&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Research, design and build test solutions, including auto generated, 3D printed test equipment and CNC milled custom test jigs, and needle-bed adapters to enable low-volume prototyping and mid- to high-volume PCB production.&lt;/li&gt;\n&lt;li&gt;Plan and execute product verification, covering test case definition, execution, analysis, and comprehensive documentation, also for repair guidance.&lt;/li&gt;\n&lt;li&gt;Write Python code and STM32 firmware to test our embedded products from the inside (selftest) and outside (via test fixture).&lt;/li&gt;\n&lt;li&gt;Collaborate with cros",
-    "url": "https://www.arbeitnow.ch/jobs/companies/auterion/production-engineer-zurich-284580",
+    "title": "Forward Deployed Engineer - EMEA",
+    "company": "Redpanda Data",
+    "location": "UK - Remote",
+    "description": "<p style=\"min-height:1.5em\"><em>Redpanda is the first runtime and control plane for agent-data interaction \u2014 a unified platform that combines streaming, SQL analytics, and intelligent connectivity with the governance layer enterprise AI agents need in production.</em></p><p style=\"min-height:1.5em\"><em>Built on infrastructure already trusted by Fortune 500 companies and fast-growing startups, Redpanda enforces governance entirely outside the agent's data path, controlling what agents see, limiting what they do, and capturing a tamper-proof record of everything they touch, so organizations never have to choose between innovation and control.</em></p><p style=\"min-height:1.5em\"><strong>About the Role:</strong><em><strong>\u00a0</strong></em></p><p style=\"min-height:1.5em\">Redpanda is building the Agentic Data Plane (ADP) \u2014 the streaming and data infrastructure the world\u2019s largest enterprises run mission-critical agents on. The enterprises winning right now are building agents that encode their own business logic, their own data, their own institutional knowledge into production-grade infrastructure. That\u2019s digital sovereignty, and Redpanda ADP is the infrastructure layer that makes it real.</p><p style=\"min-height:1.5em\">Forward Deployed Engineering (FDE) is the delivery arm. We embed engineers directly with strategic customers and build the agents and integrations that turn ADP into owned outcomes. As a Forward Deployed Engineer, you are the builder: embedded on-site, working inside the customer\u2019s environment, writing the code that ships.</p><p style=\"min-height:1.5em\">This is not a solutions engineering role. You are not here to demo or advise. You are here to build \u2014 agents, integrations, data pipelines, and the infrastructure that runs them \u2014 alongside a customer team, in their environment, on their timeline.</p><p style=\"min-height:1.5em\"><strong>You Will:</strong><em><strong>\u00a0\u00a0</strong></em></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Buil",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/redpanda-data/remote-forward-deployed-engineer-emea-385166",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-09T20:55:10+00:00",
+    "posted_at": "2026-10-11T00:40:13+00:00",
+    "tags": [
+      "Customer Success"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "SQL"
+    ]
+  },
+  {
+    "title": "Fullstack Data Engineer",
+    "company": "nozominetworks",
+    "location": "Mendrisio",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Now is an amazing time to join Nozomi Networks as we build the future of OT and IoT cybersecurity.&lt;/p&gt;\n&lt;p&gt;We defend some of the world\u2019s largest organizations and critical infrastructure in more than 68 countries and we\u2019re just getting started. Our AI-powered cybersecurity platform secures operational technology (OT) and Internet of Things (IoT) infrastructures for enterprises and government entities across energy, manufacturing, transportation, resources, and critical infrastructure.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As we expand our product portfolio and global presence, our Engineering department is seeking a Full-stack Data Engineer with a focus on AI and NLP. You\u2019ll design, implement, and maintain highly available data pipelines that support our core products.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;In this role you will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Use available technologies to develop medium to large features while proactively learning new ones and reducing technical debt.&lt;/li&gt;\n&lt;li&gt;Support colleagues to achieve overall team success and foster a collaborative environment.&lt;/li&gt;\n&lt;li&gt;Embody Nozomi Networks&#39; Cultural Pillars and our mission to protect what matters most with transparency and trust.&lt;/li&gt;\n&lt;li&gt;Collaborate within an agile team that emphasizes automation and the creation of high-quality, well-designed software.&lt;/li&gt;\n&lt;li&gt;Take ownership of user-facing features from inception to release and beyond.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;To be successful in this opportunity you will have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong attention to detail and excellent analytical skill.&lt;/li&gt;\n&lt;li&gt;Excellent problem-solving capabilities with a solid understanding of algorithms, data structures, and concurrent programming.&lt;/li&gt;\n&lt;li&gt;Proficiency in a dynamic programming language such as Python or Ruby.&lt;/l",
+    "url": "https://www.arbeitnow.ch/jobs/companies/nozominetworks/fullstack-data-engineer-mendrisio-75224",
+    "source": "Arbeitnow",
+    "posted_at": "2026-10-11T08:55:04+00:00",
     "tags": [
       "Engineering"
     ],
@@ -146,101 +230,6 @@
     "matched_skills": [
       "Python",
       "Agile"
-    ]
-  },
-  {
-    "title": "Federal Business Development Director",
-    "company": "Fortanix",
-    "location": "Remote",
-    "description": "<p>About Fortanix </p><p>In today's world, where data spreads across various clouds and devices, traditional security measures aren't enough. Businesses and Government need a dynamic approach to defend against constant cyber threats and ensure agile data security. Fortanix leads the way in data-centric cybersecurity for hybrid multicloud environments, using advanced cryptography, encryption, PQC and Confidential AI solutions.\u00c2\u00a0\u00c2\u00a0</p><p></p><p>In an era where customers want solutions that allow their AI models to be close to the sensitive data they keep on premises, a unique solution is required.\u00c2\u00a0 Fortanix harnesses the power of memory-encryption based Confidential Computing to protect AI data, applications and proprietary models all the way through their lifecycle:\u00c2\u00a0 At-Rest, In-Motion and In-Use, ie at runtime.\u00c2\u00a0 Fortanix is the only company that can do this.\u00c2\u00a0 Our Confidential AI solution, developed in conjunction with NVIDIA allows enterprises, agencies and AI Factories to protect data, applications and models using secure multi-tenancy and data sovereignty capabilities.\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0</p><p></p><p>Our commitment to solving the world\u00e2\u0080\u0099s toughest data security challenges has earned Fortanix multiple Cybersecurity Excellence and Innovation Awards, as well as recognition from industry giants such as NVIDIA, Dell, HPE, Intel, Supermicro, Crowdstrike, Redhat and VAST Data.\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0</p><p></p><p>Our team includes industry leaders and cryptography experts, creating a culture of trust, innovation and collaboration where every voice is valued. Recognized as a Great Place to Work, we're looking for passionate individuals to help us shape the future of data security and work towards a safer digital future.\u00c2\u00a0</p><p><br /> Job Description</p><p>Fortanix is in search of a Federal Business Development Director that is a proven sales leader to drive the expansion of our team and business across the Federal segments focused on national security. Reporting to the Chief Revenue Officer, we\u00e2\u0080",
-    "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
-    "source": "RemoteOK",
-    "posted_at": "2026-10-04T16:00:03+00:00",
-    "tags": [
-      "exec",
-      "infosec",
-      "teaching",
-      "consulting",
-      "technical",
-      "customer support",
-      "marketing",
-      "speech",
-      "cloud",
-      "bus dev",
-      "sales",
-      "medical"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Agile"
-    ]
-  },
-  {
-    "title": "External Data Specialist",
-    "company": "eClinical Solutions",
-    "location": "Remote",
-    "description": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud \u00e2\u0080\u0093 the foundation of digital trials. Together, the elluminate platform and digital data services give clients self-service access to all their data from one centralized location plus advanced analytics that help them make smarter, faster business decisions.\n\neClinical Solutions is committed to driving innovation in clinical trials through a better approach to data management and data analytics. We use the eClinical Solutions technology platform, elluminate, throughout the data management process to accelerate timelines for our clients and automate manual processes. We believe in a more agile approach to data management using our core technology elluminate - enabling our life sciences clients to proactively manage their clinical programs and make decisions.\n\nYou will make an<br/><br/>Please mention the word **DECENT** and tag RMTM1LjExOS44Ni45Nw== when applying to show you read the job post completely (#RMTM1LjExOS44Ni45Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
-    "source": "RemoteOK",
-    "posted_at": "2026-09-10T16:00:15+00:00",
-    "tags": [
-      "cloud",
-      "exec",
-      "stats"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Agile"
-    ]
-  },
-  {
-    "title": "Sales Development Representative Attribute\u00e2\u0084",
-    "company": "DoiT",
-    "location": "Remote UK",
-    "description": "Our Sales Development Representative will be an integral part of our sales team. This role is fully remote in the EMEA region in the UK, Ireland, the Netherlands, and Sweden.\n\nWho We Are\nDoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state - from planning to production. \n\nDelivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we help our customers solve complex multicloud problems and drive efficiency.\n\nWith decades of multicloud experience, we have specializations in Kubernetes, GenAI, CloudOps, and more. An award-winning strategic partner of AWS, Google Cloud, and Microsoft Azure, we work alongside more than 4,000 customers worldwide. \n\nThe Opportunity\nAs a Sales Development Representative on our Attribute\u00e2\u0084\u00a2 team, you will be responsible for outbound lead generation, including email, calling, and using LinkedIn to book demos with qualified prospects on technical teams. You\u00e2\u0080\u0099ll be on the front line of the sales team, filling the pipeline for closers by focusing on the primary metrics of qualified meetings booked and pipeline generated. We are looking f<br/><br/>Please mention the word **THRIVING** and tag RMTM1LjExOS44Ni45Nw== when applying to show you read the job post completely (#RMTM1LjExOS44Ni45Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/",
-    "source": "RemoteOK",
-    "posted_at": "2026-08-11T08:00:43+00:00",
-    "tags": [
-      "technical",
-      "marketing",
-      "cloud",
-      "microsoft",
-      "exec",
-      "sales"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Azure"
-    ]
-  },
-  {
-    "title": "Operations Engineer II",
-    "company": "AWeber",
-    "location": "Uluberia-II, ",
-    "description": "Limited-Time Offer Done For You Email Marketing $599Only$1 <strong>Start for just $1</strong> \u00e2\u0086\u0092<br><br>87% off ends soon! <em>$599 <strong>$79</strong></em> to launch your email marketing. <em><strong>Start for just $79</strong></em> \u00e2\u0086\u0092<br><br>\u00e2\u009c\u00a6 Newsletter Assistant Features Pricing Blog Sign in My account Get AWeber Free<br><br>Sign in<br><br><ul><li>Email marketing</li><li>Email automation</li><li>AI Page Builder</li><li>Ecommerce</li><li>Web push notifications</li><li>AI Signup Form Builder</li><li>AI Writing Assistant</li><li>Link in Bio page</li><li>Standard pricing</li><li>High volume pricing</li><li>Bloggers</li><li>Coaches</li><li>Etsy shops</li><li>Newsletters</li><li>YouTubers</li><li>Contact Customer Solutions 24/7</li><li>AWeber Community</li><li>Free account migration service</li><li>Knowledge base</li><li>Video tutorials</li><li>The Shift AI Show</li><li>Free workshops</li><li>Landing Page Template Gallery</li><li>Pre-written email campaigns</li><li>AWeber Certified Experts</li><li>App integrations</li><li>Customer referral program</li><li>Customer success stories</li><li>Marketing Glossary</li><li>24/7 Email Marketing Master Class<br><br></li></ul>Blog<br><br>\u00e2\u009c\u00a6 Newsletter Assistant<br><br>Join our ~60 talented remote team members, motivated to have an impact on the world while growing their skills every day.<br><br>Our mission: Build an easy to use platform for Small Businesses and Creators to connect with their audiences. We help over 300,000 users and entrepreneurs chase their dreams with tools like email marketing, automation, web push, and websites to help create deeper relationships with their audiences, while growing their businesses.<br><br>Learn more about our benefits and perks and the core values that have driven us to be one of PA's Best Places to Work for 13 consecutive years.<br><br>Submit your application below or see one of our other open positions. All applications are reviewed by real smiling people and you'll get a prompt repl",
-    "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
-    "source": "RemoteOK",
-    "posted_at": "2026-08-04T23:02:29+00:00",
-    "tags": [
-      "infosec",
-      "javascript",
-      "technical",
-      "exec",
-      "sys admin",
-      "customer support",
-      "web dev",
-      "virtual assistant",
-      "video",
-      "api",
-      "ops",
-      "marketing",
-      "engineer",
-      "ecommerce"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "JavaScript"
     ]
   }
 ]
