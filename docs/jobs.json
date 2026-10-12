@@ -1,23 +1,5 @@
 [
   {
-    "title": "Forward Deployed Engineer",
-    "company": "True Talent Solutions Partners",
-    "location": "London",
-    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">As a Forward Deployed Engineer, you will work across product engineering and customer operations at a B2B compliance software company. You will turn real-world certification, inspection, and compliance workflows into reliable software and AI-powered tools that make these processes more effective.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Work directly with customer teams to understand how certification, inspection, and compliance tasks are handled in practice.</p></li><li><p style=\"min-height:1.5em\">Lead customer conversations, write specifications, and build end-to-end features across the frontend, backend, data model, and AI layer.</p></li><li><p style=\"min-height:1.5em\">Own product areas from early discovery through production, collaborating closely with company leadership.</p></li><li><p style=\"min-height:1.5em\">Ship software quickly, gather feedback by observing real users, and improve your work based on what you learn.</p></li><li><p style=\"min-height:1.5em\">Use judgment to identify which customer requests can serve broader needs and which are specific to one workflow.</p></li><li><p style=\"min-height:1.5em\">Analyze customer documents and work outputs to develop AI-powered workflows for scheduling, technical review, conformity assessment, field inspection, and document intelligence.</p></li></ul><h3>What We're Looking For</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Three to six years of experience as a software engineer or product engineer, with a track record of shipping production software.</p></li><li><p style=\"min-height:1.5em\">Full-stack development skills, including Python, TypeScript, React, Node.js, SQL, and experience with data models and cloud infrastructure.</p></li><li><p style=\"min-height:1.5em\">Experience with AI/ML, large language models, or document intelligence is valuable.</p></li><li><p style=\"min-height:1.5em\">Strong technica",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-57699",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-11T09:40:02+00:00",
-    "tags": [
-      "Client Roles"
-    ],
-    "match_score": 6,
-    "matched_skills": [
-      "Python",
-      "React",
-      "SQL"
-    ]
-  },
-  {
     "title": "Product Engineering Lead",
     "company": "Tether Operations Limited",
     "location": "Remote",
@@ -116,14 +98,44 @@
     ]
   },
   {
-    "title": "Junior Full Stack Developer (All Genders)",
-    "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
-    "location": "Berlin",
-    "description": "<br><strong>Deine Aufgaben</strong><p><ul><li><span><span>Pflege, Konfiguration und Erweiterung unserer operativen Systeme\u00a0</span></span><span><span>(</span><span>Zoho</span><span>CRM, Desk, Books,\u00a0</span><span>Sign</span><span>und angrenzende Tools)</span></span></li><li><span><span>Entwicklung von Automationen und Business-Logik\u00a0</span></span><span><span>mit\u00a0</span><span>Deluge</span><span>, Python und JavaScript: Workflows,\u00a0</span><span>Functions</span><span>, Client-Skripte und geplante Jobs</span></span></li><li><span><span>Entwicklung und Verbesserung LLM-gest\u00fctzter L\u00f6sungen</span></span><span><span>: Du baust KI-Agenten und Automationen auf Basis von Large Language Models, entwickelst und testest Prompts, pflegst die zugrunde liegenden Wissensbasen und Trainingsdaten und misst systematisch, ob die Ergebnisse besser werden</span></span></li><li><span><span>Design und Implementierung von Datenaustausch zwischen Systemen\u00a0</span></span><span><span>via REST-APIs, Webhooks und Automationsplattformen</span></span></li><li><span><span>Debugging von Integrationen und Behebung von Data-Quality-</span><span>Issues</span></span><span><span>: Logs lesen, API-Calls nachverfolgen, Ursachen finden und sauber beheben</span></span></li><li><span><span>Unterst\u00fctzung interner Stakeholder</span></span><span><span>: Prozessanforderungen in funktionierende, wartbare L\u00f6sungen \u00fcbersetzen</span></span></li><li><span><span>Dokumentation deiner L\u00f6sungen</span></span><span><span>, damit sie f\u00fcr andere und dich selbst nachvollziehbar bleiben</span></span></li><li><span><span>Mitarbeit an Frontend-/UI-Themen im Rahmen der CRM-Oberfl\u00e4che</span></span></li></ul></p><br><strong>Dein Profil</strong><p><ul><li><span><span>Abgeschlossenes Studium (oder kurz vor Abschluss) in Informatik, Wirtschaftsinformatik, einer technischen Fachrichtung oder vergleichbar</span></span></li><li><span><span>Interesse an KI- und LLM-Themen und Lust, damit praktisch zu arbeiten</span></span></li><li><span><span>So",
-    "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-299686",
+    "title": "Data Engineer Working Student (m/w/d)",
+    "company": "Trusteq Gmbh",
+    "location": "K\u00f6ln",
+    "description": "<br><strong>YOUR TASKS</strong><p><ul><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support the development of databases and data integration processes</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You contribute to the design and implementation of data models and data pipelines for modern data lakes, data warehouses, or lakehouses</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You assist in documenting and structuring data platforms and related processes</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You participate in the development of interactive dashboards and reports, for example in the area of performance metrics and ESG</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support the application of data analytics methods and tools within project contexts</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You assist users in the utilization and maintenance of data platforms and analytics solutions</li></ul></p><br><strong>YOUR PROFIL</strong><p><ul><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You are currently enrolled as a student in an IT-related field, such as (Business) Informatics, Software Engineering, Data Science, Data Engineering, or a related discipline</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You have solid knowledge of the programming languages Python and SQL</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You have experience in data visualization and presentation using Power BI and/or Microsoft Fabric.</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">Initial experience with Databricks is considered an advantage</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You have a basic understanding of data modeling methods and data integration processes (ETL / ELT)</li><li style=",
+    "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-482150",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-11T05:09:46+00:00",
-    "tags": [],
+    "posted_at": "2026-10-12T11:10:00+00:00",
+    "tags": [
+      "Working Student",
+      "Working Student Data Analyst",
+      "Data Analyst",
+      "IT-Strategy",
+      "ESG",
+      "Working Student Data Engineer",
+      "Data Engineer",
+      "Data Bricks"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "title": "AI Developer Intern (m/w/d)",
+    "company": "Trusteq Gmbh",
+    "location": "M\u00fcnchen",
+    "description": "<br><strong>YOUR TASKS</strong><p><ul><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support the integration of (generative) AI technologies into existing application software or collaborate with the team to develop new, innovative solutions with AI components</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You assist in the analysis and preparation of data specifically for (generative) AI use cases</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You contribute to the evaluation and optimization of software systems with AI components, particularly using frameworks such as LangChain, as well as APIs such as OpenAI or Ollama</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support cloud-native development projects with a focus on AI-driven software solutions</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You assist in the integration and use of AI-ready database systems (e.g., relational, vector, or graph databases) for AI applications</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You research new technologies and methods in the field of (generative) AI (e.g., Model Context Protocol, agent technologies, and modern AI integration frameworks)</li></ul></p><br><strong>YOUR PROFIL</strong><p><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">You are enrolled in a degree program with AI-related coursework and have a solid foundational understanding of artificial intelligence</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">You have practical knowledge of Python and at least one additional modern programming language such as JavaScript (e.g., Node.js), TypeScript, Go, or Java</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">You are passionate about customer-centric application development, AI, and innovative technologies.</li><li style=\"font-family:Ar",
+    "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-430963",
+    "source": "Arbeitnow",
+    "posted_at": "2026-10-12T11:10:00+00:00",
+    "tags": [
+      "Workingstudent",
+      "Intern",
+      "AI ecosystem",
+      "Digital identity",
+      "Digital ecosystem"
+    ],
     "match_score": 4,
     "matched_skills": [
       "Python",
@@ -151,7 +163,7 @@
     "title": "AI agent engineer",
     "company": "Sticker Mule",
     "location": "Remote",
-    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ul><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess AI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on AI capabilities to help them perform.</p></li></ul><div><br /></div><p><strong>Requirements</strong></p><ul><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ul><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag ROS4yMzQuMTQ5LjE3OA== when applying to show you read the job post completely (#ROS4yMzQuMTQ5LjE3OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ul><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess AI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on AI capabilities to help them perform.</p></li></ul><div><br /></div><p><strong>Requirements</strong></p><ul><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ul><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag RMjAuMTAyLjQ2LjIwMA== when applying to show you read the job post completely (#RMjAuMTAyLjQ2LjIwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
     "source": "RemoteOK",
     "posted_at": "2026-09-16T12:44:27+00:00",
@@ -200,36 +212,41 @@
     ]
   },
   {
-    "title": "Forward Deployed Engineer - EMEA",
-    "company": "Redpanda Data",
-    "location": "UK - Remote",
-    "description": "<p style=\"min-height:1.5em\"><em>Redpanda is the first runtime and control plane for agent-data interaction \u2014 a unified platform that combines streaming, SQL analytics, and intelligent connectivity with the governance layer enterprise AI agents need in production.</em></p><p style=\"min-height:1.5em\"><em>Built on infrastructure already trusted by Fortune 500 companies and fast-growing startups, Redpanda enforces governance entirely outside the agent's data path, controlling what agents see, limiting what they do, and capturing a tamper-proof record of everything they touch, so organizations never have to choose between innovation and control.</em></p><p style=\"min-height:1.5em\"><strong>About the Role:</strong><em><strong>\u00a0</strong></em></p><p style=\"min-height:1.5em\">Redpanda is building the Agentic Data Plane (ADP) \u2014 the streaming and data infrastructure the world\u2019s largest enterprises run mission-critical agents on. The enterprises winning right now are building agents that encode their own business logic, their own data, their own institutional knowledge into production-grade infrastructure. That\u2019s digital sovereignty, and Redpanda ADP is the infrastructure layer that makes it real.</p><p style=\"min-height:1.5em\">Forward Deployed Engineering (FDE) is the delivery arm. We embed engineers directly with strategic customers and build the agents and integrations that turn ADP into owned outcomes. As a Forward Deployed Engineer, you are the builder: embedded on-site, working inside the customer\u2019s environment, writing the code that ships.</p><p style=\"min-height:1.5em\">This is not a solutions engineering role. You are not here to demo or advise. You are here to build \u2014 agents, integrations, data pipelines, and the infrastructure that runs them \u2014 alongside a customer team, in their environment, on their timeline.</p><p style=\"min-height:1.5em\"><strong>You Will:</strong><em><strong>\u00a0\u00a0</strong></em></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Buil",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/redpanda-data/remote-forward-deployed-engineer-emea-385166",
+    "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
+    "company": "gitlab",
+    "location": "Remote",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;\n&lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt;\n&lt;p&gt;*&lt;em&gt;Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;An overview of this role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As an Intermediate Backend Engineer (Python) in GitLab&#39;s Agent Foundations stage, you&#39;ll go beyond using AI tools. You&#39;ll help build the foundations for GitLab&#39;s agentic AI experiences: the platform that lets AI agents work across the whole software delivery lifecycle, not just write code. That covers the reusable buildi",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-pythonai-engineering-agent-foundations-499521",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-11T00:40:13+00:00",
+    "posted_at": "2026-10-11T18:55:13+00:00",
     "tags": [
-      "Customer Success"
+      "AI Engineering"
     ],
     "match_score": 3,
     "matched_skills": [
-      "SQL"
+      "Python"
     ]
   },
   {
-    "title": "Fullstack Data Engineer",
-    "company": "nozominetworks",
-    "location": "Mendrisio",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Now is an amazing time to join Nozomi Networks as we build the future of OT and IoT cybersecurity.&lt;/p&gt;\n&lt;p&gt;We defend some of the world\u2019s largest organizations and critical infrastructure in more than 68 countries and we\u2019re just getting started. Our AI-powered cybersecurity platform secures operational technology (OT) and Internet of Things (IoT) infrastructures for enterprises and government entities across energy, manufacturing, transportation, resources, and critical infrastructure.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As we expand our product portfolio and global presence, our Engineering department is seeking a Full-stack Data Engineer with a focus on AI and NLP. You\u2019ll design, implement, and maintain highly available data pipelines that support our core products.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;In this role you will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Use available technologies to develop medium to large features while proactively learning new ones and reducing technical debt.&lt;/li&gt;\n&lt;li&gt;Support colleagues to achieve overall team success and foster a collaborative environment.&lt;/li&gt;\n&lt;li&gt;Embody Nozomi Networks&#39; Cultural Pillars and our mission to protect what matters most with transparency and trust.&lt;/li&gt;\n&lt;li&gt;Collaborate within an agile team that emphasizes automation and the creation of high-quality, well-designed software.&lt;/li&gt;\n&lt;li&gt;Take ownership of user-facing features from inception to release and beyond.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;To be successful in this opportunity you will have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong attention to detail and excellent analytical skill.&lt;/li&gt;\n&lt;li&gt;Excellent problem-solving capabilities with a solid understanding of algorithms, data structures, and concurrent programming.&lt;/li&gt;\n&lt;li&gt;Proficiency in a dynamic programming language such as Python or Ruby.&lt;/l",
-    "url": "https://www.arbeitnow.ch/jobs/companies/nozominetworks/fullstack-data-engineer-mendrisio-75224",
+    "title": "AI First Data Engineer",
+    "company": "isolutions",
+    "location": "Z\u00fcrich",
+    "description": "<br><strong>Was erwartet dich bei uns?</strong><p><ul style=\"color:#003854;font-size:14px;font-family:Arial, Helvetica, sans-serif;\"><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Weiterbildung ab Tag 1</strong>: Wir unterst\u00fctzen dich zeitlich und finanziell bei deiner pers\u00f6nlichen und fachlichen Entwicklung.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Starke Unternehmenskultur</strong>: Offene Kommunikation, Hilfsbereitschaft, authentische Zusammenarbeit und ein echtes Learn-it-all-Mindset.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>New Work leben</strong>: Flexible Arbeitsorte, Workation in Europa und kultureller Austausch mit Kolleginnen und Kollegen aus Spanien.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Teamspirit</strong>: Arbeite mit Menschen, die motiviert sind, gemeinsam voranzukommen \u2013 und voneinander lernen wollen.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Gestaltungsspielraum</strong>: Bei uns kannst du aktiv mitgestalten und echten Mehrwert f\u00fcr Kundschaft und Team schaffen.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Top Arbeitsumgebung</strong>: Modern ausgestattete B\u00fcros, unter anderem im Circle am Flughafen Z\u00fcrich, im PostParc in Bern und an bester Lage in Basel.</li></ul></p><br><strong>Einf\u00fchrung</strong><p>Liegt deine Leidenschaft darin, mit AI echten Mehrwert f\u00fcr unsere Kunden zu schaffen und moderne Data- &amp; AI-L\u00f6sungen nicht nur zu entwickeln, sondern gemeinsam mit deinem AI-Agententeam erfolgreich in die Produktion zu bringen?<br><p style=\"margin:0;text-align:justify;font-family:Arial, Helvetica, sans-serif;font-size:15px;color:rgb(0,56,84);\">Verbindest du technisches Know-how mit Eigenverantwortung, Kundenverst\u00e4n",
+    "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/ai-first-data-engineer-zurich-176144",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-11T08:55:04+00:00",
+    "posted_at": "2026-10-11T11:09:17+00:00",
     "tags": [
-      "Engineering"
+      "databricks",
+      "fabric",
+      "python",
+      "powerbi",
+      "microsoft",
+      "azure"
     ],
     "match_score": 3,
     "matched_skills": [
       "Python",
-      "Agile"
+      "Azure"
     ]
   }
 ]
