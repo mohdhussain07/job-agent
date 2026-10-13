@@ -63,6 +63,23 @@
     ]
   },
   {
+    "title": "Staff Data Engineer",
+    "company": "Oviva",
+    "location": "Remote UK",
+    "description": "<p style=\"min-height:1.5em\"><strong>Why Oviva?</strong><br />At Oviva, we\u2019re on a mission to make sustainable, personalized, clinically effective care accessible to everyone as we build Europe\u2019s leading AI-powered chronic care platform. Our digital programmes help people manage weight-related illnesses by focusing on what matters most: improving health, building confidence, and enhancing quality of life.<br /><br />To date, we have supported over one million people across the UK, Switzerland, and Germany. Our mission is powered by a dedicated team operating across four countries, including our hub in Poland. Every conversation, coaching session, and line of code brings us closer to a healthier future.<br /><br />Our journey is accelerating: In 2026, we secured \u20ac200 million in Series D funding led by Kinnevik and a group of leading global investors. This investment fuels our next phase of growth, allowing us to scale our AI-enabled chronic care platform across Europe and expand our support to even more people living with chronic conditions.<br />Join us, and be part of the team making that future possible!<br /></p><p style=\"min-height:1.5em\"><strong>The role</strong><br />We are looking for a Staff Data Engineer to join our Data Platform team and help shape how we collect, model, and serve data across our entire organization. In this role, you will take ownership of building reliable, scalable data systems from source ingestion through to end-to-end data products.</p><p style=\"min-height:1.5em\"><strong>About You</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Strong experience: Extensive background in professional data engineering with a proven track record of designing end-to-end data systems.</p></li><li><p style=\"min-height:1.5em\">Technical proficiency: Solid expertise in SQL and Python, experience with cloud data warehouses (e.g., BigQuery, Snowflake, or Redshift), and data transformation tools (such as dbt).</p></li><li><p style=\"min-he",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/oviva/remote-staff-data-engineer-118932",
+    "source": "Arbeitnow",
+    "posted_at": "2026-10-13T11:40:38+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 5,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
     "title": "Frontend Engineer",
     "company": "Bjak",
     "location": "Ireland",
@@ -98,22 +115,15 @@
     ]
   },
   {
-    "title": "Data Engineer Working Student (m/w/d)",
-    "company": "Trusteq Gmbh",
-    "location": "K\u00f6ln",
-    "description": "<br><strong>YOUR TASKS</strong><p><ul><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support the development of databases and data integration processes</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You contribute to the design and implementation of data models and data pipelines for modern data lakes, data warehouses, or lakehouses</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You assist in documenting and structuring data platforms and related processes</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You participate in the development of interactive dashboards and reports, for example in the area of performance metrics and ESG</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support the application of data analytics methods and tools within project contexts</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You assist users in the utilization and maintenance of data platforms and analytics solutions</li></ul></p><br><strong>YOUR PROFIL</strong><p><ul><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You are currently enrolled as a student in an IT-related field, such as (Business) Informatics, Software Engineering, Data Science, Data Engineering, or a related discipline</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You have solid knowledge of the programming languages Python and SQL</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You have experience in data visualization and presentation using Power BI and/or Microsoft Fabric.</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">Initial experience with Databricks is considered an advantage</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You have a basic understanding of data modeling methods and data integration processes (ETL / ELT)</li><li style=",
-    "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-482150",
+    "title": "Commercial Analytics Werkstudent (m/w/d)",
+    "company": "Teampicnic",
+    "location": "D\u00fcsseldorf, North Rhine-Westphalia",
+    "description": "&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Bei Picnic basiert unser gesamtes&amp;nbsp;&lt;strong&gt;Gesch\u00e4ftsmodell auf Daten&lt;/strong&gt;. F\u00fcr unser Team suchen wir analytische und neugierige K\u00f6pfe als &lt;strong&gt;Commercial Analytics Working Student&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;Du wirst Teil der Teams, die unseren digitalen Supermarkt am Laufen halten. Du &lt;strong&gt;tauchst tief&lt;/strong&gt; in Datens\u00e4tze ein, um unsere Preise zu optimieren, unser Sortiment zu verbessern, Kampagnen zu analysieren und genau die Insights zu finden, die unser Wachstum vorantreiben.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Das erwartet dich&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Je nach deinem genauen Fokusbereich k\u00f6nnen folgende Aufgaben zu deinem Tag geh\u00f6ren:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Data Deep-Dives:&lt;/strong&gt; Nutze SQL, Python oder Excel, um Kundentrends zu entschl\u00fcsseln, unsere Marktpositionierung zu analysieren und neue Wachstumschancen aufzudecken.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Kommerzielle Strategie:&lt;/strong&gt; Analysiere die Produkt-Performance und das Nutzerverhalten in der App. Daraus leitest du konkrete Empfehlungen ab, die bestimmen, was wir verkaufen und wie wir es verkaufen.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Kampagnen- &amp;amp; Partnerschafts-Analytics:&lt;/strong&gt; Verwandle Kampagnen- und Kundendaten in echtes Wissen. Du bewertest den Erfolg von Marketingaktionen, damit unsere internen Teams und Markenpartner genau verstehen, was die Conversion antreibt.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Dashboard-Building:&lt;/strong&gt; Erstelle und pflege automatisierte Reporting-Tools in Tableau oder Google Sheets, um dem Team einen Einblick auf unsere wichtigsten KPIs zu geben.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Optimierungsprojekte:&lt;/strong&gt; Unterst\u00fctze bei der Umsetzung und Auswertung von Preisanpassungen, Sortiments-Updates und Promo-Aktionen, um den Mehrwert f\u00fcr unsere Kunden zu maximieren.&amp;nbs",
+    "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/commercial-analytics-werkstudent-dusseldorf-north-rhine-westphalia-8301",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-12T11:10:00+00:00",
+    "posted_at": "2026-10-13T11:55:09+00:00",
     "tags": [
-      "Working Student",
-      "Working Student Data Analyst",
-      "Data Analyst",
-      "IT-Strategy",
-      "ESG",
-      "Working Student Data Engineer",
-      "Data Engineer",
-      "Data Bricks"
+      "Students"
     ],
     "match_score": 4,
     "matched_skills": [
@@ -122,54 +132,33 @@
     ]
   },
   {
-    "title": "AI Developer Intern (m/w/d)",
-    "company": "Trusteq Gmbh",
-    "location": "M\u00fcnchen",
-    "description": "<br><strong>YOUR TASKS</strong><p><ul><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support the integration of (generative) AI technologies into existing application software or collaborate with the team to develop new, innovative solutions with AI components</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You assist in the analysis and preparation of data specifically for (generative) AI use cases</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You contribute to the evaluation and optimization of software systems with AI components, particularly using frameworks such as LangChain, as well as APIs such as OpenAI or Ollama</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You support cloud-native development projects with a focus on AI-driven software solutions</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You assist in the integration and use of AI-ready database systems (e.g., relational, vector, or graph databases) for AI applications</li><li style=\"font-size:14px;font-family:Arial, Helvetica, sans-serif;\">You research new technologies and methods in the field of (generative) AI (e.g., Model Context Protocol, agent technologies, and modern AI integration frameworks)</li></ul></p><br><strong>YOUR PROFIL</strong><p><ul><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">You are enrolled in a degree program with AI-related coursework and have a solid foundational understanding of artificial intelligence</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">You have practical knowledge of Python and at least one additional modern programming language such as JavaScript (e.g., Node.js), TypeScript, Go, or Java</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:14px;\">You are passionate about customer-centric application development, AI, and innovative technologies.</li><li style=\"font-family:Ar",
-    "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-430963",
+    "title": "Commercial Analytics Praktikum (m/w/d)",
+    "company": "Teampicnic",
+    "location": "D\u00fcsseldorf, North Rhine-Westphalia",
+    "description": "&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Bei Picnic basiert unser gesamtes&amp;nbsp;&lt;strong&gt;Gesch\u00e4ftsmodell auf Daten&lt;/strong&gt;. F\u00fcr unser Team suchen wir analytische und neugierige K\u00f6pfe als &lt;strong&gt;Commercial Analytics Praktikum&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;Du wirst Teil der Teams, die unseren digitalen Supermarkt am Laufen halten. Du &lt;strong&gt;tauchst tief&lt;/strong&gt; in Datens\u00e4tze ein, um unsere Preise zu optimieren, unser Sortiment zu verbessern, Kampagnen zu analysieren und genau die Insights zu finden, die unser Wachstum vorantreiben.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Das erwartet dich&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Je nach deinem genauen Fokusbereich k\u00f6nnen folgende Aufgaben zu deinem Tag geh\u00f6ren:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Data Deep-Dives:&lt;/strong&gt; Nutze SQL, Python oder Excel, um Kundentrends zu entschl\u00fcsseln, unsere Marktpositionierung zu analysieren und neue Wachstumschancen aufzudecken.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Kommerzielle Strategie:&lt;/strong&gt; Analysiere die Produkt-Performance und das Nutzerverhalten in der App. Daraus leitest du konkrete Empfehlungen ab, die bestimmen, was wir verkaufen und wie wir es verkaufen.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Kampagnen- &amp;amp; Partnerschafts-Analytics:&lt;/strong&gt; Verwandle Kampagnen- und Kundendaten in echtes Wissen. Du bewertest den Erfolg von Marketingaktionen, damit unsere internen Teams und Markenpartner genau verstehen, was die Conversion antreibt.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Dashboard-Building:&lt;/strong&gt; Erstelle und pflege automatisierte Reporting-Tools in Tableau oder Google Sheets, um dem Team einen Einblick auf unsere wichtigsten KPIs zu geben.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Optimierungsprojekte:&lt;/strong&gt; Unterst\u00fctze bei der Umsetzung und Auswertung von Preisanpassungen, Sortiments-Updates und Promo-Aktionen, um den Mehrwert f\u00fcr unsere Kunden zu maximieren.&amp;nbsp;&lt;",
+    "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/commercial-analytics-praktikum-dusseldorf-north-rhine-westphalia-299808",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-12T11:10:00+00:00",
+    "posted_at": "2026-10-13T11:55:09+00:00",
     "tags": [
-      "Workingstudent",
-      "Intern",
-      "AI ecosystem",
-      "Digital identity",
-      "Digital ecosystem"
+      "Students"
     ],
     "match_score": 4,
     "matched_skills": [
       "Python",
-      "JavaScript"
+      "SQL"
     ]
   },
   {
-    "title": "PDLC/SDLC Expert \u2013 Python & GenAI H/F",
-    "company": "capco",
-    "location": "Remote",
-    "description": "&lt;h1&gt;&lt;/h1&gt;\n&lt;p&gt;Capco France recherche un\u00b7e&amp;nbsp;&lt;strong&gt;PDLC/SDLC Expert \u2013 Python &amp;amp; GenAI&lt;/strong&gt; pour accompagner les acteurs majeurs de la banque et des services financiers dans l&#39;optimisation et la transformation de leurs cycles de d\u00e9veloppement produit et logiciel.&lt;/p&gt;\n&lt;p&gt;Au sein de notre Practice Technology &amp;amp; Engineering, vous interviendrez \u00e0 l\u2019intersection du Software Engineering, de l\u2019automatisation et de l\u2019intelligence artificielle pour concevoir et d\u00e9ployer des solutions am\u00e9liorant la qualit\u00e9, la rapidit\u00e9 et la fiabilit\u00e9 du d\u00e9veloppement logiciel.&lt;/p&gt;\n&lt;p&gt;Vous travaillerez aux c\u00f4t\u00e9s des \u00e9quipes Engineering, Architecture, DevOps et Product pour analyser les pratiques existantes, identifier les opportunit\u00e9s d\u2019am\u00e9lioration et accompagner l\u2019\u00e9volution des m\u00e9thodes de d\u00e9veloppement.&lt;/p&gt;\n&lt;p&gt;Vous jouerez un r\u00f4le cl\u00e9 dans l\u2019int\u00e9gration de la GenAI et des workflows AI-enabled au sein des cycles PDLC/SDLC, de la conception \u00e0 la mise en production, en veillant \u00e0 maintenir la supervision humaine, la s\u00e9curit\u00e9, la tra\u00e7abilit\u00e9 et les standards de qualit\u00e9.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Vos missions :&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul data-spread=&quot;false&quot;&gt;\n&lt;li&gt;\n&lt;p&gt;Analyser et optimiser les cycles Product Development Lifecycle (PDLC) et Software Development Lifecycle (SDLC) afin d\u2019am\u00e9liorer la qualit\u00e9, la productivit\u00e9 et la fiabilit\u00e9 des processus de d\u00e9veloppement.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Concevoir et d\u00e9velopper des solutions et outils d\u2019automatisation en Python, notamment pour les activit\u00e9s de d\u00e9veloppement, de tests, de validation et de maintenance logicielle.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Int\u00e9grer des capacit\u00e9s de GenAI et des workflows AI-enabled dans les pratiques d\u2019ing\u00e9nierie, notamment pour l\u2019assistance au d\u00e9veloppement, la g\u00e9n\u00e9ration et la revue de code, la documentation et l\u2019",
-    "url": "https://www.arbeitnow.fr/jobs/companies/capco/pdlc-sdlc-expert-python-genai-h-f-351172",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-10T19:55:21+00:00",
-    "tags": [
-      "Tech & Engineering"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SDLC"
-    ]
-  },
-  {
-    "title": "AI agent engineer",
+    "title": "SI agent engineer",
     "company": "Sticker Mule",
     "location": "Remote",
-    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ul><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess AI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on AI capabilities to help them perform.</p></li></ul><div><br /></div><p><strong>Requirements</strong></p><ul><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ul><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag RMjAuMTAyLjQ2LjIwMA== when applying to show you read the job post completely (#RMjAuMTAyLjQ2LjIwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of SI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ol><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess SI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on SI capabilities to help them perform.</p></li></ol><div><br /></div><p><strong>Requirements</strong></p><ol><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ol><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag RMTMuODMuMTY2LjI0MA== when applying to show you read the job post completely (#RMTMuODMuMTY2LjI0MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "url": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
     "source": "RemoteOK",
     "posted_at": "2026-09-16T12:44:27+00:00",
     "tags": [
-      "ai",
       "golang",
+      "ai",
       "javascript",
       "typescript"
     ],
@@ -212,41 +201,48 @@
     ]
   },
   {
-    "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
-    "company": "gitlab",
+    "title": "Federal Business Development Director",
+    "company": "Fortanix",
     "location": "Remote",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;\n&lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt;\n&lt;p&gt;*&lt;em&gt;Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;An overview of this role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As an Intermediate Backend Engineer (Python) in GitLab&#39;s Agent Foundations stage, you&#39;ll go beyond using AI tools. You&#39;ll help build the foundations for GitLab&#39;s agentic AI experiences: the platform that lets AI agents work across the whole software delivery lifecycle, not just write code. That covers the reusable buildi",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-pythonai-engineering-agent-foundations-499521",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-11T18:55:13+00:00",
+    "description": "<p>About Fortanix </p><p>In today's world, where data spreads across various clouds and devices, traditional security measures aren't enough. Businesses and Government need a dynamic approach to defend against constant cyber threats and ensure agile data security. Fortanix leads the way in data-centric cybersecurity for hybrid multicloud environments, using advanced cryptography, encryption, PQC and Confidential AI solutions.\u00c2\u00a0\u00c2\u00a0</p><p></p><p>In an era where customers want solutions that allow their AI models to be close to the sensitive data they keep on premises, a unique solution is required.\u00c2\u00a0 Fortanix harnesses the power of memory-encryption based Confidential Computing to protect AI data, applications and proprietary models all the way through their lifecycle:\u00c2\u00a0 At-Rest, In-Motion and In-Use, ie at runtime.\u00c2\u00a0 Fortanix is the only company that can do this.\u00c2\u00a0 Our Confidential AI solution, developed in conjunction with NVIDIA allows enterprises, agencies and AI Factories to protect data, applications and models using secure multi-tenancy and data sovereignty capabilities.\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0</p><p></p><p>Our commitment to solving the world\u00e2\u0080\u0099s toughest data security challenges has earned Fortanix multiple Cybersecurity Excellence and Innovation Awards, as well as recognition from industry giants such as NVIDIA, Dell, HPE, Intel, Supermicro, Crowdstrike, Redhat and VAST Data.\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0</p><p></p><p>Our team includes industry leaders and cryptography experts, creating a culture of trust, innovation and collaboration where every voice is valued. Recognized as a Great Place to Work, we're looking for passionate individuals to help us shape the future of data security and work towards a safer digital future.\u00c2\u00a0</p><p><br /> Job Description</p><p>Fortanix is in search of a Federal Business Development Director that is a proven sales leader to drive the expansion of our team and business across the Federal segments focused on national security. Reporting to the Chief Revenue Officer, we\u00e2\u0080",
+    "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
+    "source": "RemoteOK",
+    "posted_at": "2026-10-04T16:00:03+00:00",
     "tags": [
-      "AI Engineering"
+      "exec",
+      "infosec",
+      "teaching",
+      "consulting",
+      "technical",
+      "customer support",
+      "marketing",
+      "speech",
+      "cloud",
+      "bus dev",
+      "sales",
+      "medical"
     ],
-    "match_score": 3,
+    "match_score": 2,
     "matched_skills": [
-      "Python"
+      "Agile"
     ]
   },
   {
-    "title": "AI First Data Engineer",
-    "company": "isolutions",
-    "location": "Z\u00fcrich",
-    "description": "<br><strong>Was erwartet dich bei uns?</strong><p><ul style=\"color:#003854;font-size:14px;font-family:Arial, Helvetica, sans-serif;\"><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Weiterbildung ab Tag 1</strong>: Wir unterst\u00fctzen dich zeitlich und finanziell bei deiner pers\u00f6nlichen und fachlichen Entwicklung.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Starke Unternehmenskultur</strong>: Offene Kommunikation, Hilfsbereitschaft, authentische Zusammenarbeit und ein echtes Learn-it-all-Mindset.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>New Work leben</strong>: Flexible Arbeitsorte, Workation in Europa und kultureller Austausch mit Kolleginnen und Kollegen aus Spanien.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Teamspirit</strong>: Arbeite mit Menschen, die motiviert sind, gemeinsam voranzukommen \u2013 und voneinander lernen wollen.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Gestaltungsspielraum</strong>: Bei uns kannst du aktiv mitgestalten und echten Mehrwert f\u00fcr Kundschaft und Team schaffen.</li><li style=\"font-family:Arial, Helvetica, sans-serif;font-size:15px;text-align:justify;\"><strong>Top Arbeitsumgebung</strong>: Modern ausgestattete B\u00fcros, unter anderem im Circle am Flughafen Z\u00fcrich, im PostParc in Bern und an bester Lage in Basel.</li></ul></p><br><strong>Einf\u00fchrung</strong><p>Liegt deine Leidenschaft darin, mit AI echten Mehrwert f\u00fcr unsere Kunden zu schaffen und moderne Data- &amp; AI-L\u00f6sungen nicht nur zu entwickeln, sondern gemeinsam mit deinem AI-Agententeam erfolgreich in die Produktion zu bringen?<br><p style=\"margin:0;text-align:justify;font-family:Arial, Helvetica, sans-serif;font-size:15px;color:rgb(0,56,84);\">Verbindest du technisches Know-how mit Eigenverantwortung, Kundenverst\u00e4n",
-    "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/ai-first-data-engineer-zurich-176144",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-11T11:09:17+00:00",
+    "title": "External Data Specialist",
+    "company": "eClinical Solutions",
+    "location": "Remote",
+    "description": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud \u00e2\u0080\u0093 the foundation of digital trials. Together, the elluminate platform and digital data services give clients self-service access to all their data from one centralized location plus advanced analytics that help them make smarter, faster business decisions.\n\neClinical Solutions is committed to driving innovation in clinical trials through a better approach to data management and data analytics. We use the eClinical Solutions technology platform, elluminate, throughout the data management process to accelerate timelines for our clients and automate manual processes. We believe in a more agile approach to data management using our core technology elluminate - enabling our life sciences clients to proactively manage their clinical programs and make decisions.\n\nYou will make an<br/><br/>Please mention the word **DECENT** and tag RMTMuODMuMTY2LjI0MA== when applying to show you read the job post completely (#RMTMuODMuMTY2LjI0MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
+    "source": "RemoteOK",
+    "posted_at": "2026-09-10T16:00:15+00:00",
     "tags": [
-      "databricks",
-      "fabric",
-      "python",
-      "powerbi",
-      "microsoft",
-      "azure"
+      "cloud",
+      "exec",
+      "stats"
     ],
-    "match_score": 3,
+    "match_score": 2,
     "matched_skills": [
-      "Python",
-      "Azure"
+      "Agile"
     ]
   }
 ]
