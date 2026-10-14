@@ -1,5 +1,41 @@
 [
   {
+    "title": "Forward Deployed Engineer",
+    "company": "True Talent Solutions Partners",
+    "location": "London",
+    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join a product engineering team building AI-powered software for certification, inspection, and compliance workflows. You will work closely with customers to understand how their operations run and turn those insights into production-ready systems.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Embed with customer teams to learn how certification, inspection, and compliance work in practice.</p></li><li><p style=\"min-height:1.5em\">Lead customer conversations, write product specifications, and build end-to-end systems across the frontend, backend, data model, and AI layer.</p></li><li><p style=\"min-height:1.5em\">Own product areas from discovery through deployment, shipping early and refining solutions based on direct user feedback.</p></li><li><p style=\"min-height:1.5em\">Review customer documents and workflow outputs to develop AI-enabled tools for scheduling, technical review, conformity assessment, field inspection, and document intelligence.</p></li><li><p style=\"min-height:1.5em\">Use sound product judgment to distinguish broadly useful needs from one-off requests.</p></li></ul><h3>What We're Looking For</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Three to six years of software or product engineering experience, with a track record of shipping production software.</p></li><li><p style=\"min-height:1.5em\">Full-stack capability, including Python, TypeScript, React, Node.js, SQL, data modeling, and cloud infrastructure.</p></li><li><p style=\"min-height:1.5em\">Experience with AI/ML, large language models, or document intelligence is valuable.</p></li><li><p style=\"min-height:1.5em\">Strong product-building instincts and experience contributing in an early-stage or ground-up product environment.</p></li><li><p style=\"min-height:1.5em\">Comfort working directly with customers, communicating clearly, and adapting to real-world operational needs.</p></li><li><p sty",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-407434",
+    "source": "Arbeitnow",
+    "posted_at": "2026-10-14T05:40:22+00:00",
+    "tags": [
+      "Client Roles"
+    ],
+    "match_score": 6,
+    "matched_skills": [
+      "Python",
+      "React",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Forward Deployed Engineer",
+    "company": "True Talent Solutions Partners",
+    "location": "London",
+    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join a customer-facing engineering team building AI software for enterprise organizations. You will work directly with customers to understand complex operational challenges and deliver practical, production-ready solutions that inform the product roadmap.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Travel to customer sites in the UK and internationally for up to 50% of your time to understand their operational needs.</p></li><li><p style=\"min-height:1.5em\">Design, prototype, and ship working software quickly across varied customer environments and technology stacks.</p></li><li><p style=\"min-height:1.5em\">Partner with engineers and other forward deployed teammates on customer engagements and pilots.</p></li><li><p style=\"min-height:1.5em\">Bring customer feedback and learnings into product development.</p></li><li><p style=\"min-height:1.5em\">Prepare and deliver demos and pilots for prospective customers across manufacturing, automotive, retail, and financial services.</p></li></ul><h3>What We're Looking For</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">One to five years of experience as a customer-facing full-stack engineer or forward deployed engineer, including shipping production code.</p></li><li><p style=\"min-height:1.5em\">Experience with React, TypeScript, Python, LangChain, and Vercel AI SDK, as well as familiarity with Rust, SQL, REST APIs, cloud infrastructure, enterprise data systems, and AI/LLM tooling.</p></li><li><p style=\"min-height:1.5em\">Strong systems design and architecture skills, with the ability to translate customer problems into scalable solutions.</p></li><li><p style=\"min-height:1.5em\">A problem-first approach, comfort working through ambiguity, and experience adapting to different industries and technology environments.</p></li><li><p style=\"min-height:1.5em\">A degree in computer science, engineering, or another STEM field, and e",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-142851",
+    "source": "Arbeitnow",
+    "posted_at": "2026-10-14T05:40:22+00:00",
+    "tags": [
+      "Client Roles"
+    ],
+    "match_score": 6,
+    "matched_skills": [
+      "Python",
+      "React",
+      "SQL"
+    ]
+  },
+  {
     "title": "Product Engineering Lead",
     "company": "Tether Operations Limited",
     "location": "Remote",
@@ -63,23 +99,6 @@
     ]
   },
   {
-    "title": "Staff Data Engineer",
-    "company": "Oviva",
-    "location": "Remote UK",
-    "description": "<p style=\"min-height:1.5em\"><strong>Why Oviva?</strong><br />At Oviva, we\u2019re on a mission to make sustainable, personalized, clinically effective care accessible to everyone as we build Europe\u2019s leading AI-powered chronic care platform. Our digital programmes help people manage weight-related illnesses by focusing on what matters most: improving health, building confidence, and enhancing quality of life.<br /><br />To date, we have supported over one million people across the UK, Switzerland, and Germany. Our mission is powered by a dedicated team operating across four countries, including our hub in Poland. Every conversation, coaching session, and line of code brings us closer to a healthier future.<br /><br />Our journey is accelerating: In 2026, we secured \u20ac200 million in Series D funding led by Kinnevik and a group of leading global investors. This investment fuels our next phase of growth, allowing us to scale our AI-enabled chronic care platform across Europe and expand our support to even more people living with chronic conditions.<br />Join us, and be part of the team making that future possible!<br /></p><p style=\"min-height:1.5em\"><strong>The role</strong><br />We are looking for a Staff Data Engineer to join our Data Platform team and help shape how we collect, model, and serve data across our entire organization. In this role, you will take ownership of building reliable, scalable data systems from source ingestion through to end-to-end data products.</p><p style=\"min-height:1.5em\"><strong>About You</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Strong experience: Extensive background in professional data engineering with a proven track record of designing end-to-end data systems.</p></li><li><p style=\"min-height:1.5em\">Technical proficiency: Solid expertise in SQL and Python, experience with cloud data warehouses (e.g., BigQuery, Snowflake, or Redshift), and data transformation tools (such as dbt).</p></li><li><p style=\"min-he",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/oviva/remote-staff-data-engineer-118932",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-13T11:40:38+00:00",
-    "tags": [
-      "Engineering"
-    ],
-    "match_score": 5,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
     "title": "Frontend Engineer",
     "company": "Bjak",
     "location": "Ireland",
@@ -115,15 +134,22 @@
     ]
   },
   {
-    "title": "Commercial Analytics Werkstudent (m/w/d)",
-    "company": "Teampicnic",
-    "location": "D\u00fcsseldorf, North Rhine-Westphalia",
-    "description": "&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Bei Picnic basiert unser gesamtes&amp;nbsp;&lt;strong&gt;Gesch\u00e4ftsmodell auf Daten&lt;/strong&gt;. F\u00fcr unser Team suchen wir analytische und neugierige K\u00f6pfe als &lt;strong&gt;Commercial Analytics Working Student&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;Du wirst Teil der Teams, die unseren digitalen Supermarkt am Laufen halten. Du &lt;strong&gt;tauchst tief&lt;/strong&gt; in Datens\u00e4tze ein, um unsere Preise zu optimieren, unser Sortiment zu verbessern, Kampagnen zu analysieren und genau die Insights zu finden, die unser Wachstum vorantreiben.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Das erwartet dich&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Je nach deinem genauen Fokusbereich k\u00f6nnen folgende Aufgaben zu deinem Tag geh\u00f6ren:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Data Deep-Dives:&lt;/strong&gt; Nutze SQL, Python oder Excel, um Kundentrends zu entschl\u00fcsseln, unsere Marktpositionierung zu analysieren und neue Wachstumschancen aufzudecken.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Kommerzielle Strategie:&lt;/strong&gt; Analysiere die Produkt-Performance und das Nutzerverhalten in der App. Daraus leitest du konkrete Empfehlungen ab, die bestimmen, was wir verkaufen und wie wir es verkaufen.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Kampagnen- &amp;amp; Partnerschafts-Analytics:&lt;/strong&gt; Verwandle Kampagnen- und Kundendaten in echtes Wissen. Du bewertest den Erfolg von Marketingaktionen, damit unsere internen Teams und Markenpartner genau verstehen, was die Conversion antreibt.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Dashboard-Building:&lt;/strong&gt; Erstelle und pflege automatisierte Reporting-Tools in Tableau oder Google Sheets, um dem Team einen Einblick auf unsere wichtigsten KPIs zu geben.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Optimierungsprojekte:&lt;/strong&gt; Unterst\u00fctze bei der Umsetzung und Auswertung von Preisanpassungen, Sortiments-Updates und Promo-Aktionen, um den Mehrwert f\u00fcr unsere Kunden zu maximieren.&amp;nbs",
-    "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/commercial-analytics-werkstudent-dusseldorf-north-rhine-westphalia-8301",
+    "title": "Engineer - Data & Platforms (m/f/d)",
+    "company": "Bitcap",
+    "location": "Berlin HQ",
+    "description": "<br><strong>Your Role & How we work</strong><p><p>As our Engineer - Data &amp; Platforms (m/f/d), you build and run the internal data products that our investment team, Quantitative Research and AI Engineering rely on every day: the pipelines, datasets, APIs and tools that turn a large and growing pool of financial and alternative data into something investors can act on. Our stack is Python, SQL, AWS, and Databricks.</p><p>You report to our Director of Engineering. This is a hands-on engineering role: most of your time goes to designing, building, and shipping. The team is small, so you take ownership of real products early, and you get a manager and colleagues invested in your growth into investment and data-platform topics. You work closely with Quantitative Research, AI Engineering, Product &amp; Data, and the investment team, and we treat agentic AI as a default in how we build.</p>What you will do<ul><li><p>Build and improve the internal products the investment and research teams use daily: data pipelines, datasets, APIs, and tooling, on top of our lakehouse and orchestration stack.</p></li><li><p>Work directly with the teams you build for: take in their requests, triage and prioritise them, protect the integrity and consistency of the product, and explain features and implementation trade-offs in clear, non-technical language.</p></li><li><p>Design, build, and operate reliable data pipelines, ETLs and integrations that handle complex financial and alternative datasets.</p></li><li><p>Bring and reinforce good engineering habits in the team: automated testing at several levels, CI/CD, pull requests and code review, and clear documentation.</p></li><li><p>Contribute to operational excellence: observability, monitoring, data quality, and secure data handling.</p></li><li><p>Use agentic AI across engineering work (coding, review, testing, debugging, documentation) and help the team push these practices forward.</p></li></ul></p><br><strong>The experience you bring",
+    "url": "https://www.arbeitnow.com/jobs/companies/bitcap/engineer-data-platforms-berlin-hq-367943",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-13T11:55:09+00:00",
+    "posted_at": "2026-10-14T05:09:21+00:00",
     "tags": [
-      "Students"
+      "data engineering",
+      "aws",
+      "python",
+      "backend engineering",
+      "data quality",
+      "sql",
+      "snowflake",
+      "databricks"
     ],
     "match_score": 4,
     "matched_skills": [
@@ -132,27 +158,27 @@
     ]
   },
   {
-    "title": "Commercial Analytics Praktikum (m/w/d)",
-    "company": "Teampicnic",
-    "location": "D\u00fcsseldorf, North Rhine-Westphalia",
-    "description": "&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Bei Picnic basiert unser gesamtes&amp;nbsp;&lt;strong&gt;Gesch\u00e4ftsmodell auf Daten&lt;/strong&gt;. F\u00fcr unser Team suchen wir analytische und neugierige K\u00f6pfe als &lt;strong&gt;Commercial Analytics Praktikum&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;Du wirst Teil der Teams, die unseren digitalen Supermarkt am Laufen halten. Du &lt;strong&gt;tauchst tief&lt;/strong&gt; in Datens\u00e4tze ein, um unsere Preise zu optimieren, unser Sortiment zu verbessern, Kampagnen zu analysieren und genau die Insights zu finden, die unser Wachstum vorantreiben.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Das erwartet dich&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Je nach deinem genauen Fokusbereich k\u00f6nnen folgende Aufgaben zu deinem Tag geh\u00f6ren:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Data Deep-Dives:&lt;/strong&gt; Nutze SQL, Python oder Excel, um Kundentrends zu entschl\u00fcsseln, unsere Marktpositionierung zu analysieren und neue Wachstumschancen aufzudecken.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Kommerzielle Strategie:&lt;/strong&gt; Analysiere die Produkt-Performance und das Nutzerverhalten in der App. Daraus leitest du konkrete Empfehlungen ab, die bestimmen, was wir verkaufen und wie wir es verkaufen.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Kampagnen- &amp;amp; Partnerschafts-Analytics:&lt;/strong&gt; Verwandle Kampagnen- und Kundendaten in echtes Wissen. Du bewertest den Erfolg von Marketingaktionen, damit unsere internen Teams und Markenpartner genau verstehen, was die Conversion antreibt.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Dashboard-Building:&lt;/strong&gt; Erstelle und pflege automatisierte Reporting-Tools in Tableau oder Google Sheets, um dem Team einen Einblick auf unsere wichtigsten KPIs zu geben.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Optimierungsprojekte:&lt;/strong&gt; Unterst\u00fctze bei der Umsetzung und Auswertung von Preisanpassungen, Sortiments-Updates und Promo-Aktionen, um den Mehrwert f\u00fcr unsere Kunden zu maximieren.&amp;nbsp;&lt;",
-    "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/commercial-analytics-praktikum-dusseldorf-north-rhine-westphalia-299808",
+    "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
+    "company": "AlmavivA de Belgique",
+    "location": "Remote job",
+    "description": "<p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write and support backend code in .Net 8.0+ using some of the most common libraries (Newtonsoft.Json, OpenTelemetry, Swagger, Bogus, AutoBogus, Moq);</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in the .NET implementation of a micro-services solution, being able to write backend code in a reliable, fast, scalable, and secure way, satisfying requirements and service level agreements;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write and support services that read/transform/write data from multiple sources to multiple destinations (APIs, SQL Server, Elasticsearch, Redis, ActiveMq, Graph databases, csv files);</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Review and approve Pull Request created by teammates;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement validation mechanisms as unit and integration tests;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create and manage build and release pipelines and TestPlans in Azure Devops;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create and manage Kubernetes helm charts for all supported applications and services;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write and support complex SQL Server Stored Procedures;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create Kibana dashboards and Elasticsearch queries;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write OAUTH mechanisms. ADFS knowledge is a plus;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&n",
+    "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-359143",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-13T11:55:09+00:00",
+    "posted_at": "2026-10-14T03:30:22+00:00",
     "tags": [
-      "Students"
+      "Remote"
     ],
     "match_score": 4,
     "matched_skills": [
-      "Python",
-      "SQL"
+      "SQL",
+      "Azure"
     ]
   },
   {
     "title": "SI agent engineer",
     "company": "Sticker Mule",
     "location": "Remote",
-    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of SI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ol><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess SI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on SI capabilities to help them perform.</p></li></ol><div><br /></div><p><strong>Requirements</strong></p><ol><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ol><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag RMTMuODMuMTY2LjI0MA== when applying to show you read the job post completely (#RMTMuODMuMTY2LjI0MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of SI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ol><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess SI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on SI capabilities to help them perform.</p></li></ol><div><br /></div><p><strong>Requirements</strong></p><ol><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ol><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag RMTMyLjE5Ni41NC4yMzE= when applying to show you read the job post completely (#RMTMyLjE5Ni41NC4yMzE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
     "source": "RemoteOK",
     "posted_at": "2026-09-16T12:44:27+00:00",
@@ -201,48 +227,20 @@
     ]
   },
   {
-    "title": "Federal Business Development Director",
-    "company": "Fortanix",
-    "location": "Remote",
-    "description": "<p>About Fortanix </p><p>In today's world, where data spreads across various clouds and devices, traditional security measures aren't enough. Businesses and Government need a dynamic approach to defend against constant cyber threats and ensure agile data security. Fortanix leads the way in data-centric cybersecurity for hybrid multicloud environments, using advanced cryptography, encryption, PQC and Confidential AI solutions.\u00c2\u00a0\u00c2\u00a0</p><p></p><p>In an era where customers want solutions that allow their AI models to be close to the sensitive data they keep on premises, a unique solution is required.\u00c2\u00a0 Fortanix harnesses the power of memory-encryption based Confidential Computing to protect AI data, applications and proprietary models all the way through their lifecycle:\u00c2\u00a0 At-Rest, In-Motion and In-Use, ie at runtime.\u00c2\u00a0 Fortanix is the only company that can do this.\u00c2\u00a0 Our Confidential AI solution, developed in conjunction with NVIDIA allows enterprises, agencies and AI Factories to protect data, applications and models using secure multi-tenancy and data sovereignty capabilities.\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0</p><p></p><p>Our commitment to solving the world\u00e2\u0080\u0099s toughest data security challenges has earned Fortanix multiple Cybersecurity Excellence and Innovation Awards, as well as recognition from industry giants such as NVIDIA, Dell, HPE, Intel, Supermicro, Crowdstrike, Redhat and VAST Data.\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0</p><p></p><p>Our team includes industry leaders and cryptography experts, creating a culture of trust, innovation and collaboration where every voice is valued. Recognized as a Great Place to Work, we're looking for passionate individuals to help us shape the future of data security and work towards a safer digital future.\u00c2\u00a0</p><p><br /> Job Description</p><p>Fortanix is in search of a Federal Business Development Director that is a proven sales leader to drive the expansion of our team and business across the Federal segments focused on national security. Reporting to the Chief Revenue Officer, we\u00e2\u0080",
-    "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
-    "source": "RemoteOK",
-    "posted_at": "2026-10-04T16:00:03+00:00",
+    "title": "AI DevOps Engineer",
+    "company": "Bluecrestcapitalmanagement",
+    "location": "London",
+    "description": "&lt;p&gt;&lt;strong&gt;Department Overview:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Our Technology Infrastructure team operates globally and is responsible for every aspect of the firm&#39;s hybrid platform. This ranges from our EUC/Office environments to Trading and Core service Co-Location Data Centres, and extends to Public Cloud, delivering top-tier technology services to a dynamic and demanding Trading organisation.&lt;br&gt;&lt;br&gt;In addition to meeting the round-the-clock operational demands of the platforms, we continuously evolve and transform our platforms to maintain a competitive edge that our business requires. We innovate to provide valuable solutions and leverage our skilled Technology teams to deliver against rapidly changing business requirements.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role Overview:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The AI DevOps Engineer is a very technical, hands-on role, responsible for end to end delivery and operations of our DevOps environments. They will be joining the team as we lead an ambitious technology modernisation journey, moving to greater adoption of AI, microservices and public cloud. We\u2019re continuing to evolve our global infrastructure - spanning multiple global data centres - into a modern hybrid architecture that leverages both existing on-prem and multi-cloud environments and capabilities across Azure and AWS.&lt;/p&gt;\n&lt;p&gt;Over the past four years, we&#39;ve modernised our core trading systems and introduced a range of key technologies including AI, Kubernetes, Kafka, ELK, Prometheus, and more. As we expand and enhance the platforms, our focus is on automating and standardising to ensure consistency, scalability and reliability across all environments.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Experiences and Skills Required:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Must have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong object oriented Python skills (not just scripti",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/bluecrestcapitalmanagement/ai-devops-engineer-london-330239",
+    "source": "Arbeitnow",
+    "posted_at": "2026-10-14T08:55:48+00:00",
     "tags": [
-      "exec",
-      "infosec",
-      "teaching",
-      "consulting",
-      "technical",
-      "customer support",
-      "marketing",
-      "speech",
-      "cloud",
-      "bus dev",
-      "sales",
-      "medical"
+      "Technology - Infrastructure"
     ],
-    "match_score": 2,
+    "match_score": 3,
     "matched_skills": [
-      "Agile"
-    ]
-  },
-  {
-    "title": "External Data Specialist",
-    "company": "eClinical Solutions",
-    "location": "Remote",
-    "description": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud \u00e2\u0080\u0093 the foundation of digital trials. Together, the elluminate platform and digital data services give clients self-service access to all their data from one centralized location plus advanced analytics that help them make smarter, faster business decisions.\n\neClinical Solutions is committed to driving innovation in clinical trials through a better approach to data management and data analytics. We use the eClinical Solutions technology platform, elluminate, throughout the data management process to accelerate timelines for our clients and automate manual processes. We believe in a more agile approach to data management using our core technology elluminate - enabling our life sciences clients to proactively manage their clinical programs and make decisions.\n\nYou will make an<br/><br/>Please mention the word **DECENT** and tag RMTMuODMuMTY2LjI0MA== when applying to show you read the job post completely (#RMTMuODMuMTY2LjI0MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
-    "source": "RemoteOK",
-    "posted_at": "2026-09-10T16:00:15+00:00",
-    "tags": [
-      "cloud",
-      "exec",
-      "stats"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Agile"
+      "Python",
+      "Azure"
     ]
   }
 ]
