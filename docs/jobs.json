@@ -1,41 +1,5 @@
 [
   {
-    "title": "Forward Deployed Engineer",
-    "company": "True Talent Solutions Partners",
-    "location": "London",
-    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join a product engineering team building AI-powered software for certification, inspection, and compliance workflows. You will work closely with customers to understand how their operations run and turn those insights into production-ready systems.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Embed with customer teams to learn how certification, inspection, and compliance work in practice.</p></li><li><p style=\"min-height:1.5em\">Lead customer conversations, write product specifications, and build end-to-end systems across the frontend, backend, data model, and AI layer.</p></li><li><p style=\"min-height:1.5em\">Own product areas from discovery through deployment, shipping early and refining solutions based on direct user feedback.</p></li><li><p style=\"min-height:1.5em\">Review customer documents and workflow outputs to develop AI-enabled tools for scheduling, technical review, conformity assessment, field inspection, and document intelligence.</p></li><li><p style=\"min-height:1.5em\">Use sound product judgment to distinguish broadly useful needs from one-off requests.</p></li></ul><h3>What We're Looking For</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Three to six years of software or product engineering experience, with a track record of shipping production software.</p></li><li><p style=\"min-height:1.5em\">Full-stack capability, including Python, TypeScript, React, Node.js, SQL, data modeling, and cloud infrastructure.</p></li><li><p style=\"min-height:1.5em\">Experience with AI/ML, large language models, or document intelligence is valuable.</p></li><li><p style=\"min-height:1.5em\">Strong product-building instincts and experience contributing in an early-stage or ground-up product environment.</p></li><li><p style=\"min-height:1.5em\">Comfort working directly with customers, communicating clearly, and adapting to real-world operational needs.</p></li><li><p sty",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-407434",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-14T05:40:22+00:00",
-    "tags": [
-      "Client Roles"
-    ],
-    "match_score": 6,
-    "matched_skills": [
-      "Python",
-      "React",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Forward Deployed Engineer",
-    "company": "True Talent Solutions Partners",
-    "location": "London",
-    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join a customer-facing engineering team building AI software for enterprise organizations. You will work directly with customers to understand complex operational challenges and deliver practical, production-ready solutions that inform the product roadmap.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Travel to customer sites in the UK and internationally for up to 50% of your time to understand their operational needs.</p></li><li><p style=\"min-height:1.5em\">Design, prototype, and ship working software quickly across varied customer environments and technology stacks.</p></li><li><p style=\"min-height:1.5em\">Partner with engineers and other forward deployed teammates on customer engagements and pilots.</p></li><li><p style=\"min-height:1.5em\">Bring customer feedback and learnings into product development.</p></li><li><p style=\"min-height:1.5em\">Prepare and deliver demos and pilots for prospective customers across manufacturing, automotive, retail, and financial services.</p></li></ul><h3>What We're Looking For</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">One to five years of experience as a customer-facing full-stack engineer or forward deployed engineer, including shipping production code.</p></li><li><p style=\"min-height:1.5em\">Experience with React, TypeScript, Python, LangChain, and Vercel AI SDK, as well as familiarity with Rust, SQL, REST APIs, cloud infrastructure, enterprise data systems, and AI/LLM tooling.</p></li><li><p style=\"min-height:1.5em\">Strong systems design and architecture skills, with the ability to translate customer problems into scalable solutions.</p></li><li><p style=\"min-height:1.5em\">A problem-first approach, comfort working through ambiguity, and experience adapting to different industries and technology environments.</p></li><li><p style=\"min-height:1.5em\">A degree in computer science, engineering, or another STEM field, and e",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-142851",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-14T05:40:22+00:00",
-    "tags": [
-      "Client Roles"
-    ],
-    "match_score": 6,
-    "matched_skills": [
-      "Python",
-      "React",
-      "SQL"
-    ]
-  },
-  {
     "title": "Product Engineering Lead",
     "company": "Tether Operations Limited",
     "location": "Remote",
@@ -134,22 +98,15 @@
     ]
   },
   {
-    "title": "Engineer - Data & Platforms (m/f/d)",
-    "company": "Bitcap",
-    "location": "Berlin HQ",
-    "description": "<br><strong>Your Role & How we work</strong><p><p>As our Engineer - Data &amp; Platforms (m/f/d), you build and run the internal data products that our investment team, Quantitative Research and AI Engineering rely on every day: the pipelines, datasets, APIs and tools that turn a large and growing pool of financial and alternative data into something investors can act on. Our stack is Python, SQL, AWS, and Databricks.</p><p>You report to our Director of Engineering. This is a hands-on engineering role: most of your time goes to designing, building, and shipping. The team is small, so you take ownership of real products early, and you get a manager and colleagues invested in your growth into investment and data-platform topics. You work closely with Quantitative Research, AI Engineering, Product &amp; Data, and the investment team, and we treat agentic AI as a default in how we build.</p>What you will do<ul><li><p>Build and improve the internal products the investment and research teams use daily: data pipelines, datasets, APIs, and tooling, on top of our lakehouse and orchestration stack.</p></li><li><p>Work directly with the teams you build for: take in their requests, triage and prioritise them, protect the integrity and consistency of the product, and explain features and implementation trade-offs in clear, non-technical language.</p></li><li><p>Design, build, and operate reliable data pipelines, ETLs and integrations that handle complex financial and alternative datasets.</p></li><li><p>Bring and reinforce good engineering habits in the team: automated testing at several levels, CI/CD, pull requests and code review, and clear documentation.</p></li><li><p>Contribute to operational excellence: observability, monitoring, data quality, and secure data handling.</p></li><li><p>Use agentic AI across engineering work (coding, review, testing, debugging, documentation) and help the team push these practices forward.</p></li></ul></p><br><strong>The experience you bring",
-    "url": "https://www.arbeitnow.com/jobs/companies/bitcap/engineer-data-platforms-berlin-hq-367943",
+    "title": "Working Student - Business Analyst  (H/F)",
+    "company": "Teampicnic",
+    "location": "Paris, Paris",
+    "description": "&lt;h2&gt;In a nutshell&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;As a Business Analyst Working Student at Picnic, you\u2019ll be at the forefront of innovation, tackling complex challenges with fresh, groundbreaking solutions. This role is all about driving impact: you\u2019ll analyze data, help identify opportunities, and support strategies that push boundaries and redefine the grocery shopping experience. You\u2019ll join a dynamic and collaborative team in a fast-paced, innovative environment.&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;Tricks of the trade&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Solving real-life puzzles: &lt;/strong&gt;Tackle critical business questions that shape Picnic\u2019s business model every day.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Enabling: &lt;/strong&gt;Achieve operational excellence by approaching challenges with a data-driven and analytical mindset.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Building: &lt;/strong&gt;Create and optimize models for real-time improvements.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Communicating: &lt;/strong&gt;Work effectively with different teams to deliver impactful and sustainable solutions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Owning your projects&lt;/strong&gt;: Take initiative by challenging the status. Just because it\u2019s been done that way doesn\u2019t mean it\u2019s the best way. Try us!&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Your superpowers&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Currently pursuing a &lt;strong&gt;Master\u2019s&lt;/strong&gt; in a Quantitative field.&lt;/li&gt;\n&lt;li&gt;Passion for &lt;strong&gt;business consulting and data analytics&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;Translating&lt;strong&gt; complex analytical challenges&lt;/strong&gt; into clear strategies and executing business solutions&lt;/li&gt;\n&lt;li&gt;Proficiency with &lt;strong&gt;SQL and Python&lt;/strong&gt; or excited to learn&lt;/li&gt;\n&lt;li&gt;You are fluent in both verbal and written &lt;strong&gt;English&lt;/strong&gt; and have an&lt;strong&gt; EU citizenship&lt;/strong&gt; avail",
+    "url": "https://www.arbeitnow.fr/jobs/companies/teampicnic/working-student-business-analyst-h-f-paris-paris-12827",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-14T05:09:21+00:00",
+    "posted_at": "2026-10-14T14:55:44+00:00",
     "tags": [
-      "data engineering",
-      "aws",
-      "python",
-      "backend engineering",
-      "data quality",
-      "sql",
-      "snowflake",
-      "databricks"
+      "Students"
     ],
     "match_score": 4,
     "matched_skills": [
@@ -158,27 +115,10 @@
     ]
   },
   {
-    "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
-    "company": "AlmavivA de Belgique",
-    "location": "Remote job",
-    "description": "<p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write and support backend code in .Net 8.0+ using some of the most common libraries (Newtonsoft.Json, OpenTelemetry, Swagger, Bogus, AutoBogus, Moq);</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in the .NET implementation of a micro-services solution, being able to write backend code in a reliable, fast, scalable, and secure way, satisfying requirements and service level agreements;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write and support services that read/transform/write data from multiple sources to multiple destinations (APIs, SQL Server, Elasticsearch, Redis, ActiveMq, Graph databases, csv files);</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Review and approve Pull Request created by teammates;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement validation mechanisms as unit and integration tests;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create and manage build and release pipelines and TestPlans in Azure Devops;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create and manage Kubernetes helm charts for all supported applications and services;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write and support complex SQL Server Stored Procedures;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create Kibana dashboards and Elasticsearch queries;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write OAUTH mechanisms. ADFS knowledge is a plus;</p><p class=\"MsoNormal\" style=\"text-align:justify;\">\u2022&nbsp;&nbsp;&n",
-    "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-359143",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-14T03:30:22+00:00",
-    "tags": [
-      "Remote"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "SQL",
-      "Azure"
-    ]
-  },
-  {
     "title": "SI agent engineer",
     "company": "Sticker Mule",
     "location": "Remote",
-    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of SI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ol><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess SI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on SI capabilities to help them perform.</p></li></ol><div><br /></div><p><strong>Requirements</strong></p><ol><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ol><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag RMTMyLjE5Ni41NC4yMzE= when applying to show you read the job post completely (#RMTMyLjE5Ni41NC4yMzE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack.</p><div><br /></div><p>We're hiring an engineer to build, run and manage a team of SI agents to help us innovate faster, improve performance, and better serve customers.</p><div><br /></div><p><strong>Work performed</strong></p><ol><li><p>Identify where agents can help and build them accordingly.</p></li><li><p>Work with department leads to assess SI needs.</p></li><li><p>Help connect agents to appropriate third-party and internal tools.</p></li><li><p>Measure results and remove agents that don't deliver.</p></li><li><p>Test new tools and models as they ship and adopt what works.</p></li><li><p>Advise others on SI capabilities to help them perform.</p></li></ol><div><br /></div><p><strong>Requirements</strong></p><ol><li><p>Experience building agents that run on their own and do meaningful work</p></li><li><p>Strong with Grok, Claude, OpenAI, and open source</p></li><li><p>Comfortable in Go, TypeScript, GraphQL, Postgres, GCP</p></li><li><p>Writes clearly in English</p></li></ol><div><br /></div><p><strong>Compensation</strong></p><ol><li><p>Salary: $150,000\u00e2\u0080\u0093$250,000 USD</p></li><li><p>$20,000 signing bonus</p></li><li><p>4 weeks vacation + country-specific holidays</p></li><li><p>Fully remote</p></li></ol></div></div><br/><br/>Please mention the word **HUMOUR** and tag RMTMwLjEzMS4xOTguMTI4 when applying to show you read the job post completely (#RMTMwLjEzMS4xOTguMTI4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
     "source": "RemoteOK",
     "posted_at": "2026-09-16T12:44:27+00:00",
@@ -227,19 +167,85 @@
     ]
   },
   {
-    "title": "AI DevOps Engineer",
-    "company": "Bluecrestcapitalmanagement",
-    "location": "London",
-    "description": "&lt;p&gt;&lt;strong&gt;Department Overview:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Our Technology Infrastructure team operates globally and is responsible for every aspect of the firm&#39;s hybrid platform. This ranges from our EUC/Office environments to Trading and Core service Co-Location Data Centres, and extends to Public Cloud, delivering top-tier technology services to a dynamic and demanding Trading organisation.&lt;br&gt;&lt;br&gt;In addition to meeting the round-the-clock operational demands of the platforms, we continuously evolve and transform our platforms to maintain a competitive edge that our business requires. We innovate to provide valuable solutions and leverage our skilled Technology teams to deliver against rapidly changing business requirements.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role Overview:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The AI DevOps Engineer is a very technical, hands-on role, responsible for end to end delivery and operations of our DevOps environments. They will be joining the team as we lead an ambitious technology modernisation journey, moving to greater adoption of AI, microservices and public cloud. We\u2019re continuing to evolve our global infrastructure - spanning multiple global data centres - into a modern hybrid architecture that leverages both existing on-prem and multi-cloud environments and capabilities across Azure and AWS.&lt;/p&gt;\n&lt;p&gt;Over the past four years, we&#39;ve modernised our core trading systems and introduced a range of key technologies including AI, Kubernetes, Kafka, ELK, Prometheus, and more. As we expand and enhance the platforms, our focus is on automating and standardising to ensure consistency, scalability and reliability across all environments.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Experiences and Skills Required:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Must have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong object oriented Python skills (not just scripti",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/bluecrestcapitalmanagement/ai-devops-engineer-london-330239",
+    "title": "Production Engineer",
+    "company": "Auterion",
+    "location": "Zurich",
+    "description": "&lt;p&gt;As a Production Engineer, you will play a key role within our Test Engineering team, programming test software and documenting test procedures to scale production of our next-generation drone platforms. In this position, you will take ownership of verification and production test equipment, from defining test concepts to designing automated test solutions, jigs and needle-bed adapters that help us improve yield and reliability. You\u2019ll collaborate closely with our software and electronics engineers and OEM partners to enhance test coverage and reduce testing time, driving efficiency across our manufacturing process.&lt;/p&gt;\n&lt;p&gt;This is a hands-on role in a fast-paced, agile environment, offering the opportunity to design creative, practical test solutions from concept through to mass production. This involves balancing the transition from our existing test setups to more scalable and complete solutions in a pragmatic and iterative way for a number of different projects.&lt;/p&gt;\n&lt;p&gt;Beyond test engineering, you\u2019ll apply your software expertise across the broader hardware and software team by supporting the engineering validation efforts of new products. You will also visit OEMs to support new product integrations and support small scale engineering runs in person.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities and Duties&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Research, design and build test solutions, including auto generated, 3D printed test equipment and CNC milled custom test jigs, and needle-bed adapters to enable low-volume prototyping and mid- to high-volume PCB production.&lt;/li&gt;\n&lt;li&gt;Plan and execute product verification, covering test case definition, execution, analysis, and comprehensive documentation, also for repair guidance.&lt;/li&gt;\n&lt;li&gt;Write Python code and STM32 firmware to test our embedded products from the inside (selftest) and outside (via test fixture).&lt;/li&gt;\n&lt;li&gt;Collaborate with cros",
+    "url": "https://www.arbeitnow.ch/jobs/companies/auterion/production-engineer-zurich-153801",
     "source": "Arbeitnow",
-    "posted_at": "2026-10-14T08:55:48+00:00",
+    "posted_at": "2026-10-14T02:55:28+00:00",
     "tags": [
-      "Technology - Infrastructure"
+      "Engineering"
     ],
     "match_score": 3,
     "matched_skills": [
       "Python",
+      "Agile"
+    ]
+  },
+  {
+    "title": "Federal Business Development Director",
+    "company": "Fortanix",
+    "location": "Remote",
+    "description": "<p>About Fortanix </p><p>In today's world, where data spreads across various clouds and devices, traditional security measures aren't enough. Businesses and Government need a dynamic approach to defend against constant cyber threats and ensure agile data security. Fortanix leads the way in data-centric cybersecurity for hybrid multicloud environments, using advanced cryptography, encryption, PQC and Confidential AI solutions.\u00c2\u00a0\u00c2\u00a0</p><p></p><p>In an era where customers want solutions that allow their AI models to be close to the sensitive data they keep on premises, a unique solution is required.\u00c2\u00a0 Fortanix harnesses the power of memory-encryption based Confidential Computing to protect AI data, applications and proprietary models all the way through their lifecycle:\u00c2\u00a0 At-Rest, In-Motion and In-Use, ie at runtime.\u00c2\u00a0 Fortanix is the only company that can do this.\u00c2\u00a0 Our Confidential AI solution, developed in conjunction with NVIDIA allows enterprises, agencies and AI Factories to protect data, applications and models using secure multi-tenancy and data sovereignty capabilities.\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0</p><p></p><p>Our commitment to solving the world\u00e2\u0080\u0099s toughest data security challenges has earned Fortanix multiple Cybersecurity Excellence and Innovation Awards, as well as recognition from industry giants such as NVIDIA, Dell, HPE, Intel, Supermicro, Crowdstrike, Redhat and VAST Data.\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0</p><p></p><p>Our team includes industry leaders and cryptography experts, creating a culture of trust, innovation and collaboration where every voice is valued. Recognized as a Great Place to Work, we're looking for passionate individuals to help us shape the future of data security and work towards a safer digital future.\u00c2\u00a0</p><p><br /> Job Description</p><p>Fortanix is in search of a Federal Business Development Director that is a proven sales leader to drive the expansion of our team and business across the Federal segments focused on national security. Reporting to the Chief Revenue Officer, we\u00e2\u0080",
+    "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
+    "source": "RemoteOK",
+    "posted_at": "2026-10-04T16:00:03+00:00",
+    "tags": [
+      "exec",
+      "infosec",
+      "teaching",
+      "consulting",
+      "technical",
+      "customer support",
+      "marketing",
+      "speech",
+      "cloud",
+      "bus dev",
+      "sales",
+      "medical"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Agile"
+    ]
+  },
+  {
+    "title": "External Data Specialist",
+    "company": "eClinical Solutions",
+    "location": "Remote",
+    "description": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud \u00e2\u0080\u0093 the foundation of digital trials. Together, the elluminate platform and digital data services give clients self-service access to all their data from one centralized location plus advanced analytics that help them make smarter, faster business decisions.\n\neClinical Solutions is committed to driving innovation in clinical trials through a better approach to data management and data analytics. We use the eClinical Solutions technology platform, elluminate, throughout the data management process to accelerate timelines for our clients and automate manual processes. We believe in a more agile approach to data management using our core technology elluminate - enabling our life sciences clients to proactively manage their clinical programs and make decisions.\n\nYou will make an<br/><br/>Please mention the word **DECENT** and tag RMTMwLjEzMS4xOTguMTI4 when applying to show you read the job post completely (#RMTMwLjEzMS4xOTguMTI4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
+    "source": "RemoteOK",
+    "posted_at": "2026-09-10T16:00:15+00:00",
+    "tags": [
+      "cloud",
+      "exec",
+      "stats"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Agile"
+    ]
+  },
+  {
+    "title": "Sales Development Representative Attribute\u00e2\u0084",
+    "company": "DoiT",
+    "location": "Remote UK",
+    "description": "Our Sales Development Representative will be an integral part of our sales team. This role is fully remote in the EMEA region in the UK, Ireland, the Netherlands, and Sweden.\n\nWho We Are\nDoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and innovation. We combine data, technology, and human expertise to ensure our customers operate in a well-architected and scalable state - from planning to production. \n\nDelivering DoiT Cloud Intelligence, the only solution that integrates advanced technology with human intelligence, we help our customers solve complex multicloud problems and drive efficiency.\n\nWith decades of multicloud experience, we have specializations in Kubernetes, GenAI, CloudOps, and more. An award-winning strategic partner of AWS, Google Cloud, and Microsoft Azure, we work alongside more than 4,000 customers worldwide. \n\nThe Opportunity\nAs a Sales Development Representative on our Attribute\u00e2\u0084\u00a2 team, you will be responsible for outbound lead generation, including email, calling, and using LinkedIn to book demos with qualified prospects on technical teams. You\u00e2\u0080\u0099ll be on the front line of the sales team, filling the pipeline for closers by focusing on the primary metrics of qualified meetings booked and pipeline generated. We are looking f<br/><br/>Please mention the word **THRIVING** and tag RMTMwLjEzMS4xOTguMTI4 when applying to show you read the job post completely (#RMTMwLjEzMS4xOTguMTI4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "url": "https://remoteOK.com/remote-jobs/",
+    "source": "RemoteOK",
+    "posted_at": "2026-08-11T08:00:43+00:00",
+    "tags": [
+      "technical",
+      "marketing",
+      "cloud",
+      "microsoft",
+      "exec",
+      "sales"
+    ],
+    "match_score": 2,
+    "matched_skills": [
       "Azure"
     ]
   }
