@@ -3,7 +3,7 @@
     "title": "Sr REACT NATIVE",
     "company": "Somnio Software",
     "location": "Remote",
-    "description": "<p><strong>Qu\u00c3\u00a9 es Deazy</strong><br />Deazy es una plataforma/marketplace de UK que conecta empresas que necesitan desarrollo de software con agencias de desarrollo en todo el mundo. Ellos consiguen el cliente, definen el proyecto y luego lo asignan a una agencia como Somnio para ejecutarlo. B\u00c3\u00a1sicamente son un intermediario entre el cliente final y nosotros.</p><p><strong>C\u00c3\u00b3mo funciona el modelo</strong><br />Deazy factura al cliente final a su propia tarifa (en este caso est\u00c3\u00a1n hablando de EUR 47/h, aunque todav\u00c3\u00ada hay que confirmar si ese es el rate al cliente o lo que pagan al proveedor). Nosotros le facturamos a Deazy a un rate m\u00c3\u00a1s bajo, y la diferencia es su margen. <br />Por eso la tarifa introductoria que les estamos ofreciendo es USD 45/h - USD 40/h \u00e2\u0080\u0094 pensada para que Deazy tenga margen c\u00c3\u00b3modo y nos priorice y abrir la cuenta</p><p><br />Si la relaci\u00c3\u00b3n funciona, Deazy nos puede asignar proyectos de forma recurrente sin que nosotros tengamos que salir a conseguirlos. Es un canal de ventas indirecto, ellos traen el cliente, nosotros entregamos. <br />El volumen potencial es importante si nos posicionamos bien con ellos.<br /><br />Deazy nos conoce principalmente como agencia Flutter. El trabajo ahora es mostrarles que tambi\u00c3\u00a9n somos fuertes en React Native, React, <a rel=\"noopener\" target=\"_blank\" href=\"http://Node.js\">Node.js</a>, Python y AI </p><br></br><br/><br/>Please mention the word **JOYOUSLY** and tag RNC4yMzYuOTIuMTg0 when applying to show you read the job post completely (#RNC4yMzYuOTIuMTg0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "<p><strong>Qu\u00c3\u00a9 es Deazy</strong><br />Deazy es una plataforma/marketplace de UK que conecta empresas que necesitan desarrollo de software con agencias de desarrollo en todo el mundo. Ellos consiguen el cliente, definen el proyecto y luego lo asignan a una agencia como Somnio para ejecutarlo. B\u00c3\u00a1sicamente son un intermediario entre el cliente final y nosotros.</p><p><strong>C\u00c3\u00b3mo funciona el modelo</strong><br />Deazy factura al cliente final a su propia tarifa (en este caso est\u00c3\u00a1n hablando de EUR 47/h, aunque todav\u00c3\u00ada hay que confirmar si ese es el rate al cliente o lo que pagan al proveedor). Nosotros le facturamos a Deazy a un rate m\u00c3\u00a1s bajo, y la diferencia es su margen. <br />Por eso la tarifa introductoria que les estamos ofreciendo es USD 45/h - USD 40/h \u00e2\u0080\u0094 pensada para que Deazy tenga margen c\u00c3\u00b3modo y nos priorice y abrir la cuenta</p><p><br />Si la relaci\u00c3\u00b3n funciona, Deazy nos puede asignar proyectos de forma recurrente sin que nosotros tengamos que salir a conseguirlos. Es un canal de ventas indirecto, ellos traen el cliente, nosotros entregamos. <br />El volumen potencial es importante si nos posicionamos bien con ellos.<br /><br />Deazy nos conoce principalmente como agencia Flutter. El trabajo ahora es mostrarles que tambi\u00c3\u00a9n somos fuertes en React Native, React, <a rel=\"noopener\" target=\"_blank\" href=\"http://Node.js\">Node.js</a>, Python y AI </p><br></br><br/><br/>Please mention the word **JOYOUSLY** and tag RMTcyLjIwOC4xMDEuMjA2 when applying to show you read the job post completely (#RMTcyLjIwOC4xMDEuMjA2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
     "source": "RemoteOK",
     "posted_at": "2026-10-15T00:00:19+00:00",
@@ -155,76 +155,6 @@
     ]
   },
   {
-    "title": "Backend Engineer (m/f/d)",
-    "company": "Care Companion GmbH",
-    "location": "Berlin",
-    "description": "<h2>Python, FastAPI and PostgreSQL in a system we built entirely ourselves. Full stack welcome.</h2><p>Berlin or nearby, hybrid. Full-time, permanent. Start: as soon as possible</p><h2><strong>What this is about</strong></h2><p>Careship helps families find reliable support in everyday life: all across Germany, through self-employed caregivers and our own employed caregivers. Behind both stands a platform we built entirely ourselves, live since August 2026: a Python backend, an internal staff portal, an app for customers and an app for caregivers.</p><p>The system covers everything from the first inquiry to payroll: matching, scheduling, care budgets, billing with care insurance funds, payment processing and digital contracts, plus email, chat, WhatsApp and phone calls in one inbox. It is live, it runs the operations of two companies, and it grows every week.</p><p>This is why we are looking for the second person in our permanent engineering duo.</p><h2><strong>Your role</strong></h2><p>You work as one of two engineers on our system, with a focus on the Python backend: data model, business logic, APIs and the integrations our operations run on. If full stack is your thing, the rest is open to you: the staff portal in Next.js and our two apps in React Native. You share responsibility and cover for each other, in everyday work and during vacations.</p><ul><li><p>You build features from the data model through the business logic to the finished API endpoint, and all the way to the screen if you want.</p></li><li><p>You work on core topics like the budget engine, billing, the payroll pipeline and matching. Logic where diligence really counts.</p></li><li><p>You maintain code in production that real people use every day: our operations team, caregivers, and customers with their families.</p></li><li><p>You work directly with product and the tech lead, no layers in between. Requirements arrive as fully worked-out specifications from our knowledge base, not as two-line ticke",
-    "url": "https://www.arbeitnow.com/jobs/companies/care-companion-gmbh/backend-engineer-berlin-43368",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-19T11:01:14+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "React"
-    ]
-  },
-  {
-    "title": "Data Scientist (m/w/d) \u2013 Anomalieerkennung f\u00fcr Recyclinganlagen",
-    "company": "Eggersmann - Gruppe",
-    "location": "Aachen",
-    "description": "<h2>Digitalisierung ist deine Leidenschaft und du brennst f\u00fcr Nachhaltigkeit?</h2><p>Dann gestalte mit uns die digitale Transformation der Recyclingbranche!</p><p>Die Eggersmann Gruppe ist ein international t\u00e4tiger Verbund von Unternehmen mit \u00fcber 50 Jahren Erfahrung in Umwelttechnologien und mehr als 1.300 Mitarbeitenden weltweit. Als f\u00fchrender Anbieter von Recyclinganlagen und -maschinen treiben wir zukunftsorientierte L\u00f6sungen f\u00fcr eine funktionierende Kreislaufwirtschaft voran. Um die Potenziale der Digitalisierung und Automatisierung in der Recyclingbranche voll auszusch\u00f6pfen, haben wir in Aachen unseren digitalen Innovations-Hub als Corporate Start-up gegr\u00fcndet. Mit der ESA app, unserer modularen IIoT-Software, optimieren wir den Betrieb von Recyclinganlagen und -maschinen durch Datenanalyse und Machine Learning.</p><h3>Deine Mission:</h3><p>Du machst Maschinendaten nutzbar: Mit Machine-Learning-Modellen erkennst du ungew\u00f6hnliche Muster und Abweichungen in den Zeitreihen unserer Recyclinganlagen. So hilfst du dabei, Abweichungen fr\u00fchzeitig zu erkennen und die Ursachenanalyse sowie die Optimierung von Prozessen zu unterst\u00fctzen. Von der Datenanalyse \u00fcber die Entwicklung und Validierung deiner Modelle bis zu deren Einsatz im Produkt begleitest du den gesamten Weg \u2013 eng abgestimmt mit unseren Fachleuten aus der Praxis.</p><h3>Deine Aufgaben:</h3><ul><li><p>Du entwickelst, trainierst und validierst Machine-Learning-Modelle mit Schwerpunkt auf der Anomalieerkennung in Zeitreihen in wartbarem Python-Code inklusive der Nutzung von Coding Assistants.</p></li><li><p>Du analysierst und visualisierst komplexe Zeitreihendaten, um Muster, Ursachen und Optimierungspotenziale aufzudecken.</p></li><li><p>Du deployst Modelle in den produktiven Betrieb und richtest das initiale Monitoring ein.</p></li><li><p>Du entwickelst Datenmodelle und schreibst effiziente SQL-Abfragen f\u00fcr relationale Datenbanken.</p></li><li><p>Du arbeitest eng mit unseren Fachexpert:innen zusammen und \u00fcbers",
-    "url": "https://www.arbeitnow.com/jobs/companies/eggersmann-gruppe/data-scientist-anomalieerkennung-fur-recyclinganlagen-aachen-119911",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-19T07:00:53+00:00",
-    "tags": [
-      "Data Scientist"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Finance Specialist Risk & Performance UCITS/IAF",
-    "company": "coni+partner AG",
-    "location": "Z\u00fcrich",
-    "description": "<p>coni + partner, established 1993, is a consultancy company with headquarter in Zurich and subsidiaries in D\u00fcsseldorf and Shanghai. We are specialised in custom-fit staffing in tune with the corporate culture by ensuring a perfect match of professional skills, references and personal as well as social skills of successful candidates.</p><p>Our client is the asset management division of an international bank in Zurich. We are looking for a quantitative analyst (m, f, d) to serve as a</p><p><strong>Finance Specialist Risk & Performance UCITS/IAF</strong></p><p>Your Tasks:</p><p>Responsible for the calculation, validation and reporting of fund investment portfolio performance measurement, attribution and risks / Responsible for portfolio configuration analysis, aggregated portfolios, benchmark data sourcing and benchmark management / Support client reporting teams across the group with relevant performance metrics / Responsible for executing critical performance related projects with client reporting and project management teams in Private Banking Operations & IT / Responsible for problem-solving, change management, user acceptance test (UAT) support, documentation and application of controls / Responsible for working with process and IT platform enablers, front office clients such as portfolio managers, front desks and business management teams, internal audit as well as external data vendors and service providers / Contribute to the optimization of the department, its tools, systems, platforms and processes.</p><p>Your Profile:</p><p>Master's degree Finance or Quantitative Finance / Professional experience in asset management, investment banking or consulting / Experience in the risk and performance analysis of fund investments (e.g. CISA, UCITS, AIF)/ Programming skills (e.g. VBA / Python / SQL) / Experience with e.g. Bloomberg, FactSet, MorningStar and Essentials, QA Direct / Professional experience with performance measurement and performance attribution, but al",
-    "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/finance-specialist-risk-performance-ucits-iaf-zurich-426413",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-18T20:00:52+00:00",
-    "tags": [
-      "Asset",
-      "Fonds Management"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
-    "title": "SAP BI Consultant Analytics & AI",
-    "company": "Amstad Personal",
-    "location": "Z\u00fcrich",
-    "description": "<p>Sie interessieren sich f\u00fcr moderne Datenplattformen, Analytics und k\u00fcnstliche Intelligenz? Dann erwartet Sie hier eine spannende Aufgabe, bei der Sie innovative SAP-L\u00f6sungen mitgestalten, Ihr Wissen einbringen und gemeinsam mit Kunden neue M\u00f6glichkeiten erschliessen k\u00f6nnen.</p><p><strong>Aufgabenbereich<br></strong>Sie konzipieren und implementieren moderne SAP-Datenplattformen sowie Analytics- und AI-L\u00f6sungen. Dabei arbeiten Sie mit Technologien wie SAP Analytics Cloud, SAP Business Data Cloud, Datasphere und SAP Joule. Sie verbinden unterschiedliche Quellsysteme, beraten Kunden, f\u00fchren Workshops durch und unterst\u00fctzen bei Konzepten, Pr\u00e4sentationen und der Akquisition neuer Projekte. Abwechslung ist garantiert, denn Ihre Projekte f\u00fchren Sie zu Kunden in der ganzen Schweiz.</p><p><strong>Ihre Sozialkompetenz<br></strong>Sie denken analytisch, handeln eigenverantwortlich und bringen komplexe Themen verst\u00e4ndlich auf den Punkt. Sie arbeiten gerne im Team, kommunizieren \u00fcberzeugend und haben Freude daran, neue Technologien in praxistaugliche L\u00f6sungen zu verwandeln. Neugier ist willkommen, Stillstand weniger.</p><p><strong>Know-how<br></strong>Sie verf\u00fcgen \u00fcber mindestens drei Jahre Erfahrung in SAP Analytics und/oder AI. Kenntnisse in SAP Analytics Cloud (Planning) und SAP Business Data Cloud sind zwingend. Erfahrung mit SAP BW, Datasphere, S/4HANA, Datenmodellierung und einer Programmiersprache wie SQL, ABAP oder Python ist von Vorteil. Ebenso bringen Sie fundiertes Prozesswissen und Branchenkenntnisse mit. Erfahrung im Pre-Sales sowie sehr gute Deutsch- und Englischkenntnisse runden Ihr Profil ab.</p><p><strong>Unser Kunde<br></strong>Ein etabliertes Schweizer SAP-Beratungsunternehmen mit spannenden Digitalisierungsprojekten, modernen Technologien und viel Raum, eigene Ideen einzubringen.</p><p><strong>Interesse?<br></strong>Dann freuen wir uns, Sie kennenzulernen. Zeigen Sie uns, wie Sie aus Daten echten Mehrwert machen!</p><p></p><p>Find more <a href=\"https://www",
-    "url": "https://www.arbeitnow.ch/jobs/companies/amstad-personal/sap-bi-consultant-analytics-ai-zurich-474629",
-    "source": "Arbeitnow",
-    "posted_at": "2026-10-18T20:00:47+00:00",
-    "tags": [
-      "SAP/ERP Consulting",
-      "Development"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
     "title": "Technical Account Manager",
     "company": "Yuno",
     "location": "Brazil",
@@ -268,6 +198,122 @@
       "Python",
       "JavaScript",
       "SQL"
+    ]
+  },
+  {
+    "title": "APAC Python",
+    "company": "Kodland",
+    "location": "Remote",
+    "description": "<p><strong>About\u00c2\u00a0the\u00c2\u00a0Company:</strong></p><p><strong>Kodland\u00c2\u00a0</strong>is\u00c2\u00a0an\u00c2\u00a0international\u00c2\u00a0online\u00c2\u00a0coding\u00c2\u00a0and\u00c2\u00a0digital\u00c2\u00a0skills\u00c2\u00a0school\u00c2\u00a0that\u00c2\u00a0helps\u00c2\u00a0children\u00c2\u00a0aged\u00c2\u00a05\u00c2\u00a0to\u00c2\u00a017\u00c2\u00a0take\u00c2\u00a0their\u00c2\u00a0first\u00c2\u00a0steps\u00c2\u00a0into\u00c2\u00a0the\u00c2\u00a0world\u00c2\u00a0of\u00c2\u00a0programming\u00c2\u00a0and\u00c2\u00a0technology.</p><p style=\"min-height: 1.7em;\"></p><p><strong>About\u00c2\u00a0the\u00c2\u00a0Role:</strong></p><p>Are\u00c2\u00a0you\u00c2\u00a0a\u00c2\u00a0passionate\u00c2\u00a0programmer\u00c2\u00a0who\u00c2\u00a0loves\u00c2\u00a0coding\u00c2\u00a0and\u00c2\u00a0computer\u00c2\u00a0games?\u00c2\u00a0Would\u00c2\u00a0you\u00c2\u00a0like\u00c2\u00a0to\u00c2\u00a0help\u00c2\u00a0children\u00c2\u00a0create\u00c2\u00a0their\u00c2\u00a0first\u00c2\u00a0projects\u00c2\u00a0and\u00c2\u00a0take\u00c2\u00a0their\u00c2\u00a0first\u00c2\u00a0steps\u00c2\u00a0into\u00c2\u00a0the\u00c2\u00a0programming\u00c2\u00a0world\u00c2\u00a0by\u00c2\u00a0teaching\u00c2\u00a0them\u00c2\u00a0Python?\u00c2\u00a0If\u00c2\u00a0so,\u00c2\u00a0this\u00c2\u00a0opportunity\u00c2\u00a0is\u00c2\u00a0perfect\u00c2\u00a0for\u00c2\u00a0you!</p><p style=\"min-height: 1.7em;\"></p><p><strong>Responsibilities:</strong></p><ul><li><p>Deliver\u00c2\u00a0fun\u00c2\u00a0and\u00c2\u00a0interactive\u00c2\u00a0Python\u00c2\u00a0Programming\u00c2\u00a0lessons\u00c2\u00a0using\u00c2\u00a0provided\u00c2\u00a0materials.</p></li><li><p>Develop\u00c2\u00a0your\u00c2\u00a0own\u00c2\u00a0skills\u00c2\u00a0under\u00c2\u00a0the\u00c2\u00a0guidance\u00c2\u00a0of\u00c2\u00a0experienced\u00c2\u00a0Kodland\u00c2\u00a0teachers.</p></li><li><p>Share\u00c2\u00a0feedback\u00c2\u00a0about\u00c2\u00a0lessons\u00c2\u00a0with\u00c2\u00a0the\u00c2\u00a0Kodland\u00c2\u00a0team.</p></li><li><p>Regularly\u00c2\u00a0report\u00c2\u00a0on\u00c2\u00a0student\u00c2\u00a0progress\u00c2\u00a0and\u00c2\u00a0help\u00c2\u00a0improve\u00c2\u00a0the\u00c2\u00a0learning\u00c2\u00a0experience.</p></li><li><p>Be\u00c2\u00a0a\u00c2\u00a0positive\u00c2\u00a0representative\u00c2\u00a0of\u00c2\u00a0Kodland\u00c2\u00a0and\u00c2\u00a0contribute\u00c2\u00a0creative\u00c2\u00a0ideas\u00c2\u00a0to\u00c2\u00a0support\u00c2\u00a0students.</p></li><li><p>Attend\u00c2\u00a0all\u00c2\u00a0training\u00c2\u00a0and\u00c2\u00a0support\u00c2\u00a0sessions\u00c2\u00a0provided\u00c2\u00a0throughout\u00c2\u00a0the\u00c2\u00a0hiring\u00c2\u00a0process.</p></li></ul><p style=\"min-height: 1.7em;\"></p><p style=\"min-height: 1.7em;\"></p><p><strong>Join\u00c2\u00a0our\u00c2\u00a0team\u00c2\u00a0today\u00c2\u00a0and\u00c2\u00a0experience\u00c2\u00a0the\u00c2\u00a0joy\u00c2\u00a0of\u00c2\u00a0teaching\u00c2\u00a0with\u00c2\u00a0Kodland!\u00c2\u00a0\u00f0\u009f\u0092\u0099</strong></p><p style=\"min-height: 1.7em;\"></p><p><strong>Please\u00c2\u00a0note:\u00c2\u00a0This\u00c2\u00a0is\u00c2\u00a0a\u00c2\u00a0part-time\u00c2\u00a0freelance\u00c2\u00a0position.\u00c2\u00a0There\u00c2\u00a0is\u00c2\u00a0no\u00c2\u00a0fixed\u00c2\u00a0or\u00c2\u00a0guaranteed\u00c2\u00a0income.</strong></p><p style=\"min-height: 1.7em;\"></p><br></br><p><strong>Requirements:</strong></p><ul><li><p>Intermediate\u00c2\u00a0level\u00c2\u00a0Python\u00c2\u00a0experience.</p></li><li><p>Availability\u00c2\u00a0of\u00c2\u00a0at\u00c2\u00a0least\u00c2\u00a010\u00c2\u00a0hours\u00c2\u00a0per\u00c2\u00a0week.</p></li><li><p>You\u00c2\u00a0love\u00c2\u00a0teaching\u00c2\u00a0and\u00c2\u00a0connecting\u00c2\u00a0with\u00c2\u00a0children\u00c2\u00a0and\u00c2\u00a0young\u00c2\u00a0people.</p></li><li><p>You\u00c2\u00a0speak\u00c2\u00a0English\u00c2\u00a0fluent",
+    "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+    "source": "RemoteOK",
+    "posted_at": "2026-10-16T16:00:26+00:00",
+    "tags": [
+      "python",
+      "teaching",
+      "education",
+      "customer support",
+      "dev",
+      "testing",
+      "part time",
+      "non tech",
+      "digital nomad"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "DESARROLLADOR FULL STACK",
+    "company": "Kruger NearShore LLC - Rekluti",
+    "location": "Remote",
+    "description": "<h3>Desarrollador/a Full Stack \u00e2\u0080\u0093 Python / Angular / Go</h3><p class=\"isSelectedEnd\">En <strong>Rekluti</strong>, consultora especializada en talento tecnol\u00c3\u00b3gico en LATAM, buscamos un/a <strong>Desarrollador/a Full Stack</strong> para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables.</p><p class=\"isSelectedEnd\">Buscamos un perfil con s\u00c3\u00b3lida experiencia en <strong>Python, Angular y Go</strong>, capaz de desenvolverse de manera aut\u00c3\u00b3noma, aportar en decisiones t\u00c3\u00a9cnicas y colaborar con equipos multidisciplinarios.</p><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u008e\u00af Principales responsabilidades</h3><ul><li><p>Dise\u00c3\u00b1ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend.</p></li><li><p>Desarrollar servicios y <strong>APIs REST</strong> utilizando principalmente Python y Go.</p></li><li><p>Construir y mantener interfaces web modernas con <strong>Angular</strong>.</p></li><li><p>Participar en el dise\u00c3\u00b1o de arquitecturas y definici\u00c3\u00b3n de soluciones t\u00c3\u00a9cnicas.</p></li><li><p>Integrar servicios, APIs y diferentes componentes de la plataforma.</p></li><li><p>Desarrollar c\u00c3\u00b3digo limpio, mantenible, escalable y de alta calidad.</p></li><li><p>Participar en revisiones de c\u00c3\u00b3digo, testing y resoluci\u00c3\u00b3n de incidencias.</p></li><li><p>Colaborar con equipos de Producto, QA, DevOps y otros perfiles t\u00c3\u00a9cnicos.</p></li><li><p>Contribuir a la mejora continua de procesos y buenas pr\u00c3\u00a1cticas de desarrollo.</p></li><li><p>Trabajar con servicios cloud y ambientes desplegados sobre <strong>Google Cloud Platform (GCP)</strong>.</p></li><li><p>Participar eventualmente en iniciativas de desarrollo mobile utilizando <strong>Flutter</strong>.</p></li></ul><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u0092\u00bb Requisitos</h3><ul><li><p><strong>5+ a\u00c3\u00b1os de experiencia</strong> en desarrollo de software.</p></li><li><p>Experiencia s\u00c3\u00b3lida como <strong>Full Stack Developer</strong>.</p></li><li><p>Dominio avanzado de <strong>Pytho",
+    "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+    "source": "RemoteOK",
+    "posted_at": "2026-08-22T00:00:12+00:00",
+    "tags": [
+      "full stack",
+      "front end",
+      "python",
+      "dev",
+      "testing",
+      "web dev",
+      "quality assurance",
+      "devops",
+      "c",
+      "cloud",
+      "nosql",
+      "git",
+      "flutter",
+      "angular",
+      "mobile",
+      "golang",
+      "backend",
+      "digital nomad"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Univ\u00e9",
+    "location": "Zwolle, Overijssel, Nederland",
+    "description": "<p class=\"MsoNormal\">Wil jij bouwen aan betrouwbare dataproducten die door heel Univ\u00e9 worden gebruikt? Binnen het Data &amp; AI Office werk je met Snowflake, dbt, Azure, Git en CI/CD. Je maakt van beschikbare brondata goed gemodelleerde, geteste en beheersbare dataproducten voor analyses, rapportages, self-service en AI-toepassingen.</p><p class=\"MsoNormal\">We zoeken een Data Engineer die data engineering combineert met software-engineering. Iemand die verantwoordelijkheid neemt voor wat hij of zij bouwt, nieuwe technologie praktisch inzet en samen met collega\u2019s het dataplatform en onze werkwijze verder ontwikkelt.</p><p style=\"min-height: 1.7em;\"></p><h2>Wie ben jij</h2><p class=\"MsoNormal\">Jij bent een Data Engineer die technische kwaliteit belangrijk vindt en verantwoordelijkheid neemt voor wat je bouwt. Je zoekt actief naar manieren om ontwikkeling slimmer, beter en beter beheersbaar te maken en gebruikt nieuwe technologie wanneer die aantoonbaar waarde toevoegt.</p><p class=\"MsoNormal\">Je schrijft begrijpelijke en onderhoudbare code en automatiseert waar dat helpt. Voor jou is een dataproduct pas klaar wanneer het betrouwbaar, getest, gedocumenteerd en beheersbaar in productie staat.</p><p class=\"MsoNormal\">Je werkt graag samen en kunt technische keuzes helder uitleggen. Je deelt kennis, staat open voor feedback en begrijpt dat een goede technische oplossing ook bruikbaar en begrijpelijk moet zijn voor de organisatie.</p><h4><strong>Wat neem je mee?</strong></h4><ul><li><p>hbo- of wo-werk- en denkniveau, bij voorkeur met een opleiding in Informatica, Data Engineering, Software Engineering of een vergelijkbare richting;</p></li><li><p>meerdere jaren relevante ervaring als Data Engineer, Analytics Engineer, BI Developer of in een vergelijkbare technische datafunctie;</p></li><li><p>sterke kennis van SQL en datamodellering;</p></li><li><p>ervaring met Snowflake en dbt of vergelijkbare cloud- en transformatietechnologie;</p></li><li><p>ervaring met Microsoft Azure ",
+    "url": "https://www.arbeitnow.nl/jobs/companies/unive/data-engineer-zwolle-82977",
+    "source": "Arbeitnow",
+    "posted_at": "2026-10-20T02:31:51+00:00",
+    "tags": [
+      "IT & Data"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "SQL",
+      "Azure"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer II Applied AI",
+    "company": "Wrapbook",
+    "location": "Remote",
+    "description": "<p style=\"min-height:1.5em\"><strong>About Us:</strong></p><p style=\"min-height:1.5em\">Wrapbook is the AI platform for production finance. We\u00e2\u0080\u0099re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. </p><p style=\"min-height:1.5em\">Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anonymous Content, and more. With backing from Andreessen Horowitz, Bessemer Venture Partners, and Jeffrey Katzenberg's WndrCo, our team of 350+ is using AI to transform how finance teams work and empower them to do more with less.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>The Opportunity: Senior Software Engineer II, Applied AI (Remote - USA / Canada) </strong></p><p style=\"min-height:1.5em\">We are looking for a Senior Software Engineer II, Applied AI to join our Agentic Systems team, where you'll build AI agents that automate workflows for teams across Wrapbook. You'll partner directly with internal teams like Marketing, Sales, Support, Operations and Finance to find high-leverage processes, then design, ship and iterate on agents that take real work off their plates. This is a chance to define how a 400+ person company runs on AI. You'll see the impact of your work every day, while shaping the patterns, tools and standards for how we build agents at Wrapbook.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What You\u00e2\u0080\u0099ll Do:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design and build production-grade AI agents with LangGraph that automate multi-step workflows for internal teams across Wrapbook</p></li><li><p style=\"min-height:1.5em\">Deploy, run and scale agents on Amazon Bedrock AgentCore, using its runtime, memory, identity and gateway capabilities to make them secure and reliable, while tracking what they cost to run and keeping it efficient as usage grows</p></li><li><p style=\"min-he",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+    "source": "RemoteOK",
+    "posted_at": "2026-10-15T16:00:03+00:00",
+    "tags": [
+      "dev",
+      "design",
+      "amazon",
+      "sys admin",
+      "backend",
+      "infosec",
+      "python",
+      "education",
+      "technical",
+      "customer support",
+      "accounting",
+      "payroll",
+      "javascript",
+      "finance",
+      "java",
+      "typescript",
+      "node",
+      "node.js",
+      "content writing",
+      "senior",
+      "ops",
+      "marketing",
+      "sales",
+      "medical",
+      "engineer",
+      "digital nomad"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python",
+      "JavaScript"
     ]
   }
 ]
