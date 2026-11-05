@@ -1,32 +1,5 @@
 [
   {
-    "title": "Sr REACT NATIVE",
-    "company": "Somnio Software",
-    "location": "Remote",
-    "description": "<p><strong>Qu\u00c3\u00a9 es Deazy</strong><br />Deazy es una plataforma/marketplace de UK que conecta empresas que necesitan desarrollo de software con agencias de desarrollo en todo el mundo. Ellos consiguen el cliente, definen el proyecto y luego lo asignan a una agencia como Somnio para ejecutarlo. B\u00c3\u00a1sicamente son un intermediario entre el cliente final y nosotros.</p><p><strong>C\u00c3\u00b3mo funciona el modelo</strong><br />Deazy factura al cliente final a su propia tarifa (en este caso est\u00c3\u00a1n hablando de EUR 47/h, aunque todav\u00c3\u00ada hay que confirmar si ese es el rate al cliente o lo que pagan al proveedor). Nosotros le facturamos a Deazy a un rate m\u00c3\u00a1s bajo, y la diferencia es su margen. <br />Por eso la tarifa introductoria que les estamos ofreciendo es USD 45/h - USD 40/h \u00e2\u0080\u0094 pensada para que Deazy tenga margen c\u00c3\u00b3modo y nos priorice y abrir la cuenta</p><p><br />Si la relaci\u00c3\u00b3n funciona, Deazy nos puede asignar proyectos de forma recurrente sin que nosotros tengamos que salir a conseguirlos. Es un canal de ventas indirecto, ellos traen el cliente, nosotros entregamos. <br />El volumen potencial es importante si nos posicionamos bien con ellos.<br /><br />Deazy nos conoce principalmente como agencia Flutter. El trabajo ahora es mostrarles que tambi\u00c3\u00a9n somos fuertes en React Native, React, <a rel=\"noopener\" target=\"_blank\" href=\"http://Node.js\">Node.js</a>, Python y AI </p><br></br><br/><br/>Please mention the word **JOYOUSLY** and tag RMTM1LjIzMy4xODAuMTYw when applying to show you read the job post completely (#RMTM1LjIzMy4xODAuMTYw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
-    "source": "RemoteOK",
-    "posted_at": "2026-10-15T00:00:19+00:00",
-    "tags": [
-      "react native",
-      "react",
-      "dev",
-      "python",
-      "javascript",
-      "c",
-      "flutter",
-      "node",
-      "node.js",
-      "digital nomad"
-    ],
-    "match_score": 7,
-    "matched_skills": [
-      "Python",
-      "JavaScript",
-      "React"
-    ]
-  },
-  {
     "title": "Product Engineering Lead",
     "company": "Tether Operations Limited",
     "location": "Remote",
@@ -90,73 +63,6 @@
     ]
   },
   {
-    "title": "Sales Engineer (all genders)",
-    "company": "Lio",
-    "location": "Munich Office",
-    "description": "<p style=\"min-height:1.5em\">You\u2019re not just supporting sales; you\u2019re making enterprise AI deals technically undeniable. As a Sales Engineer at askLio, you turn customer requirements into working software, proving real-world value inside complex enterprise environments.</p><p style=\"min-height:1.5em\"></p><h1>What You'll Do</h1><p style=\"min-height:1.5em\">In this role, you will:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build prototypes, proof-of-concepts, and custom extensions that demonstrate value </p></li><li><p style=\"min-height:1.5em\">Configure and adapt Lio\u2019s AI-driven P2P platform to customer workflows and ERP landscapes</p></li><li><p style=\"min-height:1.5em\">Lead technical deep dives, live demos, and workshops with procurement, IT, and architecture teams</p></li><li><p style=\"min-height:1.5em\">Travel to customer sites for workshops (1\u20132 times per week) </p></li><li><p style=\"min-height:1.5em\">Translate recurring customer needs into scalable product features </p></li><li><p style=\"min-height:1.5em\">Partner with Sales, Product, Engineering, and Founders as the technical owner of deal success</p></li></ul><p style=\"min-height:1.5em\"></p><h1>Your Profile</h1><p style=\"min-height:1.5em\">You\u2019re a good fit for this role if you: </p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Have hands-on experience with SaaS systems, APIs, cloud architectures, and data-driven applications</p></li><li><p style=\"min-height:1.5em\">Can build, extend, or integrate software (Python/FastAPI, React/TypeScript, REST APIs, MongoDB, or similar)</p></li><li><p style=\"min-height:1.5em\">Are comfortable working in enterprise IT landscapes and cloud platforms (e.g., Azure) </p></li><li><p style=\"min-height:1.5em\">Take ownership, thrive in dynamic environments, and prefer shipping working software over slide decks</p></li><li><p style=\"min-height:1.5em\">Enjoy collaborating closely with customers and C-level stakeholders</p></li></ul><p style=\"min-height:1.5em",
-    "url": "https://www.arbeitnow.com/jobs/companies/lio/sales-engineer-all-genders-munich-229572",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-04T12:40:12+00:00",
-    "tags": [
-      "Go-To-Market"
-    ],
-    "match_score": 5,
-    "matched_skills": [
-      "Python",
-      "React",
-      "Azure"
-    ]
-  },
-  {
-    "title": "IT-Consultant Cloud & AI (m/w/d)",
-    "company": "JL.Digital GmbH",
-    "location": "Frankfurt am Main",
-    "description": "<h2>Aufgaben</h2><p>Als IT-Consultant Cloud & AI bringst du Azure-Cloud und AI-Integrationen bei unseren Kunden in die Praxis. Zu deinen Aufgaben geh\u00f6ren unter anderem:</p><ul><li><p>Konzeption, Aufbau und Betrieb von L\u00f6sungen in Microsoft Azure (z. B. Landing Zones, Netzwerke, Identity, Azure AI Foundry)</p></li><li><p>Integration von AI-L\u00f6sungen und Large Language Models (z. B. Claude, Azure OpenAI) in bestehende Systeme und Gesch\u00e4ftsprozesse</p></li><li><p>Entwicklung von Workflows und Prozessautomatisierungen mit n8n sowie Anbindung von APIs und Drittsystemen</p></li><li><p>Einsatz von Claude Code und anderen AI-Coding-Tools, um L\u00f6sungen schnell und in hoher Qualit\u00e4t umzusetzen</p></li><li><p>Umsetzung von Use Cases wie RAG-Anwendungen, AI-Agenten und intelligente Assistenten</p></li><li><p>Schnittstelle zum Kunden: Workshops, Anforderungsaufnahme, technische Beratung und Abstimmung</p></li><li><p>Dokumentation, Qualit\u00e4tssicherung und Ber\u00fccksichtigung von Security- und Governance-Anforderungen</p></li></ul><h2>Qualifikation</h2><ul><li><p>Abgeschlossenes Studium oder Ausbildung im IT-Umfeld oder vergleichbare praktische Erfahrung</p></li><li><p>Erste Erfahrung mit Microsoft Azure oder einer anderen Cloud-Plattform</p></li><li><p>Praktische Erfahrung mit n8n oder vergleichbaren Automatisierungstools</p></li><li><p>Du hast dich bereits mit Claude Code bzw. AI-gest\u00fctzter Entwicklung auseinandergesetzt</p></li><li><p>Grundverst\u00e4ndnis von APIs, Scripting (z. B. Python, PowerShell oder JavaScript) und Datenintegration</p></li><li><p>Gro\u00dfes Interesse an Cloud- und AI-Themen und echte Neugier, Neues auszuprobieren</p></li><li><p>Strukturierte und selbstst\u00e4ndige Arbeitsweise sowie Spa\u00df an der Arbeit mit Kunden</p></li><li><p>Sehr gute Deutsch- und gute Englischkenntnisse (schriftlich & m\u00fcndlich)</p></li></ul><h2>Benefits</h2><ul><li><p>Unbefristete Vollzeitstelle mit 38,5 Stunden/Woche und 28 Urlaubstagen</p></li><li><p>Hybrides Arbeiten mit gro\u00dfem Remote-Anteil und gele",
-    "url": "https://www.arbeitnow.com/jobs/companies/jldigital-gmbh/it-consultant-cloud-ai-frankfurt-am-main-42733",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-04T10:01:06+00:00",
-    "tags": [
-      "Consulting",
-      "Engineering"
-    ],
-    "match_score": 5,
-    "matched_skills": [
-      "Python",
-      "JavaScript",
-      "Azure"
-    ]
-  },
-  {
-    "title": "Associate Data Scientist",
-    "company": "AlgaeCal",
-    "location": "Vancouver",
-    "description": "<p></p><p>Description</p><p>Machine Learning Maestro: You don\u00e2\u0080\u0099t just work with data - you decode it, predict the future with it, and turn it into action. Your models don\u00e2\u0080\u0099t just sit on a shelf - they shape strategy, optimize efficiency, and fuel company growth. You thrive on uncovering hidden patterns, validating hypotheses, and embedding machine learning models into real-world AI applications. If that sounds like you - read on.</p><p>AlgaeCal is looking for a top-tier Associate Data Scientist who can turn raw information into strategies that drive measurable results.</p><p></p><p>This job will give you ALL the feels:</p><p></p><p>At AlgaeCal, we\u00e2\u0080\u0099re driven by a single idea. To end the fear of bone loss. In the United States, an estimated 54 million people have low bone density.</p><p>The good news? AlgaeCal has the world\u00e2\u0080\u0099s only clinically-backed natural solution to this problem. We give hope to everyone worried about bone loss. If that excites you, you\u00e2\u0080\u0099ll find no better place to continue your career than at AlgaeCal.<br /></p><p>This job might be for you if you\u00e2\u0080\u0099ve got\u00e2\u0080\u00a6</p><ul><li>Experience as a Data Scientist (or a similar role) and can back it up with a resume that shows real results. You\u00e2\u0080\u0099ve built predictive models, optimized AI applications, and refined data architectures that have had a measurable impact. You don\u00e2\u0080\u0099t just analyze numbers\u00e2\u0080\u0094you translate data into actionable insights that drive business decisions.</li><li>Serious coding skills in Python or R. You know how to build and refine machine learning models that actually work. You\u00e2\u0080\u0099ve used statistical modeling and data science tools to solve complex problems and unlock growth opportunities.</li><li>Expertise in SQL and relational databases. Writing efficient queries? Optimizing data structures? Your resume is packed with quantifiable examples that\u00e2\u0080\u0099ll make us drool with desire! You know how to work with large datasets, ensuring data is organized, accessible, and primed for analysis.</li><",
-    "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-    "source": "RemoteOK",
-    "posted_at": "2026-10-16T00:00:56+00:00",
-    "tags": [
-      "design",
-      "python",
-      "customer support",
-      "marketing",
-      "dev",
-      "flutter",
-      "exec",
-      "data science",
-      "ops",
-      "stats",
-      "sales",
-      "medical",
-      "ecommerce",
-      "digital nomad"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
     "title": "Frontend Engineer",
     "company": "Bjak",
     "location": "Ireland",
@@ -188,6 +94,25 @@
     "match_score": 4,
     "matched_skills": [
       "JavaScript",
+      "React"
+    ]
+  },
+  {
+    "title": "Tech lead",
+    "company": "Ringbook Limited",
+    "location": "Remote",
+    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RNTIuMjM3LjE0My41OQ== when applying to show you read the job post completely (#RNTIuMjM3LjE0My41OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're hum",
+    "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
+    "source": "RemoteOK",
+    "posted_at": "2026-11-03T14:53:55+00:00",
+    "tags": [
+      "dev",
+      "exec",
+      "accounting",
+      "saas"
+    ],
+    "match_score": 3,
+    "matched_skills": [
       "React"
     ]
   },
@@ -292,6 +217,110 @@
     "match_score": 3,
     "matched_skills": [
       "Python"
+    ]
+  },
+  {
+    "title": "Cloud Engineer Automation",
+    "company": "Smile Digital Health",
+    "location": "Toronto, Ontario",
+    "description": "<p>Working for a company like Smile Digital Health means supporting our mandate for <b><i>#BetterGlobalHealth</i></b>. We strive towards this goal every day, and the results can be seen in the impact of our innovative health data platform and data management solutions, which are used in over 20 countries.  We were #19 on Deloitte's Technology Fast 50 Ranking for 2024!&nbsp;</p><p>&nbsp;</p><p>Smile Digital Health makes it easy for healthcare stakeholders to collect and exchange data with our leading FHIR-based data liberation platform.</p><p>&nbsp;</p><p>At its heart, the Smile platform enables people and organizations to better manage healthcare data.  We help&nbsp;generate and&nbsp;liberate structured healthcare data to ensure effective delivery across care teams and health systems bringing &nbsp;<i><b>#BetterGlobalHealth </b></i>to patients everyday! </p><p><br></p><p><b>Apply today and find plenty of reasons to SMILE!</b></p><p><br></p><p>\n</p><p>The Cloud Engineer (Automation) is responsible for designing, building, operating and improving production-grade automation for Smile Digital Health, its clients and partners. This role will be responsible for the pipelines, infrastructure as code, environments and recovery procedures, that the platform runs on.&nbsp;</p>\n<p>This Engineer will merge direct platform engineering expertise with driving strategic changes in how the department designs, deploys, and maintains its infrastructure. Key responsibilities include managing build and release engineering, orchestrating the Terraform and Helm infrastructure, provisioning on-demand environments, and implementing automated recovery. This role works closely with Platform Engineering, Solution Engineering, Service Operations and Engineering Practice &amp; QA to remove unnecessary repetitive, manual work and effectively optimize a build from the time the client commits to a running environment faster, decrease platform costs, and utilize AI to enhance the platform\u00e2\u0080\u0099s engin",
+    "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+    "source": "RemoteOK",
+    "posted_at": "2026-10-29T16:00:03+00:00",
+    "tags": [
+      "design",
+      "grafana",
+      "infosec",
+      "python",
+      "customer support",
+      "marketing",
+      "dev",
+      "quality assurance",
+      "devops",
+      "education",
+      "cloud",
+      "git",
+      "postgres",
+      "microsoft",
+      "exec",
+      "ops",
+      "medical",
+      "engineer",
+      "recruiter",
+      "digital nomad"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer LATAM",
+    "company": "Wagmo",
+    "location": "Remote",
+    "description": "<p style=\"min-height:1.5em\"><strong>Senior Software Engineer</strong></p><p style=\"min-height:1.5em\">Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00c2\u00a0</div><p style=\"min-height:1.5em\"><strong>What We Do</strong></p><p style=\"min-height:1.5em\">Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00c2\u00a0</div><p style=\"min-height:1.5em\"><strong>What\u00e2\u0080\u0099s Important To Us</strong></p><p style=\"min-height:1.5em\">Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you..</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00c2\u00a0</div><p style=\"min-height:1.5em\"><strong>About The Role</strong></p><p style=\"min-height:1.5em\">Wagmo uses AI to process pet wellness",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+    "source": "RemoteOK",
+    "posted_at": "2026-10-26T08:00:06+00:00",
+    "tags": [
+      "dev",
+      "design",
+      "react",
+      "sys admin",
+      "python",
+      "django",
+      "typescript",
+      "senior",
+      "medical",
+      "engineer",
+      "digital nomad"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer II Applied AI",
+    "company": "Wrapbook",
+    "location": "Remote",
+    "description": "<p style=\"min-height:1.5em\"><strong>About Us:</strong></p><p style=\"min-height:1.5em\">Wrapbook is the AI platform for production finance. We\u00e2\u0080\u0099re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. </p><p style=\"min-height:1.5em\">Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anonymous Content, and more. With backing from Andreessen Horowitz, Bessemer Venture Partners, and Jeffrey Katzenberg's WndrCo, our team of 350+ is using AI to transform how finance teams work and empower them to do more with less.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>The Opportunity: Senior Software Engineer II, Applied AI (Remote - USA / Canada) </strong></p><p style=\"min-height:1.5em\">We are looking for a Senior Software Engineer II, Applied AI to join our Agentic Systems team, where you'll build AI agents that automate workflows for teams across Wrapbook. You'll partner directly with internal teams like Marketing, Sales, Support, Operations and Finance to find high-leverage processes, then design, ship and iterate on agents that take real work off their plates. This is a chance to define how a 400+ person company runs on AI. You'll see the impact of your work every day, while shaping the patterns, tools and standards for how we build agents at Wrapbook.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What You\u00e2\u0080\u0099ll Do:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design and build production-grade AI agents with LangGraph that automate multi-step workflows for internal teams across Wrapbook</p></li><li><p style=\"min-height:1.5em\">Deploy, run and scale agents on Amazon Bedrock AgentCore, using its runtime, memory, identity and gateway capabilities to make them secure and reliable, while tracking what they cost to run and keeping it efficient as usage grows</p></li><li><p style=\"min-he",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+    "source": "RemoteOK",
+    "posted_at": "2026-10-15T16:00:03+00:00",
+    "tags": [
+      "dev",
+      "design",
+      "amazon",
+      "sys admin",
+      "backend",
+      "infosec",
+      "python",
+      "education",
+      "technical",
+      "customer support",
+      "accounting",
+      "payroll",
+      "javascript",
+      "finance",
+      "java",
+      "typescript",
+      "node",
+      "node.js",
+      "content writing",
+      "senior",
+      "ops",
+      "marketing",
+      "sales",
+      "medical",
+      "engineer",
+      "digital nomad"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python",
+      "JavaScript"
     ]
   }
 ]
