@@ -1,5 +1,23 @@
 [
   {
+    "title": "Forward Deployed Engineer",
+    "company": "True Talent Solutions Partners",
+    "location": "London",
+    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join an early-stage B2B SaaS team building AI-powered tools for certification, inspection, and compliance workflows. You will work closely with customers to understand operational challenges and turn them into reliable software used in the field.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Work directly with customer operations teams to understand how certification, inspection, and compliance processes work in practice.</p></li><li><p style=\"min-height:1.5em\">Lead customer calls, write product specifications, and build end-to-end systems across the frontend, backend, data model, and AI layer.</p></li><li><p style=\"min-height:1.5em\">Own product areas from discovery through production, shipping quickly and improving solutions based on feedback from users.</p></li><li><p style=\"min-height:1.5em\">Use judgment to identify which customer needs can support broadly useful product capabilities.</p></li><li><p style=\"min-height:1.5em\">Review customer documents, participate in operational discussions, and analyze outputs to develop AI workflows for scheduling, technical review, conformity assessment, field inspection, and document intelligence.</p></li></ul><h3>What We're Looking For</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Three to six years of experience in software engineering or product engineering, with a track record of shipping production systems.</p></li><li><p style=\"min-height:1.5em\">Full-stack development experience, including Python, TypeScript, React, Node.js, SQL, data modeling, and cloud infrastructure.</p></li><li><p style=\"min-height:1.5em\">Experience building products or systems from the ground up, ideally in an early-stage or founding engineering role.</p></li><li><p style=\"min-height:1.5em\">Familiarity with AI/ML, LLMs, or document intelligence is valuable.</p></li><li><p style=\"min-height:1.5em\">Ability to work directly with customers, comm",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-472389",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-06T12:40:12+00:00",
+    "tags": [
+      "Client Roles"
+    ],
+    "match_score": 6,
+    "matched_skills": [
+      "Python",
+      "React",
+      "SQL"
+    ]
+  },
+  {
     "title": "Product Engineering Lead",
     "company": "Tether Operations Limited",
     "location": "Remote",
@@ -98,10 +116,45 @@
     ]
   },
   {
+    "title": "Software Engineer",
+    "company": "planetlabs",
+    "location": "Berlin",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.&lt;/p&gt;\n&lt;p&gt;Customers and users across the globe use Planet&#39;s data to develop new technologies, drive revenue, power research, and solve our world\u2019s toughest obstacles.&lt;/p&gt;\n&lt;p&gt;As we control every component of hardware design, manufacturing, data processing, and software engineering, our office is a truly inspiring mix of experts from a variety of domains.&lt;/p&gt;\n&lt;p&gt;We have a people-centric approach toward culture and community and we strive to iterate in a way that puts our team members first and prepares our company for growth. Join Planet and be a part of our mission to change the way people see the world.&lt;/p&gt;\n&lt;p&gt;Planet is a global company with employees working remotely world wide and joining us from offices in San Francisco, Washington DC, Germany, Austria, Slovenia, and The Netherlands.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the Role:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We\u2019re looking for a Software Engineer focused on building clear, thoughtful experiences for customers to understand their accounts. Our team is small, and we are distributed across eastern North America and Europe. You will work on building experiences which make complex information comprehensible and interactive for customers and the business using React and Typescript interacting with Python and Golang backends.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The ideal candidate will be willing to learn or have experience with all these la",
+    "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/software-engineer-berlin-249573",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-06T12:55:20+00:00",
+    "tags": [
+      "Access"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "title": "Data Scientist (all genders) - 100% Home Office",
+    "company": "fino digital GmbH",
+    "location": "Kassel",
+    "description": "<strong>Gestalte die datengetriebene Zukunft mit fino analytics!</strong><br><br>Wir bei fino analytics sind davon \u00fcberzeugt, dass datengetriebenen Gesch\u00e4ftsmodellen die Zukunft geh\u00f6rt. Als eigenst\u00e4ndige GmbH der fino Unternehmensgruppe b\u00fcndeln wir die Data-Analytics-Kompetenz der Gruppe. Unsere erkl\u00e4rte Mission ist es, Daten einen Wert zu geben und Kontodaten durch intelligente und zukunftsweisende Analytics-L\u00f6sungen in hochwertige Insights zu verwandeln. Unsere Kunden treffen damit fundierte Entscheidungen, verschlanken ihre Prozesse und erschlie\u00dfen neue Gesch\u00e4ftsmodelle im B2B- und B2B2C-Bereich.<br>Mehr als 275 Millionen durchgef\u00fchrte Transaktionsanalysen sowie die Kooperationen mit \u00fcber 1.000 Banken und Partnern im Versicherungs-, Fintech-, Immobilienbereich sowie Kreditvermittlung und Leasing zeigen eindrucksvoll das Vertrauen zahlreicher Unternehmen und Institutionen in die fino Unternehmensgruppe. Auf diesem starken Fundament bauen wir unseren Kundenstamm weiter aus und daf\u00fcr brauchen wir dich.<br>M\u00f6chtest du die fino analytics GmbH weiterhin mitpr\u00e4gen und unseren Erfolg sowie den unserer Kunden aktiv vorantreiben? Dann bewirb dich jetzt bei uns und komm ins Team!<br><br><strong>So kannst du dich austoben</strong><br><br><ul><li>Du verwandelst umfangreiche Konto- und Transaktionsdaten mit Python und SQL in aussagekr\u00e4ftige Features, Scores und Prognosen</li><li>Du entwickelst Machine-Learning-Modelle zur Erkennung und Kategorisierung von Kontotransaktionen und bringst sie eigenverantwortlich in den produktiven Einsatz</li><li>Du \u00fcberwachst die Qualit\u00e4t und Treffsicherheit deiner Modelle und treibst Verbesserungen konsequent voran</li><li>Du testest neue Ans\u00e4tze rundum LLMs und bringst frische, innovative Ideen in unsere intelligenten Analytics-L\u00f6sungen ein</li><li>Du arbeitest eng mit Product, Sales und Development zusammen und gestaltest neue datengetriebene L\u00f6sungen f\u00fcr unsere Kunden mit</li><li>Du pr\u00e4sentierst deine Ergebnisse \u00fcberzeugend und machst komple",
+    "url": "https://www.arbeitnow.com/jobs/companies/fino-digital-gmbh/data-scientist-all-genders-100-home-office-kassel-474872",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-06T10:02:33+00:00",
+    "tags": [
+      "Remote",
+      "IT"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
     "title": "Tech lead",
     "company": "Ringbook Limited",
     "location": "Remote",
-    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RNTIuMjM3LjE0My41OQ== when applying to show you read the job post completely (#RNTIuMjM3LjE0My41OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're hum",
+    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RNTIuMTYwLjE2NS4yMjE= when applying to show you read the job post completely (#RNTIuMTYwLjE2NS4yMjE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're hum",
     "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
     "source": "RemoteOK",
     "posted_at": "2026-11-03T14:53:55+00:00",
@@ -217,110 +270,6 @@
     "match_score": 3,
     "matched_skills": [
       "Python"
-    ]
-  },
-  {
-    "title": "Cloud Engineer Automation",
-    "company": "Smile Digital Health",
-    "location": "Toronto, Ontario",
-    "description": "<p>Working for a company like Smile Digital Health means supporting our mandate for <b><i>#BetterGlobalHealth</i></b>. We strive towards this goal every day, and the results can be seen in the impact of our innovative health data platform and data management solutions, which are used in over 20 countries.  We were #19 on Deloitte's Technology Fast 50 Ranking for 2024!&nbsp;</p><p>&nbsp;</p><p>Smile Digital Health makes it easy for healthcare stakeholders to collect and exchange data with our leading FHIR-based data liberation platform.</p><p>&nbsp;</p><p>At its heart, the Smile platform enables people and organizations to better manage healthcare data.  We help&nbsp;generate and&nbsp;liberate structured healthcare data to ensure effective delivery across care teams and health systems bringing &nbsp;<i><b>#BetterGlobalHealth </b></i>to patients everyday! </p><p><br></p><p><b>Apply today and find plenty of reasons to SMILE!</b></p><p><br></p><p>\n</p><p>The Cloud Engineer (Automation) is responsible for designing, building, operating and improving production-grade automation for Smile Digital Health, its clients and partners. This role will be responsible for the pipelines, infrastructure as code, environments and recovery procedures, that the platform runs on.&nbsp;</p>\n<p>This Engineer will merge direct platform engineering expertise with driving strategic changes in how the department designs, deploys, and maintains its infrastructure. Key responsibilities include managing build and release engineering, orchestrating the Terraform and Helm infrastructure, provisioning on-demand environments, and implementing automated recovery. This role works closely with Platform Engineering, Solution Engineering, Service Operations and Engineering Practice &amp; QA to remove unnecessary repetitive, manual work and effectively optimize a build from the time the client commits to a running environment faster, decrease platform costs, and utilize AI to enhance the platform\u00e2\u0080\u0099s engin",
-    "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-    "source": "RemoteOK",
-    "posted_at": "2026-10-29T16:00:03+00:00",
-    "tags": [
-      "design",
-      "grafana",
-      "infosec",
-      "python",
-      "customer support",
-      "marketing",
-      "dev",
-      "quality assurance",
-      "devops",
-      "education",
-      "cloud",
-      "git",
-      "postgres",
-      "microsoft",
-      "exec",
-      "ops",
-      "medical",
-      "engineer",
-      "recruiter",
-      "digital nomad"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Senior Software Engineer LATAM",
-    "company": "Wagmo",
-    "location": "Remote",
-    "description": "<p style=\"min-height:1.5em\"><strong>Senior Software Engineer</strong></p><p style=\"min-height:1.5em\">Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00c2\u00a0</div><p style=\"min-height:1.5em\"><strong>What We Do</strong></p><p style=\"min-height:1.5em\">Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00c2\u00a0</div><p style=\"min-height:1.5em\"><strong>What\u00e2\u0080\u0099s Important To Us</strong></p><p style=\"min-height:1.5em\">Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer is rarely the most interesting one. Our values aren't aspirational. We interview for them and hold each other accountable to them. If what you've read so far resonates with you and you want to be part of a team where every person makes the company meaningfully better, we'd love to hear from you..</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">\u00c2\u00a0</div><p style=\"min-height:1.5em\"><strong>About The Role</strong></p><p style=\"min-height:1.5em\">Wagmo uses AI to process pet wellness",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
-    "source": "RemoteOK",
-    "posted_at": "2026-10-26T08:00:06+00:00",
-    "tags": [
-      "dev",
-      "design",
-      "react",
-      "sys admin",
-      "python",
-      "django",
-      "typescript",
-      "senior",
-      "medical",
-      "engineer",
-      "digital nomad"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python",
-      "React"
-    ]
-  },
-  {
-    "title": "Senior Software Engineer II Applied AI",
-    "company": "Wrapbook",
-    "location": "Remote",
-    "description": "<p style=\"min-height:1.5em\"><strong>About Us:</strong></p><p style=\"min-height:1.5em\">Wrapbook is the AI platform for production finance. We\u00e2\u0080\u0099re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. </p><p style=\"min-height:1.5em\">Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anonymous Content, and more. With backing from Andreessen Horowitz, Bessemer Venture Partners, and Jeffrey Katzenberg's WndrCo, our team of 350+ is using AI to transform how finance teams work and empower them to do more with less.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>The Opportunity: Senior Software Engineer II, Applied AI (Remote - USA / Canada) </strong></p><p style=\"min-height:1.5em\">We are looking for a Senior Software Engineer II, Applied AI to join our Agentic Systems team, where you'll build AI agents that automate workflows for teams across Wrapbook. You'll partner directly with internal teams like Marketing, Sales, Support, Operations and Finance to find high-leverage processes, then design, ship and iterate on agents that take real work off their plates. This is a chance to define how a 400+ person company runs on AI. You'll see the impact of your work every day, while shaping the patterns, tools and standards for how we build agents at Wrapbook.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What You\u00e2\u0080\u0099ll Do:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design and build production-grade AI agents with LangGraph that automate multi-step workflows for internal teams across Wrapbook</p></li><li><p style=\"min-height:1.5em\">Deploy, run and scale agents on Amazon Bedrock AgentCore, using its runtime, memory, identity and gateway capabilities to make them secure and reliable, while tracking what they cost to run and keeping it efficient as usage grows</p></li><li><p style=\"min-he",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
-    "source": "RemoteOK",
-    "posted_at": "2026-10-15T16:00:03+00:00",
-    "tags": [
-      "dev",
-      "design",
-      "amazon",
-      "sys admin",
-      "backend",
-      "infosec",
-      "python",
-      "education",
-      "technical",
-      "customer support",
-      "accounting",
-      "payroll",
-      "javascript",
-      "finance",
-      "java",
-      "typescript",
-      "node",
-      "node.js",
-      "content writing",
-      "senior",
-      "ops",
-      "marketing",
-      "sales",
-      "medical",
-      "engineer",
-      "digital nomad"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python",
-      "JavaScript"
     ]
   }
 ]
