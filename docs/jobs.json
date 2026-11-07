@@ -1,20 +1,41 @@
 [
   {
-    "title": "Forward Deployed Engineer",
-    "company": "True Talent Solutions Partners",
-    "location": "London",
-    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join an early-stage B2B SaaS team building AI-powered tools for certification, inspection, and compliance workflows. You will work closely with customers to understand operational challenges and turn them into reliable software used in the field.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Work directly with customer operations teams to understand how certification, inspection, and compliance processes work in practice.</p></li><li><p style=\"min-height:1.5em\">Lead customer calls, write product specifications, and build end-to-end systems across the frontend, backend, data model, and AI layer.</p></li><li><p style=\"min-height:1.5em\">Own product areas from discovery through production, shipping quickly and improving solutions based on feedback from users.</p></li><li><p style=\"min-height:1.5em\">Use judgment to identify which customer needs can support broadly useful product capabilities.</p></li><li><p style=\"min-height:1.5em\">Review customer documents, participate in operational discussions, and analyze outputs to develop AI workflows for scheduling, technical review, conformity assessment, field inspection, and document intelligence.</p></li></ul><h3>What We're Looking For</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Three to six years of experience in software engineering or product engineering, with a track record of shipping production systems.</p></li><li><p style=\"min-height:1.5em\">Full-stack development experience, including Python, TypeScript, React, Node.js, SQL, data modeling, and cloud infrastructure.</p></li><li><p style=\"min-height:1.5em\">Experience building products or systems from the ground up, ideally in an early-stage or founding engineering role.</p></li><li><p style=\"min-height:1.5em\">Familiarity with AI/ML, LLMs, or document intelligence is valuable.</p></li><li><p style=\"min-height:1.5em\">Ability to work directly with customers, comm",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-472389",
+    "title": "Software Engineering Intern - Internal Developer Platform",
+    "company": "Tomtom",
+    "location": "Amsterdam, The Netherlands",
+    "description": "<div>We build Frontstage, TomTom's developer portal based on Backstage, and Watchtower, the service that collects data behind it. Together they help engineering teams see what software they own and how it is doing, for example on security, quality and cost.</div><br><strong>What you'll do:</strong><br>\n<li>Join a friendly team of engineers and pick up a project of your own, with a mentor to guide you</li>\n<li>Help build new pages and scorecards in Frontstage using TypeScript and React</li>\n<li>Help extend Watchtower, our TypeScript and PostgreSQL backend, with new data sources and APIs</li>\n<li>Work on features that matter to our users, for example showing teams what their services cost on our Kubernetes platform</li>\n<li>Help keep Frontstage up to date with new Backstage releases</li>\n<li>Participate in the full cycle: understanding what users need, designing a solution, building, testing and releasing it</li>\n<li>Build iteratively using agile methodologies, with your code reviewed by the team</li>\n<br><strong>What you'll need:</strong><br>\n<li>Being enrolled in a Dutch university until at least September 2027, so the entire duration of the internship</li>\n<li>Being located in Amsterdam or cities close by to be able to commute to the office at least twice a week</li>\n<li>Available for at least 32h/week</li>\n<li>Good TypeScript or JavaScript skills</li>\n<li>Some experience building web applications, for example with React or Node.js</li>\n<li>Basic knowledge of SQL and databases</li>\n<li>Nice to have: experience with Backstage, Docker, GitHub Actions or a cloud platform (Azure, AWS or GCP)</li>\n<li>Solid Computer Science fundamentals</li>\n<li>Comfortable with written and/or verbal communication in English</li>\n<li>Interest in building tools that make other engineers' lives easier, and eager to learn</li>\n<p>Find <a href=\"https://www.arbeitnow.nl\">Jobs in Netherlands</a> on Arbeitnow</a>",
+    "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-06T12:40:12+00:00",
+    "posted_at": "2026-11-07T00:08:41+00:00",
     "tags": [
-      "Client Roles"
+      "Platform Engineering"
+    ],
+    "match_score": 8,
+    "matched_skills": [
+      "JavaScript",
+      "React",
+      "SQL",
+      "Agile",
+      "Azure"
+    ]
+  },
+  {
+    "title": "Software Engineering Intern - AI Platform Excellence",
+    "company": "Tomtom",
+    "location": "Amsterdam, The Netherlands",
+    "description": "<div>We look after the AI tools TomTom engineers use every day, such as GitHub Copilot, Claude and Cursor, and the platform that gives teams access to AI models. We help teams use these tools well, keep an eye on usage and cost, and try out new tools as they appear.</div><br><strong>What you'll do:</strong><br>\n<li>Join a friendly team of platform engineers and pick up a project of your own, with a mentor to guide you</li>\n<li>Help build reports and dashboards that show how AI tools are used across TomTom and what they cost</li>\n<li>Look into how engineers can get good results from AI tools while using fewer tokens, and share simple tips and tooling with them</li>\n<li>Help improve our model gateway, for example by adding usage tracking or making it easier for teams to try new models</li>\n<li>Take part in trying out new AI developer tools and help write down what works and what does not</li>\n<li>Support the pilot of our AI-assisted ways of working with engineering teams, for example by collecting feedback and usage numbers</li>\n<li>Build iteratively using agile methodologies, and learn how a platform team works day to day</li>\n<br><strong>What you'll need: </strong><br>\n<li>Being enrolled in a Dutch university until at least September 2027, so the entire duration of the internship</li>\n<li>Being located in Amsterdam or cities close by to be able to commute to the office at least twice a week</li>\n<li>Available for at least 32h/week</li>\n<li>Good Python skills</li>\n<li>Some experience using AI coding assistants or LLM APIs, for example in coursework or a side project</li>\n<li>Basic knowledge of working with data (SQL, pandas or similar)</li>\n<li>Nice to have: experience with GitHub Actions, APIs or a cloud platform (Azure, AWS or GCP)</li>\n<li>Solid Computer Science fundamentals</li>\n<li>Comfortable with written and/or verbal communication in English</li>\n<li>Curious about AI and eager to learn</li>\n<p>Find <a href=\"https://www.arbeitnow.nl\">Jobs in Netherlands</a> on",
+    "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-ai-platform-excellence-amsterdam-the-netherlands-231363",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-07T00:08:41+00:00",
+    "tags": [
+      "Platform Engineering"
     ],
     "match_score": 6,
     "matched_skills": [
       "Python",
-      "React",
-      "SQL"
+      "SQL",
+      "Agile",
+      "Azure"
     ]
   },
   {
@@ -116,45 +137,41 @@
     ]
   },
   {
-    "title": "Software Engineer",
-    "company": "planetlabs",
-    "location": "Berlin",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.&lt;/p&gt;\n&lt;p&gt;Customers and users across the globe use Planet&#39;s data to develop new technologies, drive revenue, power research, and solve our world\u2019s toughest obstacles.&lt;/p&gt;\n&lt;p&gt;As we control every component of hardware design, manufacturing, data processing, and software engineering, our office is a truly inspiring mix of experts from a variety of domains.&lt;/p&gt;\n&lt;p&gt;We have a people-centric approach toward culture and community and we strive to iterate in a way that puts our team members first and prepares our company for growth. Join Planet and be a part of our mission to change the way people see the world.&lt;/p&gt;\n&lt;p&gt;Planet is a global company with employees working remotely world wide and joining us from offices in San Francisco, Washington DC, Germany, Austria, Slovenia, and The Netherlands.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the Role:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We\u2019re looking for a Software Engineer focused on building clear, thoughtful experiences for customers to understand their accounts. Our team is small, and we are distributed across eastern North America and Europe. You will work on building experiences which make complex information comprehensible and interactive for customers and the business using React and Typescript interacting with Python and Golang backends.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The ideal candidate will be willing to learn or have experience with all these la",
-    "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/software-engineer-berlin-249573",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-06T12:55:20+00:00",
+    "title": "Feltsense AI Engineer",
+    "company": "Silver.dev",
+    "location": "Remote",
+    "description": "<h2>About the company</h2><p style=\"min-height:1.5em\">We raised $5.1M to build agents that operate as fully autonomous founders. Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2.</p><p style=\"min-height:1.5em\">We're working at the frontier of autonomous systems, building agents that don't just chat, but run entire businesses.</p><p style=\"min-height:1.5em\">Our system identifies business opportunities through market signals, validates ideas with live ad tests, builds and launches software products, and brings in human experts wherever agents fall short. That loop already runs end to end: from idea to launched product to first revenue.</p><p style=\"min-height:1.5em\">Over the next 12 months, our focus is on reliability, throughput, and self-improvement, making every launch better than the last.</p><p style=\"min-height:1.5em\"></p><h2>About the role</h2><p style=\"min-height:1.5em\">We're looking for a hands-on AI Engineer to take ownership of the architecture and development of our autonomous agent system.</p><p style=\"min-height:1.5em\">You'll lead the technical direction of the platform, building multi-agent orchestration systems, self-improving agent harnesses, and AI-powered backend services. This is a highly technical leadership role that combines architectural decision-making with hands-on engineering.</p><p style=\"min-height:1.5em\">You'll be expected to ship production code, make key technical decisions, improve agent behavior in production, and help establish the engineering standards as the company scales.</p><p style=\"min-height:1.5em\"></p><h2>Responsibilities</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Own the system architecture and make key technical decisions across the platform.</p></li><li><p style=\"min-height:1.5em\">Design and build multi-agent systems and orchestration infrastructure that take products from idea to launch.</p></li><li><p ",
+    "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+    "source": "RemoteOK",
+    "posted_at": "2026-11-05T16:00:07+00:00",
     "tags": [
-      "Access"
+      "design",
+      "sys admin",
+      "exec",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "javascript",
+      "cloud",
+      "postgres",
+      "typescript",
+      "node",
+      "node.js",
+      "engineer",
+      "backend",
+      "digital nomad"
     ],
-    "match_score": 4,
+    "match_score": 3,
     "matched_skills": [
-      "Python",
-      "React"
-    ]
-  },
-  {
-    "title": "Data Scientist (all genders) - 100% Home Office",
-    "company": "fino digital GmbH",
-    "location": "Kassel",
-    "description": "<strong>Gestalte die datengetriebene Zukunft mit fino analytics!</strong><br><br>Wir bei fino analytics sind davon \u00fcberzeugt, dass datengetriebenen Gesch\u00e4ftsmodellen die Zukunft geh\u00f6rt. Als eigenst\u00e4ndige GmbH der fino Unternehmensgruppe b\u00fcndeln wir die Data-Analytics-Kompetenz der Gruppe. Unsere erkl\u00e4rte Mission ist es, Daten einen Wert zu geben und Kontodaten durch intelligente und zukunftsweisende Analytics-L\u00f6sungen in hochwertige Insights zu verwandeln. Unsere Kunden treffen damit fundierte Entscheidungen, verschlanken ihre Prozesse und erschlie\u00dfen neue Gesch\u00e4ftsmodelle im B2B- und B2B2C-Bereich.<br>Mehr als 275 Millionen durchgef\u00fchrte Transaktionsanalysen sowie die Kooperationen mit \u00fcber 1.000 Banken und Partnern im Versicherungs-, Fintech-, Immobilienbereich sowie Kreditvermittlung und Leasing zeigen eindrucksvoll das Vertrauen zahlreicher Unternehmen und Institutionen in die fino Unternehmensgruppe. Auf diesem starken Fundament bauen wir unseren Kundenstamm weiter aus und daf\u00fcr brauchen wir dich.<br>M\u00f6chtest du die fino analytics GmbH weiterhin mitpr\u00e4gen und unseren Erfolg sowie den unserer Kunden aktiv vorantreiben? Dann bewirb dich jetzt bei uns und komm ins Team!<br><br><strong>So kannst du dich austoben</strong><br><br><ul><li>Du verwandelst umfangreiche Konto- und Transaktionsdaten mit Python und SQL in aussagekr\u00e4ftige Features, Scores und Prognosen</li><li>Du entwickelst Machine-Learning-Modelle zur Erkennung und Kategorisierung von Kontotransaktionen und bringst sie eigenverantwortlich in den produktiven Einsatz</li><li>Du \u00fcberwachst die Qualit\u00e4t und Treffsicherheit deiner Modelle und treibst Verbesserungen konsequent voran</li><li>Du testest neue Ans\u00e4tze rundum LLMs und bringst frische, innovative Ideen in unsere intelligenten Analytics-L\u00f6sungen ein</li><li>Du arbeitest eng mit Product, Sales und Development zusammen und gestaltest neue datengetriebene L\u00f6sungen f\u00fcr unsere Kunden mit</li><li>Du pr\u00e4sentierst deine Ergebnisse \u00fcberzeugend und machst komple",
-    "url": "https://www.arbeitnow.com/jobs/companies/fino-digital-gmbh/data-scientist-all-genders-100-home-office-kassel-474872",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-06T10:02:33+00:00",
-    "tags": [
-      "Remote",
-      "IT"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SQL"
+      "JavaScript"
     ]
   },
   {
     "title": "Tech lead",
     "company": "Ringbook Limited",
     "location": "Remote",
-    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RNTIuMTYwLjE2NS4yMjE= when applying to show you read the job post completely (#RNTIuMTYwLjE2NS4yMjE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're hum",
+    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RNC4xNTQuNzYuMTg= when applying to show you read the job post completely (#RNC4xNTQuNzYuMTg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
     "source": "RemoteOK",
     "posted_at": "2026-11-03T14:53:55+00:00",
