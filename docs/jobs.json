@@ -1,44 +1,5 @@
 [
   {
-    "title": "Software Engineering Intern - Internal Developer Platform",
-    "company": "Tomtom",
-    "location": "Amsterdam, The Netherlands",
-    "description": "<div>We build Frontstage, TomTom's developer portal based on Backstage, and Watchtower, the service that collects data behind it. Together they help engineering teams see what software they own and how it is doing, for example on security, quality and cost.</div><br><strong>What you'll do:</strong><br>\n<li>Join a friendly team of engineers and pick up a project of your own, with a mentor to guide you</li>\n<li>Help build new pages and scorecards in Frontstage using TypeScript and React</li>\n<li>Help extend Watchtower, our TypeScript and PostgreSQL backend, with new data sources and APIs</li>\n<li>Work on features that matter to our users, for example showing teams what their services cost on our Kubernetes platform</li>\n<li>Help keep Frontstage up to date with new Backstage releases</li>\n<li>Participate in the full cycle: understanding what users need, designing a solution, building, testing and releasing it</li>\n<li>Build iteratively using agile methodologies, with your code reviewed by the team</li>\n<br><strong>What you'll need:</strong><br>\n<li>Being enrolled in a Dutch university until at least September 2027, so the entire duration of the internship</li>\n<li>Being located in Amsterdam or cities close by to be able to commute to the office at least twice a week</li>\n<li>Available for at least 32h/week</li>\n<li>Good TypeScript or JavaScript skills</li>\n<li>Some experience building web applications, for example with React or Node.js</li>\n<li>Basic knowledge of SQL and databases</li>\n<li>Nice to have: experience with Backstage, Docker, GitHub Actions or a cloud platform (Azure, AWS or GCP)</li>\n<li>Solid Computer Science fundamentals</li>\n<li>Comfortable with written and/or verbal communication in English</li>\n<li>Interest in building tools that make other engineers' lives easier, and eager to learn</li>\n<p>Find <a href=\"https://www.arbeitnow.nl\">Jobs in Netherlands</a> on Arbeitnow</a>",
-    "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-07T00:08:41+00:00",
-    "tags": [
-      "Platform Engineering"
-    ],
-    "match_score": 8,
-    "matched_skills": [
-      "JavaScript",
-      "React",
-      "SQL",
-      "Agile",
-      "Azure"
-    ]
-  },
-  {
-    "title": "Software Engineering Intern - AI Platform Excellence",
-    "company": "Tomtom",
-    "location": "Amsterdam, The Netherlands",
-    "description": "<div>We look after the AI tools TomTom engineers use every day, such as GitHub Copilot, Claude and Cursor, and the platform that gives teams access to AI models. We help teams use these tools well, keep an eye on usage and cost, and try out new tools as they appear.</div><br><strong>What you'll do:</strong><br>\n<li>Join a friendly team of platform engineers and pick up a project of your own, with a mentor to guide you</li>\n<li>Help build reports and dashboards that show how AI tools are used across TomTom and what they cost</li>\n<li>Look into how engineers can get good results from AI tools while using fewer tokens, and share simple tips and tooling with them</li>\n<li>Help improve our model gateway, for example by adding usage tracking or making it easier for teams to try new models</li>\n<li>Take part in trying out new AI developer tools and help write down what works and what does not</li>\n<li>Support the pilot of our AI-assisted ways of working with engineering teams, for example by collecting feedback and usage numbers</li>\n<li>Build iteratively using agile methodologies, and learn how a platform team works day to day</li>\n<br><strong>What you'll need: </strong><br>\n<li>Being enrolled in a Dutch university until at least September 2027, so the entire duration of the internship</li>\n<li>Being located in Amsterdam or cities close by to be able to commute to the office at least twice a week</li>\n<li>Available for at least 32h/week</li>\n<li>Good Python skills</li>\n<li>Some experience using AI coding assistants or LLM APIs, for example in coursework or a side project</li>\n<li>Basic knowledge of working with data (SQL, pandas or similar)</li>\n<li>Nice to have: experience with GitHub Actions, APIs or a cloud platform (Azure, AWS or GCP)</li>\n<li>Solid Computer Science fundamentals</li>\n<li>Comfortable with written and/or verbal communication in English</li>\n<li>Curious about AI and eager to learn</li>\n<p>Find <a href=\"https://www.arbeitnow.nl\">Jobs in Netherlands</a> on",
-    "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-ai-platform-excellence-amsterdam-the-netherlands-231363",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-07T00:08:41+00:00",
-    "tags": [
-      "Platform Engineering"
-    ],
-    "match_score": 6,
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "Agile",
-      "Azure"
-    ]
-  },
-  {
     "title": "Product Engineering Lead",
     "company": "Tether Operations Limited",
     "location": "Remote",
@@ -102,6 +63,43 @@
     ]
   },
   {
+    "title": "AI Developer",
+    "company": "Salvo Software",
+    "location": "Remote",
+    "description": "<p>Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions. With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that solve complex technical challenges. Our culture values innovation, ownership, and engineering excellence. We're growing our AI department and are looking for a hands-on AI Developer to help build it.</p>Role Overview<p>We are looking for an AI Developer to join and strengthen our AI department. Your core work will be building and operating LLM-powered systems: serving open-source models with Ollama and llama.cpp, building RAG pipelines, and developing MCP integrations that connect large language models to real tools and data. Solid DevOps fundamentals - Docker, CI/CD, Azure - support this work, but AI engineering is the heart of the role.</p><p>You don't need to be a deep ML researcher. What matters is production-grade Python, strong fundamentals, and the aptitude to learn fast. You'll work closely with our engineering and product teams to take LLM-powered features from prototype to reliably deployed systems, with mentorship available as you ramp up in areas like RAG architecture, Kafka, and advanced MCP work.</p>Key Responsibilities<p>AI / LLM Engineering (core focus)</p><ul><li>Serve and operate open-source LLMs using Ollama and llama.cpp, locally and in on-prem environments.</li><li>Build and maintain RAG pipelines: embeddings, vector databases, chunking strategies, and retrieval quality.</li><li>Develop MCP (Model Context Protocol) integrations connecting LLMs to internal tools and data sources.</li><li>Build backend services in Python that power ML inference and AI-driven product features.</li><li>Parse and process structured and semi-structured data (XML/XSD, Office document formats) as pipeline inputs.</li><li>Grow into model optimization over time: quantization (GGUF), GPU/CUDA tuning, and offline/air-gap",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+    "source": "RemoteOK",
+    "posted_at": "2026-11-07T00:00:02+00:00",
+    "tags": [
+      "dev",
+      "grafana",
+      "infosec",
+      "python",
+      "docker",
+      "technical",
+      "customer support",
+      "devops",
+      "c",
+      "c plus plus",
+      "cloud",
+      "git",
+      "admin",
+      "microsoft",
+      "ops",
+      "golang",
+      "engineer",
+      "apache",
+      "linux",
+      "backend",
+      "digital nomad"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "Azure"
+    ]
+  },
+  {
     "title": "Frontend Engineer",
     "company": "Bjak",
     "location": "Ireland",
@@ -134,6 +132,23 @@
     "matched_skills": [
       "JavaScript",
       "React"
+    ]
+  },
+  {
+    "title": "International Business Analytics Internship (H/F)",
+    "company": "Teampicnic",
+    "location": "Paris, Paris",
+    "description": "&lt;h2&gt;&lt;strong&gt;In a nutshell&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a Business Analytics Intern at Picnic, you\u2019ll be at the forefront of international innovation, tackling complex challenges with fresh, groundbreaking solutions. This dual-location role is all about driving impact. You&#39;ll analyze data, help identify opportunities, and support strategies that redefine the grocery shopping experience across Europe. Throughout this year-long program, you\u2019ll exchange between two locations &lt;strong&gt;Paris (6 months) &lt;/strong&gt;and &lt;strong&gt;Amsterdam (6 months)&lt;/strong&gt;, gaining cross-market perspectives in a fast-paced environment.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Tricks of the trade&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Solving real-life puzzles: &lt;/strong&gt;Tackle critical business questions that shape Picnic\u2019s business model every day.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Enabling: &lt;/strong&gt;Achieve operational excellence by approaching challenges with a data-driven and analytical mindset.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Building: &lt;/strong&gt;Create and optimize models for real-time improvements.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Communicating: &lt;/strong&gt;Work effectively with different teams to deliver impactful and sustainable solutions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Owning your projects&lt;/strong&gt;: Take initiative by challenging the status-quo. Just because it\u2019s been done that way doesn\u2019t mean it\u2019s the best way. Try us!&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Your superpowers&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;You are currently pursuing a &lt;strong&gt;Master\u2019s&lt;/strong&gt; in a Quantitative field&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;You have experience with &lt;strong&gt;SQL and Python&lt;/strong&gt; or similar programming languages&lt;/li&gt;\n&lt;li&gt;You are able to hold fluent presentations both in &lt;strong&gt;English&lt;/stron",
+    "url": "https://www.arbeitnow.fr/jobs/companies/teampicnic/international-business-analytics-internship-h-f-paris-paris-451060",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-08T09:55:17+00:00",
+    "tags": [
+      "Students"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
     ]
   },
   {
@@ -171,7 +186,7 @@
     "title": "Tech lead",
     "company": "Ringbook Limited",
     "location": "Remote",
-    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RNC4xNTQuNzYuMTg= when applying to show you read the job post completely (#RNC4xNTQuNzYuMTg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RMjAuMTY4LjEzMS4xMQ== when applying to show you read the job post completely (#RMjAuMTY4LjEzMS4xMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're hum",
     "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
     "source": "RemoteOK",
     "posted_at": "2026-11-03T14:53:55+00:00",
