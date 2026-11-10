@@ -135,21 +135,38 @@
     ]
   },
   {
-    "title": "Junior Backend Developer (Python) (M/W/D) 20H Stellenbeschreibung Read Description Before",
-    "company": "uNaice GmbH",
-    "location": "Werther",
-    "description": "<p>uNaice ist Pionier im Bereich der automatisierten Contentproduktion und automatisierten Datenaufbereitung und -anreicherung.</p>\n<p>Wir entwickeln Kunden, die sich auf der Welle der Digitalisierung befinden. Unsere Kunden sind u.A. Top-Player im E-Commerce wie adidas, Wago, TUI, C&A, aber auch Verlage wie Neue Westf\u00e4lische Zeitung, Volksstimme und vor allem internationale Hersteller, mit sehr gro\u00dfen Datenmengen und Bedarf an internationalem Content.</p>\n<p>Unsere Arbeit versetzt die Pioniere der Branche in die Lage, automatisiert Daten und/ooder Content zu normieren, zu gl\u00e4tten, zu strukurieren und anzureichern und dies alles vollautomatisch. Kurz gesagt: Wir k\u00f6nnen aus Texten Datens\u00e4tze mit Attributen und Attributswerten machen, oder aus Daten auf Knopfdruck unique, conversionstarke und SEO-relevante Produktbeschreibungen und Kategorieseiten erstellen und publizieren. Und das in 110 Sprachen.</p>\n<p><strong>Zur Verst\u00e4rkung unseres Teams suchen wir einen Entwickler/Developer f\u00fcr 20h in Festanstellung.</strong></p>\n<p><strong>Dein gemeldeter Wohnsitz ist in Deutschland. Du arbeitest auch in Deutschland.</strong></p>\n<p><strong>Dein Anschreiben w\u00fcnschen wir uns in deutscher Sprache.</strong></p>\n<p><strong>Du sprichst Deutsch und Englisch flie\u00dfend.</strong></p>\n<h2>Aufgaben</h2>\n<p>Deine Aufgaben</p>\n<p>Als Junior Backend Developer, mit gleichzeitigen Kenntnissen in React, wirkst du aktiv mit bei der Weiterentwicklung unseres Backends rund um DataContentNaicer. Zu deinen Aufgaben geh\u00f6ren:</p>\n<ul>\n<li>Entwicklung und Wartung von Backend\u2011Services mit Python (z.\u202fB. REST / GraphQL APIs)</li>\n<li>Integration und Verarbeitung von Datenquellen (verschiedene Formate wie JSON, CSV, XML etc.)</li>\n<li>Aufbau und Optimierung von Datenpipelines & Datenmodellierung (Datenbereinigung, Attribut/Auswahl von Feature\u2011Parametern etc.)</li>\n<li>Zusammenarbeit mit dem Frontend-Team: Sicherstellen, dass APIs performant, stabil und gut dokumentiert sind</li>\n<li>Schreiben von Tests, Cod",
-    "url": "https://www.arbeitnow.com/jobs/companies/unaice-gmbh/junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-188721",
+    "title": "Data & Platform Engineer",
+    "company": "Coopers Group AG",
+    "location": "Z\u00fcrich",
+    "description": "<p>................</p><p>F\u00fcr unseren Kunden in Z\u00fcrich, suchen wir eine:n erfahrene:n und aufgeschlossene:n <strong>Data & Platform Engineer</strong>.</p>In diesem Projekt unterst\u00fctzt du den Aufbau und die Weiterentwicklung einer zentralen Datenplattform im Rahmen einer umfassenden IT-Transformation. Gemeinsam mit Data Scientists, Fachbereichen und Engineering-Teams entwickelst du skalierbare Datenprodukte auf einer modernen, modularen Plattformarchitektur und tr\u00e4gst dazu bei, eine zukunftsf\u00e4hige Datenlandschaft zu etablieren.<p><strong>Deine Aufgaben:</strong></p><ul><li>Entwicklung, Betrieb und Optimierung von Datenpipelines f\u00fcr moderne Data- und Analytics-Plattformen</li><li>Implementierung und Weiterentwicklung von ETL-/ELT-Prozessen unter Einsatz von SQL, Python, dbt und Apache Spark</li><li>Aufbau, Automatisierung und \u00dcberwachung von Datenworkflows mit Apache Airflow</li><li>Unterst\u00fctzung beim Aufbau und Betrieb von Plattformkomponenten mit Fokus auf Skalierbarkeit, Stabilit\u00e4t und Wiederverwendbarkeit</li><li>Enge Zusammenarbeit mit Data Scientists, Fachbereichen und Architekturteams zur Bereitstellung hochwertiger Datenprodukte</li><li>Sicherstellung von Datenqualit\u00e4t, Performance und Governance innerhalb der Plattform</li><li>Mitarbeit bei der Weiterentwicklung der Plattformarchitektur sowie der Integration neuer Technologien und Services</li><li>Unterst\u00fctzung bei Automatisierungs- und DevOps-Initiativen innerhalb des Datenplattform-Umfelds</li></ul><p> </p><p><strong>Dein Profil:</strong></p><ul><li>Mehrj\u00e4hrige Erfahrung als <strong>Data Engineer</strong> mit einer hohen Affinit\u00e4t zu <strong>Platform Engineering</strong></li><li>Fundierte Kenntnisse in <strong>Python</strong>, <strong>SQL</strong>, <strong>Apache Spark</strong>, <strong>dbt</strong> und <strong>Apache Airflow</strong></li><li>Erfahrung im Design, Aufbau und Betrieb moderner Datenplattformen und Datenarchitekturen</li><li>Verst\u00e4ndnis von Datenmodellierung, Data Engineering Best Practices sow",
+    "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/data-platform-engineer-zurich-361577",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-09T13:01:02+00:00",
+    "posted_at": "2026-11-10T13:00:52+00:00",
     "tags": [
       "Remote",
-      "Software Development"
+      "IT"
     ],
     "match_score": 4,
     "matched_skills": [
       "Python",
-      "React"
+      "SQL"
+    ]
+  },
+  {
+    "title": "Production & ESG Data Engineer",
+    "company": "ONE-Dyas B.V.",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "description": "<p class=\"MsoNormal\">Are you passionate about data, technology and sustainability? ONE-Dyas is looking for a <strong>Production &amp; ESG Data Engineer</strong> to ensure the accurate collection, administration and reporting of production, hydrocarbon and ESG data. You will turn complex data into reliable insights that support operational and business decisions.</p><p style=\"min-height: 1.7em;\"></p><h3>What will you do?</h3><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maintain and improve databases containing validated production and ESG data.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collect and integrate data from production sources and operated and non-operated assets.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prepare clear monthly, quarterly and annual reports and visualizations.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support Production, Engineering, HSE and ESG teams with data supporting operational and business decisions.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore opportunities for automation, machine learning and AI to improve collection, administration and reporting.</p> <br> <p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A bachelor\u2019s level in Engineering, Accounting, Computer Science, Environmental Sciences or a related field.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in data engineering or ESG reporting, preferably within the energy or oil &amp; gas industry.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Knowledge of database management, data visualization and data governance.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preferably experience with Python, SQL or similar tools.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong communication and",
+    "url": "https://www.arbeitnow.nl/jobs/companies/one-dyas-bv/production-esg-data-engineer-amsterdam-214778",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-10T06:31:43+00:00",
+    "tags": [
+      "Operations"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
     ]
   },
   {
@@ -187,7 +204,7 @@
     "title": "Tech lead",
     "company": "Ringbook Limited",
     "location": "Remote",
-    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RNC4xNTQuMjM2Ljgx when applying to show you read the job post completely (#RNC4xNTQuMjM2Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RMjAuMTE5Ljg2LjEyOA== when applying to show you read the job post completely (#RMjAuMTE5Ljg2LjEyOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're hum",
     "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
     "source": "RemoteOK",
     "posted_at": "2026-11-03T14:53:55+00:00",
@@ -265,39 +282,6 @@
       "testing",
       "part time",
       "non tech",
-      "digital nomad"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "DESARROLLADOR FULL STACK",
-    "company": "Kruger NearShore LLC - Rekluti",
-    "location": "Remote",
-    "description": "<h3>Desarrollador/a Full Stack \u00e2\u0080\u0093 Python / Angular / Go</h3><p class=\"isSelectedEnd\">En <strong>Rekluti</strong>, consultora especializada en talento tecnol\u00c3\u00b3gico en LATAM, buscamos un/a <strong>Desarrollador/a Full Stack</strong> para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables.</p><p class=\"isSelectedEnd\">Buscamos un perfil con s\u00c3\u00b3lida experiencia en <strong>Python, Angular y Go</strong>, capaz de desenvolverse de manera aut\u00c3\u00b3noma, aportar en decisiones t\u00c3\u00a9cnicas y colaborar con equipos multidisciplinarios.</p><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u008e\u00af Principales responsabilidades</h3><ul><li><p>Dise\u00c3\u00b1ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend.</p></li><li><p>Desarrollar servicios y <strong>APIs REST</strong> utilizando principalmente Python y Go.</p></li><li><p>Construir y mantener interfaces web modernas con <strong>Angular</strong>.</p></li><li><p>Participar en el dise\u00c3\u00b1o de arquitecturas y definici\u00c3\u00b3n de soluciones t\u00c3\u00a9cnicas.</p></li><li><p>Integrar servicios, APIs y diferentes componentes de la plataforma.</p></li><li><p>Desarrollar c\u00c3\u00b3digo limpio, mantenible, escalable y de alta calidad.</p></li><li><p>Participar en revisiones de c\u00c3\u00b3digo, testing y resoluci\u00c3\u00b3n de incidencias.</p></li><li><p>Colaborar con equipos de Producto, QA, DevOps y otros perfiles t\u00c3\u00a9cnicos.</p></li><li><p>Contribuir a la mejora continua de procesos y buenas pr\u00c3\u00a1cticas de desarrollo.</p></li><li><p>Trabajar con servicios cloud y ambientes desplegados sobre <strong>Google Cloud Platform (GCP)</strong>.</p></li><li><p>Participar eventualmente en iniciativas de desarrollo mobile utilizando <strong>Flutter</strong>.</p></li></ul><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u0092\u00bb Requisitos</h3><ul><li><p><strong>5+ a\u00c3\u00b1os de experiencia</strong> en desarrollo de software.</p></li><li><p>Experiencia s\u00c3\u00b3lida como <strong>Full Stack Developer</strong>.</p></li><li><p>Dominio avanzado de <strong>Pytho",
-    "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-    "source": "RemoteOK",
-    "posted_at": "2026-08-22T00:00:12+00:00",
-    "tags": [
-      "full stack",
-      "front end",
-      "python",
-      "dev",
-      "testing",
-      "web dev",
-      "quality assurance",
-      "devops",
-      "c",
-      "cloud",
-      "nosql",
-      "git",
-      "flutter",
-      "angular",
-      "mobile",
-      "golang",
-      "backend",
       "digital nomad"
     ],
     "match_score": 3,
