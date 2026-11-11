@@ -1,5 +1,42 @@
 [
   {
+    "title": "Developer Relations Engineer",
+    "company": "Nextcloud",
+    "location": "Stuttgart",
+    "description": "<p>At Nextcloud we help our users achieve a safe home for all their data, secure, under your control, and developed in an open, transparent, and trustworthy way. We work remotely, and our work culture is shaped by mutual trust, enthusiasm, and a strong belief in the principles of open source.</p><p>We're looking for an engineer who has built Nextcloud apps to join our Developer Relations Team and help <strong>grow the Nextcloud app ecosystem</strong>!</p><h2><strong>Responsibilities</strong></h2><ul><li><p>Growing the number of apps in the Nextcloud App Store.</p></li><li><p>Creating and improving educational materials for app developers (tutorials, courses, documentation).</p></li><li><p>Reviewing apps from commercial app development partners and supporting them.</p></li><li><p>Onboarding commercial app development partners to ensure a successful product offering and customer support.</p></li><li><p>Representing Nextcloud by giving talks and workshops at open-source conferences around the world. Regular travel is required.</p></li><li><p>Testing and reviewing community apps for release highlights.</p></li><li><p>Contributing to technical customer support as part of the Engineering department.</p></li></ul><h2><strong>Requirements</strong></h2><ul><li><p>Proven experience developing Nextcloud apps (add a link to your code in your application).</p></li><li><p>Technical experience with PHP or Python (both is a plus).</p></li><li><p>The following experience is a plus: a bit of HTML, CSS, JavaScript, one or more frontend frameworks such as VueJS, React, Angular, or Svelte, and understanding of containerization (Docker).</p></li><li><p>Strong written and spoken English; comfortable teaching, presenting and writing documentation.</p></li><li><p>Experience with public speaking (if available, add links to recordings of your talks in your application).</p></li><li><p>Knowledge about open source technology and communities (experience in Developer Relations or a track record o",
+    "url": "https://www.arbeitnow.com/jobs/companies/nextcloud/developer-relations-engineer-stuttgart-409029",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-11T12:01:01+00:00",
+    "tags": [
+      "Remote",
+      "Software Development"
+    ],
+    "match_score": 6,
+    "matched_skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
+    "title": "Forward Deployed Engineer",
+    "company": "True Talent Solutions Partners",
+    "location": "England",
+    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join a software team building AI-powered workflows for certification, inspection, and compliance. You will work directly with customers to understand their operations, then build and refine production software that addresses real-world needs.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Embed with customer operations teams to understand how certification, inspection, and compliance work in practice.</p></li><li><p style=\"min-height:1.5em\">Lead customer conversations, write specifications, and build end-to-end systems across the frontend, backend, data model, and AI layer.</p></li><li><p style=\"min-height:1.5em\">Take ownership of product areas and ship working software quickly, iterating based on direct user feedback.</p></li><li><p style=\"min-height:1.5em\">Assess which customer requests can serve broader needs and make sound decisions about what to build.</p></li><li><p style=\"min-height:1.5em\">Review customer documents and outputs to develop AI-powered workflows for scheduling, technical review, conformity assessment, field inspection, and document intelligence.</p></li></ul><h3>What We're Looking For</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Three to six years of experience as a software engineer or product engineer, with a record of shipping production systems.</p></li><li><p style=\"min-height:1.5em\">Full-stack development skills, including Python, TypeScript, React, Node.js, SQL, and cloud infrastructure.</p></li><li><p style=\"min-height:1.5em\">Experience with AI/ML, LLMs, or document intelligence.</p></li><li><p style=\"min-height:1.5em\">Experience building products or systems from the ground up, ideally in an early-stage startup or customer-facing engineering role.</p></li><li><p style=\"min-height:1.5em\">Comfort working directly with customers and translating complex operational workflows into software.</p></li><li><p style=\"min-height:1.5em\">Back",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-england-134171",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-11T12:40:12+00:00",
+    "tags": [
+      "Client Roles"
+    ],
+    "match_score": 6,
+    "matched_skills": [
+      "Python",
+      "React",
+      "SQL"
+    ]
+  },
+  {
     "title": "Product Engineering Lead",
     "company": "Tether Operations Limited",
     "location": "Remote",
@@ -135,41 +172,6 @@
     ]
   },
   {
-    "title": "Data & Platform Engineer",
-    "company": "Coopers Group AG",
-    "location": "Z\u00fcrich",
-    "description": "<p>................</p><p>F\u00fcr unseren Kunden in Z\u00fcrich, suchen wir eine:n erfahrene:n und aufgeschlossene:n <strong>Data & Platform Engineer</strong>.</p>In diesem Projekt unterst\u00fctzt du den Aufbau und die Weiterentwicklung einer zentralen Datenplattform im Rahmen einer umfassenden IT-Transformation. Gemeinsam mit Data Scientists, Fachbereichen und Engineering-Teams entwickelst du skalierbare Datenprodukte auf einer modernen, modularen Plattformarchitektur und tr\u00e4gst dazu bei, eine zukunftsf\u00e4hige Datenlandschaft zu etablieren.<p><strong>Deine Aufgaben:</strong></p><ul><li>Entwicklung, Betrieb und Optimierung von Datenpipelines f\u00fcr moderne Data- und Analytics-Plattformen</li><li>Implementierung und Weiterentwicklung von ETL-/ELT-Prozessen unter Einsatz von SQL, Python, dbt und Apache Spark</li><li>Aufbau, Automatisierung und \u00dcberwachung von Datenworkflows mit Apache Airflow</li><li>Unterst\u00fctzung beim Aufbau und Betrieb von Plattformkomponenten mit Fokus auf Skalierbarkeit, Stabilit\u00e4t und Wiederverwendbarkeit</li><li>Enge Zusammenarbeit mit Data Scientists, Fachbereichen und Architekturteams zur Bereitstellung hochwertiger Datenprodukte</li><li>Sicherstellung von Datenqualit\u00e4t, Performance und Governance innerhalb der Plattform</li><li>Mitarbeit bei der Weiterentwicklung der Plattformarchitektur sowie der Integration neuer Technologien und Services</li><li>Unterst\u00fctzung bei Automatisierungs- und DevOps-Initiativen innerhalb des Datenplattform-Umfelds</li></ul><p> </p><p><strong>Dein Profil:</strong></p><ul><li>Mehrj\u00e4hrige Erfahrung als <strong>Data Engineer</strong> mit einer hohen Affinit\u00e4t zu <strong>Platform Engineering</strong></li><li>Fundierte Kenntnisse in <strong>Python</strong>, <strong>SQL</strong>, <strong>Apache Spark</strong>, <strong>dbt</strong> und <strong>Apache Airflow</strong></li><li>Erfahrung im Design, Aufbau und Betrieb moderner Datenplattformen und Datenarchitekturen</li><li>Verst\u00e4ndnis von Datenmodellierung, Data Engineering Best Practices sow",
-    "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/data-platform-engineer-zurich-361577",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-10T13:00:52+00:00",
-    "tags": [
-      "Remote",
-      "IT"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Production & ESG Data Engineer",
-    "company": "ONE-Dyas B.V.",
-    "location": "Amsterdam, Noord-Holland, Netherlands",
-    "description": "<p class=\"MsoNormal\">Are you passionate about data, technology and sustainability? ONE-Dyas is looking for a <strong>Production &amp; ESG Data Engineer</strong> to ensure the accurate collection, administration and reporting of production, hydrocarbon and ESG data. You will turn complex data into reliable insights that support operational and business decisions.</p><p style=\"min-height: 1.7em;\"></p><h3>What will you do?</h3><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maintain and improve databases containing validated production and ESG data.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collect and integrate data from production sources and operated and non-operated assets.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prepare clear monthly, quarterly and annual reports and visualizations.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support Production, Engineering, HSE and ESG teams with data supporting operational and business decisions.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore opportunities for automation, machine learning and AI to improve collection, administration and reporting.</p> <br> <p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A bachelor\u2019s level in Engineering, Accounting, Computer Science, Environmental Sciences or a related field.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience in data engineering or ESG reporting, preferably within the energy or oil &amp; gas industry.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Knowledge of database management, data visualization and data governance.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preferably experience with Python, SQL or similar tools.</p><p class=\"MsoNormal\">\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong communication and",
-    "url": "https://www.arbeitnow.nl/jobs/companies/one-dyas-bv/production-esg-data-engineer-amsterdam-214778",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-10T06:31:43+00:00",
-    "tags": [
-      "Operations"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
     "title": "Feltsense AI Engineer",
     "company": "Silver.dev",
     "location": "Remote",
@@ -204,7 +206,7 @@
     "title": "Tech lead",
     "company": "Ringbook Limited",
     "location": "Remote",
-    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RMjAuMTE5Ljg2LjEyOA== when applying to show you read the job post completely (#RMjAuMTE5Ljg2LjEyOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're hum",
+    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RNC4yNDYuMTE5Ljgx when applying to show you read the job post completely (#RNC4yNDYuMTE5Ljgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
     "source": "RemoteOK",
     "posted_at": "2026-11-03T14:53:55+00:00",
