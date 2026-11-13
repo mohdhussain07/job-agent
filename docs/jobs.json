@@ -63,6 +63,25 @@
     ]
   },
   {
+    "title": "Data Engineer (Databricks, Snowflake)",
+    "company": "PROSTAFF Schweiz GmbH",
+    "location": "Z\u00fcrich",
+    "description": "<p>For one of our clients, we are looking for an Advanced Data Engineer to build and maintain data pipelines and data products. You will work directly with clients to understand their needs and turn diverse data sources into reliable, reusable datasets.</p>\n<ul>\n<li><p>Design, develop, test and monitor distributed data pipelines for batch and streaming workloads.</p>\n</li>\n<li><p>Integrate structured and unstructured data and produce reproducible datasets that meet the needs of data consumers.</p>\n</li>\n<li><p>Advise clients on technical options and explain design decisions to technical and business stakeholders.</p>\n</li>\n<li><p>Work with architects, software engineers and data scientists to deliver data products iteratively.</p>\n</li>\n<li><p>Degree in computer science, software engineering, data science or a comparable qualification.</p>\n</li>\n<li><p>At least three years of experience in data engineering or software engineering.</p>\n</li>\n<li><p>Practical Python and SQL skills and hands-on experience with relational and non-relational databases.</p>\n</li>\n<li><p>Experience building and maintaining data products, with knowledge of architectures such as data lakes, lakehouses and medallion architectures.</p>\n</li>\n<li><p>Experience with cloud data platforms such as Databricks, Snowflake, Microsoft Fabric or Amazon SageMaker.</p>\n</li>\n<li><p>Familiarity with large-scale data processing, data analysis and visualisation, as well as agile development and DevOps.</p>\n</li>\n<li><p>Hands-on experience with or interest in technologies such as Spark, Delta Lake, Airflow, Kafka, Kubernetes or Terraform.</p>\n</li>\n<li><p>Fluent German and English.</p>\n</li>\n</ul><p>Find more <a href=\"https://www.arbeitnow.ch/english-speaking-jobs\">English Speaking Jobs in Switzerland</a> on Arbeitnow</a>",
+    "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/data-engineer-databricks-snowflake-zurich-290301",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-12T23:30:36+00:00",
+    "tags": [
+      "Data Processing",
+      "Data Engineer"
+    ],
+    "match_score": 5,
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Agile"
+    ]
+  },
+  {
     "title": "AI Developer",
     "company": "Salvo Software",
     "location": "Remote",
@@ -169,7 +188,7 @@
     "title": "Tech lead",
     "company": "Ringbook Limited",
     "location": "Remote",
-    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RMTM1LjIzMi4yMzIuNTA= when applying to show you read the job post completely (#RMTM1LjIzMi4yMzIuNTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're hum",
+    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RNC4yNDkuMjAuMjI4 when applying to show you read the job post completely (#RNC4yNDkuMjAuMjI4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
     "source": "RemoteOK",
     "posted_at": "2026-11-03T14:53:55+00:00",
@@ -285,24 +304,6 @@
     "match_score": 3,
     "matched_skills": [
       "Python"
-    ]
-  },
-  {
-    "title": "Fullstack Developer*in (Python/Django & React) Mid-Level / Senior",
-    "company": "INES Analytics",
-    "location": "Berlin",
-    "description": "<h2>Kurzbeschreibung</h2><p>Du suchst einen Job mit Sinn und willst mit uns zusammen SaaS-Tools f\u00fcr faire Arbeitsbedingungen f\u00fcr alle Besch\u00e4ftigten weiterentwickeln? Dann bist Du bei uns richtig: Du \u00fcbernimmst die technische Verantwortung f\u00fcr bestehende, datenintensive Python/Django-Anwendungen. Du stabilisierst und modernisierst die gewachsenen Codebasen und entwickelst gleichzeitig neue Features nach fachlichen Anforderungen.</p><h2>Wichtigste Aufgaben</h2><ul><li><p>Betreuung und Modernisierung bestehender Python/Django-/REST-Anwendungen</p></li><li><p>Implementierung neuer Funktionen in Python/Django-/REST-Anwendungen</p></li><li><p>Betreuung und Modernisierung des React-Frontends, der Benutzeroberfl\u00e4chen und Dashboards</p></li><li><p>Implementierung neuer Frontend-Funktionen und Anbindung an Django-REST-APIs</p></li><li><p>Unterst\u00fctzung bei der Weiterentwicklung und Integration von ETL-Prozessen</p></li><li><p>Technische Umsetzung und Integration neuer und bestehender Data-Science-Module in unsere Anwendungen</p></li><li><p>Automatisierte Tests, Fehlerbehandlung, Monitoring und Verbesserung der Dokumentation</p></li><li><p>Betreuung von PostgreSQL, Unterst\u00fctzung bei AWS/S3-Integrationen</p></li></ul><h2>Wichtigste Anforderungen</h2><ul><li><p>Sehr gute Kenntnisse in Python, Django, Django REST Framework und PostgreSQL</p></li><li><p>Erfahrung mit pandas und NumPy sowie datenintensiven Anwendungen</p></li><li><p>Erfahrung mit der \u00dcbernahme und Modernisierung bestehender Codebasen</p></li><li><p>Sicherer Umgang mit REST-APIs, Datenvalidierung und automatisierten Tests</p></li><li><p>Erfahrung mit CSV-/Excel-Verarbeitung und der Integration komplexer fachlicher Berechnungslogiken</p></li><li><p>Gute Kenntnisse in React und JavaScript/TypeScript</p></li><li><p>Sehr gute Englischkenntnisse und die F\u00e4higkeit, technische Anforderungen und L\u00f6sungen im Team abzustimmen</p></li><li><p>Selbstst\u00e4ndige Arbeitsweise und Bereitschaft, technische Verantwortung zu \u00fcbernehmen</p",
-    "url": "https://www.arbeitnow.com/jobs/companies/ines-analytics/fullstack-developerin-python-django-react-mid-level-senior-berlin-8621",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-12T11:31:05+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python",
-      "JavaScript",
-      "React"
     ]
   }
 ]
