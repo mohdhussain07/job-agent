@@ -1,5 +1,23 @@
 [
   {
+    "title": "Software & AI Engineer Minijob (m/w/d)",
+    "company": "BIMraum GmbH",
+    "location": "B\u00f6blingen",
+    "description": "<h2>Stellenbeschreibung</h2><p>\ud83c\udf1f Software & AI Engineer (m/w/d) bei BIMraum GmbH gesucht! \ud83d\ude80</p><p>Bist du bereit, die Zukunft der Bau- und Immobilienbranche mitzugestalten? Bei BIMraum GmbH in B\u00f6blingen entwickeln wir mit proxino eine KI-gest\u00fctzte Softwarel\u00f6sung, die die Erstellung von Leistungsverzeichnissen revolutioniert. Wir suchen eine*n Software & AI Engineer, um unsere Systeme zur Produktreife zu bringen und echte Kundenprobleme zu l\u00f6sen.</p><h3>Deine Aufgaben:</h3><ul><li><p>Stabilisierung & Weiterentwicklung bestehender Systeme mit Fokus auf Produktionsreife</p></li><li><p>Du arbeitest eigenverantwortlich und treibst Themen selbstst\u00e4ndig von der Idee bis zur Umsetzung voran</p></li><li><p>Performance-Optimierung und saubere Integration neuer Features</p></li><li><p>Weiterentwicklung & Integration von KI-/LLM-basierten Funktionen</p></li><li><p>Enge Zusammenarbeit mit Gr\u00fcnderin und CTO bei technischen Entscheidungen</p></li><li><p>Schnelle Iteration an echten Nutzerproblemen mit Fokus auf funktionierende L\u00f6sungen</p></li></ul><h3>Dein Profil:</h3><ul><li><p>Must-haves:</p></li><li><p>Sehr gute Kenntnisse in JavaScript / TypeScript</p></li><li><p>Gute Kenntnisse in Python</p></li><li><p>Sicherer Umgang mit Git</p></li><li><p>Erfahrung in der Weiterentwicklung bestehender Codebasen</p></li><li><p>Pragmatismus: Du lieferst funktionierende Software, keine Theorie</p></li><li><p>Deutschkenntnisse mindestens auf C1-Niveau (f\u00fcr Team- und Kundenkommunikation)</p></li><li><p>Eigenst\u00e4ndige, strukturierte Arbeitsweise \u2013 du teilst dir ~10 Stunden pro Woche frei ein</p></li></ul><p>Nice-to-haves:</p><ul><li><p>Kenntnisse in NestJS und Next.js / React</p></li><li><p>Erfahrung mit KI-/LLM-Systemen oder datengetriebenen Anwendungen</p></li></ul><h3>Warum BIMraum?</h3><ul><li><p>Direkter Impact: Arbeite direkt am Produkt mit echten Kundenproblemen</p></li><li><p>Innovatives Umfeld: Gestalte aktiv mit und erlebe die schnellen Entscheidungswege in unserem Startup</p></li><li><",
+    "url": "https://www.arbeitnow.com/jobs/companies/bimraum-gmbh/software-ai-engineer-minijob-boblingen-471366",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-14T11:31:00+00:00",
+    "tags": [
+      "Software Development"
+    ],
+    "match_score": 6,
+    "matched_skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
     "title": "Product Engineering Lead",
     "company": "Tether Operations Limited",
     "location": "Remote",
@@ -60,25 +78,6 @@
     "matched_skills": [
       "Python",
       "JavaScript"
-    ]
-  },
-  {
-    "title": "Data Engineer (Databricks, Snowflake)",
-    "company": "PROSTAFF Schweiz GmbH",
-    "location": "Z\u00fcrich",
-    "description": "<p>For one of our clients, we are looking for an Advanced Data Engineer to build and maintain data pipelines and data products. You will work directly with clients to understand their needs and turn diverse data sources into reliable, reusable datasets.</p>\n<ul>\n<li><p>Design, develop, test and monitor distributed data pipelines for batch and streaming workloads.</p>\n</li>\n<li><p>Integrate structured and unstructured data and produce reproducible datasets that meet the needs of data consumers.</p>\n</li>\n<li><p>Advise clients on technical options and explain design decisions to technical and business stakeholders.</p>\n</li>\n<li><p>Work with architects, software engineers and data scientists to deliver data products iteratively.</p>\n</li>\n<li><p>Degree in computer science, software engineering, data science or a comparable qualification.</p>\n</li>\n<li><p>At least three years of experience in data engineering or software engineering.</p>\n</li>\n<li><p>Practical Python and SQL skills and hands-on experience with relational and non-relational databases.</p>\n</li>\n<li><p>Experience building and maintaining data products, with knowledge of architectures such as data lakes, lakehouses and medallion architectures.</p>\n</li>\n<li><p>Experience with cloud data platforms such as Databricks, Snowflake, Microsoft Fabric or Amazon SageMaker.</p>\n</li>\n<li><p>Familiarity with large-scale data processing, data analysis and visualisation, as well as agile development and DevOps.</p>\n</li>\n<li><p>Hands-on experience with or interest in technologies such as Spark, Delta Lake, Airflow, Kafka, Kubernetes or Terraform.</p>\n</li>\n<li><p>Fluent German and English.</p>\n</li>\n</ul><p>Find more <a href=\"https://www.arbeitnow.ch/english-speaking-jobs\">English Speaking Jobs in Switzerland</a> on Arbeitnow</a>",
-    "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/data-engineer-databricks-snowflake-zurich-290301",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-12T23:30:36+00:00",
-    "tags": [
-      "Data Processing",
-      "Data Engineer"
-    ],
-    "match_score": 5,
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "Agile"
     ]
   },
   {
@@ -154,6 +153,99 @@
     ]
   },
   {
+    "title": "Industrial Data & Solutions Engineer (gn) @ Stealth AI Venture, Berlin",
+    "company": "atlantic.vc",
+    "location": "Berlin, Berlin, Germany",
+    "description": "<p><em>This is an Atlantic portfolio company.</em></p><p style=\"min-height: 1.7em;\"></p><p><strong>What we're building</strong></p><p>Factories run on machines that generate huge amounts of data, and almost none of it gets used. We're changing that. We build AI software that helps production engineers and operators turn machine data into answers: why a line is slowing down, what's causing scrap, and what to fix next. We're early and in stealth. Our two founders both held C-level roles at leading German robotics ventures. They have spent years bringing advanced technology onto real shop floors, and now they're hiring the founding core team.</p><p style=\"min-height: 1.7em;\"></p><p><strong>Your role &amp; responsibility</strong></p><p>You're the person who makes our product work in the real world. You go into a plant, figure out what's actually broken, connect the data, and stay until operators use the product every day without being asked. You'll work with everyone from the machine operator to the plant manager, and with IT and OT. You own each customer from the first conversation through rollout and expansion. Berlin or home-based in Germany, with regular time in Berlin with the team. You'll spend about 20% of your time at customer sites.</p><p style=\"min-height: 1.7em;\"></p><p><strong>What you'll do</strong></p><ul><li><p>Own deployments end to end: use-case definition, data onboarding, validation, rollout, training, and adoption</p></li><li><p>Turn messy production problems into clear data, analytics, and solution requirements</p></li><li><p>Onboard and validate machine, process, quality, and maintenance data from industrial systems</p></li><li><p>Spot data problems that only make sense if you understand the machine behind them</p></li><li><p>Build and validate KPIs, features, anomaly signals, calibration methods, and analytical workflows in Python and SQL, using statistics and time-series analysis</p></li><li><p>Run the project with the customer and our commercial",
+    "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/industrial-data-solutions-engineer-gn-at-stealth-ai-venture-berlin-337847",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-14T06:31:33+00:00",
+    "tags": [
+      "Portfolio Company"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Agentic Systems Engineer (Digital Services)",
+    "company": "Cambridgeconsultantslimited",
+    "location": "Remote",
+    "description": "&lt;h3&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We&#39;re looking for an Agentic Systems Engineer, to work on systems that haven&#39;t existed before. Think of an Agentic Coach that navigates the unpredictability of human biology, or the software architecture behind a fully automated Dark Lab. These aren&#39;t chatbots waiting for questions. They&#39;re proactive systems that maintain world models, interpret human intent, and intervene before the user knows to ask. These systems create genuine impact for clients tackling complex problems at the forefront of technology.&lt;/p&gt;\n&lt;p&gt;Building them means designing and wiring agent harnesses: layered architectures that span from sensor-edge reasoning to high-level planning, backed by stateful multi-turn reasoning, persistent per-user memory, and robust evaluation pipelines.&lt;/p&gt;\n&lt;p&gt;You&#39;ll work in two directions at once. Internally, you&#39;ll use the latest AI tools to sharpen how we build, prototype, and ship. Externally, you&#39;ll deliver the breakthrough systems our clients deploy, designed to move from prototype to production at pace.&lt;/p&gt;\n&lt;p&gt;There&#39;s no single technology stack. You&#39;ll work with agents, multi-agent systems, and the latest generative AI tools, but your work will always be grounded in solid software engineering. Expect to build scalable distributed systems in core languages like Python and TypeScript, leveraging frameworks such as NextJS and Pydantic, agent orchestration tools (LangGraph, CrewAI), and protocols like MCP. You&#39;ll deploy on cloud platforms (AWS, GCP, Azure) using Docker, Kubernetes, and infrastructure-as-code, backed by rigorous CI/CD and observability (OpenTelemetry, Prometheus).&lt;/p&gt;\n&lt;p&gt;Due to the clients we work with, you must be eligible for UK security clearance.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What you&#39;ll be doing:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;AI System Architecture: Designing and imp",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/agentic-systems-engineer-digital-services-431294",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-14T09:55:21+00:00",
+    "tags": [
+      "AI (*)"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "Azure"
+    ]
+  },
+  {
+    "title": "Software Engineer AI Tooling",
+    "company": "Supabase",
+    "location": "Remote",
+    "description": "<h2><strong>About Supabase</strong></h2><p style=\"min-height:1.5em\">Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.<br /></p><h2><strong>About the Role</strong></h2><p style=\"min-height:1.5em\">We\u00e2\u0080\u0099re looking for a Software Engineer to join our AI Tooling team and help shape how developers and agents build with Supabase. You'll build and own our AI tooling, including agents, the MCP server, agent skills and the dashboard assistant, and as the space moves you'll build the tooling for new technologies too. You'll build it all eval-first: every tool ships with evals and metrics, so we know, with evidence, that it makes agents better rather than worse.</p><p style=\"min-height:1.5em\">You'll work closely with the Docs, CLI, Frontend and SDK teams, and with the AI Tooling Infrastructure engineers who run these services in production. Other teams contribute to AI Tooling to improve Supabase's agentic capabilities, and you'll help them do that while keeping the quality bar high.</p><p style=\"min-height:1.5em\">This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions.<br /></p><h2>What You\u00e2\u0080\u0099ll Be Responsible For</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build and improve the AI tooling we run today, including the MCP server, agent skills, agents and the Assistant.</p></li><li><p style=\"min-height:1.5em\">Make new Supabase products usable by agents from day one: tools, skills and evals for new product surfaces. Also build tooling for new AI technologies as they emerge: prototype quickly, evaluate honestly, and decide with the team what is worth taking to production.</p></li><li><p style=\"min-height:1.5em\">Drive an eval-first approach: build and improve evals",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+    "source": "RemoteOK",
+    "posted_at": "2026-11-13T00:00:15+00:00",
+    "tags": [
+      "dev",
+      "design",
+      "front end",
+      "customer support",
+      "testing",
+      "marketing",
+      "virtual assistant",
+      "javascript",
+      "education",
+      "typescript",
+      "sys admin",
+      "medical",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "JavaScript"
+    ]
+  },
+  {
+    "title": "Research Engineer Privacy and Anonymization",
+    "company": "Pragmatike",
+    "location": "Remote",
+    "description": "<p style=\"min-height:1.5em\"><strong>Location:</strong> San Francisco or Singapore (on-site), or remote (Singapore or US Pacific time zones)<br /><strong>Start Date:</strong> ASAP<br /><strong>Languages:</strong> English<br /><strong>Team:</strong> Engineering</p><p style=\"min-height:1.5em\"></p><h2>About the Role</h2><p style=\"min-height:1.5em\">Our client is a fast-growing AI company building reliable, fair and open infrastructure for AI training data. Their marketplace helps the people who create data get value for it, and gives AI labs trustworthy data to train on. It is already used by startups, Fortune 500 companies and frontier labs, and the company is backed by leading venture investors, including Y Combinator. They are scaling quickly to meet strong demand.</p><p style=\"min-height:1.5em\">We are looking for a <strong>Research Engineer, Privacy and Anonymization</strong> to build the systems that make sensitive, real-world data safe and still useful for AI training. You will develop methods to detect and remove personally identifiable information, secrets and other sensitive content from raw data before it enters processing and synthetic data pipelines \u00e2\u0080\u0094 protecting privacy without destroying the structure and signal that make the data valuable for training agents.</p><p style=\"min-height:1.5em\">This is a privacy and data-protection engineering seat, not a synthetic-task design role. You will own the pipeline that stands in front of downstream processing, training, evaluation and synthetic generation.</p><p style=\"min-height:1.5em\">This is a full-time role, starting ASAP. Offices are in San Francisco and Singapore; remote candidates are welcome if their working hours can overlap about 70\u00e2\u0080\u009380% with either San Francisco (US Pacific) or Singapore business hours. The exact daily schedule will be agreed during hiring.</p><p style=\"min-height:1.5em\"></p><h2>What You'll Do</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build systems to detect PII, q",
+    "url": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
+    "source": "RemoteOK",
+    "posted_at": "2026-11-12T16:00:38+00:00",
+    "tags": [
+      "design",
+      "embedded",
+      "infosec",
+      "python",
+      "education",
+      "technical",
+      "finance",
+      "content writing",
+      "ops",
+      "medical",
+      "recruiter",
+      "engineer",
+      "full time",
+      "digital nomad"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
     "title": "Feltsense AI Engineer",
     "company": "Silver.dev",
     "location": "Remote",
@@ -182,128 +274,6 @@
     "match_score": 3,
     "matched_skills": [
       "JavaScript"
-    ]
-  },
-  {
-    "title": "Tech lead",
-    "company": "Ringbook Limited",
-    "location": "Remote",
-    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RNC4yNDkuMjAuMjI4 when applying to show you read the job post completely (#RNC4yNDkuMjAuMjI4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
-    "source": "RemoteOK",
-    "posted_at": "2026-11-03T14:53:55+00:00",
-    "tags": [
-      "dev",
-      "exec",
-      "accounting",
-      "saas"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "React"
-    ]
-  },
-  {
-    "title": "Technical Account Manager",
-    "company": "Yuno",
-    "location": "Brazil",
-    "description": "<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><strong><span style=\"font-size: 9pt; font-family: Arial, sans-serif; color: #999999;\">Remote, Brazil, Full Time, Individual Contributor, +3 years of experience</span></strong></p>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><strong><span style=\"font-size: 17pt; font-family: Arial, sans-serif; color: #1a1a1a;\">Who We Are</span></strong></p>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #1a1a1a;\">At Yuno, we are building the payment infrastructure that allows all companies to participate in the global market. Founded by seasoned experts from the payments and tech industries, our technology provides access to leading payment capabilities, enabling companies to engage customers confidently and maintain global operations through seamless integrations.</span></p>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #1a1a1a;\">We empower high-performing teams at brands like InDrive, McDonald's, Rappi, and Viva Aerobus to integrate over 1,000 payment methods via a single API. By leveraging advanced AI and the latest technologies, we orchestrate smart routing and fraud prevention across 80+ countries.</span></p>\n<p style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 3.75pt;\">&nbsp;</p>\n<hr>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><strong><span style=\"font-size: 17pt; font-family: Arial, sans-serif; color: #1a1a1a;\">About The Role</span></strong></p>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #1a1a1a;\">We are orchestrating the best high-performing team!</span></p>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif",
-    "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
-    "source": "RemoteOK",
-    "posted_at": "2026-10-17T08:00:32+00:00",
-    "tags": [
-      "exec",
-      "design",
-      "hr",
-      "python",
-      "technical",
-      "customer support",
-      "marketing",
-      "web dev",
-      "speech",
-      "javascript",
-      "finance",
-      "css",
-      "html",
-      "sql",
-      "postgres",
-      "node",
-      "node.js",
-      "mongo",
-      "api",
-      "senior",
-      "ops",
-      "sales",
-      "sys admin",
-      "golang",
-      "medical",
-      "engineer",
-      "apache",
-      "nginx",
-      "digital nomad"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python",
-      "JavaScript",
-      "SQL"
-    ]
-  },
-  {
-    "title": "APAC Python",
-    "company": "Kodland",
-    "location": "Remote",
-    "description": "<p><strong>About\u00c2\u00a0the\u00c2\u00a0Company:</strong></p><p><strong>Kodland\u00c2\u00a0</strong>is\u00c2\u00a0an\u00c2\u00a0international\u00c2\u00a0online\u00c2\u00a0coding\u00c2\u00a0and\u00c2\u00a0digital\u00c2\u00a0skills\u00c2\u00a0school\u00c2\u00a0that\u00c2\u00a0helps\u00c2\u00a0children\u00c2\u00a0aged\u00c2\u00a05\u00c2\u00a0to\u00c2\u00a017\u00c2\u00a0take\u00c2\u00a0their\u00c2\u00a0first\u00c2\u00a0steps\u00c2\u00a0into\u00c2\u00a0the\u00c2\u00a0world\u00c2\u00a0of\u00c2\u00a0programming\u00c2\u00a0and\u00c2\u00a0technology.</p><p style=\"min-height: 1.7em;\"></p><p><strong>About\u00c2\u00a0the\u00c2\u00a0Role:</strong></p><p>Are\u00c2\u00a0you\u00c2\u00a0a\u00c2\u00a0passionate\u00c2\u00a0programmer\u00c2\u00a0who\u00c2\u00a0loves\u00c2\u00a0coding\u00c2\u00a0and\u00c2\u00a0computer\u00c2\u00a0games?\u00c2\u00a0Would\u00c2\u00a0you\u00c2\u00a0like\u00c2\u00a0to\u00c2\u00a0help\u00c2\u00a0children\u00c2\u00a0create\u00c2\u00a0their\u00c2\u00a0first\u00c2\u00a0projects\u00c2\u00a0and\u00c2\u00a0take\u00c2\u00a0their\u00c2\u00a0first\u00c2\u00a0steps\u00c2\u00a0into\u00c2\u00a0the\u00c2\u00a0programming\u00c2\u00a0world\u00c2\u00a0by\u00c2\u00a0teaching\u00c2\u00a0them\u00c2\u00a0Python?\u00c2\u00a0If\u00c2\u00a0so,\u00c2\u00a0this\u00c2\u00a0opportunity\u00c2\u00a0is\u00c2\u00a0perfect\u00c2\u00a0for\u00c2\u00a0you!</p><p style=\"min-height: 1.7em;\"></p><p><strong>Responsibilities:</strong></p><ul><li><p>Deliver\u00c2\u00a0fun\u00c2\u00a0and\u00c2\u00a0interactive\u00c2\u00a0Python\u00c2\u00a0Programming\u00c2\u00a0lessons\u00c2\u00a0using\u00c2\u00a0provided\u00c2\u00a0materials.</p></li><li><p>Develop\u00c2\u00a0your\u00c2\u00a0own\u00c2\u00a0skills\u00c2\u00a0under\u00c2\u00a0the\u00c2\u00a0guidance\u00c2\u00a0of\u00c2\u00a0experienced\u00c2\u00a0Kodland\u00c2\u00a0teachers.</p></li><li><p>Share\u00c2\u00a0feedback\u00c2\u00a0about\u00c2\u00a0lessons\u00c2\u00a0with\u00c2\u00a0the\u00c2\u00a0Kodland\u00c2\u00a0team.</p></li><li><p>Regularly\u00c2\u00a0report\u00c2\u00a0on\u00c2\u00a0student\u00c2\u00a0progress\u00c2\u00a0and\u00c2\u00a0help\u00c2\u00a0improve\u00c2\u00a0the\u00c2\u00a0learning\u00c2\u00a0experience.</p></li><li><p>Be\u00c2\u00a0a\u00c2\u00a0positive\u00c2\u00a0representative\u00c2\u00a0of\u00c2\u00a0Kodland\u00c2\u00a0and\u00c2\u00a0contribute\u00c2\u00a0creative\u00c2\u00a0ideas\u00c2\u00a0to\u00c2\u00a0support\u00c2\u00a0students.</p></li><li><p>Attend\u00c2\u00a0all\u00c2\u00a0training\u00c2\u00a0and\u00c2\u00a0support\u00c2\u00a0sessions\u00c2\u00a0provided\u00c2\u00a0throughout\u00c2\u00a0the\u00c2\u00a0hiring\u00c2\u00a0process.</p></li></ul><p style=\"min-height: 1.7em;\"></p><p style=\"min-height: 1.7em;\"></p><p><strong>Join\u00c2\u00a0our\u00c2\u00a0team\u00c2\u00a0today\u00c2\u00a0and\u00c2\u00a0experience\u00c2\u00a0the\u00c2\u00a0joy\u00c2\u00a0of\u00c2\u00a0teaching\u00c2\u00a0with\u00c2\u00a0Kodland!\u00c2\u00a0\u00f0\u009f\u0092\u0099</strong></p><p style=\"min-height: 1.7em;\"></p><p><strong>Please\u00c2\u00a0note:\u00c2\u00a0This\u00c2\u00a0is\u00c2\u00a0a\u00c2\u00a0part-time\u00c2\u00a0freelance\u00c2\u00a0position.\u00c2\u00a0There\u00c2\u00a0is\u00c2\u00a0no\u00c2\u00a0fixed\u00c2\u00a0or\u00c2\u00a0guaranteed\u00c2\u00a0income.</strong></p><p style=\"min-height: 1.7em;\"></p><br></br><p><strong>Requirements:</strong></p><ul><li><p>Intermediate\u00c2\u00a0level\u00c2\u00a0Python\u00c2\u00a0experience.</p></li><li><p>Availability\u00c2\u00a0of\u00c2\u00a0at\u00c2\u00a0least\u00c2\u00a010\u00c2\u00a0hours\u00c2\u00a0per\u00c2\u00a0week.</p></li><li><p>You\u00c2\u00a0love\u00c2\u00a0teaching\u00c2\u00a0and\u00c2\u00a0connecting\u00c2\u00a0with\u00c2\u00a0children\u00c2\u00a0and\u00c2\u00a0young\u00c2\u00a0people.</p></li><li><p>You\u00c2\u00a0speak\u00c2\u00a0English\u00c2\u00a0fluent",
-    "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
-    "source": "RemoteOK",
-    "posted_at": "2026-10-16T16:00:26+00:00",
-    "tags": [
-      "python",
-      "teaching",
-      "education",
-      "customer support",
-      "dev",
-      "testing",
-      "part time",
-      "non tech",
-      "digital nomad"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "DESARROLLADOR FULL STACK",
-    "company": "Kruger NearShore LLC - Rekluti",
-    "location": "Remote",
-    "description": "<h3>Desarrollador/a Full Stack \u00e2\u0080\u0093 Python / Angular / Go</h3><p class=\"isSelectedEnd\">En <strong>Rekluti</strong>, consultora especializada en talento tecnol\u00c3\u00b3gico en LATAM, buscamos un/a <strong>Desarrollador/a Full Stack</strong> para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables.</p><p class=\"isSelectedEnd\">Buscamos un perfil con s\u00c3\u00b3lida experiencia en <strong>Python, Angular y Go</strong>, capaz de desenvolverse de manera aut\u00c3\u00b3noma, aportar en decisiones t\u00c3\u00a9cnicas y colaborar con equipos multidisciplinarios.</p><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u008e\u00af Principales responsabilidades</h3><ul><li><p>Dise\u00c3\u00b1ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend.</p></li><li><p>Desarrollar servicios y <strong>APIs REST</strong> utilizando principalmente Python y Go.</p></li><li><p>Construir y mantener interfaces web modernas con <strong>Angular</strong>.</p></li><li><p>Participar en el dise\u00c3\u00b1o de arquitecturas y definici\u00c3\u00b3n de soluciones t\u00c3\u00a9cnicas.</p></li><li><p>Integrar servicios, APIs y diferentes componentes de la plataforma.</p></li><li><p>Desarrollar c\u00c3\u00b3digo limpio, mantenible, escalable y de alta calidad.</p></li><li><p>Participar en revisiones de c\u00c3\u00b3digo, testing y resoluci\u00c3\u00b3n de incidencias.</p></li><li><p>Colaborar con equipos de Producto, QA, DevOps y otros perfiles t\u00c3\u00a9cnicos.</p></li><li><p>Contribuir a la mejora continua de procesos y buenas pr\u00c3\u00a1cticas de desarrollo.</p></li><li><p>Trabajar con servicios cloud y ambientes desplegados sobre <strong>Google Cloud Platform (GCP)</strong>.</p></li><li><p>Participar eventualmente en iniciativas de desarrollo mobile utilizando <strong>Flutter</strong>.</p></li></ul><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u0092\u00bb Requisitos</h3><ul><li><p><strong>5+ a\u00c3\u00b1os de experiencia</strong> en desarrollo de software.</p></li><li><p>Experiencia s\u00c3\u00b3lida como <strong>Full Stack Developer</strong>.</p></li><li><p>Dominio avanzado de <strong>Pytho",
-    "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-    "source": "RemoteOK",
-    "posted_at": "2026-08-22T00:00:12+00:00",
-    "tags": [
-      "full stack",
-      "front end",
-      "python",
-      "dev",
-      "testing",
-      "web dev",
-      "quality assurance",
-      "devops",
-      "c",
-      "cloud",
-      "nosql",
-      "git",
-      "flutter",
-      "angular",
-      "mobile",
-      "golang",
-      "backend",
-      "digital nomad"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python"
     ]
   }
 ]
