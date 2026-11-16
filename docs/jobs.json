@@ -35,34 +35,6 @@
     ]
   },
   {
-    "title": "Sr Solutions Architect",
-    "company": "ExtraHop",
-    "location": "Remote",
-    "description": "At ExtraHop, we\u00e2\u0080\u0099re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that evade their existing security and IT tools. With this insight, organizations can investigate smarter, stop threats faster, and keep operations running.\n\nOur mission is fueled by a profound social and moral responsibility to be the best at what we do, ensuring a secure world where everyone can thrive. If this sounds like a place you\u00e2\u0080\u0099d like to spend the next chapter of your career, we\u00e2\u0080\u0099d love to hear from you.\n\nPosition Summary\nExtraHop\u00e2\u0080\u0099s Solutions Architecture team is very different from many other post-sales services practices\u00e2\u0080\u0094we focus on outcomes and customer success rather than racking up billable hours. As a member of our Solutions Architecture team, you\u00e2\u0080\u0099ll play a critical role in the success of our customers, products and position in the marketplace. Our Architects tackle the most difficult business and technology problems across a vast array of industries and technologies. As a Solutions Architect at ExtraHop, you will never be bored again.\n\nKey Responsibilities\n- Advanced GUI development\n- Advanced Trigger Script development\n- Intermediate external REST API script development\n- Intermediate understanding of networking\n- Intermediate understanding of application design\n- Analyze customer network topologies and application stacks; develop strategies to acquire high-value data from the wire.\n- Profile industry-specific applications across a broad range of verticals; create technical assets and written collateral to support product improvement and marketing efforts.\n- Conduct root cause analysis of high-profile technology problems and advise customers on their resolution.\n- De",
-    "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
-    "source": "RemoteOK",
-    "posted_at": "2026-09-15T00:00:26+00:00",
-    "tags": [
-      "architecture",
-      "design",
-      "infosec",
-      "python",
-      "technical",
-      "customer support",
-      "javascript",
-      "api",
-      "ops",
-      "marketing",
-      "sales",
-      "digital nomad"
-    ],
-    "match_score": 5,
-    "matched_skills": [
-      "Python",
-      "JavaScript"
-    ]
-  },
-  {
     "title": "Frontend Engineer",
     "company": "Bjak",
     "location": "Ireland",
@@ -191,7 +163,7 @@
     "title": "Tech lead",
     "company": "Ringbook Limited",
     "location": "Remote",
-    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RNTQuMjExLjE3MC4xNTU= when applying to show you read the job post completely (#RNTQuMjExLjE3MC4xNTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're hum",
+    "description": "<p dir=\"ltr\">What You\u00e2\u0080\u0099ll Do</p><p dir=\"ltr\">\u00e3\u0080\u0082Design the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">\u00e3\u0080\u0082Build and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">\u00e3\u0080\u0082Integrate AI capabilities throughout the platform to create innovative features.</p><p dir=\"ltr\">\u00e3\u0080\u0082Develop clean, responsive, and intuitive frontend interfaces.</p><p dir=\"ltr\">\u00e3\u0080\u0082Design and optimize backend APIs, database schemas, and data pipelines.</p><p dir=\"ltr\">\u00e3\u0080\u0082Collaborate closely with the CEO on product and technical strategies.</p><p dir=\"ltr\">\u00e3\u0080\u0082Contribute to code reviews, architectural decisions, and technical planning.</p><p dir=\"ltr\">\u00e3\u0080\u0082Ensure security and compliance standards are met, as expected for financial software.</p><p><br /></p><p dir=\"ltr\">What You Should Know</p><p dir=\"ltr\">This is a small team environment\u00e2\u0080\u0094you\u00e2\u0080\u0099ll be one of a 3-person team.</p><p dir=\"ltr\">As an early-stage startup, you\u00e2\u0080\u0099ll have the opportunity to shape the platform and grow with the company.</p><p dir=\"ltr\">You\u00e2\u0080\u0099ll gain hands-on experience with accounting knowledge as part of the work.<br />This position is a replacement and you'll work from the existing code base.</p><p dir=\"ltr\">Experience doesn't matter so long as the candidate can demonstrate excellent AI and coding skills.</p><p><br /></p><p dir=\"ltr\">Our Tech Stack</p><p dir=\"ltr\">Frontend: React + TypeScript</p><p dir=\"ltr\">Backend: tRPC, Drizzle ORM + PostgreSQL (Planetscale)</p><p dir=\"ltr\">Infrastructure: AWS EC2</p><p dir=\"ltr\">AI Tools: Gemini, Claude</p><p dir=\"ltr\">Codebase: Monorepo structure</p><p><br /></p><p dir=\"ltr\">The job is full remote with salary payment in USDT / HKD.</p><br/><br/>Please mention the word **GODLIKE** and tag RMy40MS4yMTAuNzA= when applying to show you read the job post completely (#RMy40MS4yMTAuNzA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
     "source": "RemoteOK",
     "posted_at": "2026-11-03T14:53:55+00:00",
@@ -307,6 +279,40 @@
     "match_score": 3,
     "matched_skills": [
       "Python"
+    ]
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Addepto",
+    "location": "Remote",
+    "description": "<p><span>Addepto is a leading AI consulting (</span><u><a href=\"https://addepto.com/ai-consulting/\"><span>https://addepto.com/ai-consulting/</span></a></u><span>) and data engineering (</span><u><a href=\"https://addepto.com/data-engineering-services/\"><span>https://addepto.com/data-engineering-services/</span></a></u><span>) company that builds scalable, ROI-focused AI solutions for some of the world's largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With an exclusive focus on Artificial Intelligence and Big Data, Addepto helps organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth.</span></p><p></p><p><span>The company's work extends beyond client engagements. Drawing from real-world challenges and insights, Addepto has developed its own </span><u><a href=\"https://context-clue.com/\"><span>product - ContextClue</span></a></u><span> - and actively contributes open-source solutions to the AI community. This commitment to transforming practical experience into scalable innovation has earned Addepto recognition by </span><u><a href=\"https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/\"><span>Forbes as one of the top 10 AI consulting companies worldwide</span></a></u><span>.</span></p><p><br /><span>As part of </span><u><a href=\"https://kms-technology.com/\"><span>KMS Technology</span></a></u><span>, a US-based global technology group, Addepto combines deep AI specialization with enterprise-scale delivery capabilities\u00e2\u0080\u0094enabling the partnership to move clients from AI experimentation to production impact, securely and at scale.</span></p><p></p><p><span>We are looking for an experienced </span><strong><span>Data Engineer</span></strong><span> with strong skills in </span><strong><span>GCP, Snowflake, dbt, Python, SQL, and Data Analytics</span></strong><span> to join our team. You will work on internatio",
+    "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
+    "source": "RemoteOK",
+    "posted_at": "2026-11-10T16:00:04+00:00",
+    "tags": [
+      "design",
+      "saas",
+      "salesforce",
+      "python",
+      "education",
+      "consulting",
+      "customer support",
+      "testing",
+      "marketing",
+      "dev",
+      "finance",
+      "cloud",
+      "git",
+      "stats",
+      "sys admin",
+      "engineer",
+      "apache",
+      "digital nomad"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python",
+      "SQL"
     ]
   }
 ]
