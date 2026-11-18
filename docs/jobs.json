@@ -35,6 +35,24 @@
     ]
   },
   {
+    "title": "Data Architect (m/w/d)",
+    "company": "True Talent Solutions Partners",
+    "location": "Sankt Georgen im Schwarzwald",
+    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Shape data-driven solutions from strategic consulting through technical implementation, spanning analytics, machine learning, and generative AI. You will join an interdisciplinary team of data engineers, AI specialists, and software developers, helping evolve scalable data platforms and architectures for a growing SaaS business.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Analyze customer requirements and identify opportunities for data-driven solutions across analytics, machine learning, and generative AI.</p></li><li><p style=\"min-height:1.5em\">Develop tailored data and AI strategies for a range of use cases.</p></li><li><p style=\"min-height:1.5em\">Design scalable architectures for data platforms, machine learning pipelines, and AI systems.</p></li><li><p style=\"min-height:1.5em\">Evaluate and recommend technologies, and guide implementation teams with clear roadmaps.</p></li><li><p style=\"min-height:1.5em\">Contribute to pre-sales activities, market analysis, and the development of data-focused business areas.</p></li><li><p style=\"min-height:1.5em\">Help create solution concepts, estimates, and presentations.</p></li></ul><h3>What We're Looking For</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">At least 3 years of experience designing and implementing modern data platforms, machine learning solutions, and AI systems.</p></li><li><p style=\"min-height:1.5em\">A degree in computer science, business informatics, informatics, or a comparable qualification.</p></li><li><p style=\"min-height:1.5em\">Hands-on experience with Azure, Databricks, or AWS, plus Python, SQL, Docker, CI/CD pipelines, and infrastructure as code.</p></li><li><p style=\"min-height:1.5em\">Strong understanding of modern data architectures, MLOps, and data governance.</p></li><li><p style=\"min-height:1.5em\">Experience developing data-driven solutions and strategies across analytics, machine learn",
+    "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/data-architect-sankt-georgen-im-schwarzwald-246484",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-18T09:40:13+00:00",
+    "tags": [
+      "Client Roles"
+    ],
+    "match_score": 5,
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Azure"
+    ]
+  },
+  {
     "title": "Frontend Engineer",
     "company": "Bjak",
     "location": "Ireland",
@@ -67,23 +85,6 @@
     "matched_skills": [
       "JavaScript",
       "React"
-    ]
-  },
-  {
-    "title": "Product Engineering Intern",
-    "company": "Vetaion GmbH",
-    "location": "Garching",
-    "description": "<p>We are looking for a <strong>Product Engineering Intern</strong> to help us build the software that runs our factory. Together with our software engineers and the electricians on our production floor, you will develop features end to end, from the database to the touchscreen interfaces at our workstations, and see them in use shortly after you ship them.</p><p>Our factory runs on VetaionOS, our own operating system for production, built with TypeScript, React and PostgreSQL on Supabase. We develop AI-first, with tools like Claude Code as part of our daily work.</p><p><strong>Duration:</strong> 6 months; <strong>Start:</strong> flexible</p><h2>Tasks</h2><ul><li><p><strong>Build features end to end</strong> for VetaionOS: data model, logic and user interface.</p></li><li><p><strong>Design touchscreen interfaces</strong> for our workstations that make assembly faster and easier for our electricians.</p></li><li><p><strong>Test your features on the production floor</strong> with the people who use them, and improve them based on their feedback.</p></li><li><p><strong>Improve our data models and performance</strong>, so the system stays fast and reliable as production grows.</p></li><li><p><strong>Keep our data consistent</strong> with automated checks and tests.</p></li><li><p><strong>Take ownership</strong> of your features, from the first idea to daily use in production.</p></li></ul><h2>Requirements</h2><ul><li><p>You are studying <strong>computer science, engineering</strong> or a related technical or interdisciplinary field at a <strong>top university with strong grades</strong>.</p></li><li><p>First experience <strong>building web applications</strong> with a database behind them, for example in university or personal projects or a previous internship.</p></li><li><p>Comfortable with <strong>TypeScript, React and SQL</strong>, or quick to pick them up.</p></li><li><p>You care about <strong>good user experience</strong> and enjoy building things people use every",
-    "url": "https://www.arbeitnow.com/jobs/companies/vetaion-gmbh/product-engineering-intern-garching-75856",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-17T14:31:23+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "React",
-      "SQL"
     ]
   },
   {
@@ -280,37 +281,19 @@
     ]
   },
   {
-    "title": "Data Engineer",
-    "company": "Addepto",
+    "title": "Staff Performance Engineer, JavaScript Engine (SpiderMonkey)",
+    "company": "mozilla",
     "location": "Remote",
-    "description": "<p><span>Addepto is a leading AI consulting (</span><u><a href=\"https://addepto.com/ai-consulting/\"><span>https://addepto.com/ai-consulting/</span></a></u><span>) and data engineering (</span><u><a href=\"https://addepto.com/data-engineering-services/\"><span>https://addepto.com/data-engineering-services/</span></a></u><span>) company that builds scalable, ROI-focused AI solutions for some of the world's largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With an exclusive focus on Artificial Intelligence and Big Data, Addepto helps organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth.</span></p><p></p><p><span>The company's work extends beyond client engagements. Drawing from real-world challenges and insights, Addepto has developed its own </span><u><a href=\"https://context-clue.com/\"><span>product - ContextClue</span></a></u><span> - and actively contributes open-source solutions to the AI community. This commitment to transforming practical experience into scalable innovation has earned Addepto recognition by </span><u><a href=\"https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/\"><span>Forbes as one of the top 10 AI consulting companies worldwide</span></a></u><span>.</span></p><p><br /><span>As part of </span><u><a href=\"https://kms-technology.com/\"><span>KMS Technology</span></a></u><span>, a US-based global technology group, Addepto combines deep AI specialization with enterprise-scale delivery capabilities\u00e2\u0080\u0094enabling the partnership to move clients from AI experimentation to production impact, securely and at scale.</span></p><p></p><p><span>We are looking for an experienced </span><strong><span>Data Engineer</span></strong><span> with strong skills in </span><strong><span>GCP, Snowflake, dbt, Python, SQL, and Data Analytics</span></strong><span> to join our team. You will work on internatio",
-    "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
-    "source": "RemoteOK",
-    "posted_at": "2026-11-10T16:00:04+00:00",
+    "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we\u2019re shaping the next 25 years of technology and helping to reclaim an internet built for people, not companies. Our work focuses on diverse areas including AI, social media, security and more. And we\u2019re doing this while never losing our focus on our core mission \u2013 to make the internet better for people.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Mozilla Corporation is wholly owned by the non-profit 501(c) Mozilla Foundation. This means we aren\u2019t beholden to any shareholders \u2014 only to our mission. Along with thousands of volunteer contributors and collaborators all over the world, Mozillians design, build and distribute &lt;/span&gt;&lt;strong&gt;open-source&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; software that enables people to enjoy the internet on their terms.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About this team and role:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The JavaScript team at Mozilla works to make Firefox&#39;s industry-leading JavaScript engine SpiderMonkey even more performant. We push the boundaries of what the web is capable of, shaping the future of the JavaScript language through standardization at TC39, while keeping in mind the fundamental principle of \u201cdon\u2019t break the web.\u201d&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a Staff Software Engineer on the SpiderMonkey team, you&#39;ll be a",
+    "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/staff-performance-engineer-javascript-engine-spidermonkey-365140",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-18T00:55:27+00:00",
     "tags": [
-      "design",
-      "saas",
-      "salesforce",
-      "python",
-      "education",
-      "consulting",
-      "customer support",
-      "testing",
-      "marketing",
-      "dev",
-      "finance",
-      "cloud",
-      "git",
-      "stats",
-      "sys admin",
-      "engineer",
-      "apache",
-      "digital nomad"
+      "Firefox"
     ],
-    "match_score": 2,
+    "match_score": 3,
     "matched_skills": [
-      "Python",
-      "SQL"
+      "JavaScript"
     ]
   }
 ]
