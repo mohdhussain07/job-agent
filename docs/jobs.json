@@ -1,5 +1,23 @@
 [
   {
+    "title": "Werkstudent Automatisierung und Daten (m/w/d)",
+    "company": "Vimerox Real Estate Management GmbH",
+    "location": "Berlin",
+    "description": "<h2>\u00dcber Vimerox Real Estate Management GmbH</h2><p>Wir verwalten, vermieten und entwickeln \u00fcber 18.500 Wohn- und Gewerbeeinheiten in ganz Deutschland. Dabei ist es unser oberstes Ziel, die Objekte langfristig im Bestand zu halten und die Wohnqualit\u00e4t zur Zufriedenheit unserer Mieter zu optimieren. Unser Kompetenzteam von rd. 110 Mitarbeitern deckt dazu s\u00e4mtliche Bereiche des zentralen, kaufm\u00e4nnischen und technischen Property Managements ab.</p><h2>Deine Aufgaben</h2><ul><li><p>Du nimmst mit den Key-Usern Prozesse und Berichtsbedarfe auf und beschreibst den Ist- und Sollablauf,</p></li><li><p>Kleine Vorhaben f\u00fchrst du selbst, mit Plan und Statusbericht. Gr\u00f6\u00dfere setzt du gemeinsam mit uns um,</p></li><li><p>Mit Hilfe von Flows baust du Prozessautomatisierungen,</p></li><li><p>Du baust Dashboards in Power BI und schreibst kleine SQL-Abfragen und Views daf\u00fcr,</p></li><li><p>Du pr\u00fcfst die Stammdaten von Vimerox auf L\u00fccken und Fehler und bereitest Bereinigungslisten f\u00fcr den Fachbereich vor,</p></li><li><p>Du schulst Key User, sammelst ihre R\u00fcckmeldungen und pr\u00fcfst die Fehlerprotokolle laufender Flows.</p></li></ul><h2>Das bringst Du mit</h2><ul><li><p>Du studierst Wirtschaftsinformatik, Informatik, Data Science, Immobilienwirtschaft oder etwas Vergleichbares und bist eingeschrieben,</p></li><li><p>Du kennst die Grundlagen von SQL,</p></li><li><p>Dich interessiert, wie man Prozesse automatisiert und Daten auswertet,</p></li><li><p>Du kannst im Gespr\u00e4ch mit Fachanwendern herausfinden, wie ein Ablauf funktioniert, und ihn verst\u00e4ndlich aufschreiben,</p></li><li><p>Von Vorteil sind erste Erfahrungen mit Power BI, Low-Code-Werkzeugen oder JavaScript bzw. Python sowie Grundwissen zu APIs und JSON.</p></li></ul><h2>Was wir dir bieten</h2><ul><li><p>Deine Arbeitszeiten richten sich nach deinem Stundenplan. In der Pr\u00fcfungsphase kannst du deine Stunden reduzieren,</p></li><li><p>Mobiles Arbeiten ist nach Absprache m\u00f6glich. Laptop und Zug\u00e4nge sind am ersten Tag eingerichtet,</p></li",
+    "url": "https://www.arbeitnow.com/jobs/companies/vimerox-real-estate-management-gmbh/werkstudent-automatisierung-und-daten-berlin-450481",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-19T13:30:52+00:00",
+    "tags": [
+      "Business Intelligence"
+    ],
+    "match_score": 6,
+    "matched_skills": [
+      "Python",
+      "JavaScript",
+      "SQL"
+    ]
+  },
+  {
     "title": "Product Engineering Lead",
     "company": "Tether Operations Limited",
     "location": "Remote",
@@ -32,24 +50,6 @@
     "matched_skills": [
       "JavaScript",
       "React"
-    ]
-  },
-  {
-    "title": "Data Architect (m/w/d)",
-    "company": "True Talent Solutions Partners",
-    "location": "Sankt Georgen im Schwarzwald",
-    "description": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Shape data-driven solutions from strategic consulting through technical implementation, spanning analytics, machine learning, and generative AI. You will join an interdisciplinary team of data engineers, AI specialists, and software developers, helping evolve scalable data platforms and architectures for a growing SaaS business.</p><h3>What You'll Do</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Analyze customer requirements and identify opportunities for data-driven solutions across analytics, machine learning, and generative AI.</p></li><li><p style=\"min-height:1.5em\">Develop tailored data and AI strategies for a range of use cases.</p></li><li><p style=\"min-height:1.5em\">Design scalable architectures for data platforms, machine learning pipelines, and AI systems.</p></li><li><p style=\"min-height:1.5em\">Evaluate and recommend technologies, and guide implementation teams with clear roadmaps.</p></li><li><p style=\"min-height:1.5em\">Contribute to pre-sales activities, market analysis, and the development of data-focused business areas.</p></li><li><p style=\"min-height:1.5em\">Help create solution concepts, estimates, and presentations.</p></li></ul><h3>What We're Looking For</h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">At least 3 years of experience designing and implementing modern data platforms, machine learning solutions, and AI systems.</p></li><li><p style=\"min-height:1.5em\">A degree in computer science, business informatics, informatics, or a comparable qualification.</p></li><li><p style=\"min-height:1.5em\">Hands-on experience with Azure, Databricks, or AWS, plus Python, SQL, Docker, CI/CD pipelines, and infrastructure as code.</p></li><li><p style=\"min-height:1.5em\">Strong understanding of modern data architectures, MLOps, and data governance.</p></li><li><p style=\"min-height:1.5em\">Experience developing data-driven solutions and strategies across analytics, machine learn",
-    "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/data-architect-sankt-georgen-im-schwarzwald-246484",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-18T09:40:13+00:00",
-    "tags": [
-      "Client Roles"
-    ],
-    "match_score": 5,
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "Azure"
     ]
   },
   {
@@ -88,6 +88,109 @@
     ]
   },
   {
+    "title": "Softwareentwickler Testsysteme und Automatisierung (m/w/d)",
+    "company": "Inpernell GmbH",
+    "location": "Villingen-Schwenningen",
+    "description": "<p>\"Wir sind die Top-Adresse f\u00fcr Personalvermittlung, wenn es um die Verbindung von High-Potentials in Fach- und F\u00fchrungspositionen mit erstklassigen Unternehmen geht. Unser Hauptanliegen ist, Erfolge zu schaffen, die unsere Kunden und Kandidaten gleicherma\u00dfen fesseln und begeistern.\"<br /></p><p>Aktuell suchen wir im Auftrag eines unserer exklusiven Kunden nach einem <strong>Softwareentwickler Testsysteme &amp; Automatisierung\u00a0(m/w/d)</strong>\u00a0im Raum Villingen-Schwenningen.</p><p style=\";\"></p><ul><li><p>Entwicklung von Software f\u00fcr automatisierte Testanlagen, von der Konzeption bis zur Inbetriebnahme</p></li><li><p>Programmierung von Testabl\u00e4ufen f\u00fcr elektronische Komponenten, Baugruppen und fertige Ger\u00e4te</p></li><li><p>Aufbau einer modularen Softwarearchitektur mit wiederverwendbaren Bausteinen</p></li><li><p>Festlegung von Schnittstellen, Abl\u00e4ufen und Steuerungslogik</p></li><li><p>Auswahl und Einbindung von Messtechnik, Steuerungen und Automatisierungskomponenten, zum Beispiel Robotern</p></li></ul><ul><li><p>Abgeschlossenes Studium oder Ausbildung, zum Beispiel in Informatik, Elektrotechnik, Mechatronik oder Automatisierungstechnik</p></li><li><p>Erfahrung in der Softwareentwicklung mit Programmiersprachen wie C, C++ oder Python sowie mit Datenbanken (SQL) w\u00fcnschenswert</p></li><li><p>Kenntnisse in HTML</p></li><li><p>Erfahrung mit Industrierobotern ist ein Plus</p></li><li><p>Analytische und strukturierte Arbeitsweise</p></li><li><p>Eigeninitiative und Freude am selbstst\u00e4ndigen Arbeiten</p></li><li><p>Gute Deutsch- und Englischkenntnisse</p></li></ul><p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
+    "url": "https://www.arbeitnow.com/jobs/companies/inpernell-gmbh/softwareentwickler-testsysteme-und-automatisierung-villingen-schwenningen-295939",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-19T12:20:12+00:00",
+    "tags": [
+      "Engineering",
+      "associate's degree"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Software Engineer (starter)",
+    "company": "Squid Support",
+    "location": "Nieuwegein",
+    "description": "<p><strong>Net afgestudeerd en al echte software gebouwd? Start bij een AI-startup vlak voor de lancering</strong></p><p>Heb je tijdens je studie niet alleen opdrachten gemaakt, maar ook echt software gebouwd die mensen gebruiken? Als bijbaan, eigen project of startup? Dan zoeken we jou.</p><p>Squid Support is een AI-startup uit Nieuwegein. Onze AI-agent beantwoordt klantvragen voor webshops en handelt nu al duizenden berichten per dag af voor onze eerste klant, een snelgroeiende e-commerce-organisatie met meerdere webshops. We staan vlak voor de publieke lancering.</p><h2>Waarom dit een goede eerste baan is</h2><ul><li><p>Je leert meer in een jaar bij ons dan in drie jaar bij een groot bedrijf</p></li><li><p>Je werkt elke dag direct met de oprichters</p></li><li><p>Wat je bouwt staat de volgende dag live, bij echte klanten</p></li><li><p>Je groeit mee met het bedrijf, en je rol groeit mee</p></li></ul><h2>Wat we zoeken</h2><ul><li><p>Een afgeronde of bijna afgeronde wo- of hbo-opleiding, bij voorkeur informatica, AI of iets vergelijkbaars</p></li><li><p>Minimaal 1,5 jaar programmeerervaring met TypeScript en/of Python, bijbaan en eigen projecten tellen mee</p></li><li><p>Je bouwt dagelijks met Claude Code, Codex, Cursor of vergelijkbaar</p></li><li><p>Je hebt iets gebouwd dat echt gebruikt wordt, en daar wil je graag over vertellen</p></li><li><p>Je spreekt vloeiend Nederlands</p></li></ul><h2>Hoe we werken</h2><p>We werken AI-native: Claude Code, Codex en agentic workflows zijn bij ons de standaard. Er zit geen product owner of projectmanager tussen jou en de klant. Je werkt elke dag direct met de oprichters.</p><p>Stack: TypeScript, React/Next.js, Python/FastAPI, PostgreSQL, Google Cloud, Docker. AI via onder andere OpenAI Agents SDK, LiteLLM en Vertex AI.</p><h2>Wat je krijgt</h2><ul><li><p>Een plek in een klein, ambitieus team, net voor de lancering</p></li><li><p>Elke dag samenwerken met de oprichters, en veel leren</p></li><li><p>Echte ownership: wat jij bouw",
+    "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/software-engineer-starter-nieuwegein-290537",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-19T11:47:35+00:00",
+    "tags": [
+      "Software Development"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "title": "AI Engineer / LLM Engineer",
+    "company": "Squid Support",
+    "location": "Nieuwegein",
+    "description": "<p><strong>AI Engineer: bouw een AI-agent die echte acties uitvoert, niet alleen tekst</strong></p><p>Onze AI-agent praat niet alleen. Hij zoekt bestellingen op in Shopify, maakt retourlabels, doet refunds, maakt kortingscodes aan en beslist wanneer een mens het moet overnemen. Elke dag doet hij dat duizenden keren, voor onze eerste klant: een snelgroeiende e-commerce-organisatie met meerdere webshops.</p><p>Squid Support staat vlak voor de publieke lancering. Daarvoor zoeken we een AI Engineer die de agent nog slimmer, veiliger en betrouwbaarder maakt.</p><h2>Waar je aan werkt</h2><ul><li><p>Tools en tool calling: welke acties de agent mag doen en hoe hij die kiest</p></li><li><p>Evaluaties en guardrails: meten wanneer de agent het goed of fout doet, en dat verbeteren</p></li><li><p>Prompts en configuratie per merk, A/B-testen van varianten</p></li><li><p>Beeldherkenning: klanten sturen foto's van kapotte producten en verkeerde items</p></li><li><p>Agent-frameworks: OpenAI Agents SDK, LiteLLM, Vertex AI</p></li></ul><h2>Hoe we werken</h2><p>We werken AI-native: Claude Code, Codex en agentic workflows zijn bij ons de standaard. Er zit geen product owner of projectmanager tussen jou en de klant. Je werkt elke dag direct met de oprichters.</p><p>Stack: TypeScript, React/Next.js, Python/FastAPI, PostgreSQL, Google Cloud, Docker. AI via onder andere OpenAI Agents SDK, LiteLLM en Vertex AI.</p><h2>Wat we zoeken</h2><ul><li><p>Je bouwt al minstens een jaar dagelijks met Claude Code, Codex, Cursor of vergelijkbaar, en weet wanneer je de output niet moet vertrouwen</p></li><li><p>Je hebt software gebouwd en zelf uitgerold die door echte gebruikers wordt gebruikt</p></li><li><p>Je kunt zelfstandig met een klant om tafel en maakt van een vaag probleem iets wat werkt</p></li><li><p>Minimaal 1,5 jaar professionele ervaring met TypeScript en/of Python</p></li><li><p>Je spreekt vloeiend Nederlands</p></li><li><p>Pr\u00e9: wo-opleiding (ook onafgerond), ervaring met SaaS of een eigen s",
+    "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/ai-engineer-llm-engineer-nieuwegein-470918",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-19T11:47:35+00:00",
+    "tags": [
+      "Data Scientist"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "title": "Full-stack Developer (TypeScript / Python)",
+    "company": "Squid Support",
+    "location": "Nieuwegein",
+    "description": "<p><strong>Full-stack Developer (TypeScript / Python) bij een AI-startup</strong></p><p>Ben je een full-stack developer die klaar is met tickets wegwerken voor een product waar je nooit een klant van spreekt? Bij ons bouw je aan een product dat elke dag duizenden klantgesprekken afhandelt, en spreek je de gebruikers zelf.</p><p>Squid Support is een AI-helpdesk voor webshops, gebouwd op TypeScript, React/Next.js, Python/FastAPI en PostgreSQL op Google Cloud. Onze eerste klant, een snelgroeiende e-commerce-organisatie met meerdere webshops, draait er volledig op. Gemiddeld lost onze AI-agent 81% van de tickets zelf op.</p><p>We staan vlak voor de publieke lancering en zoeken een full-stack developer die het platform klaar maakt voor iedere Shopify-merchant: van inbox en dashboards tot API's, integraties en de AI-agent zelf.</p><h2>Wat je gaat doen</h2><ul><li><p>Features bouwen in frontend en backend, van ontwerp tot deployment</p></li><li><p>API's en integraties bouwen (Shopify, e-mail, chat)</p></li><li><p>Werken aan databases, performance en stabiliteit nu het volume groeit</p></li><li><p>Met AI-tooling als Claude Code en Codex sneller bouwen dan je gewend bent</p></li></ul><h2>Hoe we werken</h2><p>We werken AI-native: Claude Code, Codex en agentic workflows zijn bij ons de standaard. Er zit geen product owner of projectmanager tussen jou en de klant. Je werkt elke dag direct met de oprichters.</p><p>Stack: TypeScript, React/Next.js, Python/FastAPI, PostgreSQL, Google Cloud, Docker. AI via onder andere OpenAI Agents SDK, LiteLLM en Vertex AI.</p><h2>Wat we zoeken</h2><ul><li><p>Je bouwt al minstens een jaar dagelijks met Claude Code, Codex, Cursor of vergelijkbaar, en weet wanneer je de output niet moet vertrouwen</p></li><li><p>Je hebt software gebouwd en zelf uitgerold die door echte gebruikers wordt gebruikt</p></li><li><p>Je kunt zelfstandig met een klant om tafel en maakt van een vaag probleem iets wat werkt</p></li><li><p>Minimaal 1,5 jaar professionele ervar",
+    "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/full-stack-developer-typescript-python-nieuwegein-364125",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-19T11:47:34+00:00",
+    "tags": [
+      "Software Development"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "title": "Founding Engineer (AI-startup)",
+    "company": "Squid Support",
+    "location": "Nieuwegein",
+    "description": "<p><strong>Founding Engineer bij een AI-startup die al draait, vlak voor de lancering</strong></p><p>De meeste startups zoeken een founding engineer voordat er een product is. Wij hebben er al een, met een klant die er dagelijks op draait.</p><p>Squid Support is een AI-helpdesk voor webshops. Onze AI-agent handelt nu al duizenden klantberichten per dag af voor onze eerste klant, een snelgroeiende e-commerce-organisatie met meerdere webshops. Gemiddeld lost hij 81% van de tickets zelf op: bestelling opzoeken, retour regelen, refund doen.</p><p>De volgende stap is de publieke lancering voor iedere Shopify-merchant. Jij wordt een van de eerste engineers en bouwt mee aan het fundament waarop we gaan schalen.</p><h2>Wat dit betekent</h2><ul><li><p>Je beslist mee over wat we bouwen, niet alleen hoe</p></li><li><p>Je praat zelf met klanten en zet zelf live</p></li><li><p>Je werkt elke dag met de oprichters, zonder lagen ertussen</p></li><li><p>Als het bedrijf groeit, groei jij mee: in verantwoordelijkheid, in team en in rol</p></li></ul><h2>Hoe we werken</h2><p>We werken AI-native: Claude Code, Codex en agentic workflows zijn bij ons de standaard. Er zit geen product owner of projectmanager tussen jou en de klant. Je werkt elke dag direct met de oprichters.</p><p>Stack: TypeScript, React/Next.js, Python/FastAPI, PostgreSQL, Google Cloud, Docker. AI via onder andere OpenAI Agents SDK, LiteLLM en Vertex AI.</p><h2>Wat we zoeken</h2><ul><li><p>Je bouwt al minstens een jaar dagelijks met Claude Code, Codex, Cursor of vergelijkbaar, en weet wanneer je de output niet moet vertrouwen</p></li><li><p>Je hebt software gebouwd en zelf uitgerold die door echte gebruikers wordt gebruikt</p></li><li><p>Je kunt zelfstandig met een klant om tafel en maakt van een vaag probleem iets wat werkt</p></li><li><p>Minimaal 1,5 jaar professionele ervaring met TypeScript en/of Python</p></li><li><p>Je spreekt vloeiend Nederlands</p></li><li><p>Pr\u00e9: wo-opleiding (ook onafgerond), ervaring met SaaS o",
+    "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/founding-engineer-ai-startup-nieuwegein-167262",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-19T11:47:34+00:00",
+    "tags": [
+      "Software Development"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "React"
+    ]
+  },
+  {
+    "title": "AI Software Engineer",
+    "company": "Squid Support",
+    "location": "Nieuwegein",
+    "description": "<p><strong>Bouw de AI die nu al duizenden klantgesprekken per dag afhandelt</strong></p><p>Squid Support is een AI-startup uit Nieuwegein. Onze AI-agent beantwoordt klantvragen voor webshops: hij koppelt met Shopify, zoekt de echte bestelling op, regelt retouren, refunds en kortingen, en geeft het pas aan een mens als het echt moet.</p><p>Dit is geen prototype. Onze eerste klant, een snelgroeiende e-commerce-organisatie met meerdere webshops, draait er volledig op. Elke dag handelt Squid duizenden berichten af, en gemiddeld lost de AI 81% van de tickets zelf op.</p><p>Nu zitten we in de laatste voorbereidingen voor de publieke lancering. Daarna gaat het product naar iedere Shopify-merchant. Voor die lancering hebben we jou nodig.</p><h2>Wat je gaat doen</h2><ul><li><p>Features bouwen van gesprek met de gebruiker tot deployment</p></li><li><p>De AI-agent slimmer en betrouwbaarder maken: tools, prompts, evaluaties, guardrails</p></li><li><p>Rechtstreeks met merchants en supportteams praten en zelf beslissen wat je bouwt</p></li><li><p>Het platform klaarmaken voor de lancering: schaalbaarheid, stabiliteit, onboarding</p></li></ul><h2>Hoe we werken</h2><p>We werken AI-native: Claude Code, Codex en agentic workflows zijn bij ons de standaard. Er zit geen product owner of projectmanager tussen jou en de klant. Je werkt elke dag direct met de oprichters.</p><p>Stack: TypeScript, React/Next.js, Python/FastAPI, PostgreSQL, Google Cloud, Docker. AI via onder andere OpenAI Agents SDK, LiteLLM en Vertex AI.</p><h2>Wat we zoeken</h2><ul><li><p>Je bouwt al minstens een jaar dagelijks met Claude Code, Codex, Cursor of vergelijkbaar, en weet wanneer je de output niet moet vertrouwen</p></li><li><p>Je hebt software gebouwd en zelf uitgerold die door echte gebruikers wordt gebruikt</p></li><li><p>Je kunt zelfstandig met een klant om tafel en maakt van een vaag probleem iets wat werkt</p></li><li><p>Minimaal 1,5 jaar professionele ervaring met TypeScript en/of Python</p></li><li><p>Je",
+    "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/ai-software-engineer-nieuwegein-99758",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-19T11:47:34+00:00",
+    "tags": [
+      "Software Development"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "React"
+    ]
+  },
+  {
     "title": "Software Engineer AI Tooling",
     "company": "Supabase",
     "location": "Remote",
@@ -111,185 +214,6 @@
       "engineer",
       "backend",
       "digital nomad"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Research Engineer Privacy and Anonymization",
-    "company": "Pragmatike",
-    "location": "Remote",
-    "description": "<p style=\"min-height:1.5em\"><strong>Location:</strong> San Francisco or Singapore (on-site), or remote (Singapore or US Pacific time zones)<br /><strong>Start Date:</strong> ASAP<br /><strong>Languages:</strong> English<br /><strong>Team:</strong> Engineering</p><p style=\"min-height:1.5em\"></p><h2>About the Role</h2><p style=\"min-height:1.5em\">Our client is a fast-growing AI company building reliable, fair and open infrastructure for AI training data. Their marketplace helps the people who create data get value for it, and gives AI labs trustworthy data to train on. It is already used by startups, Fortune 500 companies and frontier labs, and the company is backed by leading venture investors, including Y Combinator. They are scaling quickly to meet strong demand.</p><p style=\"min-height:1.5em\">We are looking for a <strong>Research Engineer, Privacy and Anonymization</strong> to build the systems that make sensitive, real-world data safe and still useful for AI training. You will develop methods to detect and remove personally identifiable information, secrets and other sensitive content from raw data before it enters processing and synthetic data pipelines \u00e2\u0080\u0094 protecting privacy without destroying the structure and signal that make the data valuable for training agents.</p><p style=\"min-height:1.5em\">This is a privacy and data-protection engineering seat, not a synthetic-task design role. You will own the pipeline that stands in front of downstream processing, training, evaluation and synthetic generation.</p><p style=\"min-height:1.5em\">This is a full-time role, starting ASAP. Offices are in San Francisco and Singapore; remote candidates are welcome if their working hours can overlap about 70\u00e2\u0080\u009380% with either San Francisco (US Pacific) or Singapore business hours. The exact daily schedule will be agreed during hiring.</p><p style=\"min-height:1.5em\"></p><h2>What You'll Do</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build systems to detect PII, q",
-    "url": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
-    "source": "RemoteOK",
-    "posted_at": "2026-11-12T16:00:38+00:00",
-    "tags": [
-      "design",
-      "embedded",
-      "infosec",
-      "python",
-      "education",
-      "technical",
-      "finance",
-      "content writing",
-      "ops",
-      "medical",
-      "recruiter",
-      "engineer",
-      "full time",
-      "digital nomad"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Feltsense AI Engineer",
-    "company": "Silver.dev",
-    "location": "Remote",
-    "description": "<h2>About the company</h2><p style=\"min-height:1.5em\">We raised $5.1M to build agents that operate as fully autonomous founders. Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2.</p><p style=\"min-height:1.5em\">We're working at the frontier of autonomous systems, building agents that don't just chat, but run entire businesses.</p><p style=\"min-height:1.5em\">Our system identifies business opportunities through market signals, validates ideas with live ad tests, builds and launches software products, and brings in human experts wherever agents fall short. That loop already runs end to end: from idea to launched product to first revenue.</p><p style=\"min-height:1.5em\">Over the next 12 months, our focus is on reliability, throughput, and self-improvement, making every launch better than the last.</p><p style=\"min-height:1.5em\"></p><h2>About the role</h2><p style=\"min-height:1.5em\">We're looking for a hands-on AI Engineer to take ownership of the architecture and development of our autonomous agent system.</p><p style=\"min-height:1.5em\">You'll lead the technical direction of the platform, building multi-agent orchestration systems, self-improving agent harnesses, and AI-powered backend services. This is a highly technical leadership role that combines architectural decision-making with hands-on engineering.</p><p style=\"min-height:1.5em\">You'll be expected to ship production code, make key technical decisions, improve agent behavior in production, and help establish the engineering standards as the company scales.</p><p style=\"min-height:1.5em\"></p><h2>Responsibilities</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Own the system architecture and make key technical decisions across the platform.</p></li><li><p style=\"min-height:1.5em\">Design and build multi-agent systems and orchestration infrastructure that take products from idea to launch.</p></li><li><p ",
-    "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
-    "source": "RemoteOK",
-    "posted_at": "2026-11-05T16:00:07+00:00",
-    "tags": [
-      "design",
-      "sys admin",
-      "exec",
-      "technical",
-      "customer support",
-      "dev",
-      "testing",
-      "javascript",
-      "cloud",
-      "postgres",
-      "typescript",
-      "node",
-      "node.js",
-      "engineer",
-      "backend",
-      "digital nomad"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Technical Account Manager",
-    "company": "Yuno",
-    "location": "Brazil",
-    "description": "<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><strong><span style=\"font-size: 9pt; font-family: Arial, sans-serif; color: #999999;\">Remote, Brazil, Full Time, Individual Contributor, +3 years of experience</span></strong></p>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><strong><span style=\"font-size: 17pt; font-family: Arial, sans-serif; color: #1a1a1a;\">Who We Are</span></strong></p>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #1a1a1a;\">At Yuno, we are building the payment infrastructure that allows all companies to participate in the global market. Founded by seasoned experts from the payments and tech industries, our technology provides access to leading payment capabilities, enabling companies to engage customers confidently and maintain global operations through seamless integrations.</span></p>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #1a1a1a;\">We empower high-performing teams at brands like InDrive, McDonald's, Rappi, and Viva Aerobus to integrate over 1,000 payment methods via a single API. By leveraging advanced AI and the latest technologies, we orchestrate smart routing and fraud prevention across 80+ countries.</span></p>\n<p style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 3.75pt;\">&nbsp;</p>\n<hr>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><strong><span style=\"font-size: 17pt; font-family: Arial, sans-serif; color: #1a1a1a;\">About The Role</span></strong></p>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #1a1a1a;\">We are orchestrating the best high-performing team!</span></p>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif",
-    "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
-    "source": "RemoteOK",
-    "posted_at": "2026-10-17T08:00:32+00:00",
-    "tags": [
-      "exec",
-      "design",
-      "hr",
-      "python",
-      "technical",
-      "customer support",
-      "marketing",
-      "web dev",
-      "speech",
-      "javascript",
-      "finance",
-      "css",
-      "html",
-      "sql",
-      "postgres",
-      "node",
-      "node.js",
-      "mongo",
-      "api",
-      "senior",
-      "ops",
-      "sales",
-      "sys admin",
-      "golang",
-      "medical",
-      "engineer",
-      "apache",
-      "nginx",
-      "digital nomad"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python",
-      "JavaScript",
-      "SQL"
-    ]
-  },
-  {
-    "title": "APAC Python",
-    "company": "Kodland",
-    "location": "Remote",
-    "description": "<p><strong>About\u00c2\u00a0the\u00c2\u00a0Company:</strong></p><p><strong>Kodland\u00c2\u00a0</strong>is\u00c2\u00a0an\u00c2\u00a0international\u00c2\u00a0online\u00c2\u00a0coding\u00c2\u00a0and\u00c2\u00a0digital\u00c2\u00a0skills\u00c2\u00a0school\u00c2\u00a0that\u00c2\u00a0helps\u00c2\u00a0children\u00c2\u00a0aged\u00c2\u00a05\u00c2\u00a0to\u00c2\u00a017\u00c2\u00a0take\u00c2\u00a0their\u00c2\u00a0first\u00c2\u00a0steps\u00c2\u00a0into\u00c2\u00a0the\u00c2\u00a0world\u00c2\u00a0of\u00c2\u00a0programming\u00c2\u00a0and\u00c2\u00a0technology.</p><p style=\"min-height: 1.7em;\"></p><p><strong>About\u00c2\u00a0the\u00c2\u00a0Role:</strong></p><p>Are\u00c2\u00a0you\u00c2\u00a0a\u00c2\u00a0passionate\u00c2\u00a0programmer\u00c2\u00a0who\u00c2\u00a0loves\u00c2\u00a0coding\u00c2\u00a0and\u00c2\u00a0computer\u00c2\u00a0games?\u00c2\u00a0Would\u00c2\u00a0you\u00c2\u00a0like\u00c2\u00a0to\u00c2\u00a0help\u00c2\u00a0children\u00c2\u00a0create\u00c2\u00a0their\u00c2\u00a0first\u00c2\u00a0projects\u00c2\u00a0and\u00c2\u00a0take\u00c2\u00a0their\u00c2\u00a0first\u00c2\u00a0steps\u00c2\u00a0into\u00c2\u00a0the\u00c2\u00a0programming\u00c2\u00a0world\u00c2\u00a0by\u00c2\u00a0teaching\u00c2\u00a0them\u00c2\u00a0Python?\u00c2\u00a0If\u00c2\u00a0so,\u00c2\u00a0this\u00c2\u00a0opportunity\u00c2\u00a0is\u00c2\u00a0perfect\u00c2\u00a0for\u00c2\u00a0you!</p><p style=\"min-height: 1.7em;\"></p><p><strong>Responsibilities:</strong></p><ul><li><p>Deliver\u00c2\u00a0fun\u00c2\u00a0and\u00c2\u00a0interactive\u00c2\u00a0Python\u00c2\u00a0Programming\u00c2\u00a0lessons\u00c2\u00a0using\u00c2\u00a0provided\u00c2\u00a0materials.</p></li><li><p>Develop\u00c2\u00a0your\u00c2\u00a0own\u00c2\u00a0skills\u00c2\u00a0under\u00c2\u00a0the\u00c2\u00a0guidance\u00c2\u00a0of\u00c2\u00a0experienced\u00c2\u00a0Kodland\u00c2\u00a0teachers.</p></li><li><p>Share\u00c2\u00a0feedback\u00c2\u00a0about\u00c2\u00a0lessons\u00c2\u00a0with\u00c2\u00a0the\u00c2\u00a0Kodland\u00c2\u00a0team.</p></li><li><p>Regularly\u00c2\u00a0report\u00c2\u00a0on\u00c2\u00a0student\u00c2\u00a0progress\u00c2\u00a0and\u00c2\u00a0help\u00c2\u00a0improve\u00c2\u00a0the\u00c2\u00a0learning\u00c2\u00a0experience.</p></li><li><p>Be\u00c2\u00a0a\u00c2\u00a0positive\u00c2\u00a0representative\u00c2\u00a0of\u00c2\u00a0Kodland\u00c2\u00a0and\u00c2\u00a0contribute\u00c2\u00a0creative\u00c2\u00a0ideas\u00c2\u00a0to\u00c2\u00a0support\u00c2\u00a0students.</p></li><li><p>Attend\u00c2\u00a0all\u00c2\u00a0training\u00c2\u00a0and\u00c2\u00a0support\u00c2\u00a0sessions\u00c2\u00a0provided\u00c2\u00a0throughout\u00c2\u00a0the\u00c2\u00a0hiring\u00c2\u00a0process.</p></li></ul><p style=\"min-height: 1.7em;\"></p><p style=\"min-height: 1.7em;\"></p><p><strong>Join\u00c2\u00a0our\u00c2\u00a0team\u00c2\u00a0today\u00c2\u00a0and\u00c2\u00a0experience\u00c2\u00a0the\u00c2\u00a0joy\u00c2\u00a0of\u00c2\u00a0teaching\u00c2\u00a0with\u00c2\u00a0Kodland!\u00c2\u00a0\u00f0\u009f\u0092\u0099</strong></p><p style=\"min-height: 1.7em;\"></p><p><strong>Please\u00c2\u00a0note:\u00c2\u00a0This\u00c2\u00a0is\u00c2\u00a0a\u00c2\u00a0part-time\u00c2\u00a0freelance\u00c2\u00a0position.\u00c2\u00a0There\u00c2\u00a0is\u00c2\u00a0no\u00c2\u00a0fixed\u00c2\u00a0or\u00c2\u00a0guaranteed\u00c2\u00a0income.</strong></p><p style=\"min-height: 1.7em;\"></p><br></br><p><strong>Requirements:</strong></p><ul><li><p>Intermediate\u00c2\u00a0level\u00c2\u00a0Python\u00c2\u00a0experience.</p></li><li><p>Availability\u00c2\u00a0of\u00c2\u00a0at\u00c2\u00a0least\u00c2\u00a010\u00c2\u00a0hours\u00c2\u00a0per\u00c2\u00a0week.</p></li><li><p>You\u00c2\u00a0love\u00c2\u00a0teaching\u00c2\u00a0and\u00c2\u00a0connecting\u00c2\u00a0with\u00c2\u00a0children\u00c2\u00a0and\u00c2\u00a0young\u00c2\u00a0people.</p></li><li><p>You\u00c2\u00a0speak\u00c2\u00a0English\u00c2\u00a0fluent",
-    "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
-    "source": "RemoteOK",
-    "posted_at": "2026-10-16T16:00:26+00:00",
-    "tags": [
-      "python",
-      "teaching",
-      "education",
-      "customer support",
-      "dev",
-      "testing",
-      "part time",
-      "non tech",
-      "digital nomad"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "DESARROLLADOR FULL STACK",
-    "company": "Kruger NearShore LLC - Rekluti",
-    "location": "Remote",
-    "description": "<h3>Desarrollador/a Full Stack \u00e2\u0080\u0093 Python / Angular / Go</h3><p class=\"isSelectedEnd\">En <strong>Rekluti</strong>, consultora especializada en talento tecnol\u00c3\u00b3gico en LATAM, buscamos un/a <strong>Desarrollador/a Full Stack</strong> para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables.</p><p class=\"isSelectedEnd\">Buscamos un perfil con s\u00c3\u00b3lida experiencia en <strong>Python, Angular y Go</strong>, capaz de desenvolverse de manera aut\u00c3\u00b3noma, aportar en decisiones t\u00c3\u00a9cnicas y colaborar con equipos multidisciplinarios.</p><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u008e\u00af Principales responsabilidades</h3><ul><li><p>Dise\u00c3\u00b1ar, desarrollar y mantener aplicaciones Full Stack, participando en frontend y backend.</p></li><li><p>Desarrollar servicios y <strong>APIs REST</strong> utilizando principalmente Python y Go.</p></li><li><p>Construir y mantener interfaces web modernas con <strong>Angular</strong>.</p></li><li><p>Participar en el dise\u00c3\u00b1o de arquitecturas y definici\u00c3\u00b3n de soluciones t\u00c3\u00a9cnicas.</p></li><li><p>Integrar servicios, APIs y diferentes componentes de la plataforma.</p></li><li><p>Desarrollar c\u00c3\u00b3digo limpio, mantenible, escalable y de alta calidad.</p></li><li><p>Participar en revisiones de c\u00c3\u00b3digo, testing y resoluci\u00c3\u00b3n de incidencias.</p></li><li><p>Colaborar con equipos de Producto, QA, DevOps y otros perfiles t\u00c3\u00a9cnicos.</p></li><li><p>Contribuir a la mejora continua de procesos y buenas pr\u00c3\u00a1cticas de desarrollo.</p></li><li><p>Trabajar con servicios cloud y ambientes desplegados sobre <strong>Google Cloud Platform (GCP)</strong>.</p></li><li><p>Participar eventualmente en iniciativas de desarrollo mobile utilizando <strong>Flutter</strong>.</p></li></ul><p style=\"min-height: 1.7em;\"></p><h3>\u00f0\u009f\u0092\u00bb Requisitos</h3><ul><li><p><strong>5+ a\u00c3\u00b1os de experiencia</strong> en desarrollo de software.</p></li><li><p>Experiencia s\u00c3\u00b3lida como <strong>Full Stack Developer</strong>.</p></li><li><p>Dominio avanzado de <strong>Pytho",
-    "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-    "source": "RemoteOK",
-    "posted_at": "2026-08-22T00:00:12+00:00",
-    "tags": [
-      "full stack",
-      "front end",
-      "python",
-      "dev",
-      "testing",
-      "web dev",
-      "quality assurance",
-      "devops",
-      "c",
-      "cloud",
-      "nosql",
-      "git",
-      "flutter",
-      "angular",
-      "mobile",
-      "golang",
-      "backend",
-      "digital nomad"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Staff Performance Engineer, JavaScript Engine (SpiderMonkey)",
-    "company": "mozilla",
-    "location": "Remote",
-    "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we\u2019re shaping the next 25 years of technology and helping to reclaim an internet built for people, not companies. Our work focuses on diverse areas including AI, social media, security and more. And we\u2019re doing this while never losing our focus on our core mission \u2013 to make the internet better for people.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Mozilla Corporation is wholly owned by the non-profit 501(c) Mozilla Foundation. This means we aren\u2019t beholden to any shareholders \u2014 only to our mission. Along with thousands of volunteer contributors and collaborators all over the world, Mozillians design, build and distribute &lt;/span&gt;&lt;strong&gt;open-source&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; software that enables people to enjoy the internet on their terms.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About this team and role:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The JavaScript team at Mozilla works to make Firefox&#39;s industry-leading JavaScript engine SpiderMonkey even more performant. We push the boundaries of what the web is capable of, shaping the future of the JavaScript language through standardization at TC39, while keeping in mind the fundamental principle of \u201cdon\u2019t break the web.\u201d&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As a Staff Software Engineer on the SpiderMonkey team, you&#39;ll be a",
-    "url": "https://www.arbeitnow.fr/jobs/companies/mozilla/staff-performance-engineer-javascript-engine-spidermonkey-365140",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-18T00:55:27+00:00",
-    "tags": [
-      "Firefox"
     ],
     "match_score": 3,
     "matched_skills": [
