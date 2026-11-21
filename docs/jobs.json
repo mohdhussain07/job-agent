@@ -1,144 +1,28 @@
 [
   {
-    "title": "Product Engineering Lead",
-    "company": "Tether Operations Limited",
+    "title": "Engineer Software Defined Vehicle Simulation and Development",
+    "company": "NIKI Digital Engineering",
     "location": "Remote",
-    "description": "<p><strong><em><span style=\"color: #121317\">Join Tether and Shape the Future of Digital Finance</span></em></strong></p><p><span style=\"color: #121317\">At Tether, we\u00e2\u0080\u0099re not just building products, we\u00e2\u0080\u0099re pioneering a global financial revolution. Our cutting-edge solutions empower businesses\u00e2\u0080\u0094from exchanges and wallets to payment processors and ATMs\u00e2\u0080\u0094to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction.</span></p><p style=\"min-height: 1.7em;\"></p><p><strong><em><span style=\"color: #121317\">Innovate with Tether</span></em></strong></p><p><strong><span style=\"color: #121317\">Tether Finance: </span></strong><span style=\"color: #121317\">Our innovative product suite features the world\u00e2\u0080\u0099s most trusted stablecoin, </span><strong><span style=\"color: #121317\">USDT</span></strong><span style=\"color: #121317\">, relied upon by hundreds of millions worldwide, alongside pioneering digital asset tokenization services.</span></p><p><span style=\"color: #121317\">But that\u00e2\u0080\u0099s just the beginning:</span></p><p><strong><span style=\"color: #121317\">Tether Power: </span></strong><span style=\"color: #121317\">Driving sustainable growth, our energy solutions optimize excess power for Bitcoin mining using eco-friendly practices in state-of-the-art, geo-diverse facilities.</span></p><p><strong><span style=\"color: #121317\">Tether Data: </span></strong><span style=\"color: #121317\">Fueling breakthroughs in AI and peer-to-peer technology, we reduce infrastructure costs and enhance global communications with cutting-edge solutions like </span><strong><span style=\"color: #121317\">KEET</span></strong><span style=\"color: #121317\">, our flagship app that redefines secure and private data sharing.</span></p><p><strong><span styl",
-    "url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
+    "description": "<p>NIKI is looking for graduates of Technical University Departments/Schools of Sciences/Engineers, or similar disciplines to support and develop complex system simulation processes of software-defined vehicles. </p><p>Become a member of NIKI Digital Engineering!  </p><p>If you have completed your studies or doctorate and are looking for new challenges, interdisciplinary and diverse teams, and projects, send us your resume. </p><p>Our strategy is to transfer the know-how into practice. TWT is our trusted long-term partner, sharing and supporting our vision. Through close, daily collaboration, we design and deliver innovative solutions for clients and partners across the energy, health, and automotive industries. Combining interdisciplinary expertise in IT, digital engineering, and consulting, we turn ideas into impactful results that reflect our shared vision for progress.</p><p>What to expect</p><ul><li>Develop and optimize process and simulation methods for complex vehicle development in collaboration with international industry partners and research organizations.</li><li>Continuously monitor industry trends and advances in simulation technology to improve NIKI's services and drive innovation.</li><li>Coordinate our interdisciplinary projects in close cooperation with our customers.</li></ul><p>Task Description </p><ul><li>Modeling and simulation of complex systems and software functions. Focus on areas such as driving dynamics and autonomous driving.</li><li>Active cooperation with our customers. Programming of functions and algorithms for modern vehicle functions. Accompanying the process from the first idea to delivery.</li><li>Forward-looking development processes. Functional and vehicle development using the latest methods and tools, such as graphic modeling languages.</li><li>Empowering and coaching our clients.</li><li>Protection of software functions. Efficient implementation of technical security measures and criticality analysis of software functions.</",
+    "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839",
     "source": "RemoteOK",
-    "posted_at": "2026-10-10T00:00:05+00:00",
-    "tags": [
-      "design",
-      "bitcoin",
-      "react",
-      "exec",
-      "technical",
-      "recruiter",
-      "marketing",
-      "dev",
-      "virtual assistant",
-      "javascript",
-      "finance",
-      "education",
-      "cloud",
-      "api",
-      "mobile",
-      "ops",
-      "sys admin",
-      "engineer",
-      "digital nomad"
-    ],
-    "match_score": 5,
-    "matched_skills": [
-      "JavaScript",
-      "React"
-    ]
-  },
-  {
-    "title": "(Junior) Inhouse KI-Spezialist (m/w/d) \u2013 Data & Integration",
-    "company": "Spedition Diez GmbH",
-    "location": "Dettingen unter Teck",
-    "description": "<h2>Lkw rollen bei uns schon. Jetzt sollen auch die Daten rollen.</h2><p>Wir sind die Spedition Diez \u2013 ein familiengef\u00fchrtes Logistikunternehmen am Fu\u00df der Schw\u00e4bischen Alb. Bei uns arbeitet schon heute eine KI mit: Claude ist unsere firmeninterne KI. Was noch fehlt, ist die Br\u00fccke zwischen der KI und unseren Systemen \u2013 vor allem zu unserem TMS von Soloplan. Genau diese Br\u00fccke sollst du bauen.</p><p>Du bekommst keine fertige IT-Abteilung mit hundert Tickets, sondern eine echte Pionierrolle: Du legst das Fundament f\u00fcr unser Data Warehouse und machst aus verstreuten Daten echtes Wissen f\u00fcr Disposition, Fuhrpark und Gesch\u00e4ftsf\u00fchrung.</p><h3>Was du bei uns bewegst</h3><ul><li>Du baust unser zentrales Data Warehouse von Grund auf auf \u2013 Datenmodell, Schnittstellen, Datenqualit\u00e4t.</li><li>Du bindest Soloplan (TMS) und unsere weiteren Systeme an, z. B. Tankkarten- und Mautdaten, Fuhrparkdaten und Buchhaltung.</li><li>Du verbindest Claude mit diesen Daten, z. B. \u00fcber APIs und MCP-Schnittstellen, damit Fragen wie \u201eWelche Touren waren letzten Monat unrentabel?\u201c in Sekunden beantwortet sind.</li><li>Du automatisierst Routinearbeiten wie Rechnungspr\u00fcfung, Auswertungen und Reports.</li><li>Du bist erste Ansprechperson f\u00fcr KI im Haus: Du schulst Kolleginnen und Kollegen, sammelst Ideen und machst daraus funktionierende L\u00f6sungen.</li><li>Du hast Datenschutz und Datensicherheit immer im Blick.</li></ul><h3>Was du mitbringst</h3><ul><li>Ein Studium in Informatik, Wirtschaftsinformatik, Data Science oder \u00c4hnlichem \u2013 oder vergleichbare Erfahrung aus der Praxis.</li><li>Erste praktische Erfahrung mit SQL und mindestens einer Skriptsprache, am liebsten Python.</li><li>Erfahrung mit Schnittstellen (REST-APIs, ETL-Prozesse) und Datenbanken.</li><li>Echte Begeisterung f\u00fcr KI und Large Language Models \u2013 und Lust, sie praktisch einzusetzen statt nur dar\u00fcber zu reden.</li><li>Generalisten-Gen: Du packst gern selbst an, von der Datenbank bis zum Gespr\u00e4ch mit der Disposition.</li><li>Erfahrung i",
-    "url": "https://www.arbeitnow.com/jobs/companies/spedition-diez-gmbh/junior-inhouse-ki-spezialist-data-integration-dettingen-unter-teck-298766",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-20T13:01:01+00:00",
-    "tags": [
-      "Data Processing",
-      "Data Engineer"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Systemadministrator (m/w/d) / DevOps Engineer f\u00fcr Linux- und Kubernetes-basierte OSS-Infrastrukturen",
-    "company": "Biz Factory GmbH",
-    "location": "Berlin",
-    "description": "<p><strong><em>Du bist ein technischer Experte mit starken Grundlagen in Linux- und Container-basierten Systemen. Du hast eine \"Hands-on\"-Mentalit\u00e4t und gehst proaktiv auf Probleme zu, um diese zu l\u00f6sen? Dann bist du bei uns richtig!</em></strong></p><h2>Aufgaben</h2><p><strong>Deine Rolle</strong></p><p>Wir suchen einen serviceorientierten DevOps Engineer, der uns bei der Inbetriebnahme und dem Betrieb unserer Linux-basierten IT-Systeme unterst\u00fctzt. Du wirst technische F\u00e4higkeiten, eine Leidenschaft f\u00fcr Probleml\u00f6sungen und die F\u00e4higkeit ben\u00f6tigen, um skalierbare Systeme innerhalb eines agilen Umfelds zu betreiben. Wir erwarten nicht, dass du alles bereits perfekt beherrschst, aber solide Kenntnisse in containerisierten Systemen und die Bereitschaft, neue Technologien zu lernen, sind essenziell.</p><p><strong>Deine Aufgaben</strong></p><ul><li><p>Unterst\u00fctzung bei der Inbetriebnahme und dem laufenden Betrieb unserer Linux-Systeme (SLES, Red Hat, Debian)</p></li><li><p>Verwaltung und Support von Containern, u.a. in Kubernetes</p></li><li><p>Einrichtung und Betrieb von CI/CD-Werkzeugen (GitLab CI/CD-Pipelines)</p></li><li><p>Wartung, Betrieb und Techn. Support (Helpdesk)</p></li><li><p>Monitoring von Serversystemen mit Tools wie Icinga und Nagios</p></li><li><p>Aufsetzen und Betrieb von Datenbanken (u.a. mySQL, PostgreSQL inkl. PostGIS)</p></li><li><p>Erstellung von Betriebshandb\u00fcchern und Schulungen im Umfeld webbasierter Applikationen und Linux-Server/Container</p></li></ul><h2>Qualifikation</h2><ul><li><p>Umfangreiche Kenntnisse im Bereich Open Source (OSS) Infrastrukturen und Linux-Systeme</p></li><li><p>Erfahrung mit Server-Betriebssystemen (z.B. Ubuntu, Debian)</p></li><li><p>Umfangreiche Kenntnisse im Umgang mit Container-Technologien (Kubernetes, OpenShift, OpenStack)</p></li><li><p>Fundierte Programmierkenntnisse mit Programmiersprachen wie Python, Java, PHP oder Javascript/Typescript</p></li><li><p>Erfahrung mit CI/CD-Werkzeugen (GitLab)</p></li><li><p>Fundi",
-    "url": "https://www.arbeitnow.com/jobs/companies/biz-factory-gmbh/systemadministrator-devops-engineer-fur-linux-und-kubernetes-basierte-oss-infrastrukturen-berlin-183922",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-20T12:31:00+00:00",
-    "tags": [
-      "Remote",
-      "System and Network Administration"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Software Engineer (starter)",
-    "company": "Squid Support",
-    "location": "Nieuwegein",
-    "description": "<p><strong>Net afgestudeerd en al echte software gebouwd? Start bij een AI-startup vlak voor de lancering</strong></p><p>Heb je tijdens je studie niet alleen opdrachten gemaakt, maar ook echt software gebouwd die mensen gebruiken? Als bijbaan, eigen project of startup? Dan zoeken we jou.</p><p>Squid Support is een AI-startup uit Nieuwegein. Onze AI-agent beantwoordt klantvragen voor webshops en handelt nu al duizenden berichten per dag af voor onze eerste klant, een snelgroeiende e-commerce-organisatie met meerdere webshops. We staan vlak voor de publieke lancering.</p><h2>Waarom dit een goede eerste baan is</h2><ul><li><p>Je leert meer in een jaar bij ons dan in drie jaar bij een groot bedrijf</p></li><li><p>Je werkt elke dag direct met de oprichters</p></li><li><p>Wat je bouwt staat de volgende dag live, bij echte klanten</p></li><li><p>Je groeit mee met het bedrijf, en je rol groeit mee</p></li></ul><h2>Wat we zoeken</h2><ul><li><p>Een afgeronde of bijna afgeronde wo- of hbo-opleiding, bij voorkeur informatica, AI of iets vergelijkbaars</p></li><li><p>Minimaal 1,5 jaar programmeerervaring met TypeScript en/of Python, bijbaan en eigen projecten tellen mee</p></li><li><p>Je bouwt dagelijks met Claude Code, Codex, Cursor of vergelijkbaar</p></li><li><p>Je hebt iets gebouwd dat echt gebruikt wordt, en daar wil je graag over vertellen</p></li><li><p>Je spreekt vloeiend Nederlands</p></li></ul><h2>Hoe we werken</h2><p>We werken AI-native: Claude Code, Codex en agentic workflows zijn bij ons de standaard. Er zit geen product owner of projectmanager tussen jou en de klant. Je werkt elke dag direct met de oprichters.</p><p>Stack: TypeScript, React/Next.js, Python/FastAPI, PostgreSQL, Google Cloud, Docker. AI via onder andere OpenAI Agents SDK, LiteLLM en Vertex AI.</p><h2>Wat je krijgt</h2><ul><li><p>Een plek in een klein, ambitieus team, net voor de lancering</p></li><li><p>Elke dag samenwerken met de oprichters, en veel leren</p></li><li><p>Echte ownership: wat jij bouw",
-    "url": "https://www.arbeitnow.nl/jobs/companies/squid-support/software-engineer-starter-nieuwegein-290537",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-19T11:47:35+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "React"
-    ]
-  },
-  {
-    "title": "Software Engineer AI Tooling",
-    "company": "Supabase",
-    "location": "Remote",
-    "description": "<h2><strong>About Supabase</strong></h2><p style=\"min-height:1.5em\">Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.<br /></p><h2><strong>About the Role</strong></h2><p style=\"min-height:1.5em\">We\u00e2\u0080\u0099re looking for a Software Engineer to join our AI Tooling team and help shape how developers and agents build with Supabase. You'll build and own our AI tooling, including agents, the MCP server, agent skills and the dashboard assistant, and as the space moves you'll build the tooling for new technologies too. You'll build it all eval-first: every tool ships with evals and metrics, so we know, with evidence, that it makes agents better rather than worse.</p><p style=\"min-height:1.5em\">You'll work closely with the Docs, CLI, Frontend and SDK teams, and with the AI Tooling Infrastructure engineers who run these services in production. Other teams contribute to AI Tooling to improve Supabase's agentic capabilities, and you'll help them do that while keeping the quality bar high.</p><p style=\"min-height:1.5em\">This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions.<br /></p><h2>What You\u00e2\u0080\u0099ll Be Responsible For</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build and improve the AI tooling we run today, including the MCP server, agent skills, agents and the Assistant.</p></li><li><p style=\"min-height:1.5em\">Make new Supabase products usable by agents from day one: tools, skills and evals for new product surfaces. Also build tooling for new AI technologies as they emerge: prototype quickly, evaluate honestly, and decide with the team what is worth taking to production.</p></li><li><p style=\"min-height:1.5em\">Drive an eval-first approach: build and improve evals",
-    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
-    "source": "RemoteOK",
-    "posted_at": "2026-11-13T00:00:15+00:00",
+    "posted_at": "2026-11-19T16:00:34+00:00",
     "tags": [
       "dev",
-      "design",
-      "front end",
-      "customer support",
-      "testing",
-      "marketing",
-      "virtual assistant",
-      "javascript",
-      "education",
-      "typescript",
-      "sys admin",
-      "medical",
-      "engineer",
-      "backend",
-      "digital nomad"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Research Engineer Privacy and Anonymization",
-    "company": "Pragmatike",
-    "location": "Remote",
-    "description": "<p style=\"min-height:1.5em\"><strong>Location:</strong> San Francisco or Singapore (on-site), or remote (Singapore or US Pacific time zones)<br /><strong>Start Date:</strong> ASAP<br /><strong>Languages:</strong> English<br /><strong>Team:</strong> Engineering</p><p style=\"min-height:1.5em\"></p><h2>About the Role</h2><p style=\"min-height:1.5em\">Our client is a fast-growing AI company building reliable, fair and open infrastructure for AI training data. Their marketplace helps the people who create data get value for it, and gives AI labs trustworthy data to train on. It is already used by startups, Fortune 500 companies and frontier labs, and the company is backed by leading venture investors, including Y Combinator. They are scaling quickly to meet strong demand.</p><p style=\"min-height:1.5em\">We are looking for a <strong>Research Engineer, Privacy and Anonymization</strong> to build the systems that make sensitive, real-world data safe and still useful for AI training. You will develop methods to detect and remove personally identifiable information, secrets and other sensitive content from raw data before it enters processing and synthetic data pipelines \u00e2\u0080\u0094 protecting privacy without destroying the structure and signal that make the data valuable for training agents.</p><p style=\"min-height:1.5em\">This is a privacy and data-protection engineering seat, not a synthetic-task design role. You will own the pipeline that stands in front of downstream processing, training, evaluation and synthetic generation.</p><p style=\"min-height:1.5em\">This is a full-time role, starting ASAP. Offices are in San Francisco and Singapore; remote candidates are welcome if their working hours can overlap about 70\u00e2\u0080\u009380% with either San Francisco (US Pacific) or Singapore business hours. The exact daily schedule will be agreed during hiring.</p><p style=\"min-height:1.5em\"></p><h2>What You'll Do</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build systems to detect PII, q",
-    "url": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
-    "source": "RemoteOK",
-    "posted_at": "2026-11-12T16:00:38+00:00",
-    "tags": [
       "design",
       "embedded",
+      "sys admin",
       "infosec",
       "python",
-      "education",
+      "consulting",
       "technical",
-      "finance",
-      "content writing",
-      "ops",
+      "customer support",
+      "testing",
+      "exec",
+      "java",
+      "matlab",
       "medical",
-      "recruiter",
       "engineer",
-      "full time",
       "digital nomad"
     ],
     "match_score": 3,
@@ -147,56 +31,77 @@
     ]
   },
   {
-    "title": "Feltsense AI Engineer",
-    "company": "Silver.dev",
+    "title": "Postdoc PhD PhD cand. Physics Computer Science",
+    "company": "NIKI Digital Engineering",
     "location": "Remote",
-    "description": "<h2>About the company</h2><p style=\"min-height:1.5em\">We raised $5.1M to build agents that operate as fully autonomous founders. Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2.</p><p style=\"min-height:1.5em\">We're working at the frontier of autonomous systems, building agents that don't just chat, but run entire businesses.</p><p style=\"min-height:1.5em\">Our system identifies business opportunities through market signals, validates ideas with live ad tests, builds and launches software products, and brings in human experts wherever agents fall short. That loop already runs end to end: from idea to launched product to first revenue.</p><p style=\"min-height:1.5em\">Over the next 12 months, our focus is on reliability, throughput, and self-improvement, making every launch better than the last.</p><p style=\"min-height:1.5em\"></p><h2>About the role</h2><p style=\"min-height:1.5em\">We're looking for a hands-on AI Engineer to take ownership of the architecture and development of our autonomous agent system.</p><p style=\"min-height:1.5em\">You'll lead the technical direction of the platform, building multi-agent orchestration systems, self-improving agent harnesses, and AI-powered backend services. This is a highly technical leadership role that combines architectural decision-making with hands-on engineering.</p><p style=\"min-height:1.5em\">You'll be expected to ship production code, make key technical decisions, improve agent behavior in production, and help establish the engineering standards as the company scales.</p><p style=\"min-height:1.5em\"></p><h2>Responsibilities</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Own the system architecture and make key technical decisions across the platform.</p></li><li><p style=\"min-height:1.5em\">Design and build multi-agent systems and orchestration infrastructure that take products from idea to launch.</p></li><li><p ",
-    "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+    "description": "<p>NIKI is looking for a Postdoc/PhD/PhD cand. in Physics, Computer Science or similar discipline for industrial projects in the automotive industry.</p><p>Become a member of NIKI Digital Engineering!</p><p>If you are a Postdoc/PhD/PhD candidate looking for new challenges, interdisciplinary and diverse teams, and projects, send us your resume.</p><p>Our strategy is to transfer the know-how into practice. TWT is our trusted long-term partner, sharing and supporting our vision. Through close, daily collaboration, we design and deliver innovative solutions for clients and partners across the energy, health, and automotive industries. Combining interdisciplinary expertise in IT, digital engineering, and consulting, we turn ideas into impactful results that reflect our shared vision for progress.</p><p>What to expect</p><ul><li>Be a member of a TOP team: Highly qualified, innovative, and interconnected.</li><li>Get involved with topics at the forefront of technology: Artificial Intelligence, Autonomous Driving, E-Mobility, Model Based Systems Engineering, or Virtual Experience.</li><li>Acquire social skills and engage with professionals in the field of automotive and innovation.</li><li>Collaborate with international groups of professionals on different projects.</li><li>Ability to expand knowledge and responsibilities.</li><li>An opportunity to influence the direction of a fast-growing area of business.</li></ul><p>Task Description </p><ul><li>Contribute to industry-focused R&amp;D projects in Computer Science or Physics, with a focus on practical applications</li><li>Utilize programming languages such as C++, Python, or MATLAB to develop algorithms, analyze data, and optimize solutions for industry-specific challenges</li><li>Apply data analysis techniques to extract insights and employ critical thinking and creative solutions, ensuring project objectives are met </li><li>Collaborate with industry partners and external teams to implement innovative solutions in real-wo",
+    "url": "https://remoteOK.com/remote-jobs/remote-postdoc-phd-phd-cand-physics-computer-science-niki-digital-engineering-1137837",
     "source": "RemoteOK",
-    "posted_at": "2026-11-05T16:00:07+00:00",
+    "posted_at": "2026-11-19T16:00:21+00:00",
     "tags": [
       "design",
-      "sys admin",
-      "exec",
+      "python",
+      "consulting",
       "technical",
-      "customer support",
-      "dev",
-      "testing",
-      "javascript",
-      "cloud",
-      "postgres",
-      "typescript",
-      "node",
-      "node.js",
+      "exec",
+      "c",
+      "c plus plus",
+      "matlab",
+      "medical",
       "engineer",
-      "backend",
       "digital nomad"
     ],
     "match_score": 3,
     "matched_skills": [
-      "JavaScript"
+      "Python"
     ]
   },
   {
-    "title": "APAC Python",
-    "company": "Kodland",
-    "location": "Remote",
-    "description": "<p><strong>About\u00c2\u00a0the\u00c2\u00a0Company:</strong></p><p><strong>Kodland\u00c2\u00a0</strong>is\u00c2\u00a0an\u00c2\u00a0international\u00c2\u00a0online\u00c2\u00a0coding\u00c2\u00a0and\u00c2\u00a0digital\u00c2\u00a0skills\u00c2\u00a0school\u00c2\u00a0that\u00c2\u00a0helps\u00c2\u00a0children\u00c2\u00a0aged\u00c2\u00a05\u00c2\u00a0to\u00c2\u00a017\u00c2\u00a0take\u00c2\u00a0their\u00c2\u00a0first\u00c2\u00a0steps\u00c2\u00a0into\u00c2\u00a0the\u00c2\u00a0world\u00c2\u00a0of\u00c2\u00a0programming\u00c2\u00a0and\u00c2\u00a0technology.</p><p style=\"min-height: 1.7em;\"></p><p><strong>About\u00c2\u00a0the\u00c2\u00a0Role:</strong></p><p>Are\u00c2\u00a0you\u00c2\u00a0a\u00c2\u00a0passionate\u00c2\u00a0programmer\u00c2\u00a0who\u00c2\u00a0loves\u00c2\u00a0coding\u00c2\u00a0and\u00c2\u00a0computer\u00c2\u00a0games?\u00c2\u00a0Would\u00c2\u00a0you\u00c2\u00a0like\u00c2\u00a0to\u00c2\u00a0help\u00c2\u00a0children\u00c2\u00a0create\u00c2\u00a0their\u00c2\u00a0first\u00c2\u00a0projects\u00c2\u00a0and\u00c2\u00a0take\u00c2\u00a0their\u00c2\u00a0first\u00c2\u00a0steps\u00c2\u00a0into\u00c2\u00a0the\u00c2\u00a0programming\u00c2\u00a0world\u00c2\u00a0by\u00c2\u00a0teaching\u00c2\u00a0them\u00c2\u00a0Python?\u00c2\u00a0If\u00c2\u00a0so,\u00c2\u00a0this\u00c2\u00a0opportunity\u00c2\u00a0is\u00c2\u00a0perfect\u00c2\u00a0for\u00c2\u00a0you!</p><p style=\"min-height: 1.7em;\"></p><p><strong>Responsibilities:</strong></p><ul><li><p>Deliver\u00c2\u00a0fun\u00c2\u00a0and\u00c2\u00a0interactive\u00c2\u00a0Python\u00c2\u00a0Programming\u00c2\u00a0lessons\u00c2\u00a0using\u00c2\u00a0provided\u00c2\u00a0materials.</p></li><li><p>Develop\u00c2\u00a0your\u00c2\u00a0own\u00c2\u00a0skills\u00c2\u00a0under\u00c2\u00a0the\u00c2\u00a0guidance\u00c2\u00a0of\u00c2\u00a0experienced\u00c2\u00a0Kodland\u00c2\u00a0teachers.</p></li><li><p>Share\u00c2\u00a0feedback\u00c2\u00a0about\u00c2\u00a0lessons\u00c2\u00a0with\u00c2\u00a0the\u00c2\u00a0Kodland\u00c2\u00a0team.</p></li><li><p>Regularly\u00c2\u00a0report\u00c2\u00a0on\u00c2\u00a0student\u00c2\u00a0progress\u00c2\u00a0and\u00c2\u00a0help\u00c2\u00a0improve\u00c2\u00a0the\u00c2\u00a0learning\u00c2\u00a0experience.</p></li><li><p>Be\u00c2\u00a0a\u00c2\u00a0positive\u00c2\u00a0representative\u00c2\u00a0of\u00c2\u00a0Kodland\u00c2\u00a0and\u00c2\u00a0contribute\u00c2\u00a0creative\u00c2\u00a0ideas\u00c2\u00a0to\u00c2\u00a0support\u00c2\u00a0students.</p></li><li><p>Attend\u00c2\u00a0all\u00c2\u00a0training\u00c2\u00a0and\u00c2\u00a0support\u00c2\u00a0sessions\u00c2\u00a0provided\u00c2\u00a0throughout\u00c2\u00a0the\u00c2\u00a0hiring\u00c2\u00a0process.</p></li></ul><p style=\"min-height: 1.7em;\"></p><p style=\"min-height: 1.7em;\"></p><p><strong>Join\u00c2\u00a0our\u00c2\u00a0team\u00c2\u00a0today\u00c2\u00a0and\u00c2\u00a0experience\u00c2\u00a0the\u00c2\u00a0joy\u00c2\u00a0of\u00c2\u00a0teaching\u00c2\u00a0with\u00c2\u00a0Kodland!\u00c2\u00a0\u00f0\u009f\u0092\u0099</strong></p><p style=\"min-height: 1.7em;\"></p><p><strong>Please\u00c2\u00a0note:\u00c2\u00a0This\u00c2\u00a0is\u00c2\u00a0a\u00c2\u00a0part-time\u00c2\u00a0freelance\u00c2\u00a0position.\u00c2\u00a0There\u00c2\u00a0is\u00c2\u00a0no\u00c2\u00a0fixed\u00c2\u00a0or\u00c2\u00a0guaranteed\u00c2\u00a0income.</strong></p><p style=\"min-height: 1.7em;\"></p><br></br><p><strong>Requirements:</strong></p><ul><li><p>Intermediate\u00c2\u00a0level\u00c2\u00a0Python\u00c2\u00a0experience.</p></li><li><p>Availability\u00c2\u00a0of\u00c2\u00a0at\u00c2\u00a0least\u00c2\u00a010\u00c2\u00a0hours\u00c2\u00a0per\u00c2\u00a0week.</p></li><li><p>You\u00c2\u00a0love\u00c2\u00a0teaching\u00c2\u00a0and\u00c2\u00a0connecting\u00c2\u00a0with\u00c2\u00a0children\u00c2\u00a0and\u00c2\u00a0young\u00c2\u00a0people.</p></li><li><p>You\u00c2\u00a0speak\u00c2\u00a0English\u00c2\u00a0fluent",
-    "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
-    "source": "RemoteOK",
-    "posted_at": "2026-10-16T16:00:26+00:00",
+    "title": "1226 | Front-end Developer",
+    "company": "Intetics 2",
+    "location": "Germany",
+    "description": "<p>Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and \u201call-things-digital\u201d solutions, is looking for a&nbsp;<strong>Front-end Developer </strong>to join our team.</p><p>Long-term cooperation on an as-needed basis, with potential part-time assignments and travel to the client\u2019s office if required</p><p>Our client is an international organization supporting global environmental and sustainability initiatives. The engagement focuses on developing and supporting enterprise applications, digital services, and technology solutions used across the organization. Specialists will collaborate with internal teams and external partners in an international environment, following established architecture, security, and delivery standards.</p><p>We are looking for a Front-end Developer to build and maintain responsive, accessible web applications. You will work closely with UX/UI designers, Business Analysts, architects, and backend developers to translate business requirements and design specifications into reliable user interfaces.</p><p><strong>Responsibilities</strong></p><ul><li>Develop and maintain web interfaces using React, TypeScript, and component-based architectures.</li><li>Integrate frontend applications with APIs, backend services, and authentication flows.</li><li>Ensure accessibility in line with WCAG 2.1 AA or equivalent standards.</li><li>Improve usability, frontend performance, and client-side security.</li><li>Develop unit tests, apply automated testing practices, and resolve defects.</li><li>Participate in code reviews, maintain technical documentation, and contribute to Agile delivery.</li></ul><p><strong>Requirements</strong></p><ul><li>At least 5 years of experience designing, developing, testing, and maintaining frontend applications, including React and TypeScript.</li><li>At least 5 years of experience collaborating",
+    "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1226-front-end-developer-germany-84712",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-21T12:20:17+00:00",
     "tags": [
-      "python",
-      "teaching",
-      "education",
-      "customer support",
-      "dev",
-      "testing",
-      "part time",
-      "non tech",
-      "digital nomad"
+      "Information Technology and Services",
+      "Remote"
     ],
     "match_score": 3,
+    "matched_skills": [
+      "React",
+      "Agile"
+    ]
+  },
+  {
+    "title": "Principal DevSecOps Engineer",
+    "company": "Upgrade",
+    "location": "US Only",
+    "description": "<p><span><strong>About the Role:</strong><br /><br />We are looking for a highly technical, hands-on Principal DevSecOps Developer to join Upgrade's Security team. In this role, you'll focus on building and improving security automation, strengthening our SaaS environment, and developing scalable solutions that enhance security operations across the organization.</span></p>\n<p><span>You'll leverage your programming and scripting skills, hands-on operations experience, and understanding of APIs, IAM permissions, and security best practices to solve complex technical challenges. You'll analyze code, troubleshoot technical issues, and apply risk-based thinking to identify vulnerabilities and implement effective security controls.</span></p>\n<p><span>This is a highly autonomous, engineering-focused role where you'll have the opportunity to build security automations from the ground up, leverage AI to improve workflows, and solve challenging security problems. You'll work closely with Security, Engineering, DevOps, and IT teams to streamline processes.<br /><br /><strong>Our Core Technologies:<br /><br /></strong>AWS (IAM, Security Services), Terraform, Python, Bash, REST APIs, AI/LLM Tools (Claude, AI Agents, MCP), Tines/SOAR, Sumo Logic, CrowdStrike, Okta, Akamai, Sublime Security, SIGMA/YARA, Kubernetes, Docker, CI/CD Pipelines, FleetDM/osquery, GCP, Google Workspace, Microsoft Entra ID, Microsoft 365.<br /><br /><strong>What You\u00e2\u0080\u0099ll Do:<br /></strong></span></p>\n<ul>\n<li><span>Build and maintain security automation workflows to reduce manual processes.</span></li>\n<li><span>Develop and manage infrastructure as code using Terraform.</span></li>\n<li><span>Implement AWS security controls, including IAM policies and least-privilege access.</span></li>\n<li><span>Build secure integrations between systems using APIs and scripting.</span></li>\n<li><span>Identify, investigate, and resolve security risks across cloud infrastructure and internal systems.</span></li>\n<li><span>",
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-devsecops-engineer-upgrade-1137858",
+    "source": "RemoteOK",
+    "posted_at": "2026-11-19T20:45:40+00:00",
+    "tags": [
+      "devops"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Engineering Manager",
+    "company": "Clover Health",
+    "location": "US Only",
+    "description": "<p>At Counterpart Health, we are transforming healthcare and improving patient care with our innovative primary care tool, Counterpart Assistant. By supporting Primary Care Physicians (PCPs), we are able to deliver improved outcomes to our patients at a lower cost through early diagnosis and longitudinal care management of chronic conditions.</p>\n<p>We're looking for an Engineering Manager to join our team. Our managers take on a player/coach role, balancing technical leadership, execution, and people management. The primary responsibility of Engineering Managers is to build and develop strong teams while ensuring high-impact results. We empower engineers to take ownership of problems and support them with mentorship, guidance, and business context.</p>\n<p><strong>As an Engineering Manager, you will:</strong></p>\n<ul>\n<li>Drive team impact by fostering high technical productivity and reliability.</li>\n<li>Cultivate a healthy, results-driven, and collaborative team culture.</li>\n<li>Represent the team in engineering-wide planning, initiatives, and processes.</li>\n<li>Partner with\u00c2\u00a0Product Managers and Designers to shape our technical roadmap and solve problems that improve the patient and doctor experience.</li>\n<li>Set and communicate clear team objectives that align with Counterpart's company goals and roadmap.</li>\n<li>Lead\u00c2\u00a0hiring, development, and retention efforts to build a high-performing team.</li>\n</ul>\n<p><strong>You should get in touch if:</strong></p>\n<ul>\n<li>You have technical leadership experience managing teams of 3+ engineers.\u00c2\u00a0</li>\n<li>You have a strong background in<strong> </strong>system design and proficiency in general-purpose programming languages such as Python, Ruby, Go, or Java.</li>\n<li>You have a track record of<strong> </strong>leading development projects while creating opportunities for others to grow into leadership roles.</li>\n<li>You have experience in fast-paced environments, making quick, strategic decisions under competing cons",
+    "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-clover-health-1137855",
+    "source": "RemoteOK",
+    "posted_at": "2026-11-19T20:00:13+00:00",
+    "tags": [
+      "programming"
+    ],
+    "match_score": 2,
     "matched_skills": [
       "Python"
     ]
@@ -242,37 +147,68 @@
     ]
   },
   {
-    "title": "Data Engineer",
-    "company": "Addepto",
-    "location": "Remote",
-    "description": "<p><span>Addepto is a leading AI consulting (</span><u><a href=\"https://addepto.com/ai-consulting/\"><span>https://addepto.com/ai-consulting/</span></a></u><span>) and data engineering (</span><u><a href=\"https://addepto.com/data-engineering-services/\"><span>https://addepto.com/data-engineering-services/</span></a></u><span>) company that builds scalable, ROI-focused AI solutions for some of the world's largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With an exclusive focus on Artificial Intelligence and Big Data, Addepto helps organizations unlock the full potential of their data through systems designed for measurable business impact and long-term growth.</span></p><p></p><p><span>The company's work extends beyond client engagements. Drawing from real-world challenges and insights, Addepto has developed its own </span><u><a href=\"https://context-clue.com/\"><span>product - ContextClue</span></a></u><span> - and actively contributes open-source solutions to the AI community. This commitment to transforming practical experience into scalable innovation has earned Addepto recognition by </span><u><a href=\"https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/\"><span>Forbes as one of the top 10 AI consulting companies worldwide</span></a></u><span>.</span></p><p><br /><span>As part of </span><u><a href=\"https://kms-technology.com/\"><span>KMS Technology</span></a></u><span>, a US-based global technology group, Addepto combines deep AI specialization with enterprise-scale delivery capabilities\u00e2\u0080\u0094enabling the partnership to move clients from AI experimentation to production impact, securely and at scale.</span></p><p></p><p><span>We are looking for an experienced </span><strong><span>Data Engineer</span></strong><span> with strong skills in </span><strong><span>GCP, Snowflake, dbt, Python, SQL, and Data Analytics</span></strong><span> to join our team. You will work on internatio",
-    "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
-    "source": "RemoteOK",
-    "posted_at": "2026-11-10T16:00:04+00:00",
+    "title": "Traumpraktikum mit Perspektive: Werde Fachinformatiker f\u00fcr Anwendungsentwicklung (m/w/d)!",
+    "company": "TenMedia GmbH",
+    "location": "Berlin",
+    "description": "<p>TenMedia ist ein erfolgreiches Softwareunternehmen im Herzen Berlins. Wir sind seit \u00fcber 14 Jahren auf den Betrieb und die Entwicklung von Individualsoftware spezialisiert.</p>\n<p>Wir suchen ab sofort einen Praktikanten (m/w/d) im Bereich Fachinformatik f\u00fcr Anwendungsentwicklung.</p>\n<p>Wir glauben an die St\u00e4rke und das Potenzial unseres Teams und sind stets bem\u00fcht, dass Beste aus uns herauszuholen. Als Praktikant wirst du Teil dieses Teams. Dabei folgst du unserem strukturierten Ausbildungsplan, der darauf ausgerichtet ist, dich innerhalb k\u00fcrzester Zeit zum Profi zu machen. Neben dem Programmieren stehen auch Tools und Prozesse wie Microsoft DevOps, Scrum und Git im Fokus. Sobald du dich sattelfest f\u00fchlst, erh\u00e4ltst du erste Einblicke in echte Projekte und kannst diese erkunden und kleinere Tasks umsetzen, frei von Termindruck und Deadlines.</p>\n<h2>Aufgaben</h2>\n<p>Das erwartet dich:</p>\n<ul>\n<li>Praktische Erfahrungen in einem schlagkr\u00e4ftigen Unternehmen, das sich auf die Entwicklung von Individualsoftware und Online-Plattformen spezialisiert hat</li>\n<li>Moderne Stacks, kein Wordpress, Joomla o.\u00e4.</li>\n<li>Arbeit an spannenden Projekten und die M\u00f6glichkeit, moderne Technologien kennenzulernen</li>\n<li>Integration in ein engagiertes und kreatives Team</li>\n<li>Du kannst eigene Ideen einbringen und dich aktiv beteiligen</li>\n<li>Lerne den Scrum-Prozess kennen und arbeite mit DevOps-Boards</li>\n</ul>\n<h2>Qualifikation</h2>\n<p>Das bringst du mit:</p>\n<ul>\n<li>Laufende oder abgeschlossene Ausbildung, Weiterbildung, Umschulung, Fortbildung oder Studium mit Schwerpunkt Fachinformatik f\u00fcr Anwendungsentwicklung, Informatik, Wirtschaftsinformatik etc.</li>\n<li>Die Bereitschaft, neue Technologien, Programmiersprachen und Frameworks zu mastern</li>\n<li>Erfahrungen mit Programmiersprachen, CMS und Frameworks (JavaScript, PHP oder C# ist von Vorteil)</li>\n<li>Erfahrung mit Backend, Frontend, Datenbank, Versionierung mit GIT</li>\n<li>Leistungsbereitschaft (!), Eigenst\u00e4ndige ",
+    "url": "https://www.arbeitnow.com/jobs/companies/tenmedia-gmbh/traumpraktikum-mit-perspektive-werde-fachinformatiker-fur-anwendungsentwicklung-berlin-433461",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-21T13:00:53+00:00",
     "tags": [
-      "design",
-      "saas",
-      "salesforce",
-      "python",
-      "education",
-      "consulting",
-      "customer support",
-      "testing",
-      "marketing",
-      "dev",
-      "finance",
-      "cloud",
-      "git",
-      "stats",
-      "sys admin",
-      "engineer",
-      "apache",
-      "digital nomad"
+      "Software Development"
     ],
     "match_score": 2,
     "matched_skills": [
-      "Python",
-      "SQL"
+      "JavaScript"
+    ]
+  },
+  {
+    "title": "Go-to-Market AI & Data Intern (AI x Greentech) (m/f/d)",
+    "company": "Reonic",
+    "location": "Berlin",
+    "description": "<p style=\"min-height:1.5em\"><strong>Do you thrive in fast-paced environments and have a passion for renewable energy?</strong></p><p style=\"min-height:1.5em\">As our Go-to-Market AI &amp; Data Associate, you will be the co-architect of our data ecosystem. You\u2019ll take full ownership of making customer and revenue data accessible, building internally used applications from the ground up, and deploying AI to supercharge our growth.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><em><strong>Please note that for this role, C2 German proficiency is required. This is a full-time, on-site position based in Berlin.</strong></em></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What You\u2019ll Do</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>AI Integration:</strong> Implement AI-driven workflows and predictive models to automate insights, lead scoring, and trend forecasting.</p></li><li><p style=\"min-height:1.5em\"><strong>Process Innovation &amp; AI Implementation:</strong> You will dive deep into our customer-oriented workflows to reshape them with your creative, AI-driven ideas and technical skills. As the owner of the implementation, you won't just strategize - you will personally drive these improvements from concept to reality.</p></li><li><p style=\"min-height:1.5em\"><strong>Vertical Owner (Data Driven Analytics):</strong> You will relentlessly improve our data product experience by working with internal and external stakeholders to identify bottlenecks, refine analytical fit, and personally onboard them into a world-class, data-driven workflow.</p></li><li><p style=\"min-height:1.5em\"><strong>Data Accessibility:</strong> Design and maintain robust pipelines to make data from our customers, HubSpot, and Aircall fully usable and accessible across the organization.</p></li><li><p style=\"min-height:1.5em\"><strong>Hands-on Engineering:</strong> Work directly in Python (or TypeScript) to integrate diverse data",
+    "url": "https://www.arbeitnow.com/jobs/companies/reonic/go-to-market-ai-data-intern-ai-x-greentech-berlin-111794",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-21T12:40:11+00:00",
+    "tags": [
+      "Go-to-Market and AI Enablement"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "1227 | Back-end Developer",
+    "company": "Intetics 2",
+    "location": "Germany",
+    "description": "<p>Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and \u201call-things-digital\u201d solutions, is looking for a&nbsp;<strong>Back-end Developer </strong>to join our team.</p><p>Long-term cooperation on an as-needed basis, with potential part-time assignments and travel to the client\u2019s office if required</p><p>Our client is an international organization supporting global environmental and sustainability initiatives. The engagement focuses on developing and supporting enterprise applications, digital services, and technology solutions used across the organization. Specialists will collaborate with internal teams and external partners in an international environment, following established architecture, security, and delivery standards.</p><p>We are looking for a Back-end Developer to develop and maintain enterprise backend applications, APIs, and system integrations. You will implement business logic and contribute to secure, reliable, and scalable services in collaboration with business and technical stakeholders.</p><p><strong>Responsibilities</strong></p><ul><li>Design, develop, test, and maintain backend services using .NET, Python, Node.js, or equivalent technologies.</li><li>Translate business requirements into application functionality, APIs, and integrations.</li><li>Design and manage relational and/or NoSQL databases.</li><li>Implement authentication, encryption, logging, monitoring, and caching.</li><li>Develop automated unit tests, participate in code reviews, and troubleshoot defects.</li><li>Maintain technical documentation and communicate implementation progress, dependencies, and issues.</li></ul><p><strong>Requirements</strong></p><ul><li>At least 5 years of experience developing and maintaining backend applications, including APIs, integrations, and service-based architectures.</li><li>At least 5 years of experience workin",
+    "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1227-back-end-developer-germany-388586",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-21T12:20:17+00:00",
+    "tags": [
+      "Information Technology and Services",
+      "Remote"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
+    ]
+  },
+  {
+    "title": "Frontend Engineer (m/f/x)",
+    "company": "Goegmbh",
+    "location": "Berlin",
+    "description": "&lt;p&gt;At go-e, we have been pursuing the development of our vision with passion and strength from the very beginning. We are moving in an area that is characterized by breakthroughs and growth and that requires a lot of personal responsibility and creative solution finding. On our journey towards the energy transition, the mixture of innovation and security, regional and international, self-realization and professionalism is the ideal fuel for our mutual growth.&lt;/p&gt;\n&lt;p&gt;Help build the Portal, a modern web platform for fleet managers and technicians. As a&lt;strong&gt; Frontend Engineer (m/f/x)&lt;/strong&gt;, you will turn product ideas into responsive, accessible interfaces using &lt;strong&gt;React and TypeScript.&lt;/strong&gt; Join a collaborative team that values autonomy, ownership, code quality, and learning, and deliver features with visible customer impact.&lt;/p&gt;\n&lt;p&gt;With your contribution, you will impact how people will charge their cars in the future. Come and join the team in Berlin (GER) that is building the future of innovative charger solutions for e-mobility!&lt;/p&gt;\n&lt;h3&gt;Your area of responsibility&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and deliver frontend features for the Portal using React and TypeScript.&lt;/li&gt;\n&lt;li&gt;Work with product, design, and backend specialists to translate requirements into user interfaces.&lt;/li&gt;\n&lt;li&gt;Integrate RESTful APIs and WebSocket communication, including asynchronous data, caching, and error handling.&lt;/li&gt;\n&lt;li&gt;Write clean, maintainable, performant code and unit and integration tests.&lt;/li&gt;\n&lt;li&gt;Contribute to code reviews, design discussions, and frontend architectural decisions.&lt;/li&gt;\n&lt;li&gt;Troubleshoot existing features, improve performance, and share knowledge with other engineers.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Who we\u2019re looking for&lt;strong&gt;:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong experience building web applica",
+    "url": "https://www.arbeitnow.com/jobs/companies/goegmbh/frontend-engineer-berlin-143307",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-21T03:55:17+00:00",
+    "tags": [
+      "Development"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "React"
     ]
   }
 ]
