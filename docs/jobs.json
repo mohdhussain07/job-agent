@@ -1,77 +1,86 @@
 [
   {
-    "title": "Engineer Software Defined Vehicle Simulation and Development",
-    "company": "NIKI Digital Engineering",
-    "location": "Remote",
-    "description": "<p>NIKI is looking for graduates of Technical University Departments/Schools of Sciences/Engineers, or similar disciplines to support and develop complex system simulation processes of software-defined vehicles. </p><p>Become a member of NIKI Digital Engineering!  </p><p>If you have completed your studies or doctorate and are looking for new challenges, interdisciplinary and diverse teams, and projects, send us your resume. </p><p>Our strategy is to transfer the know-how into practice. TWT is our trusted long-term partner, sharing and supporting our vision. Through close, daily collaboration, we design and deliver innovative solutions for clients and partners across the energy, health, and automotive industries. Combining interdisciplinary expertise in IT, digital engineering, and consulting, we turn ideas into impactful results that reflect our shared vision for progress.</p><p>What to expect</p><ul><li>Develop and optimize process and simulation methods for complex vehicle development in collaboration with international industry partners and research organizations.</li><li>Continuously monitor industry trends and advances in simulation technology to improve NIKI's services and drive innovation.</li><li>Coordinate our interdisciplinary projects in close cooperation with our customers.</li></ul><p>Task Description </p><ul><li>Modeling and simulation of complex systems and software functions. Focus on areas such as driving dynamics and autonomous driving.</li><li>Active cooperation with our customers. Programming of functions and algorithms for modern vehicle functions. Accompanying the process from the first idea to delivery.</li><li>Forward-looking development processes. Functional and vehicle development using the latest methods and tools, such as graphic modeling languages.</li><li>Empowering and coaching our clients.</li><li>Protection of software functions. Efficient implementation of technical security measures and criticality analysis of software functions.</",
-    "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839",
-    "source": "RemoteOK",
-    "posted_at": "2026-11-19T16:00:34+00:00",
-    "tags": [
-      "dev",
-      "design",
-      "embedded",
-      "sys admin",
-      "infosec",
-      "python",
-      "consulting",
-      "technical",
-      "customer support",
-      "testing",
-      "exec",
-      "java",
-      "matlab",
-      "medical",
-      "engineer",
-      "digital nomad"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Postdoc PhD PhD cand. Physics Computer Science",
-    "company": "NIKI Digital Engineering",
-    "location": "Remote",
-    "description": "<p>NIKI is looking for a Postdoc/PhD/PhD cand. in Physics, Computer Science or similar discipline for industrial projects in the automotive industry.</p><p>Become a member of NIKI Digital Engineering!</p><p>If you are a Postdoc/PhD/PhD candidate looking for new challenges, interdisciplinary and diverse teams, and projects, send us your resume.</p><p>Our strategy is to transfer the know-how into practice. TWT is our trusted long-term partner, sharing and supporting our vision. Through close, daily collaboration, we design and deliver innovative solutions for clients and partners across the energy, health, and automotive industries. Combining interdisciplinary expertise in IT, digital engineering, and consulting, we turn ideas into impactful results that reflect our shared vision for progress.</p><p>What to expect</p><ul><li>Be a member of a TOP team: Highly qualified, innovative, and interconnected.</li><li>Get involved with topics at the forefront of technology: Artificial Intelligence, Autonomous Driving, E-Mobility, Model Based Systems Engineering, or Virtual Experience.</li><li>Acquire social skills and engage with professionals in the field of automotive and innovation.</li><li>Collaborate with international groups of professionals on different projects.</li><li>Ability to expand knowledge and responsibilities.</li><li>An opportunity to influence the direction of a fast-growing area of business.</li></ul><p>Task Description </p><ul><li>Contribute to industry-focused R&amp;D projects in Computer Science or Physics, with a focus on practical applications</li><li>Utilize programming languages such as C++, Python, or MATLAB to develop algorithms, analyze data, and optimize solutions for industry-specific challenges</li><li>Apply data analysis techniques to extract insights and employ critical thinking and creative solutions, ensuring project objectives are met </li><li>Collaborate with industry partners and external teams to implement innovative solutions in real-wo",
-    "url": "https://remoteOK.com/remote-jobs/remote-postdoc-phd-phd-cand-physics-computer-science-niki-digital-engineering-1137837",
-    "source": "RemoteOK",
-    "posted_at": "2026-11-19T16:00:21+00:00",
-    "tags": [
-      "design",
-      "python",
-      "consulting",
-      "technical",
-      "exec",
-      "c",
-      "c plus plus",
-      "matlab",
-      "medical",
-      "engineer",
-      "digital nomad"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "1226 | Front-end Developer",
-    "company": "Intetics 2",
-    "location": "Germany",
-    "description": "<p>Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and \u201call-things-digital\u201d solutions, is looking for a&nbsp;<strong>Front-end Developer </strong>to join our team.</p><p>Long-term cooperation on an as-needed basis, with potential part-time assignments and travel to the client\u2019s office if required</p><p>Our client is an international organization supporting global environmental and sustainability initiatives. The engagement focuses on developing and supporting enterprise applications, digital services, and technology solutions used across the organization. Specialists will collaborate with internal teams and external partners in an international environment, following established architecture, security, and delivery standards.</p><p>We are looking for a Front-end Developer to build and maintain responsive, accessible web applications. You will work closely with UX/UI designers, Business Analysts, architects, and backend developers to translate business requirements and design specifications into reliable user interfaces.</p><p><strong>Responsibilities</strong></p><ul><li>Develop and maintain web interfaces using React, TypeScript, and component-based architectures.</li><li>Integrate frontend applications with APIs, backend services, and authentication flows.</li><li>Ensure accessibility in line with WCAG 2.1 AA or equivalent standards.</li><li>Improve usability, frontend performance, and client-side security.</li><li>Develop unit tests, apply automated testing practices, and resolve defects.</li><li>Participate in code reviews, maintain technical documentation, and contribute to Agile delivery.</li></ul><p><strong>Requirements</strong></p><ul><li>At least 5 years of experience designing, developing, testing, and maintaining frontend applications, including React and TypeScript.</li><li>At least 5 years of experience collaborating",
-    "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1226-front-end-developer-germany-84712",
+    "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
+    "company": "MESKRU GmbH",
+    "location": "Essen",
+    "description": "<p>Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Das erwartet dich bei uns</strong></p>\n<p>Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team</p>\n<ul>\n<li>Anbindung externer Systeme \u00fcber REST APIs und Webhooks</li>\n<li>Code Review, Fehleranalyse und Bug Fixing, inklusive Lesen von Logs sowie Beachten von Laufzeit und Performance</li>\n<li>Erstellung und Pflege von ScriptRunner L\u00f6sungen (Listener, Workflow Postfunktionen, Validatoren, Bedingungen, Behaviours, geplante Jobs)</li>\n<li>Konzeption und Umsetzung von Automationen in Jira und Jira Service Management</li>\n<li>G\u00e4ngige Atlassian Beratungst\u00e4tigkeiten</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Das bringst du mit</strong></p>\n<p>Solide Programmiergrundlagen, idealerweise in mehreren Sprachen (z.B. TypeScript, Groovy, Python)</p>\n<ul>\n<li>Programmierkenntnisse in TypeScript/JavaScript f\u00fcr die Forge Entwicklung</li>\n<li>Erste Erfahrung mit Jira und Confluence</li>\n<li>Keine Scheu vor Bug Fixing und Fehlersuche</li>\n<li>Strukturierte Arbeitsweise sowie Freude an Teamarbeit und technischer Kommunikation</li>\n<li>Sehr gute Deutsch- und Englischkenntnisse</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>Erfahrung mit Confluence oder weiteren Marketplace Apps</li>\n<li>Erfahrung mit Atlassian Cloud Migrationen und Betriebsmodellen</li>\n<li>Kenntnisse in Forge oder Automations</li>\n<li>Atlassian Zertifizierungen sind willkommen</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>Das bieten wir dir</strong></p>\n<ul>\n<li>Technisch anspruchsvolle Projekte mit hoher Eigenverantwortung und Gestaltungsspielraum</li>\n<li>Flache Hierarchien, direkte Kommunikation und ein Team, das Wissen teilt</li>\n<",
+    "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-121371",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-21T12:20:17+00:00",
+    "posted_at": "2026-11-22T10:00:59+00:00",
     "tags": [
-      "Information Technology and Services",
-      "Remote"
+      "Software Development"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "JavaScript"
+    ]
+  },
+  {
+    "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
+    "company": "MESKRU GmbH",
+    "location": "Munich",
+    "description": "<p>Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Das erwartet dich bei uns</strong></p>\n<p>Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team</p>\n<ul>\n<li>Anbindung externer Systeme \u00fcber REST APIs und Webhooks</li>\n<li>Code Review, Fehleranalyse und Bug Fixing, inklusive Lesen von Logs sowie Beachten von Laufzeit und Performance</li>\n<li>Erstellung und Pflege von ScriptRunner L\u00f6sungen (Listener, Workflow Postfunktionen, Validatoren, Bedingungen, Behaviours, geplante Jobs)</li>\n<li>Konzeption und Umsetzung von Automationen in Jira und Jira Service Management</li>\n<li>G\u00e4ngige Atlassian Beratungst\u00e4tigkeiten</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Das bringst du mit</strong></p>\n<p>Solide Programmiergrundlagen, idealerweise in mehreren Sprachen (z.B. TypeScript, Groovy, Python)</p>\n<ul>\n<li>Programmierkenntnisse in TypeScript/JavaScript f\u00fcr die Forge Entwicklung</li>\n<li>Erste Erfahrung mit Jira und Confluence</li>\n<li>Keine Scheu vor Bug Fixing und Fehlersuche</li>\n<li>Strukturierte Arbeitsweise sowie Freude an Teamarbeit und technischer Kommunikation</li>\n<li>Sehr gute Deutsch- und Englischkenntnisse</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>Erfahrung mit Confluence oder weiteren Marketplace Apps</li>\n<li>Erfahrung mit Atlassian Cloud Migrationen und Betriebsmodellen</li>\n<li>Kenntnisse in Forge oder Automations</li>\n<li>Atlassian Zertifizierungen sind willkommen</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>Das bieten wir dir</strong></p>\n<ul>\n<li>Technisch anspruchsvolle Projekte mit hoher Eigenverantwortung und Gestaltungsspielraum</li>\n<li>Flache Hierarchien, direkte Kommunikation und ein Team, das Wissen teilt</li>\n<",
+    "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-munich-310261",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-22T10:00:59+00:00",
+    "tags": [
+      "Software Development"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "JavaScript"
+    ]
+  },
+  {
+    "title": "Product Manager, New Grad (2027) - Berlin",
+    "company": "databricks",
+    "location": "Berlin",
+    "description": "&lt;p&gt;P-1453&lt;/p&gt;\n&lt;p&gt;At Databricks, we are passionate about helping data teams solve the world&#39;s toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world&#39;s best data and AI infrastructure platform so our customers can use deep data insights to improve their business.&lt;/p&gt;\n&lt;p&gt;As an Associate Product Manager, you will join a team that works diligently to understand and solve our customers\u2019 most challenging problems. We&#39;re hiring across all of our teams, including Machine Learning, Unity Catalog, Databricks SQL, ETL, Streaming, EDA, and Content Organization. You will have a dedicated mentor and will join our 2027 APM cohortwhere you&#39;ll connect with product managers, engineers, designers, account teams, other interns, and leaders from across the company.&lt;/p&gt;\n&lt;p&gt;We are hiring for Amsterdam, Berlin and Belgrade&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Work with a team to build features for the Databricks platform&lt;/li&gt;\n&lt;li&gt;Manage your project end-to-end, including design, code, and feedback&lt;/li&gt;\n&lt;li&gt;Learn about building a platform that scales quickly while maintaining quality and security&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You will graduate between Fall 2026 and Summer 2027 with a bachelors or masters degree in computer science or related engineering practice&lt;/li&gt;\n&lt;li&gt;You have some experience with SQL and/or Python&lt;/li&gt;\n&lt;li&gt;You can leverage analytical skills to make data-driven decisions (e.g. analyze product usage)&lt;/li&gt;\n&lt;li&gt;You are able to make complex topics simple and clearly communicate nuance to stakeholders (engineers, customers, field, etc.) in both written and verbal form&lt;/li&gt;\n&lt;li&gt;You are",
+    "url": "https://www.arbeitnow.com/jobs/companies/databricks/product-manager-new-grad-2027-berlin-430740",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-22T00:55:21+00:00",
+    "tags": [
+      "University Recruiting - Product"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Software Test Development Ingenieur (m/w/d)",
+    "company": "encontec GmbH",
+    "location": "Oberkochen , Baden-W\u00fcrttemberg, Deutschland",
+    "description": "<h3>Software Test Development Ingenieur (m/w/d) </h3><figure><img style=\"width:2280px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/5u355kceo5/9.jpg\"></figure><p>Bei unserem namhaften Kunden im Raum Aalen/Oberkochen - einem f\u00fchrenden Unternehmen der Hightechindustrie - bietet sich diese einmalige Perspektive im Rahmen der Arbeitnehmer\u00fcberlassung mit der Option auf \u00dcbernahme.</p><h3>Dein zuk\u00fcnftiger T\u00e4tigkeitsbereich</h3><ul><li><p>Implementierung und Validierung von Testkonzepten</p></li><li><p>Unterst\u00fctzung von internen Mitarbeitern und externen Dienstleistern bei der Umsetzung von Testkonzepten</p></li><li><p>Erstellung automatisierter Systemtests unter Verwendung von Standardans\u00e4tzen, z. B. HIL</p></li><li><p>Nutzung modernster Technologien zur Erh\u00f6hung der Testabdeckung von Softwaresystemen</p></li><li><p>End-to-End-Testsysteme einrichten und erweitern </p></li><li><p>\u00dcberwachung von Testl\u00e4ufe und die Erstellung automatischer Testberichte sowie die Dokumentation und Optimierung von Testabl\u00e4ufen</p></li></ul><h3>Das zeichnet Dich aus&nbsp;</h3><ul><li><p>Abgeschlossenes Studium Elektrotechnik (m/w/d), Informatik, Mechatronik oder vergleichbar</p></li><li><p>Umfassende Erfahrung in der Entwicklung automatisierter, hardwarebezogener Softwaretests </p></li><li><p>Erfahrung in der Entwicklung von Softwaretests mit Python / pytest </p></li><li><p>Erfahrung mit Azure DevOps zur Integration von Tests in CI-Pipelines </p></li><li><p>Erfahrung im Einsatz von Test-Frameworks zur Automatisierung von Funktionstests in der Embedded-Softwareentwicklung w\u00fcnschenswert</p></li><li><p>Ausgepr\u00e4gte F\u00e4higkeiten in der Systemintegration und eine systematische Herangehensweise </p></li><li><p>Gute Deutsch- und Englischkenntnisse (B2)</p></li><li><p><strong>For international applicants:</strong>&nbsp;Please note that the business language is German. B2 level is mandatory and must have for this position</p></li></ul><h3>Deine berufliche Zukunft</h3><ul><li><p><strong",
+    "url": "https://www.arbeitnow.com/jobs/companies/encontec-gmbh/software-test-development-ingenieur-oberkochen-368464",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-22T09:51:55+00:00",
+    "tags": [
+      "A\u00dc-Zeiss"
     ],
     "match_score": 3,
     "matched_skills": [
-      "React",
-      "Agile"
+      "Python",
+      "Azure"
+    ]
+  },
+  {
+    "title": "Principal Software Engineer, Infrastructure",
+    "company": "Reddit",
+    "location": "US Only",
+    "description": "<div><div>\n<div>\n<div>\n<div>\n<div>\n<div>Reddit is a community of communities. It\u00e2\u0080\u0099s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u00e2\u0080\u0099s largest sources of information. For more information, visit <a href=\"http://www.redditinc.com/\">www.redditinc.com</a>.</div>\n</div>\n</div>\n</div>\n</div>\n</div></div><p>The Infrastructure organization has the mission of building and delivering the compute orchestration environment, storage and data systems, and essential platform services behind all of Reddit.\u00c2\u00a0</p>\n<p>The Infrastructure organization is looking to hire a backend software engineer to work collaboratively on a team dedicated to building out Reddit\u00e2\u0080\u0099s multi-cloud compute infrastructure. This is a high impact role where you will contribute to design, implementation, and operations for one of the largest sites in the world. The Infrastructure team\u00e2\u0080\u0099s mission is to provide a platform for teams to independently and effectively run their compute workloads in a performant, reliable, and secure way.</p>\n<p>The position is a mix of software engineering and devops; a lot of the time, we are writing software to improve our compute infrastructure. But there is a substantial amount of troubleshooting and analysis to understand the real problems we face as we scale, and our customer\u00e2\u0080\u0099s workloads change.</p>\n<p><strong>What you\u00e2\u0080\u0099ll do:</strong></p>\n<ul>\n<li>Work collaboratively with a team of software engineers and systems engineers to create and maintain the foundational platform for running Reddit\u00e2\u0080\u0099s infrastructure.</li>\n<li>Design, write, and deliver software to improve the availability, scalability, latency, and efficiency of Reddit\u00e2\u0080\u0099s products in Go and sometimes Python.</li>\n<li>Guide and contr",
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
+    "source": "RemoteOK",
+    "posted_at": "2026-11-21T04:40:06+00:00",
+    "tags": [
+      "devops"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python"
     ]
   },
   {
@@ -91,15 +100,15 @@
     ]
   },
   {
-    "title": "Engineering Manager",
-    "company": "Clover Health",
-    "location": "US Only",
-    "description": "<p>At Counterpart Health, we are transforming healthcare and improving patient care with our innovative primary care tool, Counterpart Assistant. By supporting Primary Care Physicians (PCPs), we are able to deliver improved outcomes to our patients at a lower cost through early diagnosis and longitudinal care management of chronic conditions.</p>\n<p>We're looking for an Engineering Manager to join our team. Our managers take on a player/coach role, balancing technical leadership, execution, and people management. The primary responsibility of Engineering Managers is to build and develop strong teams while ensuring high-impact results. We empower engineers to take ownership of problems and support them with mentorship, guidance, and business context.</p>\n<p><strong>As an Engineering Manager, you will:</strong></p>\n<ul>\n<li>Drive team impact by fostering high technical productivity and reliability.</li>\n<li>Cultivate a healthy, results-driven, and collaborative team culture.</li>\n<li>Represent the team in engineering-wide planning, initiatives, and processes.</li>\n<li>Partner with\u00c2\u00a0Product Managers and Designers to shape our technical roadmap and solve problems that improve the patient and doctor experience.</li>\n<li>Set and communicate clear team objectives that align with Counterpart's company goals and roadmap.</li>\n<li>Lead\u00c2\u00a0hiring, development, and retention efforts to build a high-performing team.</li>\n</ul>\n<p><strong>You should get in touch if:</strong></p>\n<ul>\n<li>You have technical leadership experience managing teams of 3+ engineers.\u00c2\u00a0</li>\n<li>You have a strong background in<strong> </strong>system design and proficiency in general-purpose programming languages such as Python, Ruby, Go, or Java.</li>\n<li>You have a track record of<strong> </strong>leading development projects while creating opportunities for others to grow into leadership roles.</li>\n<li>You have experience in fast-paced environments, making quick, strategic decisions under competing cons",
-    "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-clover-health-1137855",
-    "source": "RemoteOK",
-    "posted_at": "2026-11-19T20:00:13+00:00",
+    "title": "Forward Deployed Engineer",
+    "company": "Auterion",
+    "location": "Munich",
+    "description": "&lt;p&gt;As a Forward Deployed Engineer at Auterion, you will build software that runs on real drones. You will take Auterion\u2019s platform into a specific customer program and make it work on their hardware, for their mission, in the field.&lt;/p&gt;\n&lt;p&gt;This is a software engineering role. You will design, write, integrate and debug C++ and Python code on a Linux-based autonomy stack, working with AuterionOS, our operating system for autonomous vehicles, and Skynode, our flight and mission computer running PX4 and AuterionOS. Your work will span autonomy, computer vision, video streaming and long-range radio links, on partner platforms across aerial, maritime and ground vehicles. What sets this role apart is that your work isn\u2019t finished when the code is merged; it\u2019s finished when the system flies.&lt;/p&gt;\n&lt;p&gt;You will join a forward deployed team dedicated to a single customer program, which owns the outcome from first requirement to deployed system. You will work directly with partners and customers, as well as with Auterion\u2019s core platform, hardware and flight test teams. Between trips, you will work from our Munich office, both at your desk and on the bench.&lt;/p&gt;\n&lt;p&gt;No drone experience is required. If you have integrated software on cars, robots, industrial machines or other embedded systems, you already have the right foundation, and we will teach you the drone side.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities and Duties&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and implement software for customer programs on AuterionOS and Skynode, including features, integrations, payload and sensor drivers, and tooling.&lt;/li&gt;\n&lt;li&gt;Bring up complete systems on real hardware, including compute, sensors, payloads and radios, and get them working end to end.&lt;/li&gt;\n&lt;li&gt;Debug across the full stack, determining whether an issue stems from software, configuration, hardware or RF, and then resolving it.&lt;/li&gt;\n&lt;li&gt;",
+    "url": "https://www.arbeitnow.com/jobs/companies/auterion/forward-deployed-engineer-munich-153891",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-22T12:55:22+00:00",
     "tags": [
-      "programming"
+      "Engineering"
     ],
     "match_score": 2,
     "matched_skills": [
@@ -107,71 +116,31 @@
     ]
   },
   {
-    "title": "SEO Full Stack Engineer",
-    "company": "Treatwell",
+    "title": "Working Student \u2013 Hardware Engineering (UAS Propulsion & Power) (All Genders)",
+    "company": "Skdse",
     "location": "Remote",
-    "description": "<p>We're looking for a full-stack engineer to join our Product Engineering team, reporting to one of the Engineering Managers of the Marketplace area, with a dotted line to the Marketing SEO Manager, focused on supporting the Growth and Marketing area. This role will have a 60% focus on Front End, and 40% focus on Back End.</p><p>You'll work on Treatwell\u00e2\u0080\u0099s Marketplace products and help Treatwell be discovered, understood, and chosen across 13 markets: SEO foundations, site performance, experimentation, analytics instrumentation, and the product surfaces that connect customer intent with booking, alongside three product engineering teams in the Marketplace area, contributing across the full breadth of what makes Treatwell's marketplace tick. As a full-stack engineer, you're the person who can move fluidly between teams accelerating growth and marketing efforts wherever the need is greatest.</p><p>You bring the mindset of someone who cares about how people find Treatwell, what experience they land on, and whether the product helps them make a confident booking. You are comfortable partnering with marketing and growth stakeholders, while staying grounded in engineering quality and product outcomes.</p><p></p><p>\u00e2\u009e\u00a1\u00ef\u00b8\u008f Our product is built on:</p><ul><li>Backend: Java, Spring Boot, RabbitMQ, PostgreSQL, MS-SQL</li><li>Frontend: React, TypeScript, Cypress, Jest</li><li>Infrastructure: Kubernetes, GitLab CI/CD, AWS, Datadog</li><li>Mindset: DevOps, DDD, event-driven architecture</li></ul><p></p><p>\u00f0\u009f\u0092\u00a1 About Treatwell</p><p>Hi, we\u00e2\u0080\u0099re Treatwell. Nice to meet you.</p><p>We\u00e2\u0080\u0099re a team of 800 passionate and brilliantly talented people across Europe. We\u00e2\u0080\u0099re the industry\u00e2\u0080\u0099s smartest salon management software, all connected to Europe\u00e2\u0080\u0099s leading bookings platform, working with over 95,000 salon partners across 14 countries, processing over 14 million bookings every month. And\u00e2\u0080\u00a6.breathe.</p><p>But we\u00e2\u0080\u0099re not done yet. We\u00e2\u0080\u0099re on an exciting journey to digitally revolutio",
-    "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
-    "source": "RemoteOK",
-    "posted_at": "2026-11-18T16:00:31+00:00",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge the future of European and national security through cutting-edge, AI-driven technology and unmatched engineering precision. As a premier defence technology company, our mission is clear: to equip NATO Allies and their partners &amp;nbsp;with next-generation autonomous defence platforms and advanced AI-driven software built to perform in the world\u2019s most demanding environments.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;We believe that true security stems from relentless innovation. By combining elite engineering talent with agile technology and an AI-native operational culture, Stark turns complex defence challenges into field-tested, multi-domain solutions.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;WHY JOIN US&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;The software and systems you work on directly protect personnel and defend European and national sovereignty.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;You will work alongside industry-leading minds on autonomous systems, advanced propulsion, and secure cyber platforms.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;We foster a fast-pace",
+    "url": "https://www.arbeitnow.com/jobs/companies/skdse/working-student-hardware-engineering-uas-propulsion-power-all-genders-438072",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-22T00:55:22+00:00",
     "tags": [
-      "full stack",
-      "react",
-      "rabbitmq",
-      "front end",
-      "technical",
-      "customer support",
-      "dev",
-      "testing",
-      "marketing",
-      "design",
-      "web dev",
-      "exec",
-      "devops",
-      "finance",
-      "java",
-      "postgres",
-      "typescript",
-      "seo",
-      "senior",
-      "stats",
-      "engineer",
-      "recruiter",
-      "backend",
-      "digital nomad"
+      "Engineering"
     ],
     "match_score": 2,
     "matched_skills": [
-      "React",
-      "SQL"
+      "Agile"
     ]
   },
   {
-    "title": "Traumpraktikum mit Perspektive: Werde Fachinformatiker f\u00fcr Anwendungsentwicklung (m/w/d)!",
-    "company": "TenMedia GmbH",
+    "title": "Software Engineering Intern (2027 Start) - Berlin",
+    "company": "databricks",
     "location": "Berlin",
-    "description": "<p>TenMedia ist ein erfolgreiches Softwareunternehmen im Herzen Berlins. Wir sind seit \u00fcber 14 Jahren auf den Betrieb und die Entwicklung von Individualsoftware spezialisiert.</p>\n<p>Wir suchen ab sofort einen Praktikanten (m/w/d) im Bereich Fachinformatik f\u00fcr Anwendungsentwicklung.</p>\n<p>Wir glauben an die St\u00e4rke und das Potenzial unseres Teams und sind stets bem\u00fcht, dass Beste aus uns herauszuholen. Als Praktikant wirst du Teil dieses Teams. Dabei folgst du unserem strukturierten Ausbildungsplan, der darauf ausgerichtet ist, dich innerhalb k\u00fcrzester Zeit zum Profi zu machen. Neben dem Programmieren stehen auch Tools und Prozesse wie Microsoft DevOps, Scrum und Git im Fokus. Sobald du dich sattelfest f\u00fchlst, erh\u00e4ltst du erste Einblicke in echte Projekte und kannst diese erkunden und kleinere Tasks umsetzen, frei von Termindruck und Deadlines.</p>\n<h2>Aufgaben</h2>\n<p>Das erwartet dich:</p>\n<ul>\n<li>Praktische Erfahrungen in einem schlagkr\u00e4ftigen Unternehmen, das sich auf die Entwicklung von Individualsoftware und Online-Plattformen spezialisiert hat</li>\n<li>Moderne Stacks, kein Wordpress, Joomla o.\u00e4.</li>\n<li>Arbeit an spannenden Projekten und die M\u00f6glichkeit, moderne Technologien kennenzulernen</li>\n<li>Integration in ein engagiertes und kreatives Team</li>\n<li>Du kannst eigene Ideen einbringen und dich aktiv beteiligen</li>\n<li>Lerne den Scrum-Prozess kennen und arbeite mit DevOps-Boards</li>\n</ul>\n<h2>Qualifikation</h2>\n<p>Das bringst du mit:</p>\n<ul>\n<li>Laufende oder abgeschlossene Ausbildung, Weiterbildung, Umschulung, Fortbildung oder Studium mit Schwerpunkt Fachinformatik f\u00fcr Anwendungsentwicklung, Informatik, Wirtschaftsinformatik etc.</li>\n<li>Die Bereitschaft, neue Technologien, Programmiersprachen und Frameworks zu mastern</li>\n<li>Erfahrungen mit Programmiersprachen, CMS und Frameworks (JavaScript, PHP oder C# ist von Vorteil)</li>\n<li>Erfahrung mit Backend, Frontend, Datenbank, Versionierung mit GIT</li>\n<li>Leistungsbereitschaft (!), Eigenst\u00e4ndige ",
-    "url": "https://www.arbeitnow.com/jobs/companies/tenmedia-gmbh/traumpraktikum-mit-perspektive-werde-fachinformatiker-fur-anwendungsentwicklung-berlin-433461",
+    "description": "&lt;p&gt;&lt;strong&gt;P-968&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, we are passionate about helping data teams solve the world&#39;s toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world&#39;s best data and AI infrastructure platform so our customers can use deep data insights to improve their business.&lt;/p&gt;\n&lt;p&gt;As a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We&#39;re hiring across all of our teams, including full stack, backend, infrastructure, systems, tools, cloud, databases, and customer-facing products. You will have a dedicated mentor and will join our 2027 intern cohort where you&#39;ll connect with engineers, other interns, and leaders from across the company.&lt;/p&gt;\n&lt;p&gt;We are hiring Software Engineering Interns across multiple offices. Please apply for the single location that you&#39;re the most interested in, and we will discuss more with you as you move through the process. We can only consider one application in 30 days.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Work with a team to build features for the Databricks platform&lt;/li&gt;\n&lt;li&gt;Manage your project end-to-end, including design, code, and feedback&lt;/li&gt;\n&lt;li&gt;Learn about building a platform that scales quickly while maintaining quality and security&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You will graduate between fall 2027 and summer 2028 with a degree in Computer Science, Engineering, or related subject&lt;/li&gt;\n&lt;li&gt;You have implementation skills with a general purpose program language, such as Python, Java, or C++&lt;/li&gt;\n&lt;li&gt;You have good knowledge of algorithms, data structures, ",
+    "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-356841",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-21T13:00:53+00:00",
+    "posted_at": "2026-11-22T00:55:22+00:00",
     "tags": [
-      "Software Development"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Go-to-Market AI & Data Intern (AI x Greentech) (m/f/d)",
-    "company": "Reonic",
-    "location": "Berlin",
-    "description": "<p style=\"min-height:1.5em\"><strong>Do you thrive in fast-paced environments and have a passion for renewable energy?</strong></p><p style=\"min-height:1.5em\">As our Go-to-Market AI &amp; Data Associate, you will be the co-architect of our data ecosystem. You\u2019ll take full ownership of making customer and revenue data accessible, building internally used applications from the ground up, and deploying AI to supercharge our growth.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><em><strong>Please note that for this role, C2 German proficiency is required. This is a full-time, on-site position based in Berlin.</strong></em></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What You\u2019ll Do</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>AI Integration:</strong> Implement AI-driven workflows and predictive models to automate insights, lead scoring, and trend forecasting.</p></li><li><p style=\"min-height:1.5em\"><strong>Process Innovation &amp; AI Implementation:</strong> You will dive deep into our customer-oriented workflows to reshape them with your creative, AI-driven ideas and technical skills. As the owner of the implementation, you won't just strategize - you will personally drive these improvements from concept to reality.</p></li><li><p style=\"min-height:1.5em\"><strong>Vertical Owner (Data Driven Analytics):</strong> You will relentlessly improve our data product experience by working with internal and external stakeholders to identify bottlenecks, refine analytical fit, and personally onboard them into a world-class, data-driven workflow.</p></li><li><p style=\"min-height:1.5em\"><strong>Data Accessibility:</strong> Design and maintain robust pipelines to make data from our customers, HubSpot, and Aircall fully usable and accessible across the organization.</p></li><li><p style=\"min-height:1.5em\"><strong>Hands-on Engineering:</strong> Work directly in Python (or TypeScript) to integrate diverse data",
-    "url": "https://www.arbeitnow.com/jobs/companies/reonic/go-to-market-ai-data-intern-ai-x-greentech-berlin-111794",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-21T12:40:11+00:00",
-    "tags": [
-      "Go-to-Market and AI Enablement"
+      "University Recruiting - Engineering"
     ],
     "match_score": 2,
     "matched_skills": [
@@ -179,36 +148,20 @@
     ]
   },
   {
-    "title": "1227 | Back-end Developer",
-    "company": "Intetics 2",
-    "location": "Germany",
-    "description": "<p>Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and \u201call-things-digital\u201d solutions, is looking for a&nbsp;<strong>Back-end Developer </strong>to join our team.</p><p>Long-term cooperation on an as-needed basis, with potential part-time assignments and travel to the client\u2019s office if required</p><p>Our client is an international organization supporting global environmental and sustainability initiatives. The engagement focuses on developing and supporting enterprise applications, digital services, and technology solutions used across the organization. Specialists will collaborate with internal teams and external partners in an international environment, following established architecture, security, and delivery standards.</p><p>We are looking for a Back-end Developer to develop and maintain enterprise backend applications, APIs, and system integrations. You will implement business logic and contribute to secure, reliable, and scalable services in collaboration with business and technical stakeholders.</p><p><strong>Responsibilities</strong></p><ul><li>Design, develop, test, and maintain backend services using .NET, Python, Node.js, or equivalent technologies.</li><li>Translate business requirements into application functionality, APIs, and integrations.</li><li>Design and manage relational and/or NoSQL databases.</li><li>Implement authentication, encryption, logging, monitoring, and caching.</li><li>Develop automated unit tests, participate in code reviews, and troubleshoot defects.</li><li>Maintain technical documentation and communicate implementation progress, dependencies, and issues.</li></ul><p><strong>Requirements</strong></p><ul><li>At least 5 years of experience developing and maintaining backend applications, including APIs, integrations, and service-based architectures.</li><li>At least 5 years of experience workin",
-    "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1227-back-end-developer-germany-388586",
+    "title": "Software Test Engineer",
+    "company": "SwissPeak Partners GmbH",
+    "location": "Remote job",
+    "description": "<p style=\"text-align:start;\">Wir rekrutieren einen Software Test Engineer (m/w/d) f\u00fcr ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt.</p><p style=\"text-align:start;\">Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualit\u00e4tsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt \u00fcberwiegend auf manuellem Testing, mit der M\u00f6glichkeit, sp\u00e4ter in die Automatisierung hineinzuwachsen.</p><p style=\"min-height: 1.7em;\"></p><p style=\"text-align:start;\"><strong>Must-have Anforderungen</strong></p><ul><li><p>Mehrj\u00e4hrige Erfahrung im Software-Testing in agilen Umgebungen, sicher im Testfalldesign und in der Erstellung von Testkonzepten</p></li><li><p>Erfahrung mit Azure DevOps (Boards, Test Plans) oder Jira Xray</p></li><li><p>Erfahrung im Testing konfigurierter Business-Plattformen, idealerweise Dynamics 365 (CE/CRM) oder Power Platform</p></li><li><p>Sehr gutes Deutsch und fliessendes Englisch</p><p style=\"min-height: 1.7em;\"></p></li></ul><p style=\"text-align:start;\"><strong>Nice-to-have Anforderungen</strong></p><ul><li><p>ISTQB Zertifizierung</p></li><li><p>Kenntnisse in Power Platform oder Azure</p><p style=\"min-height: 1.7em;\"></p></li></ul><p style=\"text-align:start;\"><strong>Das erwartet dich</strong></p><ul><li><p>Flexibler Homeoffice-Anteil, du entscheidest frei, ob du von zu Hause oder im B\u00fcro arbeitest</p></li><li><p>Flache Hierarchien</p></li><li><p>Grossz\u00fcgige Weiterbildungsf\u00f6rderung</p></li><li><p>Halbtax, Gesundheitsangebote, gemeinsame Anl\u00e4sse</p><p style=\"min-height: 1.7em;\"></p></li></ul><p style=\"text-align:start;\">Interessiert an weiteren Informationen? Melde dich gerne unter <a rel=\"noopener\" target=\"_blank\" ---------- oder bewirb dich direkt!</p><p style=\"min-height: 1.7em;\"></p> <br> <p>Find",
+    "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-110215",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-21T12:20:17+00:00",
+    "posted_at": "2026-11-22T12:31:14+00:00",
     "tags": [
-      "Information Technology and Services",
+      "Software Engineering",
       "Remote"
     ],
     "match_score": 2,
     "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Frontend Engineer (m/f/x)",
-    "company": "Goegmbh",
-    "location": "Berlin",
-    "description": "&lt;p&gt;At go-e, we have been pursuing the development of our vision with passion and strength from the very beginning. We are moving in an area that is characterized by breakthroughs and growth and that requires a lot of personal responsibility and creative solution finding. On our journey towards the energy transition, the mixture of innovation and security, regional and international, self-realization and professionalism is the ideal fuel for our mutual growth.&lt;/p&gt;\n&lt;p&gt;Help build the Portal, a modern web platform for fleet managers and technicians. As a&lt;strong&gt; Frontend Engineer (m/f/x)&lt;/strong&gt;, you will turn product ideas into responsive, accessible interfaces using &lt;strong&gt;React and TypeScript.&lt;/strong&gt; Join a collaborative team that values autonomy, ownership, code quality, and learning, and deliver features with visible customer impact.&lt;/p&gt;\n&lt;p&gt;With your contribution, you will impact how people will charge their cars in the future. Come and join the team in Berlin (GER) that is building the future of innovative charger solutions for e-mobility!&lt;/p&gt;\n&lt;h3&gt;Your area of responsibility&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and deliver frontend features for the Portal using React and TypeScript.&lt;/li&gt;\n&lt;li&gt;Work with product, design, and backend specialists to translate requirements into user interfaces.&lt;/li&gt;\n&lt;li&gt;Integrate RESTful APIs and WebSocket communication, including asynchronous data, caching, and error handling.&lt;/li&gt;\n&lt;li&gt;Write clean, maintainable, performant code and unit and integration tests.&lt;/li&gt;\n&lt;li&gt;Contribute to code reviews, design discussions, and frontend architectural decisions.&lt;/li&gt;\n&lt;li&gt;Troubleshoot existing features, improve performance, and share knowledge with other engineers.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Who we\u2019re looking for&lt;strong&gt;:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong experience building web applica",
-    "url": "https://www.arbeitnow.com/jobs/companies/goegmbh/frontend-engineer-berlin-143307",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-21T03:55:17+00:00",
-    "tags": [
-      "Development"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "React"
+      "Azure"
     ]
   }
 ]
