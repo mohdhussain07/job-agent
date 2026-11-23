@@ -1,65 +1,67 @@
 [
   {
-    "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
-    "company": "MESKRU GmbH",
-    "location": "Essen",
-    "description": "<p>Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Das erwartet dich bei uns</strong></p>\n<p>Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team</p>\n<ul>\n<li>Anbindung externer Systeme \u00fcber REST APIs und Webhooks</li>\n<li>Code Review, Fehleranalyse und Bug Fixing, inklusive Lesen von Logs sowie Beachten von Laufzeit und Performance</li>\n<li>Erstellung und Pflege von ScriptRunner L\u00f6sungen (Listener, Workflow Postfunktionen, Validatoren, Bedingungen, Behaviours, geplante Jobs)</li>\n<li>Konzeption und Umsetzung von Automationen in Jira und Jira Service Management</li>\n<li>G\u00e4ngige Atlassian Beratungst\u00e4tigkeiten</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Das bringst du mit</strong></p>\n<p>Solide Programmiergrundlagen, idealerweise in mehreren Sprachen (z.B. TypeScript, Groovy, Python)</p>\n<ul>\n<li>Programmierkenntnisse in TypeScript/JavaScript f\u00fcr die Forge Entwicklung</li>\n<li>Erste Erfahrung mit Jira und Confluence</li>\n<li>Keine Scheu vor Bug Fixing und Fehlersuche</li>\n<li>Strukturierte Arbeitsweise sowie Freude an Teamarbeit und technischer Kommunikation</li>\n<li>Sehr gute Deutsch- und Englischkenntnisse</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>Erfahrung mit Confluence oder weiteren Marketplace Apps</li>\n<li>Erfahrung mit Atlassian Cloud Migrationen und Betriebsmodellen</li>\n<li>Kenntnisse in Forge oder Automations</li>\n<li>Atlassian Zertifizierungen sind willkommen</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>Das bieten wir dir</strong></p>\n<ul>\n<li>Technisch anspruchsvolle Projekte mit hoher Eigenverantwortung und Gestaltungsspielraum</li>\n<li>Flache Hierarchien, direkte Kommunikation und ein Team, das Wissen teilt</li>\n<",
-    "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-121371",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-22T10:00:59+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
-    "company": "MESKRU GmbH",
-    "location": "Munich",
-    "description": "<p>Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.</p>\n<h2>Aufgaben</h2>\n<p><strong>Das erwartet dich bei uns</strong></p>\n<p>Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team</p>\n<ul>\n<li>Anbindung externer Systeme \u00fcber REST APIs und Webhooks</li>\n<li>Code Review, Fehleranalyse und Bug Fixing, inklusive Lesen von Logs sowie Beachten von Laufzeit und Performance</li>\n<li>Erstellung und Pflege von ScriptRunner L\u00f6sungen (Listener, Workflow Postfunktionen, Validatoren, Bedingungen, Behaviours, geplante Jobs)</li>\n<li>Konzeption und Umsetzung von Automationen in Jira und Jira Service Management</li>\n<li>G\u00e4ngige Atlassian Beratungst\u00e4tigkeiten</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Das bringst du mit</strong></p>\n<p>Solide Programmiergrundlagen, idealerweise in mehreren Sprachen (z.B. TypeScript, Groovy, Python)</p>\n<ul>\n<li>Programmierkenntnisse in TypeScript/JavaScript f\u00fcr die Forge Entwicklung</li>\n<li>Erste Erfahrung mit Jira und Confluence</li>\n<li>Keine Scheu vor Bug Fixing und Fehlersuche</li>\n<li>Strukturierte Arbeitsweise sowie Freude an Teamarbeit und technischer Kommunikation</li>\n<li>Sehr gute Deutsch- und Englischkenntnisse</li>\n</ul>\n<p><strong>Nice to have</strong></p>\n<ul>\n<li>Erfahrung mit Confluence oder weiteren Marketplace Apps</li>\n<li>Erfahrung mit Atlassian Cloud Migrationen und Betriebsmodellen</li>\n<li>Kenntnisse in Forge oder Automations</li>\n<li>Atlassian Zertifizierungen sind willkommen</li>\n</ul>\n<h2>Benefits</h2>\n<p><strong>Das bieten wir dir</strong></p>\n<ul>\n<li>Technisch anspruchsvolle Projekte mit hoher Eigenverantwortung und Gestaltungsspielraum</li>\n<li>Flache Hierarchien, direkte Kommunikation und ein Team, das Wissen teilt</li>\n<",
-    "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-munich-310261",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-22T10:00:59+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 4,
-    "matched_skills": [
-      "Python",
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Product Manager, New Grad (2027) - Berlin",
-    "company": "databricks",
+    "title": "Full-Stack Developer (m/f/d)",
+    "company": "W\u00fcrth Cloud Services GmbH",
     "location": "Berlin",
-    "description": "&lt;p&gt;P-1453&lt;/p&gt;\n&lt;p&gt;At Databricks, we are passionate about helping data teams solve the world&#39;s toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world&#39;s best data and AI infrastructure platform so our customers can use deep data insights to improve their business.&lt;/p&gt;\n&lt;p&gt;As an Associate Product Manager, you will join a team that works diligently to understand and solve our customers\u2019 most challenging problems. We&#39;re hiring across all of our teams, including Machine Learning, Unity Catalog, Databricks SQL, ETL, Streaming, EDA, and Content Organization. You will have a dedicated mentor and will join our 2027 APM cohortwhere you&#39;ll connect with product managers, engineers, designers, account teams, other interns, and leaders from across the company.&lt;/p&gt;\n&lt;p&gt;We are hiring for Amsterdam, Berlin and Belgrade&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Work with a team to build features for the Databricks platform&lt;/li&gt;\n&lt;li&gt;Manage your project end-to-end, including design, code, and feedback&lt;/li&gt;\n&lt;li&gt;Learn about building a platform that scales quickly while maintaining quality and security&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You will graduate between Fall 2026 and Summer 2027 with a bachelors or masters degree in computer science or related engineering practice&lt;/li&gt;\n&lt;li&gt;You have some experience with SQL and/or Python&lt;/li&gt;\n&lt;li&gt;You can leverage analytical skills to make data-driven decisions (e.g. analyze product usage)&lt;/li&gt;\n&lt;li&gt;You are able to make complex topics simple and clearly communicate nuance to stakeholders (engineers, customers, field, etc.) in both written and verbal form&lt;/li&gt;\n&lt;li&gt;You are",
-    "url": "https://www.arbeitnow.com/jobs/companies/databricks/product-manager-new-grad-2027-berlin-430740",
+    "description": "<h2>About W\u00fcrth Cloud Services GmbH</h2><p>W\u00fcrth Cloud Services GmbH is a spin-off of the global market leader W\u00fcrth within the W\u00fcrth Group, creating digital tools and connections for the craftsmen that build our world.</p><h2>What we are looking for</h2><p>You should have solid experience in full-stack development with modern web technologies, a strong understanding of React and serverless architectures, and the ability to write clean, maintainable code. If you match most of these requirements rather than every single one, we still encourage you to apply.</p><p></p><h2><strong>Your Responsibilities:</strong></h2><ul><li><p>Develop, maintain, and scale fullstack features across our modern SaaS platform, working on both React-based microfrontends and serverless backend services.</p></li><li><p>Implement responsive, user-friendly interfaces following our design system and ensure seamless integration with backend APIs.</p></li><li><p>Design and develop RESTful APIs and event-driven backend logic using AWS technologies (Lambda, API Gateway, EventBridge, etc.).</p></li><li><p>Leverage AI tools and agentic AI systems to accelerate development, improve code quality, and automate repetitive tasks.</p></li><li><p>Collaborate on shared libraries and packages including UI components, API services, and authentication modules.</p></li><li><p>Ensure clean, maintainable, and well-tested code across both frontend (TypeScript) and backend (Python) stacks.</p></li><li><p>Work with databases (SQL and NoSQL), focusing on performance, data modeling, and maintainability.</p></li><li><p>Write comprehensive unit, integration, and end-to-end tests to ensure high quality and reliability.</p></li><li><p>Troubleshoot and resolve issues across the full stack - from frontend behavior to backend performance.</p></li><li><p>Participate in code reviews and contribute to architecture and design discussions.</p></li><li><p>Optimize applications for performance, scalability, and cost efficiency in a c",
+    "url": "https://www.arbeitnow.com/jobs/companies/wurth-cloud-services-gmbh/full-stack-developer-berlin-134377",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-22T00:55:21+00:00",
+    "posted_at": "2026-11-23T11:30:46+00:00",
     "tags": [
-      "University Recruiting - Product"
+      "Software Development"
     ],
-    "match_score": 4,
+    "match_score": 6,
     "matched_skills": [
       "Python",
+      "React",
       "SQL"
     ]
   },
   {
-    "title": "Software Test Development Ingenieur (m/w/d)",
-    "company": "encontec GmbH",
-    "location": "Oberkochen , Baden-W\u00fcrttemberg, Deutschland",
-    "description": "<h3>Software Test Development Ingenieur (m/w/d) </h3><figure><img style=\"width:2280px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/5u355kceo5/9.jpg\"></figure><p>Bei unserem namhaften Kunden im Raum Aalen/Oberkochen - einem f\u00fchrenden Unternehmen der Hightechindustrie - bietet sich diese einmalige Perspektive im Rahmen der Arbeitnehmer\u00fcberlassung mit der Option auf \u00dcbernahme.</p><h3>Dein zuk\u00fcnftiger T\u00e4tigkeitsbereich</h3><ul><li><p>Implementierung und Validierung von Testkonzepten</p></li><li><p>Unterst\u00fctzung von internen Mitarbeitern und externen Dienstleistern bei der Umsetzung von Testkonzepten</p></li><li><p>Erstellung automatisierter Systemtests unter Verwendung von Standardans\u00e4tzen, z. B. HIL</p></li><li><p>Nutzung modernster Technologien zur Erh\u00f6hung der Testabdeckung von Softwaresystemen</p></li><li><p>End-to-End-Testsysteme einrichten und erweitern </p></li><li><p>\u00dcberwachung von Testl\u00e4ufe und die Erstellung automatischer Testberichte sowie die Dokumentation und Optimierung von Testabl\u00e4ufen</p></li></ul><h3>Das zeichnet Dich aus&nbsp;</h3><ul><li><p>Abgeschlossenes Studium Elektrotechnik (m/w/d), Informatik, Mechatronik oder vergleichbar</p></li><li><p>Umfassende Erfahrung in der Entwicklung automatisierter, hardwarebezogener Softwaretests </p></li><li><p>Erfahrung in der Entwicklung von Softwaretests mit Python / pytest </p></li><li><p>Erfahrung mit Azure DevOps zur Integration von Tests in CI-Pipelines </p></li><li><p>Erfahrung im Einsatz von Test-Frameworks zur Automatisierung von Funktionstests in der Embedded-Softwareentwicklung w\u00fcnschenswert</p></li><li><p>Ausgepr\u00e4gte F\u00e4higkeiten in der Systemintegration und eine systematische Herangehensweise </p></li><li><p>Gute Deutsch- und Englischkenntnisse (B2)</p></li><li><p><strong>For international applicants:</strong>&nbsp;Please note that the business language is German. B2 level is mandatory and must have for this position</p></li></ul><h3>Deine berufliche Zukunft</h3><ul><li><p><strong",
-    "url": "https://www.arbeitnow.com/jobs/companies/encontec-gmbh/software-test-development-ingenieur-oberkochen-368464",
+    "title": "Stagiair(e) Backend AI Developer",
+    "company": "Berenschot Groep B.V.",
+    "location": "Utrecht, Utrecht, Nederland",
+    "description": "<p class=\"MsoNormal\"><span style=\"color:#1a3877\">24-38,75 uur per week | Utrecht | hybride | softwareontwikkeling &amp; AI | \u20ac 600,\u2013 obv 1 fte | wo bachelor of master</span></p><h2><strong><span style=\"color:#1a3877\">Jouw vooruitgang begint bij Berenschot</span></strong></h2><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Wil jij bouwen aan slimme applicaties en AI-oplossingen die \u00e9cht gebruikt worden? Bij Berenschot krijg je de kans om jouw technische kennis in te zetten voor innovatieve en maatschappelijke projecten. Als stagiair(e) binnen team Digital &amp; Data &nbsp;werk je aan moderne applicaties, Python-backends en agentic AI-oplossingen die organisaties helpen om intelligenter en effici\u00ebnter te werken. Je draait direct mee in ons ontwikkelteam en krijgt veel ruimte om initiatief te nemen, nieuwe technologie\u00ebn te verkennen en jezelf snel te ontwikkelen. Werk jij graag hands-on aan echte oplossingen en ben je niet bang om nieuwe dingen te leren? Dan is deze stage iets voor jou.</span></p><p style=\"min-height: 1.7em;\"></p><h2><strong><span style=\"color:#1a3877\">Dit ga je doen</span></strong></h2><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Bij Berenschot ontwikkelen we digitale producten voor uiteenlopende opdrachtgevers. Denk aan interne platforms, AI-gedreven workflows, dashboards, API-koppelingen en generatieve-AI-oplossingen voor publieke en maatschappelijke organisaties. Als stagiair(e) help je mee met het ontwikkelen van schaalbare backend-oplossingen en AI-functionaliteiten in onze Azure-cloudomgeving. Je werkt met ervaren collega\u2019s in een Agile/DevOps-werkwijze en zorgt er samen met frontend developers voor dat applicaties en gebruikerservaringen naadloos op elkaar aansluiten.</span></p><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Dit zijn (onder andere) je taken:</span></p><ul><li><p><span style=\"color:#1a3877\">Backendservices en API\u2019s ontwikkelen in Python met FastAPI.</span></p></li><li><p><span style=\"color:#1a3877\">Werken aan schaalbare ap",
+    "url": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/stagiaire-backend-ai-developer-utrecht-379182",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-22T09:51:55+00:00",
+    "posted_at": "2026-11-23T00:31:23+00:00",
     "tags": [
-      "A\u00dc-Zeiss"
+      "Business en data solutions"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "Agile",
+      "Azure"
+    ]
+  },
+  {
+    "title": "Backend Softwareentwickler (m/w/d)",
+    "company": "Firstlead GmbH",
+    "location": "Berlin",
+    "description": "<h2>\u00dcber uns</h2>\n<p>Wir sind ADCELL - eines der schnellstwachsenden Affiliate-Marketing-Netzwerke im deutschsprachigen Raum!<br>Seit unserer Gr\u00fcndung im Jahr 2003 setzen wir konsequent auf Technologie, Daten und Innovation, um ma\u00dfgeschneiderte L\u00f6sungen zu entwickeln und Advertiser und Publisher erfolgreich miteinander zu verbinden. Unser inhabergef\u00fchrtes Team besteht aus knapp 50 hochqualifizierten Mitarbeitenden, die t\u00e4glich an spannenden Projekten im Bereich Online-Marketing arbeiten. In unserem modern ausgestatteten, knapp 1000 m\u00b2 gro\u00dfen B\u00fcro in Berlin bieten wir nicht nur eine optimale Arbeitsumgebung, sondern auch regelm\u00e4\u00dfige Get2gethers mit Fun, Facts, Pizza und Drinks.   </p>\n<h2>Deine Rolle</h2>\n<p>Du denkst analytisch, sch\u00e4tzt agile Prozesse und willst echten Impact haben?<br>Unser 8-k\u00f6pfiges Entwicklerteam bei ADCELL sucht Verst\u00e4rkung im Backend, um unser Netzwerk aktiv weiterzuentwickeln.   </p>\n<p><strong>Deine Aufgaben umfassen:</strong>  </p>\n<ul>\n<li>Entwicklung moderner PHP- und JavaScript-Anwendungen sowie Performance-Optimierung bei gro\u00dfen Datenbest\u00e4nden.</li>\n<li>Planung und Umsetzung komplexer Features sowie l\u00f6sungsorientierte Kommunikation mit dem Fachbereich.</li>\n<li>Sicherung der Code-Qualit\u00e4t durch Reviews und Teststrategien sowie systematische Fehleranalyse im laufenden Betrieb.</li>\n<li>Zielgerichteter Einsatz moderner KI-Tools als Entwicklungs-Assistenz gest\u00fctzt auf Deine technische Expertise.</li>\n<li>Aktiver Wissensaufbau und fachlicher Austausch auf Augenh\u00f6he.</li>\n</ul>\n<h2>Das solltest Du mitbringen</h2>\n<ul>\n<li>Mehrj\u00e4hrige Berufserfahrung in der Softwareentwicklung von Webanwendungen.</li>\n<li>Sehr gute Kenntnisse in objektorientiertem PHP, g\u00e4ngigen Frameworks sowie Gesp\u00fcr f\u00fcr Clean Code.</li>\n<li>Praktische Erfahrung im Umgang mit modernen JavaScript-Frameworks.</li>\n<li>Erfahrung im Umgang mit relationalen Datenbanken (z. B. MySQL).</li>\n<li>Verst\u00e4ndnis f\u00fcr saubere Softwarestrukturen und Schnittstellen (APIs).</li>\n<li>Teamgeist",
+    "url": "https://www.arbeitnow.com/jobs/companies/firstlead-gmbh/backend-softwareentwickler-berlin-126866",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-23T14:31:00+00:00",
+    "tags": [
+      "Software Development"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "JavaScript",
+      "Agile"
+    ]
+  },
+  {
+    "title": "Stagiair(e) Backend developer",
+    "company": "Berenschot Groep B.V.",
+    "location": "Utrecht, Utrecht, Nederland",
+    "description": "<p class=\"MsoNormal\"><em><span style=\"color:#1a3877\">24\u201338.75 uur per week | Utrecht / hybride | Backend development | Python | \u20ac600 | wo-bachelor of master</span></em></p><h2><strong><span style=\"color:#1a3877\">Jouw vooruitgang begint bij Berenschot</span></strong></h2><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Wil jij tijdens je stage bouwen aan software die \u00e9cht gebruikt wordt? Bij Berenschot werk je mee aan digitale platforms voor gemeenten, zorginstellingen en onderwijsorganisaties. Je ontwikkelt backend applicaties en API\u2019s, denkt mee over slimme technische oplossingen en leert werken met moderne technologie\u00ebn zoals Python, FastAPI en Azure.</span></p><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Je draait vanaf dag \u00e9\u00e9n mee in een ervaren developmentteam en krijgt veel ruimte om jezelf te ontwikkelen. We verwachten niet dat je alles al kunt: nieuwsgierigheid, leergierigheid en enthousiasme vinden we belangrijker dan een perfecte technische match.</span></p><p style=\"min-height: 1.7em;\"></p><h2><strong><span style=\"color:#1a3877\">Dit ga je doen</span></strong></h2><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Binnen Berenschot ontwikkelen en beheren we verschillende digitale platforms en applicaties. Denk aan benchmarkplatformen voor gemeenten en zorginstellingen, subsidieplatformen voor het onderwijs en interne tools voor data- en adviesprojecten.</span></p><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Als stagiair backend development werk je mee aan het verbeteren, uitbreiden en moderniseren van deze applicaties. Je helpt bij het bouwen van nieuwe functionaliteiten, API\u2019s en cloudoplossingen en leert hoe professionele softwareontwikkeling in de praktijk werkt.</span></p><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Je houdt je bijvoorbeeld bezig met:</span></p><ul><li><p><span style=\"color:#1a3877\">Ontwikkelen van backend applicaties en API\u2019s in Python</span></p></li><li><p><span style=\"color:#1a3877\">Werken aan performance, schaalbaarheid e",
+    "url": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/stagiaire-backend-developer-utrecht-320484",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-23T00:31:23+00:00",
+    "tags": [
+      "Business en data solutions"
     ],
     "match_score": 3,
     "matched_skills": [
@@ -84,15 +86,15 @@
     ]
   },
   {
-    "title": "Principal DevSecOps Engineer",
-    "company": "Upgrade",
-    "location": "US Only",
-    "description": "<p><span><strong>About the Role:</strong><br /><br />We are looking for a highly technical, hands-on Principal DevSecOps Developer to join Upgrade's Security team. In this role, you'll focus on building and improving security automation, strengthening our SaaS environment, and developing scalable solutions that enhance security operations across the organization.</span></p>\n<p><span>You'll leverage your programming and scripting skills, hands-on operations experience, and understanding of APIs, IAM permissions, and security best practices to solve complex technical challenges. You'll analyze code, troubleshoot technical issues, and apply risk-based thinking to identify vulnerabilities and implement effective security controls.</span></p>\n<p><span>This is a highly autonomous, engineering-focused role where you'll have the opportunity to build security automations from the ground up, leverage AI to improve workflows, and solve challenging security problems. You'll work closely with Security, Engineering, DevOps, and IT teams to streamline processes.<br /><br /><strong>Our Core Technologies:<br /><br /></strong>AWS (IAM, Security Services), Terraform, Python, Bash, REST APIs, AI/LLM Tools (Claude, AI Agents, MCP), Tines/SOAR, Sumo Logic, CrowdStrike, Okta, Akamai, Sublime Security, SIGMA/YARA, Kubernetes, Docker, CI/CD Pipelines, FleetDM/osquery, GCP, Google Workspace, Microsoft Entra ID, Microsoft 365.<br /><br /><strong>What You\u00e2\u0080\u0099ll Do:<br /></strong></span></p>\n<ul>\n<li><span>Build and maintain security automation workflows to reduce manual processes.</span></li>\n<li><span>Develop and manage infrastructure as code using Terraform.</span></li>\n<li><span>Implement AWS security controls, including IAM policies and least-privilege access.</span></li>\n<li><span>Build secure integrations between systems using APIs and scripting.</span></li>\n<li><span>Identify, investigate, and resolve security risks across cloud infrastructure and internal systems.</span></li>\n<li><span>",
-    "url": "https://remoteOK.com/remote-jobs/remote-principal-devsecops-engineer-upgrade-1137858",
-    "source": "RemoteOK",
-    "posted_at": "2026-11-19T20:45:40+00:00",
+    "title": "Software Developer - Fokus Secure Software Development (m/w/d)",
+    "company": "isento GmbH",
+    "location": "Nuremberg",
+    "description": "<p><strong>Deine Rolle</strong></p>\n<p>Sicherheit ist f\u00fcr uns bei isento ein fester Bestandteil exzellenter Software-Architektur: Wir entwickeln gesch\u00e4ftskritische Web- und Cloudanwendungen, die im Alltag zuverl\u00e4ssig funktionieren und von Grund auf gesch\u00fctzt sind.</p>\n<p>Als Software Developer mit Fokus Secure Software Development entwickelst Du in unseren Projekten aktiv mit Java, Spring Boot, Python oder Angular. Gleichzeitig \u00fcbernimmst Du eine tragende Rolle f\u00fcr den internen Wissensaufbau: Du besch\u00e4ftigst Dich mit modernen Sicherheitsaspekten, teilst Best Practices mit Kolleginnen und Kollegen und wirkst an zukunftsweisenden Themen wie der sicheren Entwicklung und dem Schutz von KI-Systemen und LLMs mit.</p>\n<p>Dich erwarten eingespielte isento-Teams, flache Hierarchien und der Freiraum, eigene Ideen einzubringen und das Thema Software-Sicherheit im gesamten Unternehmen aktiv mitzugestalten.</p>\n<h2>Aufgaben</h2>\n<p><strong>Deine Aufgaben bei isento</strong></p>\n<ul>\n<li>Du konzipierst und entwickelst im Team moderne und sichere Softwarel\u00f6sungen im Cloud- und Webumfeld auf Basis von Java, Spring Boot und Angular</li>\n<li>Verst\u00e4ndlicher Code, automatisierte Tests, gegenseitige Code Reviews und Pair Programming geh\u00f6ren dabei genauso zu Deinem Alltag wie das gemeinsame Finden der besten technischen L\u00f6sung</li>\n<li>In Deinem Team bist Du Ansprechpartner f\u00fcr sichere Softwarel\u00f6sungen und unterst\u00fctzt auch andere Teams bei Fragen rund um Secure Coding und Sicherheitsanalysen</li>\n<li>Du bringst Dein Know-how aktiv bei isento ein: Du gestaltest interne Tech-Sessions, sensibilisierst f\u00fcr aktuelle Bedrohungen und etablierst Best Practices im AlltagDu besch\u00e4ftigst Dich mit modernen Trends rund um Application Security, DevSecOps sowie dem sicheren und datenschutzkonformen Einsatz von KI-Systemen</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Das bringst Du mit</strong></p>\n<ul>\n<li>Mehrj\u00e4hrige Praxiserfahrung in der Softwareentwicklung mit Java sowie ein gutes Verst\u00e4ndnis f\u00fcr m",
+    "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-fokus-secure-software-development-nuremberg-104046",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-23T12:00:52+00:00",
     "tags": [
-      "devops"
+      "Software Development"
     ],
     "match_score": 2,
     "matched_skills": [
@@ -100,51 +102,52 @@
     ]
   },
   {
-    "title": "Forward Deployed Engineer",
-    "company": "Auterion",
-    "location": "Munich",
-    "description": "&lt;p&gt;As a Forward Deployed Engineer at Auterion, you will build software that runs on real drones. You will take Auterion\u2019s platform into a specific customer program and make it work on their hardware, for their mission, in the field.&lt;/p&gt;\n&lt;p&gt;This is a software engineering role. You will design, write, integrate and debug C++ and Python code on a Linux-based autonomy stack, working with AuterionOS, our operating system for autonomous vehicles, and Skynode, our flight and mission computer running PX4 and AuterionOS. Your work will span autonomy, computer vision, video streaming and long-range radio links, on partner platforms across aerial, maritime and ground vehicles. What sets this role apart is that your work isn\u2019t finished when the code is merged; it\u2019s finished when the system flies.&lt;/p&gt;\n&lt;p&gt;You will join a forward deployed team dedicated to a single customer program, which owns the outcome from first requirement to deployed system. You will work directly with partners and customers, as well as with Auterion\u2019s core platform, hardware and flight test teams. Between trips, you will work from our Munich office, both at your desk and on the bench.&lt;/p&gt;\n&lt;p&gt;No drone experience is required. If you have integrated software on cars, robots, industrial machines or other embedded systems, you already have the right foundation, and we will teach you the drone side.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities and Duties&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and implement software for customer programs on AuterionOS and Skynode, including features, integrations, payload and sensor drivers, and tooling.&lt;/li&gt;\n&lt;li&gt;Bring up complete systems on real hardware, including compute, sensors, payloads and radios, and get them working end to end.&lt;/li&gt;\n&lt;li&gt;Debug across the full stack, determining whether an issue stems from software, configuration, hardware or RF, and then resolving it.&lt;/li&gt;\n&lt;li&gt;",
-    "url": "https://www.arbeitnow.com/jobs/companies/auterion/forward-deployed-engineer-munich-153891",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-22T12:55:22+00:00",
-    "tags": [
-      "Engineering"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Working Student \u2013 Hardware Engineering (UAS Propulsion & Power) (All Genders)",
-    "company": "Skdse",
-    "location": "Remote",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge the future of European and national security through cutting-edge, AI-driven technology and unmatched engineering precision. As a premier defence technology company, our mission is clear: to equip NATO Allies and their partners &amp;nbsp;with next-generation autonomous defence platforms and advanced AI-driven software built to perform in the world\u2019s most demanding environments.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;We believe that true security stems from relentless innovation. By combining elite engineering talent with agile technology and an AI-native operational culture, Stark turns complex defence challenges into field-tested, multi-domain solutions.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;WHY JOIN US&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;The software and systems you work on directly protect personnel and defend European and national sovereignty.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;You will work alongside industry-leading minds on autonomous systems, advanced propulsion, and secure cyber platforms.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;We foster a fast-pace",
-    "url": "https://www.arbeitnow.com/jobs/companies/skdse/working-student-hardware-engineering-uas-propulsion-power-all-genders-438072",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-22T00:55:22+00:00",
-    "tags": [
-      "Engineering"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Agile"
-    ]
-  },
-  {
-    "title": "Software Engineering Intern (2027 Start) - Berlin",
-    "company": "databricks",
+    "title": "IT Support (m/w/d) - Minijob / Teilzeit / Freelancer",
+    "company": "GITO mbH Verlag",
     "location": "Berlin",
-    "description": "&lt;p&gt;&lt;strong&gt;P-968&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, we are passionate about helping data teams solve the world&#39;s toughest problems \u2014 from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world&#39;s best data and AI infrastructure platform so our customers can use deep data insights to improve their business.&lt;/p&gt;\n&lt;p&gt;As a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We&#39;re hiring across all of our teams, including full stack, backend, infrastructure, systems, tools, cloud, databases, and customer-facing products. You will have a dedicated mentor and will join our 2027 intern cohort where you&#39;ll connect with engineers, other interns, and leaders from across the company.&lt;/p&gt;\n&lt;p&gt;We are hiring Software Engineering Interns across multiple offices. Please apply for the single location that you&#39;re the most interested in, and we will discuss more with you as you move through the process. We can only consider one application in 30 days.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Work with a team to build features for the Databricks platform&lt;/li&gt;\n&lt;li&gt;Manage your project end-to-end, including design, code, and feedback&lt;/li&gt;\n&lt;li&gt;Learn about building a platform that scales quickly while maintaining quality and security&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You will graduate between fall 2027 and summer 2028 with a degree in Computer Science, Engineering, or related subject&lt;/li&gt;\n&lt;li&gt;You have implementation skills with a general purpose program language, such as Python, Java, or C++&lt;/li&gt;\n&lt;li&gt;You have good knowledge of algorithms, data structures, ",
-    "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-356841",
+    "description": "<p>Interessierst Du Dich f\u00fcr digitale Prozesse, digitale Trends und das Thema Industrie 4.0? Dann werde Teil eines dynamischen Teams beim Verlag f\u00fcr Industrielle Informationstechnik und Organisation (GITO) in Berlin-Charlottenburg. Der Verlag publiziert u.a. f\u00fchrende Fachmedien und organisiert Events f\u00fcr Strategien, Organisation und Informationssystemeinsatz in Unternehmen.</p><h2>Aufgaben</h2><ul><li><p>Allgemeiner IT-Support f\u00fcr Mitarbeitende bei Hard- und Softwareproblemen</p></li><li><p>Wordpress und Woocommerce</p></li><li><p>Betriebssysteme wie MacOS oder Linux</p></li><li><p>Grundlagen der Webentwicklung und des Hostings, inkl. SQL und Apache</p></li><li><p>Aufbau und Funktionen von Client-Server-Informationssystemen auf LAMP-Basis</p></li><li><p>Aufbau und Funktionen von CRM- und ERP-Systemen</p></li><li><p>Administration von Groupwarel\u00f6sungen</p></li><li><p>IT-Sicherheitsmanagement</p></li><li><p>Technisches Event Management</p></li><li><p>Videos aufnehmen, schneiden, bereitstellen, streamen</p></li></ul><h2>Benefits</h2><ul><li><p>Optimale Erreichbarkeit, direkt am U-Bahnhof Kaiserdamm in Berlin-Charlottenburg</p></li><li><p>Angemessene Bezahlung je nach mitgebrachten Kenntnissen</p></li><li><p>Flexibilit\u00e4t: <strong>Minijob, Teilzeit</strong> oder <strong>Freelancer</strong></p></li><li><p>Positives Betriebsklima, kollegiale Arbeitsatmosph\u00e4re</p></li><li><p>Modernes und bequemes B\u00fcro mit Kaffee, Tee und Getr\u00e4nken</p></li></ul><p>Nichts f\u00fcr Dich ? Dann gerne an Freunde und Bekannte weiterleiten</p><p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
+    "url": "https://www.arbeitnow.com/jobs/companies/gito-mbh-verlag/it-support-minijob-teilzeit-freelancer-berlin-344625",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-22T00:55:22+00:00",
+    "posted_at": "2026-11-23T10:30:44+00:00",
     "tags": [
-      "University Recruiting - Engineering"
+      "Helpdesk"
     ],
     "match_score": 2,
     "matched_skills": [
-      "Python"
+      "SQL"
+    ]
+  },
+  {
+    "title": "Senior Data Engineer",
+    "company": "nearform",
+    "location": "Remote",
+    "description": "&lt;p&gt;&lt;em&gt;This is a permanent full-time opportunity for those based in the UK.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Nearform&lt;br&gt;&lt;/strong&gt;Nearform is an independent team of data &amp;amp; AI experts, engineers, and designers who build intelligent digital solutions and capability at pace. We create AI-enabled solutions that enhance digital experiences, empower developers, and deliver measurable results. In these ways, we partner with ambitious enterprises to deliver enduring impact.&lt;/p&gt;\n&lt;p&gt;Our deep expertise in solving the world\u2019s most complex digital problems, along with our collaborative, people-first approach, enables enterprises to build breakthrough products and modernise legacy systems by unleashing the power of AI.&lt;/p&gt;\n&lt;p&gt;Today, our team of 500 experts in 20+ countries is trusted by leading enterprises including Lululemon, Puma, Sun Life, Starbucks, Travelex, Virgin Media 02, and Walmart.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As part of our Engineering function, you will work closely with clients to translate complex business requirements into innovative digital products.&amp;nbsp;Whether you are a Senior Engineer, Tech Lead, or DevOps Engineer, you will collaborate with distributed teams, leveraging cutting-edge technologies to build secure, high-performance applications. Our Nearform engineers are known for building high quality, scalable solutions that solve real world problems.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the Senior Data Engineer role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Senior Data Engineer at Nearform your main task will be designing, building, and maintaining scalable data platforms, pipelines, and warehouses using SQL, Python, Spark, and other relevant technologies. You will play a key role in building efficient data solutions, optimizing performance, and ensuring seamless data integration. However as you\u2019ll likely work on a variety of project",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/nearform/senior-data-engineer-178033",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-23T15:55:26+00:00",
+    "tags": [
+      "Software Development"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Data Analyst",
+    "company": "UNIK AND CO",
+    "location": "Ivry-sur-Seine",
+    "description": "<h2>\u00c0 propos de UNIK AND CO</h2><p>Unik&Co est un cabinet de recrutement sp\u00e9cialis\u00e9 dans le recrutement en CDI, CDD et Int\u00e9rim sur les fonctions supports, financi\u00e8res et supply chain. Bas\u00e9 \u00e0 Paris, nous pilotons les recrutements sur la France enti\u00e8re pour des acteurs des secteurs de l'Industrie, de la Sant\u00e9, de la Banque, de l'Assurance, ainsi que du Commerce, du Retail et de la Grande Distribution.</p><h2>Ce que vous ferez</h2><p>Nous recrutons pour un industriel agroalimentaire, un Data Analyst (h/f) dans le cadre d'un CDI.</p><p>Au sein du p\u00f4le \u00c9tudes et D\u00e9veloppements applicatifs de la DSI, vous \u00eates le/la garant(e) de la coh\u00e9rence, de la fiabilit\u00e9 et de la bonne exploitation des donn\u00e9es. Rattach\u00e9(e) au responsable du p\u00f4le, vous faites le lien entre les besoins des \u00e9quipes m\u00e9tiers et les plateformes techniques du groupe (SQL Server et Google Cloud Platform)</p><p>Vos missions s\u2019articulent autour de trois axes :</p><p><strong>Coh\u00e9rence, Qualit\u00e9 & Structuration de la Donn\u00e9e :</strong></p><ul><li><p>Garantir la fiabilit\u00e9 et la coh\u00e9rence des donn\u00e9es entre les diff\u00e9rentes applications m\u00e9tiers.</p></li><li><p>Mettre en place des contr\u00f4les de qualit\u00e9, documenter les r\u00e9f\u00e9rentiels et cartographier les flux existants.</p></li><li><p>Structurer et mod\u00e9liser des jeux de donn\u00e9es propres et centralis\u00e9s pour alimenter les tableaux de bord d\u00e9cisionnels et pr\u00e9parer les futurs cas d\u2019usage IA.</p></li></ul><p><strong>Cr\u00e9ation & Suivi des Flux de Donn\u00e9es :</strong></p><ul><li><p>Concevoir et automatiser les pipelines d\u2019alimentation et de transformation des donn\u00e9es depuis les bases internes (SQL Server) vers le Cloud (GCP / BigQuery)</p></li><li><p>D\u00e9ployer les \u00e9volutions en production</p></li><li><p>Assurer la surveillance quotidienne des traitements planifi\u00e9s, diagnostiquer et r\u00e9soudre les \u00e9ventuels incidents pour garantir la fra\u00eecheur des donn\u00e9es</p></li></ul><p><strong>Accompagnement M\u00e9tier & Projets IT :</strong></p><ul><li><p>Recueillir et cadrer les besoins d\u2019analyse directem",
+    "url": "https://www.arbeitnow.fr/jobs/companies/unik-and-co/data-analyst-ivry-sur-seine-48850",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-23T14:30:59+00:00",
+    "tags": [
+      "Data Scientist"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "SQL"
     ]
   },
   {
