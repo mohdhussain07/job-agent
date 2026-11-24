@@ -1,72 +1,108 @@
 [
   {
-    "title": "Full-Stack Developer (m/f/d)",
-    "company": "W\u00fcrth Cloud Services GmbH",
-    "location": "Berlin",
-    "description": "<h2>About W\u00fcrth Cloud Services GmbH</h2><p>W\u00fcrth Cloud Services GmbH is a spin-off of the global market leader W\u00fcrth within the W\u00fcrth Group, creating digital tools and connections for the craftsmen that build our world.</p><h2>What we are looking for</h2><p>You should have solid experience in full-stack development with modern web technologies, a strong understanding of React and serverless architectures, and the ability to write clean, maintainable code. If you match most of these requirements rather than every single one, we still encourage you to apply.</p><p></p><h2><strong>Your Responsibilities:</strong></h2><ul><li><p>Develop, maintain, and scale fullstack features across our modern SaaS platform, working on both React-based microfrontends and serverless backend services.</p></li><li><p>Implement responsive, user-friendly interfaces following our design system and ensure seamless integration with backend APIs.</p></li><li><p>Design and develop RESTful APIs and event-driven backend logic using AWS technologies (Lambda, API Gateway, EventBridge, etc.).</p></li><li><p>Leverage AI tools and agentic AI systems to accelerate development, improve code quality, and automate repetitive tasks.</p></li><li><p>Collaborate on shared libraries and packages including UI components, API services, and authentication modules.</p></li><li><p>Ensure clean, maintainable, and well-tested code across both frontend (TypeScript) and backend (Python) stacks.</p></li><li><p>Work with databases (SQL and NoSQL), focusing on performance, data modeling, and maintainability.</p></li><li><p>Write comprehensive unit, integration, and end-to-end tests to ensure high quality and reliability.</p></li><li><p>Troubleshoot and resolve issues across the full stack - from frontend behavior to backend performance.</p></li><li><p>Participate in code reviews and contribute to architecture and design discussions.</p></li><li><p>Optimize applications for performance, scalability, and cost efficiency in a c",
-    "url": "https://www.arbeitnow.com/jobs/companies/wurth-cloud-services-gmbh/full-stack-developer-berlin-134377",
+    "title": "Junior Inhouse Consultant Data Engineering (all genders)",
+    "company": "Dymatrix",
+    "location": "Stuttgart",
+    "description": "<br><strong>Tech Stack:</strong><p><ul><li><span><span>Sprachen: C# .NET, Python, </span><span>PySpark</span><span>, SQL</span></span></li><li><span><span>Komponenten aus dem Azure Stack wie beispielsweise Log Analytics, Key Vault, ADLS Gen2, </span><span>Functions</span><span>, </span><span>Databricks</span><span>, </span><span>DataFactory</span><span>, Container</span></span></li><li><span><span>Unternehmenseigener OpenAI-basierter KI-Assistent und Claude Code</span></span></li><li><span><span>Projektverwaltung in Jira und </span><span>Confluence</span></span></li></ul></p><br><strong>Deine Aufgaben:</strong><p><ul><li><span><span>Unterst\u00fctzung bei Projektreviews zur Pr\u00fcfung der Compliance von Projekten</span></span></li><li><span><span>Ausarbeitung von </span><span>Product</span><span>Requirements</span><span>, Durchf\u00fchrung von Acceptance Tests und Bewertung der Praxistauglichkeit von Produktentwicklungen</span></span></li><li><span><span>Erstellung von Dokumentationen, Schulungsunterlagen und -videos, auch mit KI-Technologien wie Gemini Notebook</span></span></li><li><span><span>Durchf\u00fchrung </span><span>von Partner-Onboardings</span><span> und internen\u00a0Schulungen</span></span></li><li><span><span>Weiterentwicklung der Extension-Templates mit C# .NET, </span><span>Databricks</span><span>, ADF und Evaluierung neuer Technologien</span></span></li><li><span><span>Support f\u00fcr Consulting und Implementierungspartner bei technischen Fragestellungen</span></span></li></ul></p><br><strong>Das bringst du idealerweise mit:</strong><p><ul><li><span><span>Du besitzt erste Programmierkenntnisse (idealerweise in SQL, C#, Python oder </span><span>PySpark</span><span>)</span></span></li><li><span><span>Gleichzeitig hast Du ein\u00a0Verst\u00e4ndnis f\u00fcr Cloud-Architekturen und Datenverarbeitungsprozesse</span></span></li><li><span><span>Du bringst die\u00a0Bereitschaft zur Weiterentwicklung in neue Technologien mit</span></span></li><li><span><span>Du hast eine gute technische Auffassungsgabe u",
+    "url": "https://www.arbeitnow.com/jobs/companies/dymatrix/junior-inhouse-consultant-data-engineering-all-genders-stuttgart-113292",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-23T11:30:46+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 6,
+    "posted_at": "2026-11-24T15:32:52+00:00",
+    "tags": [],
+    "match_score": 5,
     "matched_skills": [
       "Python",
-      "React",
-      "SQL"
+      "SQL",
+      "Azure"
     ]
   },
   {
-    "title": "Stagiair(e) Backend AI Developer",
-    "company": "Berenschot Groep B.V.",
-    "location": "Utrecht, Utrecht, Nederland",
-    "description": "<p class=\"MsoNormal\"><span style=\"color:#1a3877\">24-38,75 uur per week | Utrecht | hybride | softwareontwikkeling &amp; AI | \u20ac 600,\u2013 obv 1 fte | wo bachelor of master</span></p><h2><strong><span style=\"color:#1a3877\">Jouw vooruitgang begint bij Berenschot</span></strong></h2><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Wil jij bouwen aan slimme applicaties en AI-oplossingen die \u00e9cht gebruikt worden? Bij Berenschot krijg je de kans om jouw technische kennis in te zetten voor innovatieve en maatschappelijke projecten. Als stagiair(e) binnen team Digital &amp; Data &nbsp;werk je aan moderne applicaties, Python-backends en agentic AI-oplossingen die organisaties helpen om intelligenter en effici\u00ebnter te werken. Je draait direct mee in ons ontwikkelteam en krijgt veel ruimte om initiatief te nemen, nieuwe technologie\u00ebn te verkennen en jezelf snel te ontwikkelen. Werk jij graag hands-on aan echte oplossingen en ben je niet bang om nieuwe dingen te leren? Dan is deze stage iets voor jou.</span></p><p style=\"min-height: 1.7em;\"></p><h2><strong><span style=\"color:#1a3877\">Dit ga je doen</span></strong></h2><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Bij Berenschot ontwikkelen we digitale producten voor uiteenlopende opdrachtgevers. Denk aan interne platforms, AI-gedreven workflows, dashboards, API-koppelingen en generatieve-AI-oplossingen voor publieke en maatschappelijke organisaties. Als stagiair(e) help je mee met het ontwikkelen van schaalbare backend-oplossingen en AI-functionaliteiten in onze Azure-cloudomgeving. Je werkt met ervaren collega\u2019s in een Agile/DevOps-werkwijze en zorgt er samen met frontend developers voor dat applicaties en gebruikerservaringen naadloos op elkaar aansluiten.</span></p><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Dit zijn (onder andere) je taken:</span></p><ul><li><p><span style=\"color:#1a3877\">Backendservices en API\u2019s ontwikkelen in Python met FastAPI.</span></p></li><li><p><span style=\"color:#1a3877\">Werken aan schaalbare ap",
-    "url": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/stagiaire-backend-ai-developer-utrecht-379182",
+    "title": "DATA ENGINEER - H/F - LYON",
+    "company": "AVISIA",
+    "location": "LYON, Auvergne-Rh\u00f4ne-Alpes, France",
+    "description": "<h3></h3><p>Int\u00e9gr\u00e9(e) au sein de la practice Data Engineering \u00e0 Lyon, vous intervenez sur des projets \u00e0 fort enjeu pour nos clients de la r\u00e9gion Auvergne-Rh\u00f4ne-Alpes :</p><ul><li><p><strong>Architecture et ingestion :</strong> concevoir, d\u00e9velopper et maintenir des pipelines de donn\u00e9es robustes et scalables (batch et temps r\u00e9el).</p></li><li><p><strong>Modern Data Stack :</strong> d\u00e9ployer et administrer des environnements Cloud (GCP, AWS ou Azure) et des entrep\u00f4ts de donn\u00e9es modernes (Snowflake, BigQuery, Databricks).</p></li><li><p><strong>Transformation et qualit\u00e9 :</strong> mod\u00e9liser les donn\u00e9es, automatiser les flux (dbt, Airflow) et garantir la gouvernance, la s\u00e9curit\u00e9 et la fiabilit\u00e9 des livrables.</p></li><li><p><strong>Conseil et transmission :</strong> accompagner les \u00e9quipes m\u00e9tiers et techniques de nos clients, animer des ateliers et contribuer aux communaut\u00e9s internes AVISIA (veille, retours d'exp\u00e9rience, R&amp;D).</p></li></ul><p style=\"min-height: 1.7em;\"></p> <br> <ol><li><p><strong>Formation :</strong> dipl\u00f4m\u00e9(e) d'une \u00e9cole d'ing\u00e9nieurs ou d'un Master 2 en informatique / Data.</p></li><li><p><strong>Exp\u00e9rience :</strong> vous justifiez d'au moins 2 ans d'exp\u00e9rience en Data Engineering (les profils confirm\u00e9s et seniors sont \u00e9galement les bienvenus).</p></li><li><p><strong>Stack technique :</strong></p><ul><li><p>Ma\u00eetrise de <strong>Python</strong> et <strong>SQL</strong>.</p></li><li><p>Exp\u00e9rience significative sur au moins un environnement Cloud (<strong>GCP</strong>, <strong>AWS</strong> ou <strong>Azure</strong>).</p></li><li><p>Connaissance des outils d'orchestration et de transformation (<strong>Airflow</strong>, <strong>dbt</strong>, <strong>Spark</strong>).</p></li><li><p>Sensibilit\u00e9 aux bonnes pratiques <strong>CI/CD</strong>, <strong>Git</strong>, <strong>Docker</strong> et <strong>Infrastructure as Code</strong> (Terraform).</p></li></ul></li><li><p><strong>Savoir \u00eatre :</strong> curiosit\u00e9 technique, esprit d'\u00e9quipe, sens du service et ca",
+    "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-lyon-376194",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-23T00:31:23+00:00",
+    "posted_at": "2026-11-24T06:31:25+00:00",
     "tags": [
-      "Business en data solutions"
+      "Data"
+    ],
+    "match_score": 5,
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "Azure"
+    ]
+  },
+  {
+    "title": "Business AI Architect (m/w/d)",
+    "company": "Gambit",
+    "location": "Deutschland",
+    "description": "<br><strong>Deine Aufgaben</strong><p><ul><li>Du identifizierst gemeinsam mit unseren Kunden KI-Potenziale in Gesch\u00e4ftsprozessen und bewertest Use Cases nach Business Value, technischer Machbarkeit, Risiken und Skalierbarkeit.</li><li>Du \u00fcbersetzt Anforderungen aus Fachbereichen und IT in End-to-End-Architekturen f\u00fcr KI-L\u00f6sungen und w\u00e4hlst passende Ans\u00e4tze, zum Beispiel Large Language Models, Retrieval-Augmented Generation, KI-Agenten oder Workflow-Automatisierung.</li><li>Du entwickelst Prototypen und Proofs of Concept und integrierst diese \u00fcber APIs und Datenplattformen in SAP- und Non-SAP-Systemlandschaften.</li><li>Im SAP-Umfeld arbeitest du je nach Projekt mit SAP Business Technology Platform, SAP AI Core, SAP Generative AI Hub, Joule und Joule Studio.</li><li>Du ber\u00fccksichtigst von Beginn an Informationssicherheit, Datenschutz, Berechtigungskonzepte, Nachvollziehbarkeit und AI Governance.</li><li>Du konzipierst und moderierst Discovery-, Use-Case- und Architekturworkshops und begleitest L\u00f6sungen von der Idee \u00fcber den PoC bis zur produktiven Skalierung.</li><li>Du unterst\u00fctzt Presales-Aktivit\u00e4ten und entwickelst unser Business-AI-Portfolio sowie wiederverwendbare L\u00f6sungsbausteine weiter.</li></ul></p><br><strong>Dein Profil</strong><p><strong><span style=\"font-size:14px;\">Fachlich</span></strong><span style=\"font-size:14px;\"><br></span><ul><li style=\"font-size:14px;\">Du hast praktische Erfahrung mit Generative AI, Machine Learning oder intelligenten Automatisierungsl\u00f6sungen sowie mit modernen Cloud- und Integrationsarchitekturen.</li><li style=\"font-size:14px;\">Du kennst zentrale Konzepte wie Large Language Models, RAG, Embeddings, Vector Search und KI-Agenten und kannst deren Einsatzm\u00f6glichkeiten und Grenzen realistisch bewerten.</li><li style=\"font-size:14px;\">Du kannst Prototypen selbst entwickeln, zum Beispiel mit Python oder JavaScript, und hast Erfahrung mit APIs, Datenintegration und g\u00e4ngigen Entwicklungswerkzeugen.</li><li style=\"font-size:14px;\">Du kan",
+    "url": "https://www.arbeitnow.com/jobs/companies/gambit/business-ai-architect-deutschland-35052",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-24T15:32:57+00:00",
+    "tags": [
+      "Generative AI",
+      "Machine Learning",
+      "SAP Business AI"
     ],
     "match_score": 4,
     "matched_skills": [
       "Python",
-      "Agile",
-      "Azure"
+      "JavaScript"
     ]
   },
   {
-    "title": "Backend Softwareentwickler (m/w/d)",
-    "company": "Firstlead GmbH",
-    "location": "Berlin",
-    "description": "<h2>\u00dcber uns</h2>\n<p>Wir sind ADCELL - eines der schnellstwachsenden Affiliate-Marketing-Netzwerke im deutschsprachigen Raum!<br>Seit unserer Gr\u00fcndung im Jahr 2003 setzen wir konsequent auf Technologie, Daten und Innovation, um ma\u00dfgeschneiderte L\u00f6sungen zu entwickeln und Advertiser und Publisher erfolgreich miteinander zu verbinden. Unser inhabergef\u00fchrtes Team besteht aus knapp 50 hochqualifizierten Mitarbeitenden, die t\u00e4glich an spannenden Projekten im Bereich Online-Marketing arbeiten. In unserem modern ausgestatteten, knapp 1000 m\u00b2 gro\u00dfen B\u00fcro in Berlin bieten wir nicht nur eine optimale Arbeitsumgebung, sondern auch regelm\u00e4\u00dfige Get2gethers mit Fun, Facts, Pizza und Drinks.   </p>\n<h2>Deine Rolle</h2>\n<p>Du denkst analytisch, sch\u00e4tzt agile Prozesse und willst echten Impact haben?<br>Unser 8-k\u00f6pfiges Entwicklerteam bei ADCELL sucht Verst\u00e4rkung im Backend, um unser Netzwerk aktiv weiterzuentwickeln.   </p>\n<p><strong>Deine Aufgaben umfassen:</strong>  </p>\n<ul>\n<li>Entwicklung moderner PHP- und JavaScript-Anwendungen sowie Performance-Optimierung bei gro\u00dfen Datenbest\u00e4nden.</li>\n<li>Planung und Umsetzung komplexer Features sowie l\u00f6sungsorientierte Kommunikation mit dem Fachbereich.</li>\n<li>Sicherung der Code-Qualit\u00e4t durch Reviews und Teststrategien sowie systematische Fehleranalyse im laufenden Betrieb.</li>\n<li>Zielgerichteter Einsatz moderner KI-Tools als Entwicklungs-Assistenz gest\u00fctzt auf Deine technische Expertise.</li>\n<li>Aktiver Wissensaufbau und fachlicher Austausch auf Augenh\u00f6he.</li>\n</ul>\n<h2>Das solltest Du mitbringen</h2>\n<ul>\n<li>Mehrj\u00e4hrige Berufserfahrung in der Softwareentwicklung von Webanwendungen.</li>\n<li>Sehr gute Kenntnisse in objektorientiertem PHP, g\u00e4ngigen Frameworks sowie Gesp\u00fcr f\u00fcr Clean Code.</li>\n<li>Praktische Erfahrung im Umgang mit modernen JavaScript-Frameworks.</li>\n<li>Erfahrung im Umgang mit relationalen Datenbanken (z. B. MySQL).</li>\n<li>Verst\u00e4ndnis f\u00fcr saubere Softwarestrukturen und Schnittstellen (APIs).</li>\n<li>Teamgeist",
-    "url": "https://www.arbeitnow.com/jobs/companies/firstlead-gmbh/backend-softwareentwickler-berlin-126866",
+    "title": "Duales Studium Data Science und K\u00fcnstliche Intelligenz (B.Sc.)",
+    "company": "Dymatrix",
+    "location": "Stuttgart",
+    "description": "<br><strong>Allgemein:</strong><p><p>Jede Kampagne, jede Kundenempfehlung und jede Customer Journey beginnt mit guten Daten. Bei DYMATRIX sorgen wir daf\u00fcr, dass Unternehmen ihre Kund*innen wirklich verstehen. Mit unseren L\u00f6sungen f\u00fcr Customer Analytics, Marketing Automation und Kampagnenmanagement machen wir aus Daten konkrete Entscheidungen.</p><p>Im Data Engineering baust du die Grundlage daf\u00fcr. W\u00e4hrend deines dualen Studiums<strong>\u00a0Data Science und K\u00fcnstliche Intelligenz an der DHBW Stuttgart\u00a0</strong>wechselst du alle drei Monate zwischen H\u00f6rsaal und Praxis. Bei uns arbeitest du von Anfang an an echten Datenprojekten mit und lernst, wie aus Rohdaten verl\u00e4ssliche Insights werden.</p></p><br><strong>Deine Aufgaben:</strong><p><ul><li>Du lernst, wie Daten aus unterschiedlichen Quellen erfasst, aufbereitet und bereitgestellt werden.</li><li>Du unterst\u00fctzt beim Aufbau und Betrieb von Datenpipelines und Datenmodellen.</li><li>Du arbeitest mit SQL und Python und wendest Methoden aus Data Analytics und Machine Learning an.</li><li>Du sorgst gemeinsam mit dem Team f\u00fcr Datenqualit\u00e4t und analysierst Daten f\u00fcr unsere Kundenprojekte.</li><li>Du w\u00e4chst schrittweise in eigene Aufgaben und Projekte hinein, mit einer festen Ansprechperson an deiner Seite.</li></ul></p><br><strong>Das bringst du idealerweise mit:</strong><p><ul><li>Allgemeine oder fachgebundene Hochschulreife bzw. eine gleichwertige Zugangsberechtigung f\u00fcr die DHBW</li><li>Interesse an Mathematik, Informatik und Technik</li><li>Analytisches Denken und Freude am L\u00f6sen von Problemen</li><li>Neugier auf KI und datengetriebene Innovation</li><li>Teamgeist und Lust, Neues auszuprobieren</li><li>Gute Deutschkenntnisse; Englisch ist von Vorteil</li><li>Erste Programmiererfahrung ist ein Plus, aber keine Voraussetzung</li></ul></p><p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
+    "url": "https://www.arbeitnow.com/jobs/companies/dymatrix/duales-studium-data-science-und-kunstliche-intelligenz-bsc-stuttgart-454938",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-23T14:31:00+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "JavaScript",
-      "Agile"
-    ]
-  },
-  {
-    "title": "Stagiair(e) Backend developer",
-    "company": "Berenschot Groep B.V.",
-    "location": "Utrecht, Utrecht, Nederland",
-    "description": "<p class=\"MsoNormal\"><em><span style=\"color:#1a3877\">24\u201338.75 uur per week | Utrecht / hybride | Backend development | Python | \u20ac600 | wo-bachelor of master</span></em></p><h2><strong><span style=\"color:#1a3877\">Jouw vooruitgang begint bij Berenschot</span></strong></h2><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Wil jij tijdens je stage bouwen aan software die \u00e9cht gebruikt wordt? Bij Berenschot werk je mee aan digitale platforms voor gemeenten, zorginstellingen en onderwijsorganisaties. Je ontwikkelt backend applicaties en API\u2019s, denkt mee over slimme technische oplossingen en leert werken met moderne technologie\u00ebn zoals Python, FastAPI en Azure.</span></p><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Je draait vanaf dag \u00e9\u00e9n mee in een ervaren developmentteam en krijgt veel ruimte om jezelf te ontwikkelen. We verwachten niet dat je alles al kunt: nieuwsgierigheid, leergierigheid en enthousiasme vinden we belangrijker dan een perfecte technische match.</span></p><p style=\"min-height: 1.7em;\"></p><h2><strong><span style=\"color:#1a3877\">Dit ga je doen</span></strong></h2><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Binnen Berenschot ontwikkelen en beheren we verschillende digitale platforms en applicaties. Denk aan benchmarkplatformen voor gemeenten en zorginstellingen, subsidieplatformen voor het onderwijs en interne tools voor data- en adviesprojecten.</span></p><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Als stagiair backend development werk je mee aan het verbeteren, uitbreiden en moderniseren van deze applicaties. Je helpt bij het bouwen van nieuwe functionaliteiten, API\u2019s en cloudoplossingen en leert hoe professionele softwareontwikkeling in de praktijk werkt.</span></p><p class=\"MsoNormal\"><span style=\"color:#1a3877\">Je houdt je bijvoorbeeld bezig met:</span></p><ul><li><p><span style=\"color:#1a3877\">Ontwikkelen van backend applicaties en API\u2019s in Python</span></p></li><li><p><span style=\"color:#1a3877\">Werken aan performance, schaalbaarheid e",
-    "url": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/stagiaire-backend-developer-utrecht-320484",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-23T00:31:23+00:00",
-    "tags": [
-      "Business en data solutions"
-    ],
-    "match_score": 3,
+    "posted_at": "2026-11-24T15:32:52+00:00",
+    "tags": [],
+    "match_score": 4,
     "matched_skills": [
       "Python",
-      "Azure"
+      "SQL"
+    ]
+  },
+  {
+    "title": "Business AI Architect (m/w/d)",
+    "company": "Gambit",
+    "location": "Schweiz",
+    "description": "<br><strong>Deine Aufgaben</strong><p><ul><li>Du identifizierst gemeinsam mit unseren Kunden KI-Potenziale in Gesch\u00e4ftsprozessen und bewertest Use Cases nach Business Value, technischer Machbarkeit, Risiken und Skalierbarkeit.</li><li>Du \u00fcbersetzt Anforderungen aus Fachbereichen und IT in End-to-End-Architekturen f\u00fcr KI-L\u00f6sungen und w\u00e4hlst passende Ans\u00e4tze, zum Beispiel Large Language Models, Retrieval-Augmented Generation, KI-Agenten oder Workflow-Automatisierung.</li><li>Du entwickelst Prototypen und Proofs of Concept und integrierst diese \u00fcber APIs und Datenplattformen in SAP- und Non-SAP-Systemlandschaften.</li><li>Im SAP-Umfeld arbeitest du je nach Projekt mit SAP Business Technology Platform, SAP AI Core, SAP Generative AI Hub, Joule und Joule Studio.</li><li>Du ber\u00fccksichtigst von Beginn an Informationssicherheit, Datenschutz, Berechtigungskonzepte, Nachvollziehbarkeit und AI Governance.</li><li>Du konzipierst und moderierst Discovery-, Use-Case- und Architekturworkshops und begleitest L\u00f6sungen von der Idee \u00fcber den PoC bis zur produktiven Skalierung.</li><li>Du unterst\u00fctzt Presales-Aktivit\u00e4ten und entwickelst unser Business-AI-Portfolio sowie wiederverwendbare L\u00f6sungsbausteine weiter.</li></ul></p><br><strong>Dein Profil</strong><p><strong>Fachlich</strong><br><ul><li>Du hast praktische Erfahrung mit Generative AI, Machine Learning oder intelligenten Automatisierungsl\u00f6sungen sowie mit modernen Cloud- und Integrationsarchitekturen.</li><li>Du kennst zentrale Konzepte wie Large Language Models, RAG, Embeddings, Vector Search und KI-Agenten und kannst deren Einsatzm\u00f6glichkeiten und Grenzen realistisch bewerten.</li><li>Du kannst Prototypen selbst entwickeln, zum Beispiel mit Python oder JavaScript, und hast Erfahrung mit APIs, Datenintegration und g\u00e4ngigen Entwicklungswerkzeugen.</li><li>Du kannst Architekturentscheidungen strukturiert herleiten, dokumentieren und gegen\u00fcber technischen und fachlichen Stakeholdern verst\u00e4ndlich vertreten.</li><li>Du denkst dich s",
+    "url": "https://www.arbeitnow.ch/jobs/companies/gambit/business-ai-architect-schweiz-467333",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-24T15:32:57+00:00",
+    "tags": [
+      "Generative AI",
+      "Machine Learning",
+      "SAP Business AI"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "JavaScript"
+    ]
+  },
+  {
+    "title": "Staff Product Engineer ( SaaS / Remote )",
+    "company": "Publitas.com B.V.",
+    "location": "Remote job",
+    "description": "<p><strong><span style=\"color:#19B0ED\">Ready to own it, build it, and grow it?</span></strong></p><p style=\"min-height: 1.7em;\"></p><h2><strong><span style=\"color:#000000\">The Mission:</span></strong><br></h2><p><span style=\"color:#000000\">Publitas lets people, and increasingly agents, create, host and distribute digital flyers and catalogues for retail brands. Our customers include ALDI, IKEA, Carrefour, Metro and Decathlon. Right now we\u2019re building a fully automatic, agentic workflow that generates a whole catalogue from a brand guide and a list of products.</span></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#000000\">As a Staff Product Engineer, you\u2019ll build this product hands-on, taking open-ended problems to working software in whatever part of the stack the problem needs. You\u2019ll join a team of senior engineers who are put on our hardest problems, some of which cut across teams. Our customer base is large (not Google scale, but big), so what you ship gets used, and it comes with real technical challenges. Our core stack is Ruby on Rails on the backend and JavaScript with React on the frontend, with services around it in JavaScript, TypeScript and Python. This is a staff-level role, and you\u2019ll have a lot of influence in a mid-sized company with very little red tape.</span><br></p><h2><strong><span style=\"color:#000000\">This role is for you if</span></strong></h2><ul><li><p><span style=\"color:#000000\">You've built several complete products and you'd enjoy showing them to us.</span></p></li><li><p><span style=\"color:#000000\">You like open-ended problems, and you'd rather work out what to build than be handed a spec.</span></p></li><li><p><span style=\"color:#000000\">You enjoy problems that are hard to think through, and you can point to one you cracked.</span></p></li><li><p><span style=\"color:#000000\">You get excited about the end result, not just the code.</span></p></li><li><p><span style=\"color:#000000\">AI has changed what you dare to build: you s",
+    "url": "https://www.arbeitnow.nl/jobs/companies/publitascom-bv/staff-product-engineer-saas-remote-amsterdam-176256",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-24T03:31:42+00:00",
+    "tags": [
+      "Product",
+      "Remote"
+    ],
+    "match_score": 4,
+    "matched_skills": [
+      "Python",
+      "JavaScript",
+      "React"
     ]
   },
   {
@@ -86,85 +122,55 @@
     ]
   },
   {
-    "title": "Software Developer - Fokus Secure Software Development (m/w/d)",
-    "company": "isento GmbH",
-    "location": "Nuremberg",
-    "description": "<p><strong>Deine Rolle</strong></p>\n<p>Sicherheit ist f\u00fcr uns bei isento ein fester Bestandteil exzellenter Software-Architektur: Wir entwickeln gesch\u00e4ftskritische Web- und Cloudanwendungen, die im Alltag zuverl\u00e4ssig funktionieren und von Grund auf gesch\u00fctzt sind.</p>\n<p>Als Software Developer mit Fokus Secure Software Development entwickelst Du in unseren Projekten aktiv mit Java, Spring Boot, Python oder Angular. Gleichzeitig \u00fcbernimmst Du eine tragende Rolle f\u00fcr den internen Wissensaufbau: Du besch\u00e4ftigst Dich mit modernen Sicherheitsaspekten, teilst Best Practices mit Kolleginnen und Kollegen und wirkst an zukunftsweisenden Themen wie der sicheren Entwicklung und dem Schutz von KI-Systemen und LLMs mit.</p>\n<p>Dich erwarten eingespielte isento-Teams, flache Hierarchien und der Freiraum, eigene Ideen einzubringen und das Thema Software-Sicherheit im gesamten Unternehmen aktiv mitzugestalten.</p>\n<h2>Aufgaben</h2>\n<p><strong>Deine Aufgaben bei isento</strong></p>\n<ul>\n<li>Du konzipierst und entwickelst im Team moderne und sichere Softwarel\u00f6sungen im Cloud- und Webumfeld auf Basis von Java, Spring Boot und Angular</li>\n<li>Verst\u00e4ndlicher Code, automatisierte Tests, gegenseitige Code Reviews und Pair Programming geh\u00f6ren dabei genauso zu Deinem Alltag wie das gemeinsame Finden der besten technischen L\u00f6sung</li>\n<li>In Deinem Team bist Du Ansprechpartner f\u00fcr sichere Softwarel\u00f6sungen und unterst\u00fctzt auch andere Teams bei Fragen rund um Secure Coding und Sicherheitsanalysen</li>\n<li>Du bringst Dein Know-how aktiv bei isento ein: Du gestaltest interne Tech-Sessions, sensibilisierst f\u00fcr aktuelle Bedrohungen und etablierst Best Practices im AlltagDu besch\u00e4ftigst Dich mit modernen Trends rund um Application Security, DevSecOps sowie dem sicheren und datenschutzkonformen Einsatz von KI-Systemen</li>\n</ul>\n<h2>Qualifikation</h2>\n<p><strong>Das bringst Du mit</strong></p>\n<ul>\n<li>Mehrj\u00e4hrige Praxiserfahrung in der Softwareentwicklung mit Java sowie ein gutes Verst\u00e4ndnis f\u00fcr m",
-    "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-fokus-secure-software-development-nuremberg-104046",
+    "title": "Founding Engineer",
+    "company": "Sanovio",
+    "location": "Munich",
+    "description": "<p style=\"min-height:1.5em\"><strong>About the Role</strong></p><p style=\"min-height:1.5em\">As a <strong>Founding Engineer</strong> at SANOVIO, you will play a key role in building the AI-powered procurement infrastructure that tackles one of the biggest and most complex cost problems in European healthcare.</p><p style=\"min-height:1.5em\">This is a fast-paced, hands-on role for engineers with <strong>high agency</strong>, strong technical depth, and a founder mindset. We\u2019re looking for a <strong>full-stack generalist</strong> with a strong <strong>frontend affinity</strong>. You excel at <strong>designing user flows</strong> and implementing them in <strong>React and TypeScript</strong>, while owning outcomes end-to-end across <strong>backend, data, AI-enabled workflows, and cloud deployment</strong>. You thrive amid <strong>uncertainty and incomplete requirements</strong>, move quickly, and still care deeply about <strong>architecture, clean code, and long-term quality</strong>.</p><p style=\"min-height:1.5em\">If you are a passionate builder who thrives at the intersection of full-stack development and AI, this is your opportunity to work closely with the founders, shape the product, and help us scale toward <strong>\u20ac10M ARR in 2026</strong>.<br /><br /><strong>Tasks</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Owning <strong>end-to-end product workflows</strong>, from frontend UX to backend systems, data pipelines, and edge cases</p></li><li><p style=\"min-height:1.5em\">Building world-class <strong>frontend experiences </strong>in React and TypeScript alongside scalable, <strong>reliable backend systems</strong></p></li><li><p style=\"min-height:1.5em\">Designing and owning <strong>AI-enabled systems</strong>, including embeddings, retrieval, and agents that create real operational leverage</p></li><li><p style=\"min-height:1.5em\">Developing and operating <strong>data pipelines</strong> for large-scale unstructured data</p></li><li><p style=\"",
+    "url": "https://www.arbeitnow.com/jobs/companies/sanovio/founding-engineer-munich-209779",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-23T12:00:52+00:00",
+    "posted_at": "2026-11-24T15:40:15+00:00",
     "tags": [
-      "Software Development"
+      "Engineering"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "React"
+    ]
+  },
+  {
+    "title": "Software Engineering Intern (Full-Stack)",
+    "company": "Sanovio",
+    "location": "Munich",
+    "description": "<p style=\"min-height:1.5em\"><strong>About the Role</strong></p><p style=\"min-height:1.5em\">As a Software Engineering Intern at SANOVIO, you\u2019ll get hands-on experience building the AI-powered procurement infrastructure that tackles one of the biggest and most complex cost problems in European healthcare.</p><p style=\"min-height:1.5em\">This is a fast-paced, hands-on role for aspiring engineers with high agency, strong technical curiosity, and a builder mindset. We\u2019re looking for a full-stack generalist with a frontend affinity. You\u2019re eager to design user flows and implement them in React and TypeScript, while learning to own outcomes end-to-end across backend, data, AI-enabled workflows, and cloud deployment. You thrive amid uncertainty, move quickly, and care deeply about writing clean, high-quality code.</p><p style=\"min-height:1.5em\">If you are a passionate builder who thrives at the intersection of full-stack development and AI, this is your opportunity to work directly with the founders, contribute to a real product, and grow rapidly in a startup scaling toward \u20ac10M ARR in 2026.<br /></p><p style=\"min-height:1.5em\"><strong>Tasks</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Contributing to <strong>end-to-end product workflows</strong>, from frontend UX to backend systems, data pipelines, and edge cases</p></li><li><p style=\"min-height:1.5em\">Building <strong>frontend experiences</strong> in React and TypeScript alongside scalable, reliable backend systems</p></li><li><p style=\"min-height:1.5em\">Supporting the design and development of<strong> AI-enabled systems</strong>, including embeddings, retrieval, and agents that create real operational leverage</p></li><li><p style=\"min-height:1.5em\">Working on <strong>data pipelines</strong> for large-scale unstructured data</p></li><li><p style=\"min-height:1.5em\">Making pragmatic <strong>technical decisions on architecture, tools, and frameworks</strong> to balance speed and quality</p></li><l",
+    "url": "https://www.arbeitnow.com/jobs/companies/sanovio/software-engineering-intern-full-stack-munich-63636",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-24T15:40:15+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "React"
+    ]
+  },
+  {
+    "title": "Satellite Operations Systems and Software Engineer (all genders)",
+    "company": "Reflex Aerospace GmbH",
+    "location": "Berlin",
+    "description": "<br><strong>  </strong><p><p style=\"border:0px solid rgb(229,231,235);font-family:Arial, Helvetica, sans-serif, Inter, Arial, Helvetica, sans-serif;margin:0px 0px 8px;color:rgb(66,66,66);font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);\">Join the Pinnacle of Satellite Technology Advancement in Germany!<br><br>Reflex Aerospace is at the forefront of propelling high-performance satellite technology to new heights within the German aerospace landscape.<br><br>As part of Reflex Aerospace, you will play a pivotal role in shaping the trajectory of the space industry's future. This is an opportunity to contribute your expertise and enthusiasm to a team that stands for innovation and excellence. If you are ready to take on exciting challenges and be part of a company that is redefining the boundaries of satellite technology, we welcome you to embark on this thrilling journey with us!</p></p><br><strong>Your Mission:</strong><p><ul><li><span><span>Work as an on-console operator executing critical operations phases such as LEOP, commissioning, and on-orbit mission execution.</span></span></li><li><span><span>Work with subject matter experts to define the on-orbit CONOP for upcoming satellite missions</span></span></li><li><span><span>Develop and maintain flight-ready operational procedures</span></span></li><li><span><span>Handle on-call responsibilities to monitor and respond to anomalies that arise with on-orbit assets</span></span></li><li><span><span>Develop scripting and software to automation satellite operations</span></span></li><li><span><span>Develop operations documentation and support customer training for handover of operational satellites</span></span></li><li><span><span>Collaborate closely with the Ground Software, Flight Dynamics, AIT, and Flight Software teams</span></span></li></ul></p><br><strong>Your Background:</strong><p><ul><li><span><span>Practical experience operating satellites. \u00a0Ideally includin",
+    "url": "https://www.arbeitnow.com/jobs/companies/reflex-aerospace-gmbh/satellite-operations-systems-and-software-engineer-all-genders-berlin-319140",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-24T15:32:59+00:00",
+    "tags": [
+      "LEOP",
+      "Python",
+      "Distributed Systems",
+      "operations",
+      "Space"
     ],
     "match_score": 2,
     "matched_skills": [
       "Python"
-    ]
-  },
-  {
-    "title": "IT Support (m/w/d) - Minijob / Teilzeit / Freelancer",
-    "company": "GITO mbH Verlag",
-    "location": "Berlin",
-    "description": "<p>Interessierst Du Dich f\u00fcr digitale Prozesse, digitale Trends und das Thema Industrie 4.0? Dann werde Teil eines dynamischen Teams beim Verlag f\u00fcr Industrielle Informationstechnik und Organisation (GITO) in Berlin-Charlottenburg. Der Verlag publiziert u.a. f\u00fchrende Fachmedien und organisiert Events f\u00fcr Strategien, Organisation und Informationssystemeinsatz in Unternehmen.</p><h2>Aufgaben</h2><ul><li><p>Allgemeiner IT-Support f\u00fcr Mitarbeitende bei Hard- und Softwareproblemen</p></li><li><p>Wordpress und Woocommerce</p></li><li><p>Betriebssysteme wie MacOS oder Linux</p></li><li><p>Grundlagen der Webentwicklung und des Hostings, inkl. SQL und Apache</p></li><li><p>Aufbau und Funktionen von Client-Server-Informationssystemen auf LAMP-Basis</p></li><li><p>Aufbau und Funktionen von CRM- und ERP-Systemen</p></li><li><p>Administration von Groupwarel\u00f6sungen</p></li><li><p>IT-Sicherheitsmanagement</p></li><li><p>Technisches Event Management</p></li><li><p>Videos aufnehmen, schneiden, bereitstellen, streamen</p></li></ul><h2>Benefits</h2><ul><li><p>Optimale Erreichbarkeit, direkt am U-Bahnhof Kaiserdamm in Berlin-Charlottenburg</p></li><li><p>Angemessene Bezahlung je nach mitgebrachten Kenntnissen</p></li><li><p>Flexibilit\u00e4t: <strong>Minijob, Teilzeit</strong> oder <strong>Freelancer</strong></p></li><li><p>Positives Betriebsklima, kollegiale Arbeitsatmosph\u00e4re</p></li><li><p>Modernes und bequemes B\u00fcro mit Kaffee, Tee und Getr\u00e4nken</p></li></ul><p>Nichts f\u00fcr Dich ? Dann gerne an Freunde und Bekannte weiterleiten</p><p>Find more <a href=\"https://www.arbeitnow.com/english-speaking-jobs\">English Speaking Jobs in Germany</a> on Arbeitnow</a>",
-    "url": "https://www.arbeitnow.com/jobs/companies/gito-mbh-verlag/it-support-minijob-teilzeit-freelancer-berlin-344625",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-23T10:30:44+00:00",
-    "tags": [
-      "Helpdesk"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "SQL"
-    ]
-  },
-  {
-    "title": "Senior Data Engineer",
-    "company": "nearform",
-    "location": "Remote",
-    "description": "&lt;p&gt;&lt;em&gt;This is a permanent full-time opportunity for those based in the UK.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Nearform&lt;br&gt;&lt;/strong&gt;Nearform is an independent team of data &amp;amp; AI experts, engineers, and designers who build intelligent digital solutions and capability at pace. We create AI-enabled solutions that enhance digital experiences, empower developers, and deliver measurable results. In these ways, we partner with ambitious enterprises to deliver enduring impact.&lt;/p&gt;\n&lt;p&gt;Our deep expertise in solving the world\u2019s most complex digital problems, along with our collaborative, people-first approach, enables enterprises to build breakthrough products and modernise legacy systems by unleashing the power of AI.&lt;/p&gt;\n&lt;p&gt;Today, our team of 500 experts in 20+ countries is trusted by leading enterprises including Lululemon, Puma, Sun Life, Starbucks, Travelex, Virgin Media 02, and Walmart.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As part of our Engineering function, you will work closely with clients to translate complex business requirements into innovative digital products.&amp;nbsp;Whether you are a Senior Engineer, Tech Lead, or DevOps Engineer, you will collaborate with distributed teams, leveraging cutting-edge technologies to build secure, high-performance applications. Our Nearform engineers are known for building high quality, scalable solutions that solve real world problems.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the Senior Data Engineer role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Senior Data Engineer at Nearform your main task will be designing, building, and maintaining scalable data platforms, pipelines, and warehouses using SQL, Python, Spark, and other relevant technologies. You will play a key role in building efficient data solutions, optimizing performance, and ensuring seamless data integration. However as you\u2019ll likely work on a variety of project",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/nearform/senior-data-engineer-178033",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-23T15:55:26+00:00",
-    "tags": [
-      "Software Development"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python",
-      "SQL"
-    ]
-  },
-  {
-    "title": "Data Analyst",
-    "company": "UNIK AND CO",
-    "location": "Ivry-sur-Seine",
-    "description": "<h2>\u00c0 propos de UNIK AND CO</h2><p>Unik&Co est un cabinet de recrutement sp\u00e9cialis\u00e9 dans le recrutement en CDI, CDD et Int\u00e9rim sur les fonctions supports, financi\u00e8res et supply chain. Bas\u00e9 \u00e0 Paris, nous pilotons les recrutements sur la France enti\u00e8re pour des acteurs des secteurs de l'Industrie, de la Sant\u00e9, de la Banque, de l'Assurance, ainsi que du Commerce, du Retail et de la Grande Distribution.</p><h2>Ce que vous ferez</h2><p>Nous recrutons pour un industriel agroalimentaire, un Data Analyst (h/f) dans le cadre d'un CDI.</p><p>Au sein du p\u00f4le \u00c9tudes et D\u00e9veloppements applicatifs de la DSI, vous \u00eates le/la garant(e) de la coh\u00e9rence, de la fiabilit\u00e9 et de la bonne exploitation des donn\u00e9es. Rattach\u00e9(e) au responsable du p\u00f4le, vous faites le lien entre les besoins des \u00e9quipes m\u00e9tiers et les plateformes techniques du groupe (SQL Server et Google Cloud Platform)</p><p>Vos missions s\u2019articulent autour de trois axes :</p><p><strong>Coh\u00e9rence, Qualit\u00e9 & Structuration de la Donn\u00e9e :</strong></p><ul><li><p>Garantir la fiabilit\u00e9 et la coh\u00e9rence des donn\u00e9es entre les diff\u00e9rentes applications m\u00e9tiers.</p></li><li><p>Mettre en place des contr\u00f4les de qualit\u00e9, documenter les r\u00e9f\u00e9rentiels et cartographier les flux existants.</p></li><li><p>Structurer et mod\u00e9liser des jeux de donn\u00e9es propres et centralis\u00e9s pour alimenter les tableaux de bord d\u00e9cisionnels et pr\u00e9parer les futurs cas d\u2019usage IA.</p></li></ul><p><strong>Cr\u00e9ation & Suivi des Flux de Donn\u00e9es :</strong></p><ul><li><p>Concevoir et automatiser les pipelines d\u2019alimentation et de transformation des donn\u00e9es depuis les bases internes (SQL Server) vers le Cloud (GCP / BigQuery)</p></li><li><p>D\u00e9ployer les \u00e9volutions en production</p></li><li><p>Assurer la surveillance quotidienne des traitements planifi\u00e9s, diagnostiquer et r\u00e9soudre les \u00e9ventuels incidents pour garantir la fra\u00eecheur des donn\u00e9es</p></li></ul><p><strong>Accompagnement M\u00e9tier & Projets IT :</strong></p><ul><li><p>Recueillir et cadrer les besoins d\u2019analyse directem",
-    "url": "https://www.arbeitnow.fr/jobs/companies/unik-and-co/data-analyst-ivry-sur-seine-48850",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-23T14:30:59+00:00",
-    "tags": [
-      "Data Scientist"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "SQL"
-    ]
-  },
-  {
-    "title": "Software Test Engineer",
-    "company": "SwissPeak Partners GmbH",
-    "location": "Remote job",
-    "description": "<p style=\"text-align:start;\">Wir rekrutieren einen Software Test Engineer (m/w/d) f\u00fcr ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt.</p><p style=\"text-align:start;\">Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualit\u00e4tsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt \u00fcberwiegend auf manuellem Testing, mit der M\u00f6glichkeit, sp\u00e4ter in die Automatisierung hineinzuwachsen.</p><p style=\"min-height: 1.7em;\"></p><p style=\"text-align:start;\"><strong>Must-have Anforderungen</strong></p><ul><li><p>Mehrj\u00e4hrige Erfahrung im Software-Testing in agilen Umgebungen, sicher im Testfalldesign und in der Erstellung von Testkonzepten</p></li><li><p>Erfahrung mit Azure DevOps (Boards, Test Plans) oder Jira Xray</p></li><li><p>Erfahrung im Testing konfigurierter Business-Plattformen, idealerweise Dynamics 365 (CE/CRM) oder Power Platform</p></li><li><p>Sehr gutes Deutsch und fliessendes Englisch</p><p style=\"min-height: 1.7em;\"></p></li></ul><p style=\"text-align:start;\"><strong>Nice-to-have Anforderungen</strong></p><ul><li><p>ISTQB Zertifizierung</p></li><li><p>Kenntnisse in Power Platform oder Azure</p><p style=\"min-height: 1.7em;\"></p></li></ul><p style=\"text-align:start;\"><strong>Das erwartet dich</strong></p><ul><li><p>Flexibler Homeoffice-Anteil, du entscheidest frei, ob du von zu Hause oder im B\u00fcro arbeitest</p></li><li><p>Flache Hierarchien</p></li><li><p>Grossz\u00fcgige Weiterbildungsf\u00f6rderung</p></li><li><p>Halbtax, Gesundheitsangebote, gemeinsame Anl\u00e4sse</p><p style=\"min-height: 1.7em;\"></p></li></ul><p style=\"text-align:start;\">Interessiert an weiteren Informationen? Melde dich gerne unter <a rel=\"noopener\" target=\"_blank\" ---------- oder bewirb dich direkt!</p><p style=\"min-height: 1.7em;\"></p> <br> <p>Find",
-    "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-110215",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-22T12:31:14+00:00",
-    "tags": [
-      "Software Engineering",
-      "Remote"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Azure"
     ]
   }
 ]
