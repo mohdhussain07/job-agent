@@ -1,50 +1,14 @@
 [
   {
-    "title": "Junior Inhouse Consultant Data Engineering (all genders)",
-    "company": "Dymatrix",
-    "location": "Stuttgart",
-    "description": "<br><strong>Tech Stack:</strong><p><ul><li><span><span>Sprachen: C# .NET, Python, </span><span>PySpark</span><span>, SQL</span></span></li><li><span><span>Komponenten aus dem Azure Stack wie beispielsweise Log Analytics, Key Vault, ADLS Gen2, </span><span>Functions</span><span>, </span><span>Databricks</span><span>, </span><span>DataFactory</span><span>, Container</span></span></li><li><span><span>Unternehmenseigener OpenAI-basierter KI-Assistent und Claude Code</span></span></li><li><span><span>Projektverwaltung in Jira und </span><span>Confluence</span></span></li></ul></p><br><strong>Deine Aufgaben:</strong><p><ul><li><span><span>Unterst\u00fctzung bei Projektreviews zur Pr\u00fcfung der Compliance von Projekten</span></span></li><li><span><span>Ausarbeitung von </span><span>Product</span><span>Requirements</span><span>, Durchf\u00fchrung von Acceptance Tests und Bewertung der Praxistauglichkeit von Produktentwicklungen</span></span></li><li><span><span>Erstellung von Dokumentationen, Schulungsunterlagen und -videos, auch mit KI-Technologien wie Gemini Notebook</span></span></li><li><span><span>Durchf\u00fchrung </span><span>von Partner-Onboardings</span><span> und internen\u00a0Schulungen</span></span></li><li><span><span>Weiterentwicklung der Extension-Templates mit C# .NET, </span><span>Databricks</span><span>, ADF und Evaluierung neuer Technologien</span></span></li><li><span><span>Support f\u00fcr Consulting und Implementierungspartner bei technischen Fragestellungen</span></span></li></ul></p><br><strong>Das bringst du idealerweise mit:</strong><p><ul><li><span><span>Du besitzt erste Programmierkenntnisse (idealerweise in SQL, C#, Python oder </span><span>PySpark</span><span>)</span></span></li><li><span><span>Gleichzeitig hast Du ein\u00a0Verst\u00e4ndnis f\u00fcr Cloud-Architekturen und Datenverarbeitungsprozesse</span></span></li><li><span><span>Du bringst die\u00a0Bereitschaft zur Weiterentwicklung in neue Technologien mit</span></span></li><li><span><span>Du hast eine gute technische Auffassungsgabe u",
-    "url": "https://www.arbeitnow.com/jobs/companies/dymatrix/junior-inhouse-consultant-data-engineering-all-genders-stuttgart-113292",
+    "title": "Cloud Engineer IIoT Solutions (m/w/d)",
+    "company": "Kizuna Personalberatung GmbH",
+    "location": "Cologne",
+    "description": "<p>F\u00fcr unseren Kunden, ein zukunftsorientiertes Unternehmen im Raum K\u00f6ln, suchen wir im Rahmen der Direktvermittlung eine engagierte Pers\u00f6nlichkeit als Cloud Engineer IIoT Solutions (m/w/d).</p><h2>Ihre Aufgaben</h2><ul><li>Kontinuierlicher Ausbau und strategische Weiterentwicklung der bestehenden Cloud-Infrastruktur im Bereich Industrial IoT</li><li>Automatisierte Bereitstellung und Konfiguration von Systemumgebungen auf Basis von Infrastructure-as-Code (u. a. unter Einsatz von Terraform, Terragrunt oder Ansible)</li><li>Laufende Betreuung sowie stetige Optimierung der Cloud-Landschaft mit Fokus auf Performance, IT-Sicherheit, Ausfallsicherheit und einfache Wartbarkeit</li><li>Definition, Etablierung und Dokumentation technischer Standards sowie bew\u00e4hrter Verfahren (Best Practices) rund um moderne Cloud-Services und Hyperscaler-Plattformen</li><li>Aktive Mitwirkung beim Ausbau von CI/CD-Workflows sowie der Automatisierung von Deployment- und Betriebsprozessen</li><li>Administration und Weiterentwicklung von Container-Architekturen, vorrangig auf Basis von Docker</li></ul><h2>Ihr Profil</h2><ul><li>Fundierte Praxis im Einsatz von Infrastructure-as-Code-Tools (z. B. Terraform, Terragrunt oder Ansible)</li><li>Routinierte Administration von Linux-Umgebungen kombiniert mit Programmier- bzw. Skripting-Kenntnissen, beispielsweise in Python oder JavaScript</li><li>Versierter Umgang mit dem Aufbau, der Betreuung und Weiterentwicklung von CI/CD-Pipelines</li><li>Ausgepr\u00e4gtes Know-how hinsichtlich eines hochverf\u00fcgbaren, sicheren und weitgehend automatisierten Betriebs von Cloud-Infrastrukturen</li><li>W\u00fcnschenswert ist zudem Erfahrung in der Administration von Datenbanksystemen wie InfluxDB, PostgreSQL oder MySQL</li><li>Flie\u00dfende Englischkenntnisse in Wort und Schrift, um technische Dokumentationen zu verfassen und im internationalen Umfeld sicher zu kommunizieren</li></ul><h2>Ihre Vorteile</h2><ul><li>Arbeitszeiten: Flexible Arbeitszeitmodelle, die sich gut an die pers\u00f6nli",
+    "url": "https://www.arbeitnow.com/jobs/companies/kizuna-personalberatung-gmbh/cloud-engineer-iiot-solutions-cologne-389109",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-24T15:32:52+00:00",
-    "tags": [],
-    "match_score": 5,
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "Azure"
-    ]
-  },
-  {
-    "title": "DATA ENGINEER - H/F - LYON",
-    "company": "AVISIA",
-    "location": "LYON, Auvergne-Rh\u00f4ne-Alpes, France",
-    "description": "<h3></h3><p>Int\u00e9gr\u00e9(e) au sein de la practice Data Engineering \u00e0 Lyon, vous intervenez sur des projets \u00e0 fort enjeu pour nos clients de la r\u00e9gion Auvergne-Rh\u00f4ne-Alpes :</p><ul><li><p><strong>Architecture et ingestion :</strong> concevoir, d\u00e9velopper et maintenir des pipelines de donn\u00e9es robustes et scalables (batch et temps r\u00e9el).</p></li><li><p><strong>Modern Data Stack :</strong> d\u00e9ployer et administrer des environnements Cloud (GCP, AWS ou Azure) et des entrep\u00f4ts de donn\u00e9es modernes (Snowflake, BigQuery, Databricks).</p></li><li><p><strong>Transformation et qualit\u00e9 :</strong> mod\u00e9liser les donn\u00e9es, automatiser les flux (dbt, Airflow) et garantir la gouvernance, la s\u00e9curit\u00e9 et la fiabilit\u00e9 des livrables.</p></li><li><p><strong>Conseil et transmission :</strong> accompagner les \u00e9quipes m\u00e9tiers et techniques de nos clients, animer des ateliers et contribuer aux communaut\u00e9s internes AVISIA (veille, retours d'exp\u00e9rience, R&amp;D).</p></li></ul><p style=\"min-height: 1.7em;\"></p> <br> <ol><li><p><strong>Formation :</strong> dipl\u00f4m\u00e9(e) d'une \u00e9cole d'ing\u00e9nieurs ou d'un Master 2 en informatique / Data.</p></li><li><p><strong>Exp\u00e9rience :</strong> vous justifiez d'au moins 2 ans d'exp\u00e9rience en Data Engineering (les profils confirm\u00e9s et seniors sont \u00e9galement les bienvenus).</p></li><li><p><strong>Stack technique :</strong></p><ul><li><p>Ma\u00eetrise de <strong>Python</strong> et <strong>SQL</strong>.</p></li><li><p>Exp\u00e9rience significative sur au moins un environnement Cloud (<strong>GCP</strong>, <strong>AWS</strong> ou <strong>Azure</strong>).</p></li><li><p>Connaissance des outils d'orchestration et de transformation (<strong>Airflow</strong>, <strong>dbt</strong>, <strong>Spark</strong>).</p></li><li><p>Sensibilit\u00e9 aux bonnes pratiques <strong>CI/CD</strong>, <strong>Git</strong>, <strong>Docker</strong> et <strong>Infrastructure as Code</strong> (Terraform).</p></li></ul></li><li><p><strong>Savoir \u00eatre :</strong> curiosit\u00e9 technique, esprit d'\u00e9quipe, sens du service et ca",
-    "url": "https://www.arbeitnow.fr/jobs/companies/avisia/data-engineer-h-f-lyon-376194",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-24T06:31:25+00:00",
+    "posted_at": "2026-11-25T15:30:58+00:00",
     "tags": [
-      "Data"
-    ],
-    "match_score": 5,
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "Azure"
-    ]
-  },
-  {
-    "title": "Business AI Architect (m/w/d)",
-    "company": "Gambit",
-    "location": "Deutschland",
-    "description": "<br><strong>Deine Aufgaben</strong><p><ul><li>Du identifizierst gemeinsam mit unseren Kunden KI-Potenziale in Gesch\u00e4ftsprozessen und bewertest Use Cases nach Business Value, technischer Machbarkeit, Risiken und Skalierbarkeit.</li><li>Du \u00fcbersetzt Anforderungen aus Fachbereichen und IT in End-to-End-Architekturen f\u00fcr KI-L\u00f6sungen und w\u00e4hlst passende Ans\u00e4tze, zum Beispiel Large Language Models, Retrieval-Augmented Generation, KI-Agenten oder Workflow-Automatisierung.</li><li>Du entwickelst Prototypen und Proofs of Concept und integrierst diese \u00fcber APIs und Datenplattformen in SAP- und Non-SAP-Systemlandschaften.</li><li>Im SAP-Umfeld arbeitest du je nach Projekt mit SAP Business Technology Platform, SAP AI Core, SAP Generative AI Hub, Joule und Joule Studio.</li><li>Du ber\u00fccksichtigst von Beginn an Informationssicherheit, Datenschutz, Berechtigungskonzepte, Nachvollziehbarkeit und AI Governance.</li><li>Du konzipierst und moderierst Discovery-, Use-Case- und Architekturworkshops und begleitest L\u00f6sungen von der Idee \u00fcber den PoC bis zur produktiven Skalierung.</li><li>Du unterst\u00fctzt Presales-Aktivit\u00e4ten und entwickelst unser Business-AI-Portfolio sowie wiederverwendbare L\u00f6sungsbausteine weiter.</li></ul></p><br><strong>Dein Profil</strong><p><strong><span style=\"font-size:14px;\">Fachlich</span></strong><span style=\"font-size:14px;\"><br></span><ul><li style=\"font-size:14px;\">Du hast praktische Erfahrung mit Generative AI, Machine Learning oder intelligenten Automatisierungsl\u00f6sungen sowie mit modernen Cloud- und Integrationsarchitekturen.</li><li style=\"font-size:14px;\">Du kennst zentrale Konzepte wie Large Language Models, RAG, Embeddings, Vector Search und KI-Agenten und kannst deren Einsatzm\u00f6glichkeiten und Grenzen realistisch bewerten.</li><li style=\"font-size:14px;\">Du kannst Prototypen selbst entwickeln, zum Beispiel mit Python oder JavaScript, und hast Erfahrung mit APIs, Datenintegration und g\u00e4ngigen Entwicklungswerkzeugen.</li><li style=\"font-size:14px;\">Du kan",
-    "url": "https://www.arbeitnow.com/jobs/companies/gambit/business-ai-architect-deutschland-35052",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-24T15:32:57+00:00",
-    "tags": [
-      "Generative AI",
-      "Machine Learning",
-      "SAP Business AI"
+      "System and Network Administration"
     ],
     "match_score": 4,
     "matched_skills": [
@@ -53,14 +17,16 @@
     ]
   },
   {
-    "title": "Duales Studium Data Science und K\u00fcnstliche Intelligenz (B.Sc.)",
-    "company": "Dymatrix",
-    "location": "Stuttgart",
-    "description": "<br><strong>Allgemein:</strong><p><p>Jede Kampagne, jede Kundenempfehlung und jede Customer Journey beginnt mit guten Daten. Bei DYMATRIX sorgen wir daf\u00fcr, dass Unternehmen ihre Kund*innen wirklich verstehen. Mit unseren L\u00f6sungen f\u00fcr Customer Analytics, Marketing Automation und Kampagnenmanagement machen wir aus Daten konkrete Entscheidungen.</p><p>Im Data Engineering baust du die Grundlage daf\u00fcr. W\u00e4hrend deines dualen Studiums<strong>\u00a0Data Science und K\u00fcnstliche Intelligenz an der DHBW Stuttgart\u00a0</strong>wechselst du alle drei Monate zwischen H\u00f6rsaal und Praxis. Bei uns arbeitest du von Anfang an an echten Datenprojekten mit und lernst, wie aus Rohdaten verl\u00e4ssliche Insights werden.</p></p><br><strong>Deine Aufgaben:</strong><p><ul><li>Du lernst, wie Daten aus unterschiedlichen Quellen erfasst, aufbereitet und bereitgestellt werden.</li><li>Du unterst\u00fctzt beim Aufbau und Betrieb von Datenpipelines und Datenmodellen.</li><li>Du arbeitest mit SQL und Python und wendest Methoden aus Data Analytics und Machine Learning an.</li><li>Du sorgst gemeinsam mit dem Team f\u00fcr Datenqualit\u00e4t und analysierst Daten f\u00fcr unsere Kundenprojekte.</li><li>Du w\u00e4chst schrittweise in eigene Aufgaben und Projekte hinein, mit einer festen Ansprechperson an deiner Seite.</li></ul></p><br><strong>Das bringst du idealerweise mit:</strong><p><ul><li>Allgemeine oder fachgebundene Hochschulreife bzw. eine gleichwertige Zugangsberechtigung f\u00fcr die DHBW</li><li>Interesse an Mathematik, Informatik und Technik</li><li>Analytisches Denken und Freude am L\u00f6sen von Problemen</li><li>Neugier auf KI und datengetriebene Innovation</li><li>Teamgeist und Lust, Neues auszuprobieren</li><li>Gute Deutschkenntnisse; Englisch ist von Vorteil</li><li>Erste Programmiererfahrung ist ein Plus, aber keine Voraussetzung</li></ul></p><p>Find <a href=\"https://www.arbeitnow.com\">Jobs in Germany</a> on Arbeitnow</a>",
-    "url": "https://www.arbeitnow.com/jobs/companies/dymatrix/duales-studium-data-science-und-kunstliche-intelligenz-bsc-stuttgart-454938",
+    "title": "Business Operation Manager:in (w/m/d)",
+    "company": "Enpal",
+    "location": "Berlin",
+    "description": "<p style=\"min-height:1.5em\">Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das m\u00f6glich mit einer integrierten Gesamtl\u00f6sung f\u00fcr dezentrale Energie \u2013 von Solaranlage und Batteriespeicher \u00fcber Wallbox, Smart Meter bis zur W\u00e4rmepumpe. Herzst\u00fcck ist unsere KI-gest\u00fctzte Plattform <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Enpal.One\">Enpal.One</a>+, die tausende Systeme intelligent vernetzt und Strombezug sowie -einspeisung effizient am Energiemarkt optimiert.</p><p style=\"min-height:1.5em\">metrify ist die Smart-Metering-Unit von Enpal und die digitale Infrastruktur f\u00fcr ein intelligentes Energie-\u00d6kosystem. Mit zehntausenden installierten iMSys und skalierbaren Prozessen machen wir Energie messbar, steuerbar und wirtschaftlich nutzbar \u2013 und schaffen gemeinsam mit Partnern die Basis f\u00fcr neue Gesch\u00e4ftsmodelle der Energiewende.</p><h3></h3><h3><strong>Deine Aufgaben</strong></h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Du steuerst und verbesserst unsere operativen Abl\u00e4ufe im Tagesgesch\u00e4ft und sorgst daf\u00fcr, dass Prozesse zuverl\u00e4ssig, effizient und reibungslos funktionieren.</p></li><li><p style=\"min-height:1.5em\">Du arbeitest eng mit Kolleg aus Tech, Product, Operations und Finance zusammen, um operative Herausforderungen schnell zu l\u00f6sen und Verbesserungen direkt umzusetzen.</p></li><li><p style=\"min-height:1.5em\">Du beh\u00e4ltst laufende Prozesse und relevante Kennzahlen im Blick, erkennst Abweichungen fr\u00fchzeitig und leitest passende Ma\u00dfnahmen ein.</p></li><li><p style=\"min-height:1.5em\">Mit Tools wie SQL, Power BI oder Python wertest du operative Daten aus und schaffst Transparenz \u00fcber Auslastung, Qualit\u00e4t, Geschwindigkeit und m\u00f6gliche Engp\u00e4sse.</p></li><li><p style=\"min-height:1.5em\">Du analysierst St\u00f6rungen und Optimierungspotenziale, entwickelst pragmatische L\u00f6sungen und begleitest diese bis zur erfolgreichen Umsetzung im Arbeitsalltag.</p></li><li><p style=\"min",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/business-operation-managerin-berlin-376200",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-24T15:32:52+00:00",
-    "tags": [],
+    "posted_at": "2026-11-25T12:40:22+00:00",
+    "tags": [
+      "Headquarter Growth"
+    ],
     "match_score": 4,
     "matched_skills": [
       "Python",
@@ -87,22 +53,53 @@
     ]
   },
   {
-    "title": "Staff Product Engineer ( SaaS / Remote )",
-    "company": "Publitas.com B.V.",
-    "location": "Remote job",
-    "description": "<p><strong><span style=\"color:#19B0ED\">Ready to own it, build it, and grow it?</span></strong></p><p style=\"min-height: 1.7em;\"></p><h2><strong><span style=\"color:#000000\">The Mission:</span></strong><br></h2><p><span style=\"color:#000000\">Publitas lets people, and increasingly agents, create, host and distribute digital flyers and catalogues for retail brands. Our customers include ALDI, IKEA, Carrefour, Metro and Decathlon. Right now we\u2019re building a fully automatic, agentic workflow that generates a whole catalogue from a brand guide and a list of products.</span></p><p style=\"min-height: 1.7em;\"></p><p><span style=\"color:#000000\">As a Staff Product Engineer, you\u2019ll build this product hands-on, taking open-ended problems to working software in whatever part of the stack the problem needs. You\u2019ll join a team of senior engineers who are put on our hardest problems, some of which cut across teams. Our customer base is large (not Google scale, but big), so what you ship gets used, and it comes with real technical challenges. Our core stack is Ruby on Rails on the backend and JavaScript with React on the frontend, with services around it in JavaScript, TypeScript and Python. This is a staff-level role, and you\u2019ll have a lot of influence in a mid-sized company with very little red tape.</span><br></p><h2><strong><span style=\"color:#000000\">This role is for you if</span></strong></h2><ul><li><p><span style=\"color:#000000\">You've built several complete products and you'd enjoy showing them to us.</span></p></li><li><p><span style=\"color:#000000\">You like open-ended problems, and you'd rather work out what to build than be handed a spec.</span></p></li><li><p><span style=\"color:#000000\">You enjoy problems that are hard to think through, and you can point to one you cracked.</span></p></li><li><p><span style=\"color:#000000\">You get excited about the end result, not just the code.</span></p></li><li><p><span style=\"color:#000000\">AI has changed what you dare to build: you s",
-    "url": "https://www.arbeitnow.nl/jobs/companies/publitascom-bv/staff-product-engineer-saas-remote-amsterdam-176256",
+    "title": "Data Engineer (tbv Productie & ESG)",
+    "company": "ONE-Dyas B.V.",
+    "location": "Amsterdam, Noord-Holland, Netherlands",
+    "description": "<p class=\"MsoNormal\">Heb je een passie voor data, technologie en duurzaamheid? ONE-Dyas is op zoek naar een <strong>Data Engineer</strong> om te zorgen voor de nauwkeurige verzameling, het beheer en de rapportage van productie-, koolwaterstof- en ESG-gegevens. Je zet complexe gegevens om in betrouwbare inzichten die operationele en zakelijke beslissingen ondersteunen.</p><p style=\"min-height: 1.7em;\"></p><h3>Wat zijn je taken?</h3><ul><li><p>Het onderhouden en verbeteren van databases met gevalideerde productie- en ESG-gegevens.</p></li><li><p>Het verzamelen en integreren van gegevens uit productiebronnen en uit ge\u00ebxploiteerde en niet-ge\u00ebxploiteerde activa.</p></li><li><p>Het opstellen van duidelijke maand-, kwartaal- en jaarverslagen en visualisaties.</p></li><li><p>Het ondersteunen van de teams Production, Engineering, HSE en ESG met gegevens ter ondersteuning van operationele en zakelijke beslissingen.</p></li></ul> <br> <ul><li><p>HBO niveau in Techniek, Accountancy, Informatica, Milieuwetenschappen of een verwant vakgebied.</p></li><li><p>Ervaring met data-engineering of ESG-rapportage, bij voorkeur binnen de energie- of olie- en gasindustrie.</p></li><li><p>Kennis van databasebeheer, datavisualisatie en datagovernance.</p></li><li><p>Bij voorkeur ervaring met Python, SQL of vergelijkbare tools.</p></li><li><p>Sterke communicatieve en probleemoplossende vaardigheden.</p></li><li><p>Een proactieve, zelfstandige en teamgerichte werkwijze met interesse in duurzaamheid.</p></li><li><p>In deze functie werk je tenminste 60% van je werkweek vanuit ons kantoor in Amsterdam.</p></li><li><p>Je kunt je zowel mondeling als schriftelijk goed uitdrukken in het Nederlands en Engels.</p></li></ul><p style=\"min-height: 1.7em;\"></p><h3>Maak kennis met ONE-Dyas</h3><p>ONE-Dyas B.V. is het grootste particuliere exploratie- en productiebedrijf in Nederland. Als onder-nemers in de Nederlandse offshore gas- en oliesector streeft het bedrijf ernaar een belangrijke bijdrage te leveren ",
+    "url": "https://www.arbeitnow.nl/jobs/companies/one-dyas-bv/data-engineer-tbv-productie-esg-amsterdam-369187",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-24T03:31:42+00:00",
+    "posted_at": "2026-11-25T12:31:33+00:00",
     "tags": [
-      "Product",
-      "Remote"
+      "Operations"
     ],
     "match_score": 4,
     "matched_skills": [
       "Python",
-      "JavaScript",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Full Stack Developer - Java & React (f/m/d)",
+    "company": "ecosio",
+    "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
+    "description": "&lt;div&gt;\n&lt;h2 class=&quot;title&quot;&gt;Company Description&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;wysiwyg&quot;&gt;\n&lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).&lt;br&gt;&lt;br&gt;Our brand slogan is&amp;nbsp;&lt;em data-stringify-type=&quot;italic&quot;&gt;Connections That Work&lt;/em&gt; as we believe strong connections are central to successful business relationships - both external and internal. At ecosio, we hire individuals from all backgrounds and are committed to creating an inclusive work environment. We are technology lovers, set the highest standards for our solutions, and put innovative ideas first.&lt;/p&gt;\n&lt;div&gt;\n&lt;h2 class=&quot;title&quot;&gt;Job Description&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;wysiwyg&quot;&gt;\n&lt;p&gt;&lt;strong&gt;You&#39;ll connect with the role if you enjoy...&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop and maintain features for our web applications&lt;/li&gt;\n&lt;li&gt;Take ownership of features, from ideation to deployment and ongoing maintenance&lt;/li&gt;\n&lt;li&gt;Write comprehensive unit tests to ensure code quality and reliability&lt;/li&gt;\n&lt;li&gt;Follow secure coding practices to protect our systems and user data&lt;/li&gt;\n&lt;li&gt;Collaborate closely with product owners to translate requirements into actionable features&lt;/li&gt;\n&lt;li&gt;Build efficient systems that enhance the productivity of our Onboarding &amp;amp; Operations team&lt;/li&gt;\n&lt;li&gt;Work with Java / Spring in the backend and TypeScript / React in the frontend&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Our current tech stack in the Web Application Team is:&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Infrastructure: AWS, Kubernetes, ArgoCD&lt;/li&gt;\n&lt;li&gt;Java frameworks: ",
+    "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-492442",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-25T12:55:22+00:00",
+    "tags": [
+      "Web App Development"
+    ],
+    "match_score": 3,
+    "matched_skills": [
       "React"
+    ]
+  },
+  {
+    "title": "Full Stack Developer (node.js)",
+    "company": "Delta Capita",
+    "location": "Remote job",
+    "description": "<p style=\"text-align:start;\"><strong><span style=\"color:#121317\">Location:</span></strong><span style=\"color:#121317\"> London or Ipswich, UK (Hybrid)<br></span><strong><span style=\"color:#121317\">Employment Type:</span></strong><span style=\"color:#121317\"> Permanent, Full-Time</span></p><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\"><strong><span style=\"color:#121317\">About Mach:</span></strong></p><p style=\"text-align:start;\"><span style=\"color:#121317\">MACH is Delta Capita's proprietary Distributed Ledger Technology (DLT) and workflow orchestration platform, developed to help financial institutions modernise post-trade, collateral, regulatory and operational processes. As part of Delta Capita's Technology &amp; Solutions business, MACH combines blockchain, workflow automation and enterprise integration capabilities to deliver scalable solutions to global financial services clients.</span></p><p style=\"min-height: 1.7em;\"></p><p class=\"MsoNormal\"><strong><span style=\"color:#121317\">Job Description:</span></strong></p><p class=\"MsoNormal\"><span style=\"color:#121317\">As a Full Stack Javascript Developer at MACH, you will play a leading role in developing innovative blockchain and DLT solutions for financial services clients. You will be responsible for architecting systems from frontend, backend and database, optimising performance, and mentoring junior developers while ensuring that MACH\u2019s technology offerings deliver exceptional user experiences. This role requires deep expertise in frontend frameworks, </span><a rel=\"noopener\" target=\"_blank\" href=\"http://Node.js\">Node.js</a><span style=\"color:#121317\"> backend libraries, API integrations, and UX best practices.</span></p><p class=\"MsoNormal\"><strong><span style=\"color:#121317\">&nbsp;</span></strong></p><p class=\"MsoNormal\"><strong><span style=\"color:#121317\">Responsibilities include;</span></strong></p><ul><li><p class=\"MsoListParagraphCxSpFirst\"><span style=\"color:#121317\">Archit",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-full-stack-developer-nodejs-ipswich-333211",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-25T15:31:33+00:00",
+    "tags": [
+      "MACH",
+      "Remote"
+    ],
+    "match_score": 3,
+    "matched_skills": [
+      "JavaScript"
     ]
   },
   {
@@ -122,51 +119,47 @@
     ]
   },
   {
-    "title": "Founding Engineer",
-    "company": "Sanovio",
+    "title": "Werkstudent:in Bioinformatik - Mikrobiom",
+    "company": "Spira Labs GmbH",
     "location": "Munich",
-    "description": "<p style=\"min-height:1.5em\"><strong>About the Role</strong></p><p style=\"min-height:1.5em\">As a <strong>Founding Engineer</strong> at SANOVIO, you will play a key role in building the AI-powered procurement infrastructure that tackles one of the biggest and most complex cost problems in European healthcare.</p><p style=\"min-height:1.5em\">This is a fast-paced, hands-on role for engineers with <strong>high agency</strong>, strong technical depth, and a founder mindset. We\u2019re looking for a <strong>full-stack generalist</strong> with a strong <strong>frontend affinity</strong>. You excel at <strong>designing user flows</strong> and implementing them in <strong>React and TypeScript</strong>, while owning outcomes end-to-end across <strong>backend, data, AI-enabled workflows, and cloud deployment</strong>. You thrive amid <strong>uncertainty and incomplete requirements</strong>, move quickly, and still care deeply about <strong>architecture, clean code, and long-term quality</strong>.</p><p style=\"min-height:1.5em\">If you are a passionate builder who thrives at the intersection of full-stack development and AI, this is your opportunity to work closely with the founders, shape the product, and help us scale toward <strong>\u20ac10M ARR in 2026</strong>.<br /><br /><strong>Tasks</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Owning <strong>end-to-end product workflows</strong>, from frontend UX to backend systems, data pipelines, and edge cases</p></li><li><p style=\"min-height:1.5em\">Building world-class <strong>frontend experiences </strong>in React and TypeScript alongside scalable, <strong>reliable backend systems</strong></p></li><li><p style=\"min-height:1.5em\">Designing and owning <strong>AI-enabled systems</strong>, including embeddings, retrieval, and agents that create real operational leverage</p></li><li><p style=\"min-height:1.5em\">Developing and operating <strong>data pipelines</strong> for large-scale unstructured data</p></li><li><p style=\"",
-    "url": "https://www.arbeitnow.com/jobs/companies/sanovio/founding-engineer-munich-209779",
+    "description": "<h2>\u00dcber die Position</h2><p>Als Werkstudent:in entwickelst du die bioinformatische Auswertung f\u00fcr ein Mikrobiom-Unternehmen, das wir gerade aufbauen. Du arbeitest eng mit unserem wissenschaftlichen und technischen Team zusammen und \u00fcberf\u00fchrst metagenomische Methoden in reproduzierbare Analysen, die wir im Produkt einsetzen k\u00f6nnen. Deine Arbeit tr\u00e4gt direkt dazu bei, wie verl\u00e4sslich wir Mikrobiomdaten auswerten und wie gut sich die Ergebnisse nachvollziehen lassen.</p><h2>Deine Aufgaben</h2><ul><li><p>Metagenomische Sequenzierungsdaten auswerten, von der Qualit\u00e4tskontrolle bis zur taxonomischen und funktionellen Profilierung.</p></li><li><p>Analysewerkzeuge und Referenzdatenbanken vergleichen und gemeinsam mit dem Team entscheiden, welche Methoden f\u00fcr unsere Fragestellungen geeignet sind.</p></li><li><p>Bioinformatische Pipelines implementieren, testen und dokumentieren, damit sie sich mit neuen Datens\u00e4tzen zuverl\u00e4ssig ausf\u00fchren lassen.</p></li><li><p>Analyseergebnisse gemeinsam mit dem wissenschaftlichen Team einordnen und methodische Grenzen sichtbar machen.</p></li></ul><h2>Dein Profil</h2><ul><li><p>Du bist in einem Masterstudiengang in Bioinformatik, Computational Biology oder einem verwandten Fach eingeschrieben.</p></li><li><p>Du hast bereits selbst metagenomische Sequenzierungsdaten ausgewertet, zum Beispiel in einem Forschungsprojekt, einer Abschlussarbeit oder einem Praktikum. Erfahrung mit Shotgun-Metagenomik ist besonders relevant.</p></li><li><p>Du arbeitest sicher mit Linux und der Kommandozeile und setzt bioinformatische Analysen in Python um.</p></li><li><p>Du kannst erkl\u00e4ren, warum du eine Analysemethode gew\u00e4hlt hast, wie du ihre Ergebnisse \u00fcberpr\u00fcfst und wo ihre Grenzen liegen.</p></li><li><p>Du verf\u00fcgst \u00fcber sehr gute Englischkenntnisse in Wort und Schrift und kannst technische und wissenschaftliche Themen auf Englisch besprechen und dokumentieren.</p></li><li><p>Erfahrung mit Workflow-Tools wie Nextflow oder Snakemake sowie mit dem Betrieb von An",
+    "url": "https://www.arbeitnow.com/jobs/companies/spira-labs-gmbh/werkstudentin-bioinformatik-mikrobiom-munich-228774",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-24T15:40:15+00:00",
+    "posted_at": "2026-11-25T15:30:58+00:00",
     "tags": [
-      "Engineering"
+      "Data Scientist"
     ],
     "match_score": 2,
     "matched_skills": [
-      "React"
+      "Python"
     ]
   },
   {
-    "title": "Software Engineering Intern (Full-Stack)",
-    "company": "Sanovio",
+    "title": "Werkstudent:in Software & KI",
+    "company": "Spira Labs GmbH",
     "location": "Munich",
-    "description": "<p style=\"min-height:1.5em\"><strong>About the Role</strong></p><p style=\"min-height:1.5em\">As a Software Engineering Intern at SANOVIO, you\u2019ll get hands-on experience building the AI-powered procurement infrastructure that tackles one of the biggest and most complex cost problems in European healthcare.</p><p style=\"min-height:1.5em\">This is a fast-paced, hands-on role for aspiring engineers with high agency, strong technical curiosity, and a builder mindset. We\u2019re looking for a full-stack generalist with a frontend affinity. You\u2019re eager to design user flows and implement them in React and TypeScript, while learning to own outcomes end-to-end across backend, data, AI-enabled workflows, and cloud deployment. You thrive amid uncertainty, move quickly, and care deeply about writing clean, high-quality code.</p><p style=\"min-height:1.5em\">If you are a passionate builder who thrives at the intersection of full-stack development and AI, this is your opportunity to work directly with the founders, contribute to a real product, and grow rapidly in a startup scaling toward \u20ac10M ARR in 2026.<br /></p><p style=\"min-height:1.5em\"><strong>Tasks</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Contributing to <strong>end-to-end product workflows</strong>, from frontend UX to backend systems, data pipelines, and edge cases</p></li><li><p style=\"min-height:1.5em\">Building <strong>frontend experiences</strong> in React and TypeScript alongside scalable, reliable backend systems</p></li><li><p style=\"min-height:1.5em\">Supporting the design and development of<strong> AI-enabled systems</strong>, including embeddings, retrieval, and agents that create real operational leverage</p></li><li><p style=\"min-height:1.5em\">Working on <strong>data pipelines</strong> for large-scale unstructured data</p></li><li><p style=\"min-height:1.5em\">Making pragmatic <strong>technical decisions on architecture, tools, and frameworks</strong> to balance speed and quality</p></li><l",
-    "url": "https://www.arbeitnow.com/jobs/companies/sanovio/software-engineering-intern-full-stack-munich-63636",
+    "description": "<h2>\u00dcber die Position</h2><p>Als Werkstudent:in entwickelst du zentrale Softwarekomponenten f\u00fcr ein Unternehmen, das wir gerade aufbauen. Du arbeitest eng mit unserem wissenschaftlichen Team zusammen und \u00fcbersetzt fachliche Methoden in verl\u00e4ssliche Software. Dabei gestaltest du mit, wie wir Daten verarbeiten, Analysen durchf\u00fchren und KI dort einsetzen, wo sie fachlich einen Mehrwert liefert.</p><p>Du begleitest deine L\u00f6sungen von der ersten Umsetzung bis in den produktiven Betrieb. Deine Arbeit beeinflusst direkt, wie zuverl\u00e4ssig und nachvollziehbar die Ergebnisse unseres Produkts sind.</p><h2>Deine Aufgaben</h2><ul><li>Wissenschaftliche Anforderungen gemeinsam mit dem Team konkretisieren und in Datenpipelines, Analyse-Workflows und APIs umsetzen.</li><li>KI-Anwendungen entwickeln, geeignete Modelle und Werkzeuge ausw\u00e4hlen und ihre Ergebnisse systematisch evaluieren.</li><li>Software produktionsreif machen und betreiben. Dazu geh\u00f6ren automatisierte Tests, ein sauberer Umgang mit Fehlerf\u00e4llen und Monitoring.</li><li>Technische Entscheidungen mitgestalten, damit wir die Software mit neuen Daten und Methoden zuverl\u00e4ssig weiterentwickeln k\u00f6nnen.</li></ul><h2>Dein Profil</h2><ul><li>Du studierst Informatik, Data Science, Bioinformatik oder ein vergleichbares Fach und programmierst sicher in Python und dem terminal.</li><li>Du hast bereits eine KI-Anwendung selbst umgesetzt und kannst erkl\u00e4ren, wie du ihre Ergebnisse gepr\u00fcft, Fehlerf\u00e4lle behandelt und die Anwendung f\u00fcr den Einsatz vorbereitet hast.</li><li>Du verf\u00fcgst \u00fcber sehr gute Englischkenntnisse in Wort und Schrift und kannst technische und wissenschaftliche Themen auf Englisch besprechen und dokumentieren.</li><li>Du m\u00f6chtest Verantwortung daf\u00fcr \u00fcbernehmen, dass deine L\u00f6sungen im laufenden Betrieb zuverl\u00e4ssig funktionieren und f\u00fcr andere wartbar bleiben.</li><li>Du arbeitest gerne mit Menschen aus anderen Fachgebieten zusammen und fragst nach, bis du die wissenschaftlichen Anforderungen verstanden hast.</li></ul><p",
+    "url": "https://www.arbeitnow.com/jobs/companies/spira-labs-gmbh/werkstudentin-software-ki-munich-376529",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-24T15:40:15+00:00",
+    "posted_at": "2026-11-25T15:30:58+00:00",
     "tags": [
-      "Engineering"
+      "Data Scientist"
     ],
     "match_score": 2,
     "matched_skills": [
-      "React"
+      "Python"
     ]
   },
   {
-    "title": "Satellite Operations Systems and Software Engineer (all genders)",
-    "company": "Reflex Aerospace GmbH",
-    "location": "Berlin",
-    "description": "<br><strong>  </strong><p><p style=\"border:0px solid rgb(229,231,235);font-family:Arial, Helvetica, sans-serif, Inter, Arial, Helvetica, sans-serif;margin:0px 0px 8px;color:rgb(66,66,66);font-size:14px;font-style:normal;font-weight:400;text-transform:none;background-color:rgb(255,255,255);\">Join the Pinnacle of Satellite Technology Advancement in Germany!<br><br>Reflex Aerospace is at the forefront of propelling high-performance satellite technology to new heights within the German aerospace landscape.<br><br>As part of Reflex Aerospace, you will play a pivotal role in shaping the trajectory of the space industry's future. This is an opportunity to contribute your expertise and enthusiasm to a team that stands for innovation and excellence. If you are ready to take on exciting challenges and be part of a company that is redefining the boundaries of satellite technology, we welcome you to embark on this thrilling journey with us!</p></p><br><strong>Your Mission:</strong><p><ul><li><span><span>Work as an on-console operator executing critical operations phases such as LEOP, commissioning, and on-orbit mission execution.</span></span></li><li><span><span>Work with subject matter experts to define the on-orbit CONOP for upcoming satellite missions</span></span></li><li><span><span>Develop and maintain flight-ready operational procedures</span></span></li><li><span><span>Handle on-call responsibilities to monitor and respond to anomalies that arise with on-orbit assets</span></span></li><li><span><span>Develop scripting and software to automation satellite operations</span></span></li><li><span><span>Develop operations documentation and support customer training for handover of operational satellites</span></span></li><li><span><span>Collaborate closely with the Ground Software, Flight Dynamics, AIT, and Flight Software teams</span></span></li></ul></p><br><strong>Your Background:</strong><p><ul><li><span><span>Practical experience operating satellites. \u00a0Ideally includin",
-    "url": "https://www.arbeitnow.com/jobs/companies/reflex-aerospace-gmbh/satellite-operations-systems-and-software-engineer-all-genders-berlin-319140",
+    "title": "Werkstudent*in Bereich Netzanschluss Wind-, PV-, BESS-Projekte (w/m/d)",
+    "company": "renerco plan consult GmbH",
+    "location": "Munich",
+    "description": "<strong>renerco plan consult</strong> gestaltet die Energiewende aktiv mit. In den Bereichen Windenergie, Photovoltaik, Netzanschluss und Sektorkopplung. Deutschlandweit und in Europa.<br><br>Unser stetiger Anspruch ist es, unseren Kunden in Planung und Beratung L\u00f6sungen in h\u00f6chster Qualit\u00e4t zu liefern. Nachhaltig, effizient, vertrauensvoll.<br><br>Wir sind Teil der Natural-Power-Gruppe, einem internationalen Ingenieursdienstleister im Bereich der Erneuerbaren Energien mit weiteren Niederlassungen in UK, Irland, Frankreich, Italien und den USA.<br><br><strong>\u00dcber diese Position</strong><br><br>Zur Unterst\u00fctzung unseres Teams im Bereich Netzanschluss<strong> </strong>suchen wir f\u00fcr eine langfristige Zusammenarbeit einen engagierte*n Werkstudent*in (16-20 Wochenstunden), dem die Energiewende ein echtes Anliegen ist.<br><br><strong>Deine Aufgaben</strong><br><br><ul><br><li>Bearbeitung von Netzanschlussanfragen f\u00fcr PV-, Wind- und Speicheranlagen</li><li>Aufbereitung und Import von Netzdaten sowie deren Modellierung in PowerFactory</li><li>Erstellung und Bearbeitung von Schaltpl\u00e4nen mit AutoCAD</li><li>Aufbereitung von Daten und Erstellung detailreicher Karten mithilfe von QGIS</li><li>Unterst\u00fctzung des Teams bei vielf\u00e4ltigen Themen rund um den Netzanschluss</li><li>Mitwirkung bei der Angebotserstellung und administrativen Prozessen</li></ul><br><br><strong>Dein Profil</strong><br><br><ul><br><li>Laufende Immatrikulation im Studium der Elektrotechnik, idealerweise mit Schwerpunkt Elektrische Energietechnik, Erneuerbare Energien (mit Fokus Elektrotechnik) oder vergleichbar</li><li>Idealerweise fortgeschrittenes Bachelorstudium oder Beginn des Masterstudiums. Alternativ eine abgeschlossene Berufsausbildung mit praktischer Erfahrung im Bereich Elektrotechnik oder Energietechnik</li><li>Erste Kenntnisse in der Netzmodellierung, idealerweise mit PowerFactory (DIgSILENT), sind von Vorteil</li><li>Interesse an der Programmierung sowie idealerweise erste Erfahrungen mit Python",
+    "url": "https://www.arbeitnow.com/jobs/companies/renerco-plan-consult-gmbh/werkstudentin-bereich-netzanschluss-wind-pv-bess-projekte-munich-380388",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-24T15:32:59+00:00",
+    "posted_at": "2026-11-25T14:00:57+00:00",
     "tags": [
-      "LEOP",
-      "Python",
-      "Distributed Systems",
-      "operations",
-      "Space"
+      "Power Engineering and Environmental Engineering"
     ],
     "match_score": 2,
     "matched_skills": [
