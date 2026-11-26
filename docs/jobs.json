@@ -1,31 +1,33 @@
 [
   {
-    "title": "Cloud Engineer IIoT Solutions (m/w/d)",
-    "company": "Kizuna Personalberatung GmbH",
-    "location": "Cologne",
-    "description": "<p>F\u00fcr unseren Kunden, ein zukunftsorientiertes Unternehmen im Raum K\u00f6ln, suchen wir im Rahmen der Direktvermittlung eine engagierte Pers\u00f6nlichkeit als Cloud Engineer IIoT Solutions (m/w/d).</p><h2>Ihre Aufgaben</h2><ul><li>Kontinuierlicher Ausbau und strategische Weiterentwicklung der bestehenden Cloud-Infrastruktur im Bereich Industrial IoT</li><li>Automatisierte Bereitstellung und Konfiguration von Systemumgebungen auf Basis von Infrastructure-as-Code (u. a. unter Einsatz von Terraform, Terragrunt oder Ansible)</li><li>Laufende Betreuung sowie stetige Optimierung der Cloud-Landschaft mit Fokus auf Performance, IT-Sicherheit, Ausfallsicherheit und einfache Wartbarkeit</li><li>Definition, Etablierung und Dokumentation technischer Standards sowie bew\u00e4hrter Verfahren (Best Practices) rund um moderne Cloud-Services und Hyperscaler-Plattformen</li><li>Aktive Mitwirkung beim Ausbau von CI/CD-Workflows sowie der Automatisierung von Deployment- und Betriebsprozessen</li><li>Administration und Weiterentwicklung von Container-Architekturen, vorrangig auf Basis von Docker</li></ul><h2>Ihr Profil</h2><ul><li>Fundierte Praxis im Einsatz von Infrastructure-as-Code-Tools (z. B. Terraform, Terragrunt oder Ansible)</li><li>Routinierte Administration von Linux-Umgebungen kombiniert mit Programmier- bzw. Skripting-Kenntnissen, beispielsweise in Python oder JavaScript</li><li>Versierter Umgang mit dem Aufbau, der Betreuung und Weiterentwicklung von CI/CD-Pipelines</li><li>Ausgepr\u00e4gtes Know-how hinsichtlich eines hochverf\u00fcgbaren, sicheren und weitgehend automatisierten Betriebs von Cloud-Infrastrukturen</li><li>W\u00fcnschenswert ist zudem Erfahrung in der Administration von Datenbanksystemen wie InfluxDB, PostgreSQL oder MySQL</li><li>Flie\u00dfende Englischkenntnisse in Wort und Schrift, um technische Dokumentationen zu verfassen und im internationalen Umfeld sicher zu kommunizieren</li></ul><h2>Ihre Vorteile</h2><ul><li>Arbeitszeiten: Flexible Arbeitszeitmodelle, die sich gut an die pers\u00f6nli",
-    "url": "https://www.arbeitnow.com/jobs/companies/kizuna-personalberatung-gmbh/cloud-engineer-iiot-solutions-cologne-389109",
+    "title": "GTM Engineer (m/w/d)",
+    "company": "SCAILE TECHNOLOGIES GmbH",
+    "location": "Munich",
+    "description": "<p>Unser Sales-Team telefoniert, schreibt und trifft Kunden auf Messen. Du baust die Systeme, die ihm sagen, wen es ansprechen soll und welcher Kanal Termine bringt.</p><p>scaile ist ein AI-Startup aus Hamburg und M\u00fcnchen. Wir sorgen daf\u00fcr, dass Marken in ChatGPT, Google AI Overviews, Gemini und Perplexity gefunden und zitiert werden: recherchieren, schreiben, ver\u00f6ffentlichen, laufend optimieren. Live bei UniCredit, Axel Springer, Beurer, Lyceum Technologies und rund 50 weiteren Unternehmen. Unterst\u00fctzt von TUM Venture Labs und NCA VC, mit Forschungspartnerschaft zur TUM.</p><p>Wir bauen Sales und Marketing gerade stark aus. Als GTM Engineer verantwortest du die Daten und Automationen dahinter: Lead-Listen, Anreicherung, CRM und Reporting. Du arbeitest direkt mit Simon, unserem CEO, und dem Sales-Team.</p><h2>Aufgaben</h2><ul><li><p>Lead-Daten: Du baust Pipelines, die Zielfirmen und Ansprechpartner finden, anreichern und priorisieren, mit Tools wie Clay und Apollo und mit eigenen Skripten.</p></li><li><p>Signale: Du findest Daten, die zeigen, wann eine Firma reif f\u00fcr ein Gespr\u00e4ch ist, zum Beispiel neue Stellen im Marketing oder ihre Sichtbarkeit in ChatGPT, und machst daraus Listen f\u00fcr das Sales-Team.</p></li><li><p>CRM und Automationen: Du h\u00e4ltst das CRM sauber und automatisierst, was heute von Hand passiert, vom Follow-up bis zur \u00dcbergabe an unser Delivery-Team.</p></li><li><p>Reporting: Du baust die Dashboards, aus denen wir jede Woche ablesen, welcher Kanal Meetings und Umsatz bringt.</p></li><li><p>Experimente: Du testest mit dem Sales-Team neue Kan\u00e4le und Ansprachen, misst das Ergebnis und baust aus, was funktioniert.</p></li></ul><h2>Qualifikation</h2><ul><li><p>1 bis 3 Jahre Erfahrung als GTM Engineer, in RevOps, als Growth Engineer, Data Analyst oder Entwickler mit N\u00e4he zu Sales.</p></li><li><p>Du programmierst in Python oder JavaScript/TypeScript, schreibst SQL und arbeitest mit APIs.</p></li><li><p>Erfahrung mit Clay, n8n, Make oder \u00e4hnlichen Tools und mi",
+    "url": "https://www.arbeitnow.com/jobs/companies/scaile-technologies-gmbh/gtm-engineer-munich-496300",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-25T15:30:58+00:00",
+    "posted_at": "2026-11-26T12:01:01+00:00",
     "tags": [
-      "System and Network Administration"
+      "Data Processing",
+      "Data Engineer"
     ],
-    "match_score": 4,
+    "match_score": 6,
     "matched_skills": [
       "Python",
-      "JavaScript"
+      "JavaScript",
+      "SQL"
     ]
   },
   {
-    "title": "Business Operation Manager:in (w/m/d)",
-    "company": "Enpal",
-    "location": "Berlin",
-    "description": "<p style=\"min-height:1.5em\">Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das m\u00f6glich mit einer integrierten Gesamtl\u00f6sung f\u00fcr dezentrale Energie \u2013 von Solaranlage und Batteriespeicher \u00fcber Wallbox, Smart Meter bis zur W\u00e4rmepumpe. Herzst\u00fcck ist unsere KI-gest\u00fctzte Plattform <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Enpal.One\">Enpal.One</a>+, die tausende Systeme intelligent vernetzt und Strombezug sowie -einspeisung effizient am Energiemarkt optimiert.</p><p style=\"min-height:1.5em\">metrify ist die Smart-Metering-Unit von Enpal und die digitale Infrastruktur f\u00fcr ein intelligentes Energie-\u00d6kosystem. Mit zehntausenden installierten iMSys und skalierbaren Prozessen machen wir Energie messbar, steuerbar und wirtschaftlich nutzbar \u2013 und schaffen gemeinsam mit Partnern die Basis f\u00fcr neue Gesch\u00e4ftsmodelle der Energiewende.</p><h3></h3><h3><strong>Deine Aufgaben</strong></h3><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Du steuerst und verbesserst unsere operativen Abl\u00e4ufe im Tagesgesch\u00e4ft und sorgst daf\u00fcr, dass Prozesse zuverl\u00e4ssig, effizient und reibungslos funktionieren.</p></li><li><p style=\"min-height:1.5em\">Du arbeitest eng mit Kolleg aus Tech, Product, Operations und Finance zusammen, um operative Herausforderungen schnell zu l\u00f6sen und Verbesserungen direkt umzusetzen.</p></li><li><p style=\"min-height:1.5em\">Du beh\u00e4ltst laufende Prozesse und relevante Kennzahlen im Blick, erkennst Abweichungen fr\u00fchzeitig und leitest passende Ma\u00dfnahmen ein.</p></li><li><p style=\"min-height:1.5em\">Mit Tools wie SQL, Power BI oder Python wertest du operative Daten aus und schaffst Transparenz \u00fcber Auslastung, Qualit\u00e4t, Geschwindigkeit und m\u00f6gliche Engp\u00e4sse.</p></li><li><p style=\"min-height:1.5em\">Du analysierst St\u00f6rungen und Optimierungspotenziale, entwickelst pragmatische L\u00f6sungen und begleitest diese bis zur erfolgreichen Umsetzung im Arbeitsalltag.</p></li><li><p style=\"min",
-    "url": "https://www.arbeitnow.com/jobs/companies/enpal/business-operation-managerin-berlin-376200",
+    "title": "Analytics Engineer - Data Platform (m/f/d)",
+    "company": "Statista",
+    "location": "Hamburg or Berlin",
+    "description": "<p style=\"min-height:1.5em\">At <strong>Statista</strong>, we\u2019re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.</p><p style=\"min-height:1.5em\">Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.</p><p style=\"min-height:1.5em\">We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters \u2013 keep writing it as part of our team.</p><p style=\"min-height:1.5em\">Are you ready to join us?</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">You\u2019ll join Statista\u2019s newly formed Data Platform team. We\u2019re building a central platform that brings together data\u2014from market statistics to consumer surveys\u2014under consistent standards for quality, documentation, and access. This gives product teams and AI agents a trusted foundation to build new applications and features without duplicating data or setting up separate pipelines.</p><p style=\"min-height:1.5em\"><strong>Your role</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Design, implement, and maintain backend services in Python that power our data access and distribution layer</p></li><li><p style=\"min-height:1.5em\">Build and operate automated build, test, and deployment pipelines following CI/CD and GitOps practices, running on AWS and Kubernetes</p></li><li><p style=\"min-height:1.5em\">Design and maintain data models and schemas (Avro, SQL) for our data pipelines and services, and publish them to downstream consume",
+    "url": "https://www.arbeitnow.com/jobs/companies/statista/analytics-engineer-data-platform-hamburg-or-berlin-437592",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-25T12:40:22+00:00",
+    "posted_at": "2026-11-26T12:40:13+00:00",
     "tags": [
-      "Headquarter Growth"
+      "Tech"
     ],
     "match_score": 4,
     "matched_skills": [
@@ -34,34 +36,33 @@
     ]
   },
   {
-    "title": "Business AI Architect (m/w/d)",
-    "company": "Gambit",
-    "location": "Schweiz",
-    "description": "<br><strong>Deine Aufgaben</strong><p><ul><li>Du identifizierst gemeinsam mit unseren Kunden KI-Potenziale in Gesch\u00e4ftsprozessen und bewertest Use Cases nach Business Value, technischer Machbarkeit, Risiken und Skalierbarkeit.</li><li>Du \u00fcbersetzt Anforderungen aus Fachbereichen und IT in End-to-End-Architekturen f\u00fcr KI-L\u00f6sungen und w\u00e4hlst passende Ans\u00e4tze, zum Beispiel Large Language Models, Retrieval-Augmented Generation, KI-Agenten oder Workflow-Automatisierung.</li><li>Du entwickelst Prototypen und Proofs of Concept und integrierst diese \u00fcber APIs und Datenplattformen in SAP- und Non-SAP-Systemlandschaften.</li><li>Im SAP-Umfeld arbeitest du je nach Projekt mit SAP Business Technology Platform, SAP AI Core, SAP Generative AI Hub, Joule und Joule Studio.</li><li>Du ber\u00fccksichtigst von Beginn an Informationssicherheit, Datenschutz, Berechtigungskonzepte, Nachvollziehbarkeit und AI Governance.</li><li>Du konzipierst und moderierst Discovery-, Use-Case- und Architekturworkshops und begleitest L\u00f6sungen von der Idee \u00fcber den PoC bis zur produktiven Skalierung.</li><li>Du unterst\u00fctzt Presales-Aktivit\u00e4ten und entwickelst unser Business-AI-Portfolio sowie wiederverwendbare L\u00f6sungsbausteine weiter.</li></ul></p><br><strong>Dein Profil</strong><p><strong>Fachlich</strong><br><ul><li>Du hast praktische Erfahrung mit Generative AI, Machine Learning oder intelligenten Automatisierungsl\u00f6sungen sowie mit modernen Cloud- und Integrationsarchitekturen.</li><li>Du kennst zentrale Konzepte wie Large Language Models, RAG, Embeddings, Vector Search und KI-Agenten und kannst deren Einsatzm\u00f6glichkeiten und Grenzen realistisch bewerten.</li><li>Du kannst Prototypen selbst entwickeln, zum Beispiel mit Python oder JavaScript, und hast Erfahrung mit APIs, Datenintegration und g\u00e4ngigen Entwicklungswerkzeugen.</li><li>Du kannst Architekturentscheidungen strukturiert herleiten, dokumentieren und gegen\u00fcber technischen und fachlichen Stakeholdern verst\u00e4ndlich vertreten.</li><li>Du denkst dich s",
-    "url": "https://www.arbeitnow.ch/jobs/companies/gambit/business-ai-architect-schweiz-467333",
+    "title": "Medical Data Analyst (m/w/d)",
+    "company": "DocCheck AG",
+    "location": "K\u00f6ln",
+    "description": "<p style=\"text-align: center;\"><span style=\"font-size: 1.3em\">Hol' dir den Kick als DocCheck</span></p>Medical Data Analyst (m/w/d)<p style=\"text-align: center;;\"></p><p style=\"text-align: center;\">Patient:innendaten verwalten? F\u00fcr dich f\u00e4ngt die Arbeit da erst an. Du liebst Medizin und willst mit Technik und KI neue Antworten finden, statt den Status quo nur zu bedienen? Als Medical Data Analyst bei <a rel=\"noopener\" target=\"_blank\" href=\"https://www.doccheck.com/de/\">DocCheck</a> baust du ein neues Gesch\u00e4ftsfeld in unserer eigenen Marktforschung mit auf. Im Herzen der DocCheck Community hast du direkten Zugang zur Zielgruppe. Du entwickelst aus anonymisierten Patient:innendaten Analysen und Handlungsempfehlungen f\u00fcr die Pharmaindustrie und pr\u00e4gst ein Data-Lake-Projekt von der ersten Idee an. Du hast keine Lust mehr, dich zwischen Medizin und Technik zu entscheiden? Worauf wartest du! DocCheck versetzt den kompletten Gesundheitsmarkt in absolute Effizienz-Ekstase. Egal ob News, Foren, Fachartikel, Medizinshop oder Kreativ-Agentur \u2013 DocCheck r\u00fchrt den Medicals die ultimative Service-Mischung an.</p><br /><br /><h2>Deine Substanz</h2><p>Du hast einen Abschluss in Pharmazie, Medizin, Biomedizin, Public Health oder einem vergleichbaren Fach und kennst die medizinische Versorgungsrealit\u00e4t. Du bringst zwei bis vier Jahre Erfahrung mit Gesundheits- oder Real-World-Daten oder aus der Pharma-Marktforschung mit. ICD-10, ATC-Codes, Wirkstoff vs. Pr\u00e4parat und Therapielinien sind f\u00fcr dich Alltag. Du erkennst unplausible Werte, stellst die richtigen Fragen an Daten und wei\u00dft, welche Erkenntnisse f\u00fcr die Pharmaindustrie wirklich z\u00e4hlen. SQL oder Python sind ein Plus. Du arbeitest dich gerne mit KI-Tools in Datenbankabfragen ein. Ein sorgf\u00e4ltiger Umgang mit sensiblen Daten, Datenschutz und Arzneimittelsicherheit ist f\u00fcr dich selbstverst\u00e4ndlich.</p><img style=\"width: 800px\" src=\"https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/o72b2gk9vhtb3pka5dd5yayefe5y6l/shrooms.gif\"",
+    "url": "https://www.arbeitnow.com/jobs/companies/doccheck-ag/medical-data-analyst-koln-247112",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-24T15:32:57+00:00",
+    "posted_at": "2026-11-26T12:20:12+00:00",
     "tags": [
-      "Generative AI",
-      "Machine Learning",
-      "SAP Business AI"
+      "Marketing and pr",
+      "high school coursework"
     ],
     "match_score": 4,
     "matched_skills": [
       "Python",
-      "JavaScript"
+      "SQL"
     ]
   },
   {
-    "title": "Data Engineer (tbv Productie & ESG)",
-    "company": "ONE-Dyas B.V.",
+    "title": "Software Engineer (Python & Cloud)",
+    "company": "GIGA STORAGE",
     "location": "Amsterdam, Noord-Holland, Netherlands",
-    "description": "<p class=\"MsoNormal\">Heb je een passie voor data, technologie en duurzaamheid? ONE-Dyas is op zoek naar een <strong>Data Engineer</strong> om te zorgen voor de nauwkeurige verzameling, het beheer en de rapportage van productie-, koolwaterstof- en ESG-gegevens. Je zet complexe gegevens om in betrouwbare inzichten die operationele en zakelijke beslissingen ondersteunen.</p><p style=\"min-height: 1.7em;\"></p><h3>Wat zijn je taken?</h3><ul><li><p>Het onderhouden en verbeteren van databases met gevalideerde productie- en ESG-gegevens.</p></li><li><p>Het verzamelen en integreren van gegevens uit productiebronnen en uit ge\u00ebxploiteerde en niet-ge\u00ebxploiteerde activa.</p></li><li><p>Het opstellen van duidelijke maand-, kwartaal- en jaarverslagen en visualisaties.</p></li><li><p>Het ondersteunen van de teams Production, Engineering, HSE en ESG met gegevens ter ondersteuning van operationele en zakelijke beslissingen.</p></li></ul> <br> <ul><li><p>HBO niveau in Techniek, Accountancy, Informatica, Milieuwetenschappen of een verwant vakgebied.</p></li><li><p>Ervaring met data-engineering of ESG-rapportage, bij voorkeur binnen de energie- of olie- en gasindustrie.</p></li><li><p>Kennis van databasebeheer, datavisualisatie en datagovernance.</p></li><li><p>Bij voorkeur ervaring met Python, SQL of vergelijkbare tools.</p></li><li><p>Sterke communicatieve en probleemoplossende vaardigheden.</p></li><li><p>Een proactieve, zelfstandige en teamgerichte werkwijze met interesse in duurzaamheid.</p></li><li><p>In deze functie werk je tenminste 60% van je werkweek vanuit ons kantoor in Amsterdam.</p></li><li><p>Je kunt je zowel mondeling als schriftelijk goed uitdrukken in het Nederlands en Engels.</p></li></ul><p style=\"min-height: 1.7em;\"></p><h3>Maak kennis met ONE-Dyas</h3><p>ONE-Dyas B.V. is het grootste particuliere exploratie- en productiebedrijf in Nederland. Als onder-nemers in de Nederlandse offshore gas- en oliesector streeft het bedrijf ernaar een belangrijke bijdrage te leveren ",
-    "url": "https://www.arbeitnow.nl/jobs/companies/one-dyas-bv/data-engineer-tbv-productie-esg-amsterdam-369187",
+    "description": "<h4>Build the software behind large-scale battery storage</h4><p class=\"MsoNormal\">Solar and wind power are not always available when we need electricity. Large-scale battery storage helps by storing electricity when supply is abundant and releasing it when demand rises. This keeps the grid flexible and reduces reliance on fossil fuels.</p><p class=\"MsoNormal\">But how do you connect a battery site of hundreds of megawatts to a central IT platform? And how do you build software that is ready for the projects still to come? As a Software Engineer at GIGA Storage, these are the challenges you will work on.</p><p style=\"min-height: 1.7em;\"></p><h4>About GIGA Storage</h4><p class=\"MsoNormal\">Founded in 2018, we are an international scale-up growing across the Netherlands, Belgium and Germany. Our purpose, \u2018Unlock every Green Watt\u2019, is about making the energy system better and more affordable for future generations. We aim to have 1.5 to 2 GW of battery power operational by 2030. At 2 GW, that is theoretically enough peak power to supply more than a million homes simultaneously.</p><p class=\"MsoNormal\">We pioneer at a scale where many solutions are still being developed. We take ownership, share knowledge and make decisions together. Rapid growth also calls for adaptability: priorities shift and not everything is defined in advance.</p><p style=\"min-height: 1.7em;\"></p><h4>Your role</h4><p class=\"MsoNormal\">You develop and grow our Giga platform. You build software in Python, working with technologies including SQL, Terraform, Grafana and data processing. You do not need to know everything already: you enjoy learning beyond your own specialism.</p><p class=\"MsoNormal\">What will you work on? When a new battery site goes live, data on capacity, performance and equipment status needs to flow reliably into our platform. You build the software and integrations that make this happen. At the same time, you strengthen the foundations: fewer manual steps, better-documented code an",
+    "url": "https://www.arbeitnow.nl/jobs/companies/giga-storage/software-engineer-python-cloud-amsterdam-185139",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-25T12:31:33+00:00",
+    "posted_at": "2026-11-25T18:31:35+00:00",
     "tags": [
-      "Operations"
+      "IT"
     ],
     "match_score": 4,
     "matched_skills": [
@@ -70,62 +71,13 @@
     ]
   },
   {
-    "title": "Full Stack Developer - Java & React (f/m/d)",
-    "company": "ecosio",
-    "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
-    "description": "&lt;div&gt;\n&lt;h2 class=&quot;title&quot;&gt;Company Description&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;wysiwyg&quot;&gt;\n&lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).&lt;br&gt;&lt;br&gt;Our brand slogan is&amp;nbsp;&lt;em data-stringify-type=&quot;italic&quot;&gt;Connections That Work&lt;/em&gt; as we believe strong connections are central to successful business relationships - both external and internal. At ecosio, we hire individuals from all backgrounds and are committed to creating an inclusive work environment. We are technology lovers, set the highest standards for our solutions, and put innovative ideas first.&lt;/p&gt;\n&lt;div&gt;\n&lt;h2 class=&quot;title&quot;&gt;Job Description&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;wysiwyg&quot;&gt;\n&lt;p&gt;&lt;strong&gt;You&#39;ll connect with the role if you enjoy...&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop and maintain features for our web applications&lt;/li&gt;\n&lt;li&gt;Take ownership of features, from ideation to deployment and ongoing maintenance&lt;/li&gt;\n&lt;li&gt;Write comprehensive unit tests to ensure code quality and reliability&lt;/li&gt;\n&lt;li&gt;Follow secure coding practices to protect our systems and user data&lt;/li&gt;\n&lt;li&gt;Collaborate closely with product owners to translate requirements into actionable features&lt;/li&gt;\n&lt;li&gt;Build efficient systems that enhance the productivity of our Onboarding &amp;amp; Operations team&lt;/li&gt;\n&lt;li&gt;Work with Java / Spring in the backend and TypeScript / React in the frontend&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Our current tech stack in the Web Application Team is:&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Infrastructure: AWS, Kubernetes, ArgoCD&lt;/li&gt;\n&lt;li&gt;Java frameworks: ",
-    "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-492442",
+    "title": "AI Engineer Intern (2027)",
+    "company": "Qantev",
+    "location": "Paris",
+    "description": "<p>At Qantev, we are reshaping health insurance with autonomous, multi-step Agentic AI pipelines. As an AI Engineer Intern, you will design and deploy high-performance, enterprise systems for our most innovative products. Bridge the gap between advanced research and production-scale software with real impact here.</p>\n<h2>Tasks</h2>\n<p>What you will build and own:</p>\n<ul>\n<li>Design and deploy production-grade, complex, multi-step reasoning Agentic AI pipelines and RAG applications.</li>\n<li>Contribute to the design and implementation of new features and enhancements for our core platform, including APIs, data processing pipelines, and user-facing applications.</li>\n<li>Build and scale robust systems using Python and TypeScript, maintaining a high bar for code quality, performance, and reliability.</li>\n<li>Dive into a sophisticated codebase and operate independently. We value engineers who can find their way to a solution and build it with minimal hand-holding.</li>\n<li>Work at the intersection of Data Science and Engineering to translate complex requirements into elegant, technical specifications and live features.</li>\n<li>Gain deep expertise in our cloud-agnostic environment and software architecture, learning how to build for flexibility and scale.</li>\n<li>Proactively identify and resolve bottlenecks, continually pushing the boundaries of our system's performance and development velocity.</li>\n</ul>\n<h2>Requirements</h2>\n<p>Your Profile</p>\n<p>\u200bWe are looking for a highly motivated individual who meets the following criteria:</p>\n<ul>\n<li>The Builder Mindset: You are the type of person who sees a bottleneck and builds a tool to fix it.</li>\n<li>Academic background : You are currently pursuing a Master\u2019s or Engineering degree from a Tier-1 institution</li>\n<li>Deep Autonomy: You are comfortable diving into a massive, sophisticated codebase and finding your way to a solution without a hand-holding manual.</li>\n<li>Strong foundation in AI-intensive systems (RAG ",
+    "url": "https://www.arbeitnow.fr/jobs/companies/qantev/ai-engineer-intern-2027-paris-102648",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-25T12:55:22+00:00",
-    "tags": [
-      "Web App Development"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "React"
-    ]
-  },
-  {
-    "title": "Full Stack Developer (node.js)",
-    "company": "Delta Capita",
-    "location": "Remote job",
-    "description": "<p style=\"text-align:start;\"><strong><span style=\"color:#121317\">Location:</span></strong><span style=\"color:#121317\"> London or Ipswich, UK (Hybrid)<br></span><strong><span style=\"color:#121317\">Employment Type:</span></strong><span style=\"color:#121317\"> Permanent, Full-Time</span></p><p style=\"text-align:start;min-height: 1.7em;\"></p><p style=\"text-align:start;\"><strong><span style=\"color:#121317\">About Mach:</span></strong></p><p style=\"text-align:start;\"><span style=\"color:#121317\">MACH is Delta Capita's proprietary Distributed Ledger Technology (DLT) and workflow orchestration platform, developed to help financial institutions modernise post-trade, collateral, regulatory and operational processes. As part of Delta Capita's Technology &amp; Solutions business, MACH combines blockchain, workflow automation and enterprise integration capabilities to deliver scalable solutions to global financial services clients.</span></p><p style=\"min-height: 1.7em;\"></p><p class=\"MsoNormal\"><strong><span style=\"color:#121317\">Job Description:</span></strong></p><p class=\"MsoNormal\"><span style=\"color:#121317\">As a Full Stack Javascript Developer at MACH, you will play a leading role in developing innovative blockchain and DLT solutions for financial services clients. You will be responsible for architecting systems from frontend, backend and database, optimising performance, and mentoring junior developers while ensuring that MACH\u2019s technology offerings deliver exceptional user experiences. This role requires deep expertise in frontend frameworks, </span><a rel=\"noopener\" target=\"_blank\" href=\"http://Node.js\">Node.js</a><span style=\"color:#121317\"> backend libraries, API integrations, and UX best practices.</span></p><p class=\"MsoNormal\"><strong><span style=\"color:#121317\">&nbsp;</span></strong></p><p class=\"MsoNormal\"><strong><span style=\"color:#121317\">Responsibilities include;</span></strong></p><ul><li><p class=\"MsoListParagraphCxSpFirst\"><span style=\"color:#121317\">Archit",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-full-stack-developer-nodejs-ipswich-333211",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-25T15:31:33+00:00",
-    "tags": [
-      "MACH",
-      "Remote"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "JavaScript"
-    ]
-  },
-  {
-    "title": "Principal Software Engineer, Infrastructure",
-    "company": "Reddit",
-    "location": "US Only",
-    "description": "<div><div>\n<div>\n<div>\n<div>\n<div>\n<div>Reddit is a community of communities. It\u00e2\u0080\u0099s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u00e2\u0080\u0099s largest sources of information. For more information, visit <a href=\"http://www.redditinc.com/\">www.redditinc.com</a>.</div>\n</div>\n</div>\n</div>\n</div>\n</div></div><p>The Infrastructure organization has the mission of building and delivering the compute orchestration environment, storage and data systems, and essential platform services behind all of Reddit.\u00c2\u00a0</p>\n<p>The Infrastructure organization is looking to hire a backend software engineer to work collaboratively on a team dedicated to building out Reddit\u00e2\u0080\u0099s multi-cloud compute infrastructure. This is a high impact role where you will contribute to design, implementation, and operations for one of the largest sites in the world. The Infrastructure team\u00e2\u0080\u0099s mission is to provide a platform for teams to independently and effectively run their compute workloads in a performant, reliable, and secure way.</p>\n<p>The position is a mix of software engineering and devops; a lot of the time, we are writing software to improve our compute infrastructure. But there is a substantial amount of troubleshooting and analysis to understand the real problems we face as we scale, and our customer\u00e2\u0080\u0099s workloads change.</p>\n<p><strong>What you\u00e2\u0080\u0099ll do:</strong></p>\n<ul>\n<li>Work collaboratively with a team of software engineers and systems engineers to create and maintain the foundational platform for running Reddit\u00e2\u0080\u0099s infrastructure.</li>\n<li>Design, write, and deliver software to improve the availability, scalability, latency, and efficiency of Reddit\u00e2\u0080\u0099s products in Go and sometimes Python.</li>\n<li>Guide and contr",
-    "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
-    "source": "RemoteOK",
-    "posted_at": "2026-11-21T04:40:06+00:00",
-    "tags": [
-      "devops"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Werkstudent:in Bioinformatik - Mikrobiom",
-    "company": "Spira Labs GmbH",
-    "location": "Munich",
-    "description": "<h2>\u00dcber die Position</h2><p>Als Werkstudent:in entwickelst du die bioinformatische Auswertung f\u00fcr ein Mikrobiom-Unternehmen, das wir gerade aufbauen. Du arbeitest eng mit unserem wissenschaftlichen und technischen Team zusammen und \u00fcberf\u00fchrst metagenomische Methoden in reproduzierbare Analysen, die wir im Produkt einsetzen k\u00f6nnen. Deine Arbeit tr\u00e4gt direkt dazu bei, wie verl\u00e4sslich wir Mikrobiomdaten auswerten und wie gut sich die Ergebnisse nachvollziehen lassen.</p><h2>Deine Aufgaben</h2><ul><li><p>Metagenomische Sequenzierungsdaten auswerten, von der Qualit\u00e4tskontrolle bis zur taxonomischen und funktionellen Profilierung.</p></li><li><p>Analysewerkzeuge und Referenzdatenbanken vergleichen und gemeinsam mit dem Team entscheiden, welche Methoden f\u00fcr unsere Fragestellungen geeignet sind.</p></li><li><p>Bioinformatische Pipelines implementieren, testen und dokumentieren, damit sie sich mit neuen Datens\u00e4tzen zuverl\u00e4ssig ausf\u00fchren lassen.</p></li><li><p>Analyseergebnisse gemeinsam mit dem wissenschaftlichen Team einordnen und methodische Grenzen sichtbar machen.</p></li></ul><h2>Dein Profil</h2><ul><li><p>Du bist in einem Masterstudiengang in Bioinformatik, Computational Biology oder einem verwandten Fach eingeschrieben.</p></li><li><p>Du hast bereits selbst metagenomische Sequenzierungsdaten ausgewertet, zum Beispiel in einem Forschungsprojekt, einer Abschlussarbeit oder einem Praktikum. Erfahrung mit Shotgun-Metagenomik ist besonders relevant.</p></li><li><p>Du arbeitest sicher mit Linux und der Kommandozeile und setzt bioinformatische Analysen in Python um.</p></li><li><p>Du kannst erkl\u00e4ren, warum du eine Analysemethode gew\u00e4hlt hast, wie du ihre Ergebnisse \u00fcberpr\u00fcfst und wo ihre Grenzen liegen.</p></li><li><p>Du verf\u00fcgst \u00fcber sehr gute Englischkenntnisse in Wort und Schrift und kannst technische und wissenschaftliche Themen auf Englisch besprechen und dokumentieren.</p></li><li><p>Erfahrung mit Workflow-Tools wie Nextflow oder Snakemake sowie mit dem Betrieb von An",
-    "url": "https://www.arbeitnow.com/jobs/companies/spira-labs-gmbh/werkstudentin-bioinformatik-mikrobiom-munich-228774",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-25T15:30:58+00:00",
+    "posted_at": "2026-11-26T09:01:14+00:00",
     "tags": [
       "Data Scientist"
     ],
@@ -135,31 +87,15 @@
     ]
   },
   {
-    "title": "Werkstudent:in Software & KI",
-    "company": "Spira Labs GmbH",
-    "location": "Munich",
-    "description": "<h2>\u00dcber die Position</h2><p>Als Werkstudent:in entwickelst du zentrale Softwarekomponenten f\u00fcr ein Unternehmen, das wir gerade aufbauen. Du arbeitest eng mit unserem wissenschaftlichen Team zusammen und \u00fcbersetzt fachliche Methoden in verl\u00e4ssliche Software. Dabei gestaltest du mit, wie wir Daten verarbeiten, Analysen durchf\u00fchren und KI dort einsetzen, wo sie fachlich einen Mehrwert liefert.</p><p>Du begleitest deine L\u00f6sungen von der ersten Umsetzung bis in den produktiven Betrieb. Deine Arbeit beeinflusst direkt, wie zuverl\u00e4ssig und nachvollziehbar die Ergebnisse unseres Produkts sind.</p><h2>Deine Aufgaben</h2><ul><li>Wissenschaftliche Anforderungen gemeinsam mit dem Team konkretisieren und in Datenpipelines, Analyse-Workflows und APIs umsetzen.</li><li>KI-Anwendungen entwickeln, geeignete Modelle und Werkzeuge ausw\u00e4hlen und ihre Ergebnisse systematisch evaluieren.</li><li>Software produktionsreif machen und betreiben. Dazu geh\u00f6ren automatisierte Tests, ein sauberer Umgang mit Fehlerf\u00e4llen und Monitoring.</li><li>Technische Entscheidungen mitgestalten, damit wir die Software mit neuen Daten und Methoden zuverl\u00e4ssig weiterentwickeln k\u00f6nnen.</li></ul><h2>Dein Profil</h2><ul><li>Du studierst Informatik, Data Science, Bioinformatik oder ein vergleichbares Fach und programmierst sicher in Python und dem terminal.</li><li>Du hast bereits eine KI-Anwendung selbst umgesetzt und kannst erkl\u00e4ren, wie du ihre Ergebnisse gepr\u00fcft, Fehlerf\u00e4lle behandelt und die Anwendung f\u00fcr den Einsatz vorbereitet hast.</li><li>Du verf\u00fcgst \u00fcber sehr gute Englischkenntnisse in Wort und Schrift und kannst technische und wissenschaftliche Themen auf Englisch besprechen und dokumentieren.</li><li>Du m\u00f6chtest Verantwortung daf\u00fcr \u00fcbernehmen, dass deine L\u00f6sungen im laufenden Betrieb zuverl\u00e4ssig funktionieren und f\u00fcr andere wartbar bleiben.</li><li>Du arbeitest gerne mit Menschen aus anderen Fachgebieten zusammen und fragst nach, bis du die wissenschaftlichen Anforderungen verstanden hast.</li></ul><p",
-    "url": "https://www.arbeitnow.com/jobs/companies/spira-labs-gmbh/werkstudentin-software-ki-munich-376529",
+    "title": "Platform Engineering Internship - Observability",
+    "company": "Tomtom",
+    "location": "Amsterdam, The Netherlands",
+    "description": "<div>\n<p data-pm-slice=\"1 1 []\">The Observability Platform team is responsible for managing the capabilities that help identifying the issues within TomTom\u2019s online products and ensure they are timely fixed to enable best customer experience. We drive improving the operational quality and effectiveness of the service and aim to enable self-service for our users by system engineering and software development.&nbsp;&nbsp;<br><br>The position is targeted towards last-year students with a potential to become a full-time employee over the course of 6-12 months.</p>\n</div><br><strong>What you\u2019ll do:\u00a0</strong><br><div>\n<p data-pm-slice=\"1 3 []\">As a Platform Engineer you will work on addressing reliability, availability, scalability, efficiency for your team\u2019s components and help the rest of the company benefit from them.&nbsp;</p>\n\n<li>\n<p>You will manage existing Observability tools and help internal customers master them.&nbsp;</p>\n</li>\n\n\n<li>\n<p>You will learn by example about the architecture, design, standards, and implementation of new and existing systems to enhance their functionality, reliability, efficiency and scalability with a moderate level of autonomy.&nbsp;</p>\n</li>\n\n\n<li>\n<p>You will learn to scale systems and increase their reliability in a diverse environment ensuring the mission critical systems meet 99.95% SLOs.&nbsp;</p>\n</li>\n\n\n<li>\n<p>You will support navigation tooling in the world.&nbsp;</p>\n</li>\n\n</div><br><strong>What you\u2019ll need:\u00a0</strong><br><div>\n\n<li>\n<p>Experience with modern coding/infrastructure related languages such as Python.&nbsp;</p>\n</li>\n\n\n<li>\n<p>Systems engineering fundamentals understanding: Linux, containers, networking (TCP/IP, DNS, TLS), distributed systems basics&nbsp;</p>\n</li>\n\n\n<li>\n<p>Non-production experience with Cloud-native technologies like Kubernetes and/or other CNCF and/or Observability-related tools.&nbsp;</p>\n</li>\n\n\n<li>\n<p>Theoretical high-level understanding what SRE/Platform/Infrastructure/DevOps teams/",
+    "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/platform-engineering-internship-observability-amsterdam-the-netherlands-61393",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-25T15:30:58+00:00",
+    "posted_at": "2026-11-26T03:26:53+00:00",
     "tags": [
-      "Data Scientist"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Werkstudent*in Bereich Netzanschluss Wind-, PV-, BESS-Projekte (w/m/d)",
-    "company": "renerco plan consult GmbH",
-    "location": "Munich",
-    "description": "<strong>renerco plan consult</strong> gestaltet die Energiewende aktiv mit. In den Bereichen Windenergie, Photovoltaik, Netzanschluss und Sektorkopplung. Deutschlandweit und in Europa.<br><br>Unser stetiger Anspruch ist es, unseren Kunden in Planung und Beratung L\u00f6sungen in h\u00f6chster Qualit\u00e4t zu liefern. Nachhaltig, effizient, vertrauensvoll.<br><br>Wir sind Teil der Natural-Power-Gruppe, einem internationalen Ingenieursdienstleister im Bereich der Erneuerbaren Energien mit weiteren Niederlassungen in UK, Irland, Frankreich, Italien und den USA.<br><br><strong>\u00dcber diese Position</strong><br><br>Zur Unterst\u00fctzung unseres Teams im Bereich Netzanschluss<strong> </strong>suchen wir f\u00fcr eine langfristige Zusammenarbeit einen engagierte*n Werkstudent*in (16-20 Wochenstunden), dem die Energiewende ein echtes Anliegen ist.<br><br><strong>Deine Aufgaben</strong><br><br><ul><br><li>Bearbeitung von Netzanschlussanfragen f\u00fcr PV-, Wind- und Speicheranlagen</li><li>Aufbereitung und Import von Netzdaten sowie deren Modellierung in PowerFactory</li><li>Erstellung und Bearbeitung von Schaltpl\u00e4nen mit AutoCAD</li><li>Aufbereitung von Daten und Erstellung detailreicher Karten mithilfe von QGIS</li><li>Unterst\u00fctzung des Teams bei vielf\u00e4ltigen Themen rund um den Netzanschluss</li><li>Mitwirkung bei der Angebotserstellung und administrativen Prozessen</li></ul><br><br><strong>Dein Profil</strong><br><br><ul><br><li>Laufende Immatrikulation im Studium der Elektrotechnik, idealerweise mit Schwerpunkt Elektrische Energietechnik, Erneuerbare Energien (mit Fokus Elektrotechnik) oder vergleichbar</li><li>Idealerweise fortgeschrittenes Bachelorstudium oder Beginn des Masterstudiums. Alternativ eine abgeschlossene Berufsausbildung mit praktischer Erfahrung im Bereich Elektrotechnik oder Energietechnik</li><li>Erste Kenntnisse in der Netzmodellierung, idealerweise mit PowerFactory (DIgSILENT), sind von Vorteil</li><li>Interesse an der Programmierung sowie idealerweise erste Erfahrungen mit Python",
-    "url": "https://www.arbeitnow.com/jobs/companies/renerco-plan-consult-gmbh/werkstudentin-bereich-netzanschluss-wind-pv-bess-projekte-munich-380388",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-25T14:00:57+00:00",
-    "tags": [
-      "Power Engineering and Environmental Engineering"
+      "PF AI and Engineering Platform"
     ],
     "match_score": 2,
     "matched_skills": [
