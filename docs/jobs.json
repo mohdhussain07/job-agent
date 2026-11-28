@@ -19,6 +19,60 @@
     ]
   },
   {
+    "title": "Senior Software Developer",
+    "company": "Loopio Inc.",
+    "location": "Toronto",
+    "description": "<h1><strong>Take your career to new heights with Loopio! \u00f0\u009f\u009a\u0080\u00e2\u009c\u00a8</strong></h1><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">Loopio is a workplace that unleashes learning &amp; growth opportunities for our Loopers. We provide autonomous, challenging work that allows each employee to master their craft. We attract and retain people who are naturally curious, have grit and are eager to grow and build their careers. At Loopio, we genuinely support each other, because true success comes from working as #oneteam.</p><p style=\"min-height:1.5em\">Loopio is on the hunt for a <strong>Senior Software Developer </strong>with an AI engineering background who thrives on solving complex problems and is driven by curiosity. If you have taken LLM-based systems from idea to production and want your work to help leading organizations respond to RFPs faster and with more confidence, this is the role for you.</p><p style=\"min-height:1.5em\">You\u00e2\u0080\u0099ll join a team of Engineers, ML practitioners, Product Managers, and Designers to design and ship AI-powered features, from agentic workflows that reason over long and messy documents to the evaluation and monitoring that keep them reliable in production. At Loopio, we value clean code, evidence-driven decisions, continuous improvement, and knowledge sharing. From shaping technical direction to mentoring teammates, you\u00e2\u0080\u0099ll play a key role in scaling our systems and evolving our product.</p><p style=\"min-height:1.5em\">We\u00e2\u0080\u0099re deeply collaborative. Whether it\u00e2\u0080\u0099s pair programming, technical design reviews, error-analysis sessions, or whiteboarding ideas, we believe the best solutions are built together. If you\u00e2\u0080\u0099re excited by owning problems from zero, letting evidence drive your decisions, and leaving things better than you found them, let\u00e2\u0080\u0099s build the future together.<br /><br /><em>Note: This is an existing vacancy on the team</em></p><p style=\"min-height:1.5em\"></p><h2><strong>What You\u00e2\u0080\u0099ll Be Doing:</strong></h2><ul style=\"min-",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-loopio-inc-1138202",
+    "source": "RemoteOK",
+    "posted_at": "2026-11-27T00:00:03+00:00",
+    "tags": [
+      "dev",
+      "design",
+      "amazon",
+      "react",
+      "hr",
+      "python",
+      "education",
+      "docker",
+      "technical",
+      "customer support",
+      "transcribing",
+      "testing",
+      "marketing",
+      "web dev",
+      "exec",
+      "virtual assistant",
+      "javascript",
+      "elasticsearch",
+      "java",
+      "serverless",
+      "cloud",
+      "php",
+      "sql",
+      "typescript",
+      "node",
+      "ads",
+      "api",
+      "content writing",
+      "senior",
+      "ops",
+      "legal",
+      "medical",
+      "engineer",
+      "recruiter",
+      "backend",
+      "digital nomad"
+    ],
+    "match_score": 5,
+    "matched_skills": [
+      "Python",
+      "JavaScript",
+      "React",
+      "SQL"
+    ]
+  },
+  {
     "title": "Content Engineer, Developer Documentation",
     "company": "LiveKit",
     "location": "US Only",
@@ -36,64 +90,30 @@
     ]
   },
   {
-    "title": "Data Engineer",
-    "company": "Coopers Group AG",
-    "location": "Z\u00fcrich",
-    "description": "<p>................</p><p>F\u00fcr unseren Kunden in Z\u00fcrich, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n <strong>Data Engineer - Python / PySpark.</strong></p><p><strong>Deine Aufgaben:</strong></p><ul><li>Integration und Anbindung verschiedener Quellsysteme an die zentrale Azure Cloud-Datenplattform</li><li>Entwicklung und Optimierung skalierbarer Datenpipelines mit Python und PySpark</li><li>Aufbau und Weiterentwicklung von Data Products auf Basis integrierter und standardisierter Daten</li><li>Durchf\u00fchrung von Datenmodellierung, Datentransformation und Datenverarbeitung zur Sicherstellung einer hohen Datenqualit\u00e4t</li><li>Bereitstellung strukturierter und zuverl\u00e4ssiger Datengrundlagen f\u00fcr Power BI Dashboards und Self-Service-Reporting</li><li>Zusammenarbeit mit verschiedenen Fachbereichen wie Operations, Retail, Finance und Real Estate zur Umsetzung datengetriebener Anforderungen</li></ul><p> </p><p><strong>Dein Profil:</strong></p><ul><li>Mehrj\u00e4hrige Erfahrung im Data Engineering, insbesondere in der Entwicklung und Verarbeitung komplexer Datenpipelines</li><li><strong>Fundierte Kenntnisse in Python und PySpark</strong></li><li>Erfahrung in der Integration heterogener Datenquellen sowie in der Datenmodellierung und Datentransformation</li><li>Gute Kenntnisse im Aufbau und in der Bereitstellung strukturierter Data Products</li><li>Erfahrung mit Microsoft Azure Cloud und Databricks von Vorteil</li><li>Verst\u00e4ndnis f\u00fcr moderne Datenarchitekturen, Data Warehousing und Analytics-Plattformen</li><li>Analytische, strukturierte und selbstst\u00e4ndige Arbeitsweise sowie ausgepr\u00e4gte Probleml\u00f6sungskompetenz</li><li>Teamf\u00e4higkeit und Freude an der Zusammenarbeit mit technischen und fachlichen Stakeholdern</li><li>Fliessende Deutsch- und Englischkenntnisse</li></ul><p>Find more <a href=\"https://www.arbeitnow.ch/english-speaking-jobs\">English Speaking Jobs in Switzerland</a> on Arbeitnow</a>",
-    "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/data-engineer-zurich-454143",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-26T15:30:48+00:00",
-    "tags": [
-      "Data Processing",
-      "Data Engineer"
-    ],
-    "match_score": 3,
-    "matched_skills": [
-      "Python",
-      "Azure"
-    ]
-  },
-  {
-    "title": "Automotive Data Engineer / Vehicle Data Engineer (m/w/d)",
-    "company": "GreenTech Hub GmbH",
-    "location": "Memmingen",
-    "description": "<p>Reisacher Software Team @ GreenTech Hub</p><p>Memmingen | Vollzeit | ab sofort | Verg\u00fctung nach Erfahrung und Verantwortungsumfang</p><p>Arbeitgeber: Reisacher</p><p>Recruiting: GreenTech Hub im Auftrag von Reisacher</p><p>Aus Fahrzeugdaten belastbare Informationen machen.</p><p>Moderne Fahrzeuge liefern gro\u00dfe Mengen technischer Daten. Die spannende Aufgabe beginnt dort, wo diese Daten noch keine fertigen Antworten liefern.</p><p>F\u00fcr das Reisacher Software Team suchen wir einen Automotive Data Engineer, der Fahrzeug- und Telematikdaten erschlie\u00dft, unterschiedliche Datenquellen verbindet und daraus robuste Datenservices und neue digitale Anwendungen entwickelt.</p><p>Du bist bei Reisacher angestellt und arbeitest als Teil des Reisacher Software Teams im GreenTech Hub in Memmingen \u2013 eingebettet in ein Umfeld aus Software, Startups, KI, GreenTech und neuen Gesch\u00e4ftsmodellen.</p><h2>Deine Mission</h2><ul><li><p>Fahrzeug- und Telematikdaten verschiedener Hersteller \u00fcber APIs, Streams und weitere technische Schnittstellen erschlie\u00dfen</p></li><li><p>Daten mit Python automatisiert aufbereiten, normalisieren, analysieren und validieren</p></li><li><p>technische Events in Zeitreihen und Datenstreams erkennen</p></li><li><p>unterschiedliche Datenquellen anhand von Zeit, Ort und Fahrzeugzust\u00e4nden zusammenf\u00fchren</p></li><li><p>OEM-spezifische Datenmodelle in gemeinsame, nachvollziehbare Datenstrukturen \u00fcberf\u00fchren</p></li><li><p>Datenqualit\u00e4t, Aktualit\u00e4t und Plausibilit\u00e4t bewerten</p></li><li><p>robuste Logiken f\u00fcr fehlende, versp\u00e4tete oder mehrdeutige Daten entwickeln</p></li><li><p>Prototypen in stabile, testbare und produktiv nutzbare Datenservices \u00fcberf\u00fchren</p></li><li><p>Schnittstellen zu bestehenden Anwendungen und Backend-Systemen entwickeln und integrieren</p></li><li><p>bei Bedarf tiefer in Fahrzeugkommunikation und technische Signale einsteigen</p></li></ul><h2>Das solltest du mitbringen</h2><h2>Kernkompetenzen</h2><ul><li><p>sehr gute praktische Kenntnisse in Pytho",
-    "url": "https://www.arbeitnow.com/jobs/companies/greentech-hub-gmbh/automotive-data-engineer-vehicle-data-engineer-memmingen-214777",
-    "source": "Arbeitnow",
-    "posted_at": "2026-11-27T13:31:36+00:00",
-    "tags": [
-      "Data Processing",
-      "Data Engineer"
-    ],
-    "match_score": 2,
-    "matched_skills": [
-      "Python"
-    ]
-  },
-  {
-    "title": "Working Student - Robot Learning",
-    "company": "RoboService GmbH",
+    "title": "BI Development (m/w/d) mit Schwerpunkt KI-Enablement",
+    "company": "EXTERNUM UG (haftungsbeschr\u00e4nkt)",
     "location": "Berlin",
-    "description": "<p>Berlin (on-site/hybrid) \u00b7 Start: January 2027 \u00b7 6 - 12 months</p><h2>About RoboService GmbH</h2><p>RoboService GmbH works at the frontier of robotics. We bring humanoid robots from the lab to manufacturing and logistics companies, where they work real shifts. We program robotics applications and build a platform that enables companies to teach robots new tasks on their own.</p><h2>What we offer</h2><p>You will work with the latest robot learning policies in robotics. Your work focuses on architectures that enable to use robot learning policies across different embodiments, use cases and model compositions.</p><h2>Your first months at RoboService:</h2><ul><li>You will setup and maintain simulation environments and benchmarks.</li><li>You will bring different VLA policies, VLM and WAM into one unified runtime.</li><li>You experiment with different model compositions and architectures.</li><li>You study how performance differs across different observation and embodiment compositions.</li><li>You will work with our powerful GPU workstations and in the cloud</li></ul><h2>What you bring</h2><ul><li>You are enrolled or just finished your Master\u2019s or PhD programme in Robotics, Machine Learning, Computer Science or related field.</li><li>Hands-on experience with imitation learning or VLA models, shown in a thesis, a paper, a lab project or other work. Examples: openpi, OpenVLA, LeRobot, Octo, diffusion or flow-matching policies</li><li>Strong in Python and PyThorch, You have trained or fine-tuned a model on a GPU yourself and debugged the run.</li><li>Experience with at least one robot simulation or benchmark: LIBERO, robosuite, RoboCasa, MuJoCo, ManiSkill or Isaac Sim.</li></ul><h2>Benefits and Payment</h2><ul><li>Team of experts: You work with engineers who train and deploy VLA models on industrial tasks</li><li>Berlin based: we are an in-person team in downtown Berlin.</li><li>Compensation: 17\u20ac / h</li><li>Thesis option: Write your thesis about one of our research subj",
-    "url": "https://www.arbeitnow.com/jobs/companies/roboservice-gmbh/working-student-robot-learning-berlin-474717",
+    "description": "<h2>WIR SUCHEN DICH</h2><p>Als externes Personalberatungsunternehmen suchen wir im Auftrag des renommierten Sicherheitsdienstleisters \u2013 <strong>W.I.S. Sicherheit + Service</strong> \u2013 eine(n) zuverl\u00e4ssige(n) <strong>Mitarbeiter*in (m/w/d) BI Development mit Schwerpunkt KI-Enablement f\u00fcr das zentrale Reporting.</strong></p><h2>DEIN NEUER ARBEITSPLATZ</h2><p>Die <strong>W.I.S. Sicherheit + Service</strong> bietet seit vielen Jahren zuverl\u00e4ssige und hochwertige Sicherheits- und Servicedienstleistungen in Deutschland und schafft dabei ein stabiles, wertsch\u00e4tzendes und zukunftssicheres Arbeitsumfeld. Mitarbeitende aus \u00fcber 70 Nationen tragen gemeinsam zum Unternehmenserfolg bei und f\u00f6rdern ein starkes, multikulturelles Miteinander. Im Tagesgesch\u00e4ft entstehen viele Daten zu Personal, Eins\u00e4tzen und Finanzen, die zentral in Qlik Sense ausgewertet werden. Du arbeitest eng mit dem BI-Manager und IT-Leiter zusammen und \u00fcbernimmst von Anfang an eigene Themen. Die Entscheidungswege sind kurz, und gute Ideen werden umgesetzt. KI setzt die <strong>W.I.S.</strong> dort ein, wo sie im Arbeitsalltag hilft. Dich erwartet ein sicherer und zukunftsweisender Arbeitsplatz in menschlich angenehmer Atmosph\u00e4re</p><h2>DEINE AUFGABEN</h2><ul><li><p><strong>Entwicklung und Pflege unserer Qlik Sense Apps</strong> und Datenmodelle</p></li><li><p><strong>Aufbau der Datenfl\u00fcsse aus MSSQL</strong> und den Fachsystemen ins Reporting</p></li><li><p>Gespr\u00e4che mit den Fachbereichen und <strong>Identifikation von KI-Potenzialen</strong></p></li><li><p>Entwicklung von Piloten gemeinsam mit der IT-Leitung und externen Beratern</p></li><li><p>Rollout erfolgreicher Piloten und Begleitung der Anwender im Alltag</p></li></ul><h2>DEINE QUALIFIKATION</h2><ul><li><p><strong>Studium oder Ausbildung im IT- oder Datenumfeld</strong> zwingend erforderlich</p></li><li><p><strong>Erfahrung mit einem BI-Tool</strong> (bspw. Qlik Sense, Power BI) w\u00fcnschenswert</p></li><li><p><strong>Sicherer Umgang mit SQL (bspw. MSSQL)</",
+    "url": "https://www.arbeitnow.com/jobs/companies/externum-ug-haftungsbeschrankt/bi-development-mit-schwerpunkt-ki-enablement-berlin-307907",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-27T11:30:57+00:00",
+    "posted_at": "2026-11-28T10:30:51+00:00",
     "tags": [
-      "Data Scientist"
+      "Remote",
+      "Business Intelligence"
     ],
     "match_score": 2,
     "matched_skills": [
-      "Python"
+      "SQL"
     ]
   },
   {
-    "title": "Applied Machine Learning Engineer, EMEA",
-    "company": "Fireworks",
-    "location": "London",
-    "description": "<h2><strong>About Us:</strong></h2><p style=\"min-height:1.5em\">Fireworks is the platform for specialized intelligence, enabling companies to build, train, and serve AI models tailored to their own data, workflows, and products. Founded by the team behind PyTorch and backed by AMD, Atreides, Benchmark Capital, Index Ventures, Lightspeed, NVIDIA, Sequoia Capital, and TCV, Fireworks powers production AI with hundreds of state-of-the-art open models across text, image, embedding, audio, and multimodal workloads. Today, Fireworks is a Series D company valued at $17.5 billion, bringing together an ambitious, collaborative team that's building the future of enterprise AI.</p><h2><strong>The Role:</strong></h2><p style=\"min-height:1.5em\">As an Applied Machine Learning Engineer, you are the technical owner of a customer engagement. This is what is globally known as the Forward Deployed Engineer role; at Fireworks in EMEA it carries the AMLE title. You embed with a small number of accounts, work in their environment, and own whatever stands between them and production on Fireworks: the model, the serving path, the integration, the performance. You scope the work before signature and deliver what you scoped. Depth over breadth: few accounts, owned end to end.</p><p style=\"min-height:1.5em\">What we value most is first principles thinking: reasoning about unfamiliar problems from the ground up rather than from playbooks. You will be evaluated on this directly in the interview process, and strength here can outweigh gaps elsewhere in your background.</p><p style=\"min-height:1.5em\"></p><h2><strong>Four Spikes:</strong></h2><ol style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Software engineering.</strong> You ship production systems and are comfortable dropped into an unfamiliar codebase or a customer environment with a deadline. Backend and systems depth, strong Python plus at least one systems language, and fluency with AI-assisted and agentic engineering as a co",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/fireworks/applied-machine-learning-engineer-emea-london-219855",
+    "title": "Forward Deployed Engineer",
+    "company": "Auterion",
+    "location": "Munich",
+    "description": "&lt;p&gt;As a Forward Deployed Engineer at Auterion, you will build software that runs on real drones. You will take Auterion\u2019s platform into a specific customer program and make it work on their hardware, for their mission, in the field.&lt;/p&gt;\n&lt;p&gt;This is a software engineering role. You will design, write, integrate and debug C++ and Python code on a Linux-based autonomy stack, working with AuterionOS, our operating system for autonomous vehicles, and Skynode, our flight and mission computer running PX4 and AuterionOS. Your work will span autonomy, computer vision, video streaming and long-range radio links, on partner platforms across aerial, maritime and ground vehicles. What sets this role apart is that your work isn\u2019t finished when the code is merged; it\u2019s finished when the system flies.&lt;/p&gt;\n&lt;p&gt;You will join a forward deployed team dedicated to a single customer program, which owns the outcome from first requirement to deployed system. You will work directly with partners and customers, as well as with Auterion\u2019s core platform, hardware and flight test teams. Between trips, you will work from our Munich office, both at your desk and on the bench.&lt;/p&gt;\n&lt;p&gt;No drone experience is required. If you have integrated software on cars, robots, industrial machines or other embedded systems, you already have the right foundation, and we will teach you the drone side.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities and Duties&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and implement software for customer programs on AuterionOS and Skynode, including features, integrations, payload and sensor drivers, and tooling.&lt;/li&gt;\n&lt;li&gt;Bring up complete systems on real hardware, including compute, sensors, payloads and radios, and get them working end to end.&lt;/li&gt;\n&lt;li&gt;Debug across the full stack, determining whether an issue stems from software, configuration, hardware or RF, and then resolving it.&lt;/li&gt;\n&lt;li&gt;",
+    "url": "https://www.arbeitnow.com/jobs/companies/auterion/forward-deployed-engineer-munich-241073",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-27T12:40:15+00:00",
+    "posted_at": "2026-11-28T06:55:16+00:00",
     "tags": [
       "Engineering"
     ],
@@ -103,36 +123,83 @@
     ]
   },
   {
-    "title": "Software Test Engineer",
-    "company": "SwissPeak Partners GmbH",
-    "location": "Remote job",
-    "description": "<p style=\"text-align:start;\">Wir rekrutieren einen Software Test Engineer (m/w/d) f\u00fcr ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt.</p><p style=\"text-align:start;\">Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualit\u00e4tsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt \u00fcberwiegend auf manuellem Testing, mit der M\u00f6glichkeit, sp\u00e4ter in die Automatisierung hineinzuwachsen.</p><p style=\"min-height: 1.7em;\"></p><p style=\"text-align:start;\"><strong>Must-have Anforderungen</strong></p><ul><li><p>Mehrj\u00e4hrige Erfahrung im Software-Testing in agilen Umgebungen, sicher im Testfalldesign und in der Erstellung von Testkonzepten</p></li><li><p>Erfahrung mit Azure DevOps (Boards, Test Plans) oder Jira Xray</p></li><li><p>Erfahrung im Testing konfigurierter Business-Plattformen, idealerweise Dynamics 365 (CE/CRM) oder Power Platform</p></li><li><p>Sehr gutes Deutsch und fliessendes Englisch</p><p style=\"min-height: 1.7em;\"></p></li></ul><p style=\"text-align:start;\"><strong>Nice-to-have Anforderungen</strong></p><ul><li><p>ISTQB Zertifizierung</p></li><li><p>Kenntnisse in Power Platform oder Azure</p><p style=\"min-height: 1.7em;\"></p></li></ul><p style=\"text-align:start;\"><strong>Das erwartet dich</strong></p><ul><li><p>Flexibler Homeoffice-Anteil, du entscheidest frei, ob du von zu Hause oder im B\u00fcro arbeitest</p></li><li><p>Flache Hierarchien</p></li><li><p>Grossz\u00fcgige Weiterbildungsf\u00f6rderung</p></li><li><p>Halbtax, Gesundheitsangebote, gemeinsame Anl\u00e4sse</p><p style=\"min-height: 1.7em;\"></p></li></ul><p style=\"text-align:start;\">Interessiert an weiteren Informationen? Melde dich gerne unter <a rel=\"noopener\" target=\"_blank\" ---------- oder bewirb dich direkt!</p><p style=\"min-height: 1.7em;\"></p> <br> <p>Find",
-    "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-365909",
+    "title": "Web Frontend Developer (all genders) DE",
+    "company": "BSI Software",
+    "location": "Hamburg, Hamburg, Deutschland",
+    "description": "<p><span style=\"color:#282322\">Alle reden von Digitalisierung \u2013 Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung zu begleiten, ist unsere Leidenschaft. Wir lieben modernste Technologie, Handwerk und Innovation. Du auch? Dann bist du bei BSI goldrichtig!</span></p><p style=\"min-height: 1.7em;\"></p><p><br><strong>Standort</strong> <strong><span style=\"color:#282322\">Hamburg 100 % Pensum</span></strong></p> <br> <h4><strong>Deine Aufgaben</strong></h4><ul><li><p>Du wirkst ma\u00dfgeblich bei der Entwicklung unserer komponentenbasierten Libraries und Templates f\u00fcr Web &amp; E-Mail mit</p></li><li><p>Du unterst\u00fctzt mit deiner offenen &amp; freundlichen Art unsere BSI Teams sowie Partner und Kunden bei der Nutzung und Individualisierung von Web-Komponenten</p></li><li><p>Du setzt kundenspezifische Anpassungen im Bereich Marketing Automation und Kundenportalen eigenst\u00e4ndig um</p></li></ul><p style=\"min-height: 1.7em;\"></p><h4><strong>Wir suchen Macher</strong></h4><ul><li><p>Du hast einen abgeschlossenen Hochschulabschluss im Bereich Informatik, Medieninformatik oder verwandten F\u00e4chern</p></li><li><p>Erste relevante Berufserfahrung in passendem Umfeld (idealerweise 2-3 Jahre) Erfahrung in der Umsetzung von Frontends mit HTML, CSS, JavaScript, NPM, Webpack o.\u00e4.</p></li><li><p>Flair f\u00fcr visuelle Gestaltung und Ergonomie</p></li><li><p>Initiative,&nbsp;Kreativit\u00e4t,&nbsp;Teamgeist,&nbsp;Verantwortung,&nbsp;analytisches&nbsp;Denken</p></li><li><p>Erfahrung im Bereich Tracking, Analytics, Suchmaschinenoptimierung und Java von Vorteil</p></li><li><p>Sehr gute Deutsch- und gute Englischkenntnisse</p><p style=\"min-height: 1.7em;\"></p></li></ul><h4><strong>Starke Gr\u00fcnde f\u00fcr BSI</strong></h4><ul><li><p>Unternehmerische Gestaltungs- und Beteiligungsm\u00f6glichkeiten in wertsch\u00e4t",
+    "url": "https://www.arbeitnow.com/jobs/companies/bsi-software/web-frontend-developer-all-genders-de-hamburg-44672",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-27T00:31:33+00:00",
+    "posted_at": "2026-11-28T00:31:33+00:00",
     "tags": [
-      "Software Engineering",
-      "Remote"
+      "Produkt Entwicklung"
     ],
     "match_score": 2,
     "matched_skills": [
-      "Azure"
+      "JavaScript"
     ]
   },
   {
-    "title": "Platform Engineering Internship - Observability",
-    "company": "Tomtom",
-    "location": "Amsterdam, The Netherlands",
-    "description": "<div>\n<p data-pm-slice=\"1 1 []\">The Observability Platform team is responsible for managing the capabilities that help identifying the issues within TomTom\u2019s online products and ensure they are timely fixed to enable best customer experience. We drive improving the operational quality and effectiveness of the service and aim to enable self-service for our users by system engineering and software development.&nbsp;&nbsp;<br><br>The position is targeted towards last-year students with a potential to become a full-time employee over the course of 6-12 months.</p>\n</div><br><strong>What you\u2019ll do:\u00a0</strong><br><div>\n<p data-pm-slice=\"1 3 []\">As a Platform Engineer you will work on addressing reliability, availability, scalability, efficiency for your team\u2019s components and help the rest of the company benefit from them.&nbsp;</p>\n\n<li>\n<p>You will manage existing Observability tools and help internal customers master them.&nbsp;</p>\n</li>\n\n\n<li>\n<p>You will learn by example about the architecture, design, standards, and implementation of new and existing systems to enhance their functionality, reliability, efficiency and scalability with a moderate level of autonomy.&nbsp;</p>\n</li>\n\n\n<li>\n<p>You will learn to scale systems and increase their reliability in a diverse environment ensuring the mission critical systems meet 99.95% SLOs.&nbsp;</p>\n</li>\n\n\n<li>\n<p>You will support navigation tooling in the world.&nbsp;</p>\n</li>\n\n</div><br><strong>What you\u2019ll need:\u00a0</strong><br><div>\n\n<li>\n<p>Experience with modern coding/infrastructure related languages such as Python.&nbsp;</p>\n</li>\n\n\n<li>\n<p>Systems engineering fundamentals understanding: Linux, containers, networking (TCP/IP, DNS, TLS), distributed systems basics&nbsp;</p>\n</li>\n\n\n<li>\n<p>Non-production experience with Cloud-native technologies like Kubernetes and/or other CNCF and/or Observability-related tools.&nbsp;</p>\n</li>\n\n\n<li>\n<p>Theoretical high-level understanding what SRE/Platform/Infrastructure/DevOps teams/",
-    "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/platform-engineering-internship-observability-amsterdam-the-netherlands-61393",
+    "title": "Data Scientist Intern - 2027",
+    "company": "Wehrtyou",
+    "location": "London",
+    "description": "&lt;p&gt;Hudson River Trading (HRT) is seeking highly motivated full-time students to join our Data Science Summer Internship Program. Data is a cornerstone of HRT\u2019s trading strategies, serving as the raw fuel that powers research, automated trading, and risk management. While Algorithm Developers focus on statistical modeling and Software Engineers focus on the systems that power our trading, HRT Data Scientists focus on extracting useful information from the vast volume of data available in the world. Data Scientists are responsible for normalizing and validating vendor data, extracting features from quantitative and textual data, applying rigorous quality checks, and investigating methodologies for providing the highest quality data for research and trading.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What to Expect&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;A hands-on introduction to data, modeling, and engineering practices in the algorithmic trading industry&lt;/li&gt;\n&lt;li&gt;Independent data investigation projects in Python using open-source libraries such as pandas and polars&lt;/li&gt;\n&lt;li&gt;Opportunities to learn all about HRT&#39;s research and trading infrastructure, even in areas you may not be working in directly&lt;/li&gt;\n&lt;li&gt;Technical project work and mentorship, with the opportunity to gain a deeper understanding of global financial markets&lt;/li&gt;\n&lt;li&gt;Plenty of opportunities to connect with fellow interns, participate in team events, and explore the unique culture, food, and experiences that make each HRT office location and cities special&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You are a full-time student pursuing a degree in a STEM field \u2014 a computer science background is not required&lt;/li&gt;\n&lt;li&gt;Programming experience with Python at the level of \u201cPython for Data Analysis\u201d by Wes McKinney&lt;/li&gt;\n&lt;li&gt;A curiosity for working with data and finding in",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/data-scientist-intern-2027-london-61925",
     "source": "Arbeitnow",
-    "posted_at": "2026-11-26T03:26:53+00:00",
+    "posted_at": "2026-11-28T12:55:18+00:00",
     "tags": [
-      "PF AI and Engineering Platform"
+      "Data"
     ],
     "match_score": 2,
     "matched_skills": [
       "Python"
+    ]
+  },
+  {
+    "title": "Growth Engineer",
+    "company": "Lovable",
+    "location": "London",
+    "description": "<p style=\"min-height:1.5em\"><strong>TL;DR:</strong> <br />We\u2019re looking for a full-stack engineer obsessed with Lovable\u2019s growth engine - turning first touches into daily habits, and daily habits into a thriving ecosystem and real revenue. One sprint you\u2019re shipping onboarding and activation flows; the next you\u2019re crafting distribution rails and monetization features that help builders reach more users and keep them around. You think in React and APIs, but your first instinct is always: does this make users more successful, more often?</p><p style=\"min-height:1.5em\"><strong>Coding skills + excellent taste + growth instincts + product obsession = you.</strong><br /></p><p style=\"min-height:1.5em\"><strong>Why Lovable?</strong></p><p style=\"min-height:1.5em\">Lovable is the software creation platform that gives people the power to act on the problems closest to them. For decades, turning an idea into software required so much capital, technical fluency, and time that many ideas never came to life. Lovable is the counterargument: a platform for all people with ideas, ambition, and problems worth solving. From solopreneurs to small business owners to teams at companies like Adidas and Zendesk, people have built over 60 million projects on Lovable since its launch in November 2024. And we\u2019re just getting started.</p><p style=\"min-height:1.5em\">We\u2019re building a generational company from Stockholm, with growing teams in London, Boston, New York, and San Francisco. Our team is small, talent-dense, and moving quickly, with a culture rooted in extreme ownership, high velocity, and low-ego collaboration. We look for people who care deeply, ship fast, and are eager to make a dent in the world.</p><p style=\"min-height:1.5em\">Lovable is one of TIME\u2019s 100 Most Influential Companies and has been recognized on the Forbes AI 50 and CNBC Disruptor 50, reflecting our momentum as one of Europe\u2019s fastest-growing AI companies and one of the most ambitious places to build in this next era of",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/growth-engineer-london-414989",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-28T06:40:15+00:00",
+    "tags": [
+      "EPD"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "React"
+    ]
+  },
+  {
+    "title": "Software Engineer (Product) - London",
+    "company": "Teton",
+    "location": "London",
+    "description": "<h2>About Us</h2><p style=\"min-height:1.5em\">Teton is redefining the role of healthcare workers through cutting-edge AI technology and a great product experience. As populations get older and staff shortages grow, healthcare systems are under pressure. Our mission is to decrease the cost of healthcare while improving the quality of care.</p><p style=\"min-height:1.5em\">Our product enables care teams to intervene, prevent and operate more efficiently. Our ambient sensors in resident rooms capture activity, sleep, respiration, gait and more. These signals are used both to react fast to risk events, like falls, and for long-term health analysis that care teams can act on.</p><p style=\"min-height:1.5em\">Teton is scaling fast, operating in the Nordics, UK, DACH and US. We raised a $20M Series A. Expect travel to the US to meet users and team members.</p><p style=\"min-height:1.5em\">We focus relentlessly on product excellence and user experience, deploying solutions at speed that make a tangible difference for carers. We are an aspiring meritocracy biased towards action, always striving to raise the bar. If you are driven by impact, speed and leveling up, this might be the place for you.</p><p style=\"min-height:1.5em\">If you are looking for a 9-17 job, perform best with structure and struggle dealing with unknowns, this is not for you. We believe close collaboration between a hard-working, high-agency team enables the fastest and most efficient iteration cycles, helping us build an impactful product that healthcare professionals truly love to use.</p><p style=\"min-height:1.5em\"></p><h2>The Job</h2><p style=\"min-height:1.5em\">We're looking for a talented and driven Product Engineer to own customer-facing features from the first conversation with a care team to the feature running in production. Care workers rely on our product during every shift and care managers use it to follow up on their residents, on mobile and on the web. This isn't a ticket-taking role. You'll talk to",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/teton/software-engineer-product-london-366174",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-28T06:40:12+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "React"
+    ]
+  },
+  {
+    "title": "Software Engineer (Backend) - London",
+    "company": "Teton",
+    "location": "London",
+    "description": "<h2><strong>About Us</strong></h2><p style=\"min-height:1.5em\">Teton is redefining the role of healthcare workers through cutting-edge AI technology and a great product experience. As populations gets older and a shortage in staff, healthcare system is under pressure. Our missions is to decrease the cost of healthcare while improving the quality of care.</p><p style=\"min-height:1.5em\">Our product enables careteams to intervene, prevent and operator more efficiently. Our ambient sensors in resident rooms captures activity, sleep, respiration, gait and more. These signal used for both react fast to risk events, like falls, and long term health analysis, for care teams to take actions.</p><p style=\"min-height:1.5em\">Teton is scaling fast, operating in Nordics, UK, DACH and US. Recently raised 20M $$ series A. Expect travel to the US, to meet users and team members.</p><p style=\"min-height:1.5em\">We focus relentless on product excellence and user experience, deploying solutions at speed that make a tangible difference for cares. We are an aspiring meritocracy biased towards action, striving to always raise the bar. If you are driven by impact, speed and leveling up, this might be the place for you.</p><p style=\"min-height:1.5em\"><strong>If you are looking for a 9-17 job, perform best with structure and struggle dealing with unknowns, this is not for you.</strong> We believe close collaboration between a hard working, high agency team enables the fastest and most efficient iteration cycles, helping us build an impactful product that healthcare professionals truly love to use.</p><p style=\"min-height:1.5em\"></p><h2><strong>The Job</strong></h2><p style=\"min-height:1.5em\">We are looking for a strong backend engineer to help scale the core infrastructure powering Teton\u2019s platform.</p><p style=\"min-height:1.5em\">Our systems ingest and process continuous streams of real-time data from thousands of deployed edge devices across care facilities. These systems power critical alert",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/teton/software-engineer-backend-london-168314",
+    "source": "Arbeitnow",
+    "posted_at": "2026-11-28T06:40:12+00:00",
+    "tags": [
+      "Engineering"
+    ],
+    "match_score": 2,
+    "matched_skills": [
+      "React"
     ]
   }
 ]
